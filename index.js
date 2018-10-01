@@ -1,4 +1,4 @@
 const War = require('./war.js');
 
 let game = new War();
-console.log(game);
+console.log(game.deck);

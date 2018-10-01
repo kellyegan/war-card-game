@@ -2,32 +2,40 @@
  Hold a game of war (card game)
  */
 function War() {
-	this.deck = new Deck();
+	this.deck = createDeck();
+}
+
+/**
+ Create a deck of cards
+ */
+function createDeck() {
+	let suits = ["Clubs","Diamonds","Hearts","Spades"];
+	let ranks = ["Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten","Jack","Queen","King","Ace"];
+
+	let cards = [];
+	let count = 0;
+
+	suits.forEach((suit) => {
+		ranks.forEach((rank, index) => {
+			cards[count] = new Card( rank + " of " + suit, index);
+			count++;
+		});
+	});
+
+	return new CardPile(cards);
 }
 
 /**
  Object to hold a deck of cards
  */
-function Deck() {
-	let suits = ["Clubs","Diamonds","Hearts","Spades"];
-	let ranks = ["Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten","Jack","Queen","King","Ace"];
-
-	this.cards = [];
-	let count = 0;
-
-	suits.forEach((suit) => {
-		ranks.forEach((rank, index) => {
-			this.cards[count] = new Card( rank + " of " + suit, index);
-			count++;
-		});
-	});
+function CardPile(cards = []) {
+	this.cards = cards;
 }
-
 
 /**
  Shuffle the deck of cards
  */
-Deck.prototype.shuffle = function () {
+CardPile.prototype.shuffle = function () {
 	var m = this.cards.length, t, i;
 
 	while (m) {
@@ -41,7 +49,7 @@ Deck.prototype.shuffle = function () {
   	}
 }
 
-Deck.prototype.deal = function () {
+CardPile.prototype.deal = function () {
 	return this.cards.length > 0 ? this.cards.pop() : null;
 }
 
