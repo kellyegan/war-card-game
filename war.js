@@ -11,6 +11,19 @@ function War( numberOfPlayers = 2 ) {
 }
 
 /**
+ *  Deal card to players
+ */
+War.prototype.deal = function () {
+	let index = 0;
+
+	while( this.deck.hasCards() ) {
+		let card = this.deck.playCard();
+		this.players[index].takeCards([card])
+		index = (index + 1) % this.players.length;
+	}
+}
+
+/**
  *  Object to hold player information
  */
 function Player(name = '') {
