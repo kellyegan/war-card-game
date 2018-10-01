@@ -1,12 +1,12 @@
 /**
- Hold a game of war (card game)
+ *  Hold a game of war (card game)
  */
 function War() {
 	this.deck = createDeck();
 }
 
 /**
- Create a deck of cards
+ *  Creates a deck of cards and return a CardPile
  */
 function createDeck() {
 	let suits = ["Clubs","Diamonds","Hearts","Spades"];
@@ -26,14 +26,14 @@ function createDeck() {
 }
 
 /**
- Object to hold a deck of cards
+ *  Object to hold a deck of cards
  */
 function CardPile(cards = []) {
 	this.cards = cards;
 }
 
 /**
- Shuffle the deck of cards
+ *  Shuffle the deck of cards
  */
 CardPile.prototype.shuffle = function () {
 	var m = this.cards.length, t, i;
@@ -49,12 +49,15 @@ CardPile.prototype.shuffle = function () {
   	}
 }
 
-CardPile.prototype.deal = function () {
+/**
+ *  Play the top card on a pile.
+ */
+CardPile.prototype.playCard = function () {
 	return this.cards.length > 0 ? this.cards.pop() : null;
 }
 
 /**
- Object to hold a single card
+ *  Object to hold a single card
  */
 function Card(name, value) {
 	this.name = name;
