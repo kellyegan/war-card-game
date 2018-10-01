@@ -41,6 +41,10 @@ Deck.prototype.shuffle = function () {
   	}
 }
 
+Deck.prototype.deal = function () {
+	return this.cards.length > 0 ? this.cards.pop() : null;
+}
+
 /**
  Object to hold a single card
  */
