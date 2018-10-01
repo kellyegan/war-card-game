@@ -57,6 +57,13 @@ CardPile.prototype.playCard = function () {
 }
 
 /**
+ *  Add card to bottom the top card on a pile.
+ */
+CardPile.prototype.addCard = function (card) {
+	this.cards.unshift(card);
+}
+
+/**
  *  Object to hold a single card
  */
 function Card(name, value) {
