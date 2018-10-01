@@ -1,8 +1,19 @@
 /**
  *  Hold a game of war (card game)
  */
-function War() {
+function War( numberOfPlayers = 2 ) {
 	this.deck = createDeck();
+	this.players = [];
+
+	for( let i = 0; i < numberOfPlayers; i++) {
+		this.players.push( new Player() );
+	}
+}
+
+function Player(name = '') {
+	this.name = name;
+	this.hand = new CardPile();
+	this.discard = new CardPile();
 }
 
 /**
