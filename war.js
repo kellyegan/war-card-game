@@ -1,7 +1,7 @@
-function Game() {
+function War() {
 
 }
 
-module.exports = Game;
+module.exports = War;
 
 

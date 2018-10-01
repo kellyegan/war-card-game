@@ -1,3 +1,4 @@
-const Game = require('./war.js');
+const War = require('./war.js');
 
-let game = new Game();
+let game = new War();
+console.log(game);
