@@ -10,10 +10,29 @@ function War( numberOfPlayers = 2 ) {
 	}
 }
 
+/**
+ *  Object to hold player information
+ */
 function Player(name = '') {
 	this.name = name;
 	this.hand = new CardPile();
 	this.discard = new CardPile();
+}
+
+/**
+ *  Play a card from players hand. If no card in hand use discard. If nothing in discard, return null.
+ */
+Player.prototype.playCard = function () {
+	if(this.hand.length == 0) {
+		if( this.discard.length > 0) {
+			this.hand = this.discard;  //We could add a shuffle here
+			this.discard = new CardPile();
+		} else {
+			//No cards left!
+			return null;
+		}
+	}
+	return this.hand.pop();
 }
 
 /**
