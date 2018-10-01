@@ -23,8 +23,8 @@ function Player(name = '') {
  *  Play a card from players hand. If no card in hand use discard. If nothing in discard, return null.
  */
 Player.prototype.playCard = function () {
-	if(this.hand.length == 0) {
-		if( this.discard.length > 0) {
+	if( !this.hand.hasCards() ) {
+		if( this.discard.hasCards() ) {
 			this.hand = this.discard;  //We could add a shuffle here
 			this.discard = new CardPile();
 		} else {
@@ -32,7 +32,16 @@ Player.prototype.playCard = function () {
 			return null;
 		}
 	}
-	return this.hand.pop();
+	return this.hand.playCard();
+}
+
+/**
+ *  Add card to players discard pile
+ */
+Player.prototype.takeCards = function (cards) {
+	cards.forEach( (card) => {
+		this.discard.addCard(card);
+	});
 }
 
 /**
@@ -77,6 +86,13 @@ CardPile.prototype.shuffle = function () {
 		this.cards[m] = this.cards[i];
 		this.cards[i] = t;
   	}
+}
+
+/**
+ * Are there any card in the pile?
+ */
+CardPile.prototype.hasCards = function () {
+	return this.cards.length > 0;
 }
 
 /**
