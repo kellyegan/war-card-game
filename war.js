@@ -23,6 +23,24 @@ function Deck() {
 	});
 }
 
+
+/**
+ Shuffle the deck of cards
+ */
+Deck.prototype.shuffle = function () {
+	var m = this.cards.length, t, i;
+
+	while (m) {
+		// Pick a remaining element…
+		i = Math.floor(Math.random() * m--);
+
+		// And swap it with the current element.
+		t = this.cards[m];
+		this.cards[m] = this.cards[i];
+		this.cards[i] = t;
+  	}
+}
+
 /**
  Object to hold a single card
  */
