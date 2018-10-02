@@ -3,6 +3,7 @@
  */
 function War( numberOfPlayers = 2 ) {
 	this.deck = createDeck();
+	this.deck.shuffle();
 	this.players = [];
 
 	for( let i = 0; i < numberOfPlayers; i++) {
@@ -22,6 +23,43 @@ War.prototype.deal = function () {
 		index = (index + 1) % this.players.length;
 	}
 }
+
+War.prototype.playRound = function (playerIndices) {
+	let round = new Round(playerIndices, this.players, []);
+
+	console.log(round);
+}
+
+/**
+ *  Object to hold the results of an individual round
+ */
+function Round( activePlayers, players, prize = [] ) {
+	//Array of indices of active players
+	this.activePlayers = activePlayers;
+
+	//Add the acrtiv
+	this.play = [];
+	this.activePlayers.forEach( (playerIndex) => {
+		this.play.push(players[playerIndex].playCard() );
+	});
+
+	//Add current play to any existing prize
+	this.prize = prize.concat(this.play);
+
+	//Find the max value among players
+	let max = this.play.reduce( (a,b) => {
+		return Math.max(a.value, b.value);
+	});
+
+	//Calculate the winners
+	this.winners = [];
+	this.play.forEach( (card, index) => {
+		if( card.value === max ) {
+			this.winners.push(this.activePlayers[index]);
+		}
+	});
+}
+
 
 /**
  *  Object to hold player information
@@ -48,6 +86,9 @@ Player.prototype.playCard = function () {
 	return this.hand.playCard();
 }
 
+/**
+ *  Check if the player has cards in hand or discard
+ */
 Player.prototype.hasCards = function () {
 	return this.hand.hasCards() || this.discard.hasCards();
 }
