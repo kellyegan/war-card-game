@@ -2,5 +2,6 @@ const War = require('./war.js');
 
 let game = new War();
 game.deal();
-game.playRound([0,1]);
-//console.log(game);
+for(let i = 0; i < 20; i++) {
+	game.playRound();
+}

@@ -5,6 +5,7 @@ function War( numberOfPlayers = 2 ) {
 	this.deck = createDeck();
 	this.deck.shuffle();
 	this.players = [];
+	this.rounds = [];
 
 	for( let i = 0; i < numberOfPlayers; i++) {
 		this.players.push( new Player() );
@@ -24,23 +25,59 @@ War.prototype.deal = function () {
 	}
 }
 
-War.prototype.playRound = function (playerIndices) {
-	let round = new Round(playerIndices, this.players, []);
+/**
+ *  Plays one round of the game.
+ */
+War.prototype.playRound = function () {
+	let activePlayers = [];
+	let prize = [];
 
-	console.log(round);
+	//Check if there was a previous round
+	const lastRound = this.rounds.length > 0 ? this.rounds[this.rounds.length-1] : null;
+
+	//If there was a last round and more than one winner last round (a tie)...
+	if( lastRound && lastRound.winners.length > 1 ) {
+		//...make those winners the activePlayers
+		activePlayers = lastRound.winners.slice();
+		//and add the previous prize to the current round
+		prize = lastRound.prize.slice();
+	} else {
+		//...otherwise include all players with cards left
+		this.players.forEach( (player, index) => {
+			if( player.hasCards() ) {
+				activePlayers.push(index);
+			}
+		});
+	}
+
+	//If there is more than one player left play round
+	if( activePlayers.length > 1 ) {
+		let round = new Round(activePlayers, this.players, prize);
+
+		if( round.winners.length === 1) {
+			//We have a winner
+			const winnerIndex = round.winners[0];
+			this.players[winnerIndex].takeCards(round.prize);
+		}
+		console.log(round)
+		this.rounds.push( round );
+		return true;
+	}
+
+	return false;
 }
 
 /**
  *  Object to hold the results of an individual round
  */
 function Round( activePlayers, players, prize = [] ) {
-	//Array of indices of active players
-	this.activePlayers = activePlayers;
+	//Filter out players with no cards remaining
+	this.activePlayers = activePlayers.filter( playerIndex => players[playerIndex].hasCards() );
 
-	//Add the acrtiv
+	//Add the active players
 	this.play = [];
 	this.activePlayers.forEach( (playerIndex) => {
-		this.play.push(players[playerIndex].playCard() );
+		this.play.push( players[playerIndex].playCard() );
 	});
 
 	//Add current play to any existing prize
@@ -55,7 +92,7 @@ function Round( activePlayers, players, prize = [] ) {
 	this.winners = [];
 	this.play.forEach( (card, index) => {
 		if( card.value === max ) {
-			this.winners.push(this.activePlayers[index]);
+			this.winners.push( this.activePlayers[index] );
 		}
 	});
 }
