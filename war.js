@@ -48,6 +48,10 @@ Player.prototype.playCard = function () {
 	return this.hand.playCard();
 }
 
+Player.prototype.hasCards = function () {
+	return this.hand.hasCards() || this.discard.hasCards();
+}
+
 /**
  *  Add card to players discard pile
  */
@@ -120,6 +124,15 @@ CardPile.prototype.playCard = function () {
  */
 CardPile.prototype.addCard = function (card) {
 	this.cards.unshift(card);
+}
+
+/**
+ *
+ */
+CardPile.prototype.addPile = function (otherPile) {
+	otherPile.cards.forEach( (card) => {
+		this.addCard(card);
+	})
 }
 
 /**
