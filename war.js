@@ -25,6 +25,18 @@ War.prototype.deal = function () {
 	}
 }
 
+War.prototype.play = function () {
+	while( this.playRound() && this.rounds.length < 10000){
+		//Report something?
+		console.log(this.rounds.length)
+		this.players.forEach( (player, index) => {
+			console.log(index + " " + "*".repeat(player.hand.cards.length + player.discard.cards.length));
+		})
+	}
+//	console.log(this.rounds.length);
+}
+
+
 /**
  *  Plays one round of the game.
  */
@@ -59,7 +71,7 @@ War.prototype.playRound = function () {
 			const winnerIndex = round.winners[0];
 			this.players[winnerIndex].takeCards(round.prize);
 		}
-		console.log(round)
+		//console.log(round.winners)
 		this.rounds.push( round );
 		return true;
 	}
@@ -113,7 +125,7 @@ function Player(name = '') {
 Player.prototype.playCard = function () {
 	if( !this.hand.hasCards() ) {
 		if( this.discard.hasCards() ) {
-			this.hand = this.discard;  //We could add a shuffle here
+			this.hand = this.discard;
 			this.discard = new CardPile();
 		} else {
 			//No cards left!
