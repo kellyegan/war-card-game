@@ -28,12 +28,8 @@ War.prototype.deal = function () {
 War.prototype.play = function () {
 	while( this.playRound() && this.rounds.length < 10000){
 		//Report something?
-		console.log(this.rounds.length)
-		this.players.forEach( (player, index) => {
-			console.log(index + " " + "*".repeat(player.hand.cards.length + player.discard.cards.length));
-		})
 	}
-//	console.log(this.rounds.length);
+	return(this.rounds.length);
 }
 
 
@@ -43,7 +39,7 @@ War.prototype.play = function () {
 War.prototype.playRound = function () {
 	let activePlayers = [];
 	let prize = [];
-
+	let flag = false;
 	//Check if there was a previous round
 	const lastRound = this.rounds.length > 0 ? this.rounds[this.rounds.length-1] : null;
 
@@ -53,6 +49,9 @@ War.prototype.playRound = function () {
 		activePlayers = lastRound.winners.slice();
 		//and add the previous prize to the current round
 		prize = lastRound.prize.slice();
+		activePlayers.forEach( (playerIndex) => {
+			prize.push(this.players[playerIndex].playCard() );
+		})
 	} else {
 		//...otherwise include all players with cards left
 		this.players.forEach( (player, index) => {
@@ -71,11 +70,9 @@ War.prototype.playRound = function () {
 			const winnerIndex = round.winners[0];
 			this.players[winnerIndex].takeCards(round.prize);
 		}
-		//console.log(round.winners)
 		this.rounds.push( round );
 		return true;
 	}
-
 	return false;
 }
 
@@ -125,7 +122,9 @@ function Player(name = '') {
 Player.prototype.playCard = function () {
 	if( !this.hand.hasCards() ) {
 		if( this.discard.hasCards() ) {
-			this.hand = this.discard;
+			this.discard.shuffle()
+			this.hand = new CardPile();
+			this.hand.addPile(this.discard);
 			this.discard = new CardPile();
 		} else {
 			//No cards left!
@@ -143,6 +142,13 @@ Player.prototype.hasCards = function () {
 }
 
 /**
+ *  Return total cards in hand and discard
+ */
+Player.prototype.numberOfCards = function () {
+	return this.hand.cards.length + this.discard.cards.length;
+}
+
+/**
  *  Add card to players discard pile
  */
 Player.prototype.takeCards = function (cards) {
@@ -156,7 +162,7 @@ Player.prototype.takeCards = function (cards) {
  */
 function createDeck() {
 	let suits = ["Clubs","Diamonds","Hearts","Spades"];
-	let ranks = ["Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten","Jack","Queen","King","Ace"];
+	let ranks = ["Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten", "Jack","Queen","King"];
 
 	let cards = [];
 	let count = 0;
