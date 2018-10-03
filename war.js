@@ -64,7 +64,7 @@ War.prototype.playRound = function () {
 		if( round.winners.length === 1) {
 			//We have a winner
 			const winnerIndex = round.winners[0];
-			this.players[winnerIndex].takeCards(round.prize);
+			this.players[winnerIndex].takeCards(shuffle(round.prize));
 			this.prize = [];
 			this.war = false;
 		} else {
