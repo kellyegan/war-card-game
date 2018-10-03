@@ -3,8 +3,13 @@ const MAX_ROUNDS = 10000;
 /**
  *  Hold a game of war (card game)
  */
-function War( numberOfPlayers = 2 ) {
-	this.deck = shuffle(createDeck());
+function War( numberOfPlayers, numberOfDecks ) {
+	this.deck = [];
+
+	for(let i = 0; i < numberOfDecks; i++) {
+		this.deck = this.deck.concat(shuffle(createDeck()));
+	}
+
 	this.players = [];
 	this.rounds = [];
 	this.prize = [];
