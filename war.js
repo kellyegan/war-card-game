@@ -2,8 +2,7 @@
  *  Hold a game of war (card game)
  */
 function War( numberOfPlayers = 2 ) {
-	this.deck = createDeck();
-	this.deck.shuffle();
+	this.deck = shuffle(createDeck());
 	this.players = [];
 	this.rounds = [];
 
@@ -18,8 +17,8 @@ function War( numberOfPlayers = 2 ) {
 War.prototype.deal = function () {
 	let index = 0;
 
-	while( this.deck.hasCards() ) {
-		let card = this.deck.playCard();
+	while( this.deck.length > 0 ) {
+		let card = this.deck.pop();
 		this.players[index].takeCards([card])
 		index = (index + 1) % this.players.length;
 	}
@@ -173,7 +172,7 @@ function createDeck() {
 		});
 	});
 
-	return new CardPile(cards);
+	return cards;
 }
 
 /**
