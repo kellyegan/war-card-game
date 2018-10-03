@@ -33,7 +33,7 @@ War.prototype.play = function () {
 	while( this.playRound() && this.rounds.length < MAX_ROUNDS){
 		//Report something?
 	}
-	return(this.rounds);
+	return(this.rounds.length);
 }
 
 
@@ -117,9 +117,11 @@ function Round( activePlayers, players, prize ) {
 
 	if( this.activePlayers.length > 1) {
 		//Find the maximum
-		const max = this.play.reduce( (a,b) => {
-			return Math.max(a.value, b.value);
-		});
+		const max = this.play.reduce( (maximum, current) => {
+			return Math.max(maximum, current.value);
+		}, -1);
+
+		this.max = max;
 
 		//Use the maximum to find all winners
 		this.play.forEach( (card, index) => {
