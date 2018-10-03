@@ -5,6 +5,9 @@ function War( numberOfPlayers = 2 ) {
 	this.deck = shuffle(createDeck());
 	this.players = [];
 	this.rounds = [];
+	this.prize = [];
+	this.war = false;
+	this.activePlayers = [];
 
 	for( let i = 0; i < numberOfPlayers; i++) {
 		this.players.push( new Player() );
@@ -37,38 +40,39 @@ War.prototype.play = function () {
  */
 War.prototype.playRound = function () {
 	let activePlayers = [];
-	let prize = [];
-	let flag = false;
-	//Check if there was a previous round
-	const lastRound = this.rounds.length > 0 ? this.rounds[this.rounds.length-1] : null;
 
-	//If there was a last round and more than one winner last round (a tie)...
-	if( lastRound && lastRound.winners.length > 1 ) {
-		//...make those winners the activePlayers
-		activePlayers = lastRound.winners.slice();
-		//and add the previous prize to the current round
-		prize = lastRound.prize.slice();
-		activePlayers.forEach( (playerIndex) => {
-			prize.push(this.players[playerIndex].playCard() );
+	//If there was a war(a tie)...
+	if( this.war ) {
+		//...add new cards to the previous prize
+		this.activePlayers.forEach( (playerIndex) => {
+			this.prize.push(this.players[playerIndex].playCard() );
 		})
 	} else {
 		//...otherwise include all players with cards left
+		this.prize = [];
+		this.activePlayers = [];
 		this.players.forEach( (player, index) => {
 			if( player.hasCards() ) {
-				activePlayers.push(index);
+				this.activePlayers.push(index);
 			}
 		});
 	}
 
 	//If there is more than one player left play round
-	if( activePlayers.length > 1 ) {
-		let round = new Round(activePlayers, this.players, prize);
+	if( this.activePlayers.length > 1 ) {
+		let round = new Round(this.activePlayers, this.players, this.prize);
 
 		if( round.winners.length === 1) {
 			//We have a winner
 			const winnerIndex = round.winners[0];
 			this.players[winnerIndex].takeCards(round.prize);
+			this.war = false;
+		} else {
+			this.war = true;
+			this.prize = round.prize;
+			this.activePlayers = round.activePlayers;
 		}
+
 		this.rounds.push( round );
 		return true;
 	}
@@ -78,7 +82,7 @@ War.prototype.playRound = function () {
 /**
  *  Object to hold the results of an individual round
  */
-function Round( activePlayers, players, prize = [] ) {
+function Round( activePlayers, players, prize ) {
 	//Filter out players with no cards remaining
 	this.activePlayers = activePlayers.filter( playerIndex => players[playerIndex].hasCards() );
 
