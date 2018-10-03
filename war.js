@@ -49,7 +49,6 @@ War.prototype.playRound = function () {
 		})
 	} else {
 		//...otherwise include all players with cards left
-		this.prize = [];
 		this.activePlayers = [];
 		this.players.forEach( (player, index) => {
 			if( player.hasCards() ) {
@@ -66,12 +65,17 @@ War.prototype.playRound = function () {
 			//We have a winner
 			const winnerIndex = round.winners[0];
 			this.players[winnerIndex].takeCards(round.prize);
+			this.prize = [];
 			this.war = false;
 		} else {
 			this.war = true;
 			this.prize = round.prize;
 			this.activePlayers = round.activePlayers;
 		}
+
+		let totalCards = this.players.reduce( (total, player) => {
+			return total + player.numberOfCards();
+		}, 0);
 
 		this.rounds.push( round );
 		return true;
@@ -164,7 +168,7 @@ Player.prototype.takeCards = function (cards) {
  */
 function createDeck() {
 	let suits = ["Clubs","Diamonds","Hearts","Spades"];
-	let ranks = ["Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten", "Jack","Queen","King"];
+	let ranks = ["Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten", "Jack","Queen","King","Ace"];
 
 	let cards = [];
 	let count = 0;
