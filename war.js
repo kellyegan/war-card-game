@@ -87,6 +87,7 @@ War.prototype.playRound = function () {
  *  Object to hold the results of an individual round
  */
 function Round( activePlayers, players, prize ) {
+
 	//Filter out players with no cards remaining
 	this.activePlayers = activePlayers.filter( playerIndex => players[playerIndex].hasCards() );
 
@@ -95,6 +96,9 @@ function Round( activePlayers, players, prize ) {
 	this.activePlayers.forEach( (playerIndex) => {
 		this.play.push( players[playerIndex].playCard() );
 	});
+
+	//Get current card counts for players
+	this.counts = players.map((player) => {return player.numberOfCards()})
 
 	//Add current play to any existing prize
 	this.prize = prize.concat(this.play);
@@ -129,7 +133,6 @@ function Player(name = '') {
 Player.prototype.playCard = function () {
 	if( this.hand.length === 0 ) {
 		if( this.discard.length > 0 ) {
-//			Shuffle cards before using
 			this.hand = this.discard.concat(this.hand);
 			this.discard = [];
 		} else {
