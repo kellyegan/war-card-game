@@ -116,24 +116,24 @@ function Round( activePlayers, players, prize ) {
 	//Add current play to any existing prize
 	this.prize = prize.concat(this.play);
 
-	let max = -1;
+	//Find the winners
+	this.winners = [];
 
-	//Find the max value among players
 	if( this.activePlayers.length > 1) {
-		max = this.play.reduce( (a,b) => {
+		//Find the maximum
+		const max = this.play.reduce( (a,b) => {
 			return Math.max(a.value, b.value);
 		});
-	} else {
-		max = this.play[0].value;
-	}
 
-	//Calculate the winners
-	this.winners = [];
-	this.play.forEach( (card, index) => {
-		if( card.value === max ) {
-			this.winners.push( this.activePlayers[index] );
-		}
-	});
+		//Use the maximum to find all winners
+		this.play.forEach( (card, index) => {
+			if( card.value === max ) {
+				this.winners.push( this.activePlayers[index] );
+			}
+		});
+	} else {
+		this.winners = this.activePlayers.slice();
+	}
 }
 
 
