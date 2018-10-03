@@ -94,14 +94,12 @@ War.prototype.playRound = function () {
  */
 function Round( activePlayers, players, prize ) {
 
-	//Filter out players with no cards remaining
-	this.activePlayers = activePlayers.filter( playerIndex => players[playerIndex].hasCards() );
-
-	//Add the active players
+	//Create array to hold play cards
+	this.activePlayers = [];
 	this.play = [];
 
 	//Each player plays a card. If they are out they are removed from the play.
-	this.activePlayers = this.activePlayers.filter( (playerIndex) => {
+	this.activePlayers = activePlayers.filter( (playerIndex) => {
 		if( players[playerIndex].hasCards() ) {
 			this.play.push( players[playerIndex].playCard() );
 			return true;
