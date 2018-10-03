@@ -176,60 +176,6 @@ function createDeck() {
 }
 
 /**
- *  Object to hold a deck of cards
- */
-function CardPile(cards = []) {
-	this.cards = cards;
-}
-
-/**
- *  Shuffle the deck of cards
- */
-CardPile.prototype.shuffle = function () {
-	var m = this.cards.length, t, i;
-
-	while (m) {
-		// Pick a remaining element…
-		i = Math.floor(Math.random() * m--);
-
-		// And swap it with the current element.
-		t = this.cards[m];
-		this.cards[m] = this.cards[i];
-		this.cards[i] = t;
-  	}
-}
-
-/**
- * Are there any card in the pile?
- */
-CardPile.prototype.hasCards = function () {
-	return this.cards.length > 0;
-}
-
-/**
- *  Play the top card on a pile.
- */
-CardPile.prototype.playCard = function () {
-	return this.cards.length > 0 ? this.cards.pop() : null;
-}
-
-/**
- *  Add card to bottom the top card on a pile.
- */
-CardPile.prototype.addCard = function (card) {
-	this.cards.unshift(card);
-}
-
-/**
- *
- */
-CardPile.prototype.addPile = function (otherPile) {
-	otherPile.cards.forEach( (card) => {
-		this.addCard(card);
-	})
-}
-
-/**
  *  Object to hold a single card
  */
 function Card(name, value) {
