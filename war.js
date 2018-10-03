@@ -1,3 +1,5 @@
+const MAX_ROUNDS = 10000;
+
 /**
  *  Hold a game of war (card game)
  */
@@ -28,14 +30,10 @@ War.prototype.deal = function () {
 }
 
 War.prototype.play = function () {
-	while( this.playRound() && this.rounds.length < 10000){
+	while( this.playRound() && this.rounds.length < MAX_ROUNDS){
 		//Report something?
 	}
-
-	this.rounds.splice(this.rounds.length - 20, this.rounds.length -1 ).forEach( round => {
-		console.log(round);
-	})
-	return(this.rounds.length);
+	return(this.rounds);
 }
 
 
