@@ -112,40 +112,39 @@ function Round( activePlayers, players, prize = [] ) {
  */
 function Player(name = '') {
 	this.name = name;
-	this.hand = new CardPile();
-	this.discard = new CardPile();
+	this.hand = [];
+	this.discard = [];
 }
 
 /**
  *  Play a card from players hand. If no card in hand use discard. If nothing in discard, return null.
  */
 Player.prototype.playCard = function () {
-	if( !this.hand.hasCards() ) {
-		if( this.discard.hasCards() ) {
-			this.discard.shuffle()
-			this.hand = new CardPile();
-			this.hand.addPile(this.discard);
-			this.discard = new CardPile();
+	if( this.hand.length === 0 ) {
+		if( this.discard.length > 0 ) {
+//			Shuffle cards before using
+			this.hand = this.discard.concat(this.hand);
+			this.discard = [];
 		} else {
 			//No cards left!
 			return null;
 		}
 	}
-	return this.hand.playCard();
+	return this.hand.pop();
 }
 
 /**
  *  Check if the player has cards in hand or discard
  */
 Player.prototype.hasCards = function () {
-	return this.hand.hasCards() || this.discard.hasCards();
+	return this.hand.length > 0 || this.discard.length > 0;
 }
 
 /**
  *  Return total cards in hand and discard
  */
 Player.prototype.numberOfCards = function () {
-	return this.hand.cards.length + this.discard.cards.length;
+	return this.hand.length + this.discard.length;
 }
 
 /**
@@ -153,7 +152,7 @@ Player.prototype.numberOfCards = function () {
  */
 Player.prototype.takeCards = function (cards) {
 	cards.forEach( (card) => {
-		this.discard.addCard(card);
+		this.discard.unshift(card);
 	});
 }
 
@@ -239,6 +238,26 @@ function Card(name, value) {
 	this.value = value;
 }
 
+/**
+ *  Fisher-Yates Shuffle from Mike Bostock
+ */
+function shuffle(array) {
+	var m = array.length, t, i;
+
+	// While there remain elements to shuffle…
+	while (m) {
+
+		// Pick a remaining element…
+		i = Math.floor(Math.random() * m--);
+
+		// And swap it with the current element.
+		t = array[m];
+		array[m] = array[i];
+	array[i] = t;
+	}
+
+	return array;
+}
 
 module.exports = War;
 
