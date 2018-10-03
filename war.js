@@ -27,6 +27,12 @@ function War( numberOfPlayers, numberOfDecks ) {
 War.prototype.deal = function () {
 	let index = 0;
 
+	const extraCards = this.deck.length % this.players.length;
+
+	for( let i = 0; i < extraCards; i++) {
+		this.prize.push(this.deck.shift());
+	}
+
 	while( this.deck.length > 0 ) {
 		const card = this.deck.pop();
 		this.players[index].takeCards([card])
