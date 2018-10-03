@@ -21,7 +21,7 @@ War.prototype.deal = function () {
 	let index = 0;
 
 	while( this.deck.length > 0 ) {
-		let card = this.deck.pop();
+		const card = this.deck.pop();
 		this.players[index].takeCards([card])
 		index = (index + 1) % this.players.length;
 	}
@@ -31,6 +31,10 @@ War.prototype.play = function () {
 	while( this.playRound() && this.rounds.length < 10000){
 		//Report something?
 	}
+
+	this.rounds.splice(this.rounds.length - 20, this.rounds.length -1 ).forEach( round => {
+		console.log(round);
+	})
 	return(this.rounds.length);
 }
 
@@ -45,8 +49,10 @@ War.prototype.playRound = function () {
 	if( this.war ) {
 		//...add new cards to the previous prize
 		this.activePlayers.forEach( (playerIndex) => {
-			this.prize.push(this.players[playerIndex].playCard() );
-		})
+			if( this.players[playerIndex].hasCards() ) {
+				this.prize.push(this.players[playerIndex].playCard() );
+			}
+		});
 	} else {
 		//...otherwise include all players with cards left
 		this.activePlayers = [];
@@ -93,8 +99,15 @@ function Round( activePlayers, players, prize ) {
 
 	//Add the active players
 	this.play = [];
-	this.activePlayers.forEach( (playerIndex) => {
-		this.play.push( players[playerIndex].playCard() );
+
+	//Each player plays a card. If they are out they are removed from the play.
+	this.activePlayers = this.activePlayers.filter( (playerIndex) => {
+		if( players[playerIndex].hasCards() ) {
+			this.play.push( players[playerIndex].playCard() );
+			return true;
+		} else {
+			return false;
+		}
 	});
 
 	//Get current card counts for players
@@ -103,10 +116,16 @@ function Round( activePlayers, players, prize ) {
 	//Add current play to any existing prize
 	this.prize = prize.concat(this.play);
 
+	let max = -1;
+
 	//Find the max value among players
-	let max = this.play.reduce( (a,b) => {
-		return Math.max(a.value, b.value);
-	});
+	if( this.activePlayers.length > 1) {
+		max = this.play.reduce( (a,b) => {
+			return Math.max(a.value, b.value);
+		});
+	} else {
+		max = this.play[0].value;
+	}
 
 	//Calculate the winners
 	this.winners = [];
