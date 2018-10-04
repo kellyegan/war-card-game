@@ -154,8 +154,7 @@ function Round( activePlayers, players, prize, war ) {
 /**
  *  Object to hold player information
  */
-function Player(name = '') {
-	this.name = name;
+function Player() {
 	this.hand = [];
 	this.discard = [];
 }
