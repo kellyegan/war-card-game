@@ -1,3 +1,5 @@
+"use strict";
+
 const War = require('./war.js');
 let gameLengths = []
 
