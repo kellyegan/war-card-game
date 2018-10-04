@@ -42,11 +42,16 @@ War.prototype.deal = function () {
 	}
 }
 
+/**
+ *  Play the game. Returns the index of the winning player
+ */
 War.prototype.play = function () {
 	while( this.playRound() && this.rounds.length < MAX_ROUNDS){
 		//Report something?
 	}
-	return(this.rounds.length);
+
+	const lastRoundIndex = this.rounds.length - 1;
+	return(this.rounds[lastRoundIndex].winners[0]);
 }
 
 /**
