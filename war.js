@@ -47,7 +47,6 @@ War.prototype.play = function () {
 	return(this.rounds.length);
 }
 
-
 /**
  *  Plays one round of the game.
  */
@@ -74,17 +73,17 @@ War.prototype.playRound = function () {
 
 	//If there is more than one player left play round
 	if( this.activePlayers.length > 1 ) {
-		let round = new Round(this.activePlayers, this.players, this.prize);
+		let round = new Round(this.activePlayers, this.players, this.prize, this.war);
 
 		if( round.winners.length === 1) {
 			//We have a winner
 			const winnerIndex = round.winners[0];
-			this.players[winnerIndex].takeCards(shuffle(round.prize));
+			this.players[winnerIndex].takeCards(shuffle(round.prize.slice()));
 			this.prize = [];
 			this.war = false;
 		} else {
 			this.war = true;
-			this.prize = round.prize;
+			this.prize = round.prize.slice();
 			this.activePlayers = round.activePlayers;
 		}
 
@@ -101,9 +100,10 @@ War.prototype.playRound = function () {
 /**
  *  Object to hold the results of an individual round
  */
-function Round( activePlayers, players, prize ) {
+function Round( activePlayers, players, prize, war ) {
 
 	//Create array to hold play cards
+	this.war = war;
 	this.activePlayers = [];
 	this.play = [];
 
@@ -132,8 +132,6 @@ function Round( activePlayers, players, prize ) {
 			return Math.max(maximum, current.value);
 		}, -1);
 
-		this.max = max;
-
 		//Use the maximum to find all winners
 		this.play.forEach( (card, index) => {
 			if( card.value === max ) {
@@ -161,7 +159,7 @@ function Player(name = '') {
 Player.prototype.playCard = function () {
 	if( this.hand.length === 0 ) {
 		if( this.discard.length > 0 ) {
-			this.hand = this.discard.concat(this.hand);
+			this.hand = this.discard.slice();
 			this.discard = [];
 		} else {
 			//No cards left!
@@ -244,5 +242,3 @@ function shuffle(array) {
 }
 
 module.exports = War;
-
-
