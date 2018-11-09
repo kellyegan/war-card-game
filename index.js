@@ -8,7 +8,6 @@ game.deal();
 
 const winner = game.play();
 
-
 game.rounds.forEach( (round, index) => {
 	console.log(index, round);
 });
