@@ -48,7 +48,10 @@ RoundRobin.prototype.play = function () {
 			const winner = game.play() == 0 ? playerOneIndex : playerTwoIndex;
 			const numberOfRounds = game.rounds.length;
 
+			const gameID = this.schedule.length;
+
 			this.schedule.push({
+				id: gameID,
 				week: week,
 				player1: playerOneIndex,
 				player2: playerTwoIndex,
@@ -56,11 +59,9 @@ RoundRobin.prototype.play = function () {
 				rounds: game.rounds
 			});
 
-			const gameIndex = this.schedule.length - 1;
-
 			this.players[playerOneIndex].games.push({
 				week: week,
-				game: gameIndex,
+				gameID: gameID,
 				opponent: playerTwoIndex,
 				numberOfRounds: numberOfRounds,
 				win: winner == playerOneIndex,
@@ -68,12 +69,11 @@ RoundRobin.prototype.play = function () {
 
 			this.players[playerTwoIndex].games.push({
 				week: week,
-				game: gameIndex,
+				gameID: gameID,
 				opponent: playerOneIndex,
 				numberOfRounds: numberOfRounds,
 				win: winner == playerTwoIndex
 			});
-
 
 			this.players[winner].wins += 1;
 		}
@@ -89,16 +89,4 @@ function Player(id) {
 	this.wins = 0;
 }
 
-let season = new RoundRobin(30);
-season.play();
-
-//season.schedule.forEach((game) => {
-//	season.players[game.winner].wins++;
-//})
-
-season.players.forEach((player, index) => {
-	console.log(index, player);
-})
-
-console.log( season.schedule )
-console.log( season.schedule.filter(game => game.winner === 9).length )
+module.exports = RoundRobin;

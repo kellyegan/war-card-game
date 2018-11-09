@@ -1,15 +1,22 @@
 "use strict";
 
 const War = require('./war.js');
-let gameLengths = []
+const RoundRobin = require('./round-robin.js');
 
-let game = new War(3, 1);
-game.deal();
+let season = new RoundRobin(30);
+season.play();
 
-const winner = game.play();
+//season.schedule.forEach((game) => {
+//	season.players[game.winner].wins++;
+//})
 
-game.rounds.forEach( (round, index) => {
-	console.log(index, round);
-});
+season.players.forEach( player => {
+	console.log(player);
+})
 
-console.log("Winner:", winner)
+season.schedule.forEach( game => {
+	console.log(`${game.id} winner: ${game.winner} rounds: ${game.rounds.length}`);
+})
+
+
+console.log( season.schedule.filter(game => game.winner === 9).length )
