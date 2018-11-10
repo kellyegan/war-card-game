@@ -63,7 +63,7 @@ RoundRobin.prototype.play = function () {
 				week: week,
 				gameID: gameID,
 				opponent: playerTwoIndex,
-				numberOfRounds: numberOfHands,
+				numberOfHands: numberOfHands,
 				win: winner == playerOneIndex,
 			});
 
@@ -71,7 +71,7 @@ RoundRobin.prototype.play = function () {
 				week: week,
 				gameID: gameID,
 				opponent: playerOneIndex,
-				numberOfRounds: numberOfHands,
+				numberOfHands: numberOfHands,
 				win: winner == playerTwoIndex
 			});
 
