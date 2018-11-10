@@ -13,7 +13,7 @@ function War( numberOfPlayers, numberOfDecks ) {
 	}
 
 	this.players = [];
-	this.rounds = [];
+	this.hands = [];
 	this.prize = [];
 	this.war = false;
 	this.activePlayers = [];
@@ -46,12 +46,12 @@ War.prototype.deal = function () {
  *  Play the game. Returns the index of the winning player
  */
 War.prototype.play = function () {
-	while( this.playRound() && this.rounds.length < MAX_ROUNDS){
+	while( this.playRound() && this.hands.length < MAX_ROUNDS){
 		//Report something?
 	}
 
-	const lastRoundIndex = this.rounds.length - 1;
-	return(this.rounds[lastRoundIndex].winners[0]);
+	const lastRoundIndex = this.hands.length - 1;
+	return(this.hands[lastRoundIndex].winners[0]);
 }
 
 /**
@@ -80,25 +80,25 @@ War.prototype.playRound = function () {
 
 	//If there is more than one player left play round
 	if( this.activePlayers.length > 1 ) {
-		let round = new Round(this.activePlayers, this.players, this.prize, this.war);
+		let hand = new Hand(this.activePlayers, this.players, this.prize, this.war);
 
-		if( round.winners.length === 1) {
+		if( hand.winners.length === 1) {
 			//We have a winner
-			const winnerIndex = round.winners[0];
-			this.players[winnerIndex].takeCards(shuffle(round.prize.slice()));
+			const winnerIndex = hand.winners[0];
+			this.players[winnerIndex].takeCards(shuffle(hand.prize.slice()));
 			this.prize = [];
 			this.war = false;
 		} else {
 			this.war = true;
-			this.prize = round.prize.slice();
-			this.activePlayers = round.activePlayers;
+			this.prize = hand.prize.slice();
+			this.activePlayers = hand.activePlayers;
 		}
 
 		let totalCards = this.players.reduce( (total, player) => {
 			return total + player.numberOfCards();
 		}, 0);
 
-		this.rounds.push( round );
+		this.hands.push( hand );
 		return true;
 	}
 	return false;
@@ -107,7 +107,7 @@ War.prototype.playRound = function () {
 /**
  *  Object to hold the results of an individual round
  */
-function Round( activePlayers, players, prize, war ) {
+function Hand( activePlayers, players, prize, war ) {
 
 	//Create array to hold play cards
 	this.war = war;

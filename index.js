@@ -15,7 +15,7 @@ season.players.forEach( player => {
 })
 
 season.schedule.forEach( game => {
-	console.log(`${game.id} winner: ${game.winner} rounds: ${game.rounds.length}`);
+	console.log(`${game.id} winner: ${game.winner} hands: ${game.hands.length}`);
 })
 
 

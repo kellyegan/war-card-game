@@ -46,7 +46,7 @@ RoundRobin.prototype.play = function () {
 			game.deal();
 
 			const winner = game.play() == 0 ? playerOneIndex : playerTwoIndex;
-			const numberOfRounds = game.rounds.length;
+			const numberOfHands = game.hands.length;
 
 			const gameID = this.schedule.length;
 
@@ -56,14 +56,14 @@ RoundRobin.prototype.play = function () {
 				player1: playerOneIndex,
 				player2: playerTwoIndex,
 				winner: winner,
-				rounds: game.rounds
+				hands: game.hands
 			});
 
 			this.players[playerOneIndex].games.push({
 				week: week,
 				gameID: gameID,
 				opponent: playerTwoIndex,
-				numberOfRounds: numberOfRounds,
+				numberOfRounds: numberOfHands,
 				win: winner == playerOneIndex,
 			});
 
@@ -71,7 +71,7 @@ RoundRobin.prototype.play = function () {
 				week: week,
 				gameID: gameID,
 				opponent: playerOneIndex,
-				numberOfRounds: numberOfRounds,
+				numberOfRounds: numberOfHands,
 				win: winner == playerTwoIndex
 			});
 
