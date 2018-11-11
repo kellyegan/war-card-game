@@ -61,17 +61,15 @@ RoundRobin.prototype.play = function () {
 
 			this.players[playerOneIndex].games.push({
 				week: week,
-				gameID: gameID,
+				id: gameID,
 				opponent: playerTwoIndex,
-				numberOfHands: numberOfHands,
 				win: winner == playerOneIndex,
 			});
 
 			this.players[playerTwoIndex].games.push({
 				week: week,
-				gameID: gameID,
+				id: gameID,
 				opponent: playerOneIndex,
-				numberOfHands: numberOfHands,
 				win: winner == playerTwoIndex
 			});
 
@@ -81,6 +79,29 @@ RoundRobin.prototype.play = function () {
 	}
 
 	return this.schedule;
+}
+
+/**
+ *  Rank players based on number of wins,
+ *  Wins are adjusted for game length (longer games are worth less)
+ */
+RoundRobin.prototype.rankPlayers = function () {
+	const maxNumberOfRounds = this.schedule.reduce( (max, game) => { return Math.max(max, game.hands.length)}, 0);
+
+	const playerRanks = this.players.map( player => {
+		const rating = player.games.filter( game => {
+			return game.win;
+		}).reduce( (total, game) => {
+			const gameObject = this.schedule[game.id];
+			let gameRating = (3 - gameObject.hands.length / maxNumberOfRounds)  / 3;
+			return total + gameRating;
+		}, 0);
+		return {id: player.id, rating: rating / player.games.length};
+	}).sort( (a,b) => {
+		//Sort ratings in decending order
+		return b.rating - a.rating;
+	});
+	return	playerRanks;
 }
 
 function Player(id) {
