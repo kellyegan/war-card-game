@@ -28,8 +28,4 @@ function smallestPowerOf( base, number ){
 	return Math.pow( base, Math.ceil(Math.log(number) / Math.log(base)));
 }
 
-for( let i = 0; i < 18; i++) {
-	console.log(`${i} ${smallestPowerOf(2,i)}` );
-}
-
 module.exports = Tournament;
