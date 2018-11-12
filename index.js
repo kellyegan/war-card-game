@@ -2,12 +2,13 @@
 
 const War = require('./war.js');
 const RoundRobin = require('./round-robin.js');
+const Tournament = require('./tournament.js');
 
-let season = new RoundRobin(32);
+const season = new RoundRobin(32);
 season.play();
+const players = season.rankPlayers().slice(0, 5);
 
-
-console.log(season.rankPlayers());
+const tournament = new Tournament(players);
 
 
 
