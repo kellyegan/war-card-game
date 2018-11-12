@@ -78,8 +78,8 @@ RoundRobin.prototype.play = function () {
 		slots.splice(1, 0, slots.pop())
 	}
 
-	return this.schedule;
-}
+	this.rankPlayers();
+	}
 
 /**
  *  Rank players based on number of wins,
@@ -88,26 +88,28 @@ RoundRobin.prototype.play = function () {
 RoundRobin.prototype.rankPlayers = function () {
 	const maxNumberOfRounds = this.schedule.reduce( (max, game) => { return Math.max(max, game.hands.length)}, 0);
 
-	const playerRanks = this.players.map( player => {
-		const rating = player.games.filter( game => {
+	for( let i = 0; i < this.players.length; i++ ){
+		const rating = this.players[i].games.filter( game => {
 			return game.win;
 		}).reduce( (total, game) => {
 			const gameObject = this.schedule[game.id];
-			let gameRating = (3 - gameObject.hands.length / maxNumberOfRounds)  / 3;
+			let gameRating = (3 - gameObject.hands.length / maxNumberOfRounds) / 3;
 			return total + gameRating;
 		}, 0);
-		return {id: player.id, rating: rating / player.games.length};
-	}).sort( (a,b) => {
+		this.players[i].rating = rating;
+	}
+
+	this.players.sort( (a,b) => {
 		//Sort ratings in decending order
 		return b.rating - a.rating;
 	});
-	return	playerRanks;
 }
 
 function Player(id) {
 	this.id = id,
 	this.games = [];
 	this.wins = 0;
+	this.rating = 0;
 }
 
 module.exports = RoundRobin;
