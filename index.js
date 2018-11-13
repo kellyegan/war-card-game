@@ -1,8 +1,8 @@
 "use strict";
 
-const War = require('./war.js');
-const RoundRobin = require('./round-robin.js');
-const Tournament = require('./tournament.js');
+const War = require('./War.js');
+const RoundRobin = require('./RoundRobin.js');
+const Tournament = require('./Tournament.js');
 
 const season = new RoundRobin(32);
 season.play();
