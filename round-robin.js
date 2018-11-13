@@ -78,7 +78,7 @@ RoundRobin.prototype.play = function () {
 		slots.splice(1, 0, slots.pop())
 	}
 
-	return this.rankPlayers();
+	this.rankPlayers();
 }
 
 /**
@@ -98,10 +98,17 @@ RoundRobin.prototype.rankPlayers = function () {
 		}, 0);
 		this.players[i].rating = rating;
 	}
+}
 
-	return this.players.slice().sort( (a,b) => {
+/**
+ *  Return the top numberOfPlayers by rank
+ */
+RoundRobin.prototype.topPlayers = function (numberOfPlayers) {
+	const rankedPlayers = this.players.slice();
+	rankedPlayers.sort( (a,b) => {
 		return b.rank - a.rank;
 	});
+	return rankedPlayers.slice(0, numberOfPlayers);
 }
 
 function Player(id) {

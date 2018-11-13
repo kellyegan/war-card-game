@@ -5,7 +5,8 @@ const RoundRobin = require('./round-robin.js');
 const Tournament = require('./tournament.js');
 
 const season = new RoundRobin(32);
-const postSeasonPlayers = season.play().slice(0, 16);
+season.play();
+const postSeasonPlayers = season.topPlayers(16);
 
 const tournament = new Tournament(postSeasonPlayers);
 tournament.play();
