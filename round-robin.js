@@ -78,8 +78,8 @@ RoundRobin.prototype.play = function () {
 		slots.splice(1, 0, slots.pop())
 	}
 
-	this.rankPlayers();
-	}
+	return this.rankPlayers();
+}
 
 /**
  *  Rank players based on number of wins,
@@ -99,9 +99,8 @@ RoundRobin.prototype.rankPlayers = function () {
 		this.players[i].rating = rating;
 	}
 
-	this.players.sort( (a,b) => {
-		//Sort ratings in decending order
-		return b.rating - a.rating;
+	return this.players.slice().sort( (a,b) => {
+		return b.rank - a.rank;
 	});
 }
 
