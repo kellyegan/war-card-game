@@ -1,6 +1,7 @@
 "use strict";
 
 const War = require('./war.js');
+const Player = require('./Player.js');
 
 /**
  *  Create object to run a round robin season schedule and game results
@@ -109,13 +110,6 @@ RoundRobin.prototype.topPlayers = function (numberOfPlayers) {
 		return b.rank - a.rank;
 	});
 	return rankedPlayers.slice(0, numberOfPlayers);
-}
-
-function Player(id) {
-	this.id = id,
-	this.games = [];
-	this.wins = 0;
-	this.rating = 0;
 }
 
 module.exports = RoundRobin;
