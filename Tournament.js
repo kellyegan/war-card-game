@@ -7,21 +7,29 @@ const War = require('./war.js');
  *
  *  Useful link: https://stackoverflow.com/questions/22859730/generate-a-single-elimination-tournament
  */
-function Tournament( players ) {
+function Tournament( players, tournamentSpots ) {
 	this.games = [];
-	const slots = smallestPowerOf(2, players.length);
+	const slots = smallestPowerOf(2, tournamentSpots);
 	this.players = players;
 
+	this.finalists = this.players.slice().sort( (a,b) => {
+		return b.rating - a.rating;
+	}).slice(0, tournamentSpots).map( player => {
+		return player.id
+	});
+
 	//Fill in empty slots until you reach next power of two
-	while(this.players.length < slots) {
-		this.players.push(null);
+	while(this.finalists.length < slots) {
+		this.finalists.push(null);
 	}
+
+	console.log(this.finalists);
 }
 
+
 Tournament.prototype.play = function () {
-	let remainingPlayers = this.players.map( (player, index) => {
-		return player ? player.id : null;
-	});
+	let remainingPlayers = this.finalists.slice();
+
 	console.log(remainingPlayers);
 
 	let round = 0;

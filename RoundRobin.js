@@ -61,14 +61,12 @@ RoundRobin.prototype.play = function () {
 			});
 
 			this.players[playerOneIndex].games.push({
-				week: week,
 				id: gameID,
 				opponent: playerTwoIndex,
 				win: winner == playerOneIndex,
 			});
 
 			this.players[playerTwoIndex].games.push({
-				week: week,
 				id: gameID,
 				opponent: playerOneIndex,
 				win: winner == playerTwoIndex
@@ -79,14 +77,14 @@ RoundRobin.prototype.play = function () {
 		slots.splice(1, 0, slots.pop())
 	}
 
-	this.rankPlayers();
+	this.ratePlayers();
 }
 
 /**
- *  Rank players based on number of wins,
+ *  Rate players based on number of wins,
  *  Wins are adjusted for game length (longer games are worth less)
  */
-RoundRobin.prototype.rankPlayers = function () {
+RoundRobin.prototype.ratePlayers = function () {
 	const maxNumberOfRounds = this.schedule.reduce( (max, game) => { return Math.max(max, game.hands.length)}, 0);
 
 	for( let i = 0; i < this.players.length; i++ ){
@@ -99,17 +97,6 @@ RoundRobin.prototype.rankPlayers = function () {
 		}, 0);
 		this.players[i].rating = rating;
 	}
-}
-
-/**
- *  Return the top numberOfPlayers by rank
- */
-RoundRobin.prototype.topPlayers = function (numberOfPlayers) {
-	const rankedPlayers = this.players.slice();
-	rankedPlayers.sort( (a,b) => {
-		return b.rank - a.rank;
-	});
-	return rankedPlayers.slice(0, numberOfPlayers);
 }
 
 module.exports = RoundRobin;
