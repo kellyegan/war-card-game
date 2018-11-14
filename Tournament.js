@@ -22,15 +22,11 @@ function Tournament( players, tournamentSpots ) {
 	while(this.finalists.length < slots) {
 		this.finalists.push(null);
 	}
-
-	console.log(this.finalists);
 }
 
 
 Tournament.prototype.play = function () {
 	let remainingPlayers = this.finalists.slice();
-
-	console.log(remainingPlayers);
 
 	let round = 0;
 	while( remainingPlayers.length > 1) {
@@ -42,8 +38,6 @@ Tournament.prototype.play = function () {
 
 			if( playerOneID !== null ){
 				if( playerTwoID !== null ){
-					console.log(`Round ${round}: ${playerOneID} vs. ${playerTwoID}`);
-
 					const game = new War(2, 1);
 					game.deal();
 					const winner = game.play() == 0 ? playerOneID : playerTwoID;
@@ -56,8 +50,20 @@ Tournament.prototype.play = function () {
 						player1: playerOneID,
 						player2: playerTwoID,
 						winner: winner,
-						// hands: game.hands
+					  hands: game.hands
 					});
+
+					this.players[playerOneID].finals.push({
+							id: gameID,
+							opponent: playerTwoID,
+							win:  winner == playerOneID,
+						});
+
+					this.players[playerOneID].finals.push({
+							id: gameID,
+							opponent: playerOneID,
+							win:  winner == playerTwoID,
+						});
 
 					winners.push(winner);
 				} else {
@@ -73,7 +79,6 @@ Tournament.prototype.play = function () {
 		}
 		round++;
 		remainingPlayers = winners;
-		console.log(remainingPlayers);
 	}
 	console.log(`Champion: ${remainingPlayers[0]}`);
 	console.log(this.games);
