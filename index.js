@@ -6,6 +6,7 @@ const util = require('util');
 const War = require('./War.js');
 const RoundRobin = require('./RoundRobin.js');
 const Tournament = require('./Tournament.js');
+const PlayByPlay = require('./PlayByPlay.js');
 
 const writeFile = util.promisify(fs.writeFile);
 
@@ -35,4 +36,7 @@ writeFile("./tournament.json", tournamentJSON, 'utf8')
 		console.error(error);
 	})
 
-// console.log( season.schedule.filter(game => game.winner === 9).length )
+const pbp = new PlayByPlay(tournament.games[0])
+let calls = pbp.generate()
+
+console.log(calls)
