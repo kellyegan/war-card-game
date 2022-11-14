@@ -13,7 +13,7 @@ const writeFile = util.promisify(fs.writeFile);
 const season = new RoundRobin(32);
 season.play();
 
-const seasonJSON = JSON.stringify(season);
+const seasonJSON = JSON.stringify(season, null, 2);
 
 writeFile("./season.json", seasonJSON, 'utf8')
 	.then( () => {
@@ -26,7 +26,7 @@ writeFile("./season.json", seasonJSON, 'utf8')
 const tournament = new Tournament(season.players, 16);
 tournament.play();
 
-const tournamentJSON = JSON.stringify(tournament);
+const tournamentJSON = JSON.stringify(tournament, null, 2);
 
 writeFile("./tournament.json", tournamentJSON, 'utf8')
 	.then( () => {
