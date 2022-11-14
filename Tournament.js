@@ -80,8 +80,6 @@ Tournament.prototype.play = function () {
 		round++;
 		remainingPlayers = winners;
 	}
-	console.log(`Champion: ${remainingPlayers[0]}`);
-	console.log(this.games);
 }
 
 /**
