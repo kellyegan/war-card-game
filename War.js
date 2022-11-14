@@ -210,7 +210,7 @@ function createDeck() {
 
 	suits.forEach((suit) => {
 		ranks.forEach((rank, index) => {
-			cards[count] = new Card( rank + " of " + suit, index);
+			cards[count] = new Card( rank + " of " + suit, index, rank, suit);
 			count++;
 		});
 	});
@@ -221,9 +221,11 @@ function createDeck() {
 /**
  *  Object to hold a single card
  */
-function Card(name, value) {
+function Card(name, value, rank, suit) {
 	this.name = name;
 	this.value = value;
+	this.rank = rank;
+	this.suit = suit;
 }
 
 /**
