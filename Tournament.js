@@ -47,8 +47,7 @@ Tournament.prototype.play = function () {
 					this.games.push({
 						id: gameID,
 						round: round,
-						player1: playerOneID,
-						player2: playerTwoID,
+						players: [ playerOneID, playerTwoID ],
 						winner: winner,
 					  hands: game.hands
 					});
