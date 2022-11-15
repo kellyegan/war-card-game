@@ -18,7 +18,7 @@ const seasonJSON = JSON.stringify(season, null, 2);
 
 writeFile("./season.json", seasonJSON, 'utf8')
 	.then( () => {
-		console.log(`Saved "./season.json"`);
+		console.log(`Saved "./output/season.json"`);
 	}).catch ( (error) => {
 		console.error(error);
 	})
@@ -31,7 +31,7 @@ const tournamentJSON = JSON.stringify(tournament, null, 2);
 
 writeFile("./tournament.json", tournamentJSON, 'utf8')
 	.then( () => {
-		console.log(`Saved "./tournament.json"`);
+		console.log(`Saved "./output/tournament.json"`);
 	}).catch ( (error) => {
 		console.error(error);
 	})
