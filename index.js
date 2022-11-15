@@ -4,6 +4,7 @@ const fs = require('fs');
 const util = require('util');
 
 const War = require('./War.js');
+const Person = require("./Person.js");
 const RoundRobin = require('./RoundRobin.js');
 const Tournament = require('./Tournament.js');
 const PlayByPlay = require('./PlayByPlay.js');
@@ -39,6 +40,10 @@ writeFile("./tournament.json", tournamentJSON, 'utf8')
 const pbp = new PlayByPlay(tournament.games[0])
 let calls = pbp.generate()
 
-for( let call of calls ) {
-	console.log(call);
-}
+const person = new Person("Ted", "Smith", "he");
+console.log(person);
+console.log(person.fullName());
+
+// for( let call of calls ) {
+// 	console.log(call);
+// }
