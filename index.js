@@ -17,7 +17,7 @@ season.play();
 
 const seasonJSON = JSON.stringify(season, null, 2);
 
-writeFile("./season.json", seasonJSON, 'utf8')
+writeFile("./output/season.json", seasonJSON, 'utf8')
 	.then( () => {
 		console.log(`Saved "./output/season.json"`);
 	}).catch ( (error) => {
@@ -30,7 +30,7 @@ tournament.play();
 
 const tournamentJSON = JSON.stringify(tournament, null, 2);
 
-writeFile("./tournament.json", tournamentJSON, 'utf8')
+writeFile("./output/tournament.json", tournamentJSON, 'utf8')
 	.then( () => {
 		console.log(`Saved "./output/tournament.json"`);
 	}).catch ( (error) => {
