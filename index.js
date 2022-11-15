@@ -11,6 +11,14 @@ const PlayByPlay = require('./PlayByPlay.js');
 
 const writeFile = util.promisify(fs.writeFile);
 
+//Create a roster of players
+const roster = [];
+
+for(let i = 0; i < 32; i++) {
+	roster.push(Person.generatePerson());
+}
+
+
 //Play the regular season
 const season = new RoundRobin(32);
 season.play();
@@ -40,10 +48,7 @@ writeFile("./output/tournament.json", tournamentJSON, 'utf8')
 const pbp = new PlayByPlay(tournament.games[0])
 let calls = pbp.generate()
 
-const person = new Person("Ted", "Smith", "he");
-console.log(person);
-console.log(person.fullName());
-
-// for( let call of calls ) {
-// 	console.log(call);
-// }
+for( let call of calls) {
+	console.log(call);
+}
+ 
