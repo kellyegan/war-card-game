@@ -1,5 +1,8 @@
-function Player(id) {
+"use strict";
+
+function Player(id, person) {
 	this.id = id,
+	this.person = person;
 	this.games = [];
 	this.finals = [];
 	this.wins = 0;

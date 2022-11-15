@@ -8,12 +8,12 @@ const Player = require('./Player.js');
  *  See here for more details on round-robin tournaments:
  *  https://en.wikipedia.org/wiki/Round-robin_tournament
  */
-function RoundRobin( numberOfPlayers ) {
+function RoundRobin( roster ) {
 	this.players = [];
 	this.schedule = [];
 
-	for( let i = 0; i < numberOfPlayers; i++) {
-		this.players.push( new Player(i) );
+	for( let i = 0; i < roster.length; i++) {
+		this.players.push( new Player(i, roster[i]) );
 	}
 }
 

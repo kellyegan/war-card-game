@@ -18,9 +18,8 @@ for(let i = 0; i < 32; i++) {
 	roster.push(Person.generatePerson());
 }
 
-
 //Play the regular season
-const season = new RoundRobin(32);
+const season = new RoundRobin(roster);
 season.play();
 
 const seasonJSON = JSON.stringify(season, null, 2);
