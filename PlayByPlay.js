@@ -10,27 +10,36 @@ PlayByPlay.prototype.generate = function () {
     let calls = []
     let wordCount = 0;
 
-    for(let i = 0; i < this.game.hands.length; i++) {
-        let currentHand = this.game.hands[i];
-        let call = ""
+    let call = `Looks like ${this.game.players[0]} and ${this.game.players[1]} are ready to start.`;
+    calls.push(call);
 
-        if(currentHand.war) {
+    for(let i = 0; i < this.game.hands.length; i++) {
+        let hand = this.game.hands[i];
+        call = ""
+
+        if(hand.war) {
             call += "War!!! "
         }
+        
+        if( hand.winners.length == 1) {
+            let winner = hand.winners[0];
+            let loser = (hand.winners[0] + 1) % 2;
+            if( hand.activePlayers.length > 1 ) {
+                let winning_card = hand.play[winner].name;
+                let losing_card = hand.play[loser].name;
+                let prizeSize = hand.prize.length
+                call += `${this.game.players[winner]} beats ${this.game.players[loser]} with ${winning_card} over ${losing_card} taking a prize of ${prizeSize}`
+            } else {
+                call += `That's the match folks. ${this.game.players[loser]} has run out of cards.`;
+            }
 
-        if( currentHand.winners.length == 1) {
-            let winner = currentHand.winners[0];
-            let loser = (currentHand.winners[0] + 1) % 2;
-            let winning_card = currentHand.play[winner] ? currentHand.play[winner].name : null;
-            let losing_card = currentHand.play[loser] ? currentHand.play[loser].name : null;
-            let prizeSize = currentHand.prize.length
-            call += `${this.game.players[winner]} beats ${this.game.players[loser]} with ${winning_card} over ${losing_card} taking a prize of ${prizeSize}`
         } else {
-            call += `Two ${currentHand.play[0].rank}s`
+            call += `Two ${hand.play[0].rank.toLowerCase()}s`
         }
         wordCount += call.split(" ").length
         calls.push(call);
     }
-    console.log(wordCount);
+    call = `${this.game.players[0]} wins in ${this.game.hands.length} hands.`;
+    calls.push(call);
     return calls;
 }

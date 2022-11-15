@@ -39,4 +39,6 @@ writeFile("./tournament.json", tournamentJSON, 'utf8')
 const pbp = new PlayByPlay(tournament.games[0])
 let calls = pbp.generate()
 
-console.log(calls)
+for( let call of calls ) {
+	console.log(call);
+}
