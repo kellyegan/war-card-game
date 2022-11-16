@@ -1,16 +1,21 @@
 "use strict";
 
+const CardDeck = require("./CardDeck")
+
 const MAX_ROUNDS = 10000;
 
 /**
  *  Hold a game of war (card game)
  */
 function War( numberOfPlayers, numberOfDecks ) {
+	let cardDeck = new CardDeck.Deck();
+
 	this.deck = [];
 
 	for(let i = 0; i < numberOfDecks; i++) {
-		this.deck = this.deck.concat(shuffle(createDeck()));
+		this.deck = this.deck.concat(cardDeck.getDeck());
 	}
+	this.deck = shuffle(this.deck);
 
 	this.players = [];
 	this.hands = [];
@@ -196,36 +201,6 @@ Player.prototype.takeCards = function (cards) {
 	cards.forEach( (card) => {
 		this.discard.unshift(card);
 	});
-}
-
-/**
- *  Creates a deck of cards and return a CardPile
- */
-function createDeck() {
-	let suits = ["Clubs","Diamonds","Hearts","Spades"];
-	let ranks = ["Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten", "Jack","Queen","King","Ace"];
-
-	let cards = [];
-	let count = 0;
-
-	suits.forEach((suit) => {
-		ranks.forEach((rank, index) => {
-			cards[count] = new Card( rank + " of " + suit, index, rank, suit);
-			count++;
-		});
-	});
-
-	return cards;
-}
-
-/**
- *  Object to hold a single card
- */
-function Card(name, value, rank, suit) {
-	this.name = name;
-	this.value = value;
-	this.rank = rank;
-	this.suit = suit;
 }
 
 /**

@@ -9,6 +9,9 @@ const RoundRobin = require('./RoundRobin.js');
 const Tournament = require('./Tournament.js');
 const PlayByPlay = require('./PlayByPlay.js');
 const Player = require('./Player.js');
+const CardDeck = require('./CardDeck');
+
+let deck = new CardDeck.Deck();
 
 const writeFile = util.promisify(fs.writeFile);
 
