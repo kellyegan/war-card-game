@@ -13,14 +13,14 @@ const Player = require('./Player.js');
 const writeFile = util.promisify(fs.writeFile);
 
 //Create a roster of players
-const roster = [];
+const players = [];
 
-for(let i = 0; i < 32; i++) {
-	roster.push(new Player(i));
+for(let i = 0; i < 31; i++) {
+	players.push(new Player(i));
 }
 
 //Play the regular season
-const season = new RoundRobin(roster);
+const season = new RoundRobin(players);
 season.play();
 
 const seasonJSON = JSON.stringify(season, null, 2);
@@ -33,7 +33,7 @@ writeFile("./output/season.json", seasonJSON, 'utf8')
 	})
 
 //Play the tournament
-const tournament = new Tournament(season.players, 16);
+const tournament = new Tournament(season.roster, 16);
 tournament.play();
 
 const tournamentJSON = JSON.stringify(tournament, null, 2);

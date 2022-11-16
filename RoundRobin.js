@@ -8,8 +8,8 @@ const Player = require('./Player.js');
  *  See here for more details on round-robin tournaments:
  *  https://en.wikipedia.org/wiki/Round-robin_tournament
  */
-function RoundRobin( roster ) {
-	this.players = roster;
+function RoundRobin( players ) {
+	this.roster = players;
 	this.schedule = [];
 }
 
@@ -17,7 +17,7 @@ function RoundRobin( roster ) {
  *  Round-robin
  */
 RoundRobin.prototype.play = function () {
-	const numberOfPlayers = this.players.length;
+	const numberOfPlayers = this.roster.length;
 	const evenTeams = numberOfPlayers % 2 == 0;
 
 	//Extra slot needed when there is an odd number of teams
@@ -43,32 +43,31 @@ RoundRobin.prototype.play = function () {
 			game.deal();
 
 			const winner = game.play() == 0 ? playerOneIndex : playerTwoIndex;
-			const numberOfHands = game.hands.length;
 
 			const gameID = this.schedule.length;
 
 			this.schedule.push({
 				id: gameID,
 				week: week,
-				player1: playerOneIndex,
-				player2: playerTwoIndex,
+				player1: this.roster[playerOneIndex].fullName,
+				player2: this.roster[playerTwoIndex].fullName,
 				winner: winner,
 				hands: game.hands
 			});
 
-			this.players[playerOneIndex].games.push({
+			this.roster[playerOneIndex].games.push({
 				id: gameID,
-				opponent: playerTwoIndex,
+				opponent: this.roster[playerTwoIndex].fullName,
 				win: winner == playerOneIndex,
 			});
 
-			this.players[playerTwoIndex].games.push({
+			this.roster[playerTwoIndex].games.push({
 				id: gameID,
-				opponent: playerOneIndex,
+				opponent: this.roster[playerOneIndex].fullName,
 				win: winner == playerTwoIndex
 			});
 
-			this.players[winner].wins += 1;
+			this.roster[winner].wins += 1;
 		}
 		slots.splice(1, 0, slots.pop())
 	}
@@ -83,15 +82,15 @@ RoundRobin.prototype.play = function () {
 RoundRobin.prototype.ratePlayers = function () {
 	const maxNumberOfRounds = this.schedule.reduce( (max, game) => { return Math.max(max, game.hands.length)}, 0);
 
-	for( let i = 0; i < this.players.length; i++ ){
-		const rating = this.players[i].games.filter( game => {
+	for( let i = 0; i < this.roster.length; i++ ){
+		const rating = this.roster[i].games.filter( game => {
 			return game.win;
 		}).reduce( (total, game) => {
 			const gameObject = this.schedule[game.id];
 			let gameRating = (3 - gameObject.hands.length / maxNumberOfRounds) / 3;
 			return total + gameRating;
 		}, 0);
-		this.players[i].rating = rating;
+		this.roster[i].rating = rating;
 	}
 }
 
