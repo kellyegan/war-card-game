@@ -1,7 +1,10 @@
 "use strict";
 
+const CardDeck = require("./CardDeck")
+
 function PlayByPlay( game ){
     this.game = game;
+    this.deck = new CardDeck.Deck();
 }
 
 module.exports = PlayByPlay;
@@ -25,16 +28,17 @@ PlayByPlay.prototype.generate = function () {
             let winner = hand.winners[0];
             let loser = (hand.winners[0] + 1) % 2;
             if( hand.activePlayers.length > 1 ) {
-                let winning_card = hand.play[winner].name;
-                let losing_card = hand.play[loser].name;
-                let prizeSize = hand.prize.length
+                const winning_card = this.deck.getName(hand.play[winner].identifier);
+                const losing_card = this.deck.getName(hand.play[loser].identifier);
+                const prizeSize = hand.prize.length
                 call += `${this.game.players[winner].lastName} beats ${this.game.players[loser].lastName} with ${winning_card} over ${losing_card} taking a prize of ${prizeSize}`
             } else {
-                call += `That's the match folks. ${this.game.players[loser].person.fullName} has run out of cards.`;
+                call += `That's the match folks. ${this.game.players[loser].fullName} has run out of cards.`;
             }
 
         } else {
-            call += `Two ${hand.play[0].rank.toLowerCase()}s`
+            let rank = this.deck.getRank(hand.play[0].identifier);
+            call += `Two ${rank.toLowerCase()}s`
         }
         wordCount += call.split(" ").length
         calls.push(call);

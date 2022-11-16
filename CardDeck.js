@@ -6,10 +6,7 @@ class Card {
     this.rank = rank;
     this.suit = suit;
     this.identifier = identifier;
-  }
-
-  get name() {
-    return this.rank + " of " + this.suit.name;
+    this.name = this.rank + " of " + this.suit.name;
   }
 }
 
@@ -72,7 +69,7 @@ class Deck {
   }
 
   getDeck(shuffleDeck = true) {
-    let cardArray = Array.from(this.cards.values());
+    let cardArray = Array.from(this.cards.values()).map( (card) => {return {identifier: card.identifier, value: card.value}});
     if(shuffleDeck) {
         return this.shuffle(cardArray) 
     }
@@ -82,6 +79,21 @@ class Deck {
   getCard(identifier) {
     return this.cards.get(identifier);
   }
+
+  getName(identifier) {
+    return this.cards.get(identifier).name;
+  }
+
+  getSuit(identifier) {
+    return this.cards.get(identifier).suit;
+  }
+
+  getRank(identifier) {
+    return this.cards.get(identifier).rank;
+  }
+
+
+
 }
 
 module.exports = { Card, Deck };
