@@ -48,8 +48,8 @@ Tournament.prototype.play = function () {
 						id: gameID,
 						round: round,
 						players: [ 
-							{id: playerOneID, person: this.players[playerOneID].person}, 
-							{id: playerTwoID, person: this.players[playerTwoID].person} 
+							{id: playerOneID, person: this.players[playerOneID]}, 
+							{id: playerTwoID, person: this.players[playerTwoID]} 
 						],
 						winner: winner,
 					  hands: game.hands

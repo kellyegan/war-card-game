@@ -4,17 +4,7 @@ const firstNames = require("./data/firstNames.json");
 const lastNames = require("./data/lastNames.json");
 
 class Person {
-  constructor(firstName, lastName, pronoun) {
-    this.firstName = firstName;
-    this.lastName = lastName;
-    this.pronoun = pronoun;
-  }
-
-  get fullName() {
-    return `${this.firstName} ${this.lastName}`;
-  }
-
-  static generatePerson() {
+  constructor() {
     let firstName =
       firstNames.firstNames[
         Math.floor(Math.random() * firstNames.firstNames.length)
@@ -25,8 +15,16 @@ class Person {
       ];
     let pronoun =
       firstName.pronouns[Math.floor(Math.random() * firstName.pronouns.length)];
-    return new Person(firstName.name, lastName, pronoun);
+
+    this.firstName = firstName.name;
+    this.lastName = lastName;
+    this.pronoun = pronoun;
   }
+
+  get fullName() {
+    return `${this.firstName} ${this.lastName}`;
+  }
+
 }
 
 module.exports = Person;

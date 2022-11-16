@@ -8,6 +8,7 @@ const Person = require("./Person.js");
 const RoundRobin = require('./RoundRobin.js');
 const Tournament = require('./Tournament.js');
 const PlayByPlay = require('./PlayByPlay.js');
+const Player = require('./Player.js');
 
 const writeFile = util.promisify(fs.writeFile);
 
@@ -15,7 +16,7 @@ const writeFile = util.promisify(fs.writeFile);
 const roster = [];
 
 for(let i = 0; i < 32; i++) {
-	roster.push(Person.generatePerson());
+	roster.push(new Player(i));
 }
 
 //Play the regular season
