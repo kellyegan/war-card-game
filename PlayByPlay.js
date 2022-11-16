@@ -39,7 +39,7 @@ PlayByPlay.prototype.generate = function () {
         wordCount += call.split(" ").length
         calls.push(call);
     }
-    call = `${this.game.players[0].fullName} wins in ${this.game.hands.length} hands.`;
+    call = `${this.game.winner} wins in ${this.game.hands.length} hands.`;
     calls.push(call);
     return calls;
 }
