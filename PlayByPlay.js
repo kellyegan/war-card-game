@@ -10,7 +10,7 @@ PlayByPlay.prototype.generate = function () {
     let calls = []
     let wordCount = 0;
 
-    let call = `Looks like ${this.game.players[0].person.fullName()} and ${this.game.players[1].person.fullName()} are ready to start.`;
+    let call = `Looks like ${this.game.players[0].person.fullName} and ${this.game.players[1].person.fullName} are ready to start.`;
     calls.push(call);
 
     for(let i = 0; i < this.game.hands.length; i++) {
@@ -30,7 +30,7 @@ PlayByPlay.prototype.generate = function () {
                 let prizeSize = hand.prize.length
                 call += `${this.game.players[winner].person.lastName} beats ${this.game.players[loser].person.lastName} with ${winning_card} over ${losing_card} taking a prize of ${prizeSize}`
             } else {
-                call += `That's the match folks. ${this.game.players[loser].person.fullName()} has run out of cards.`;
+                call += `That's the match folks. ${this.game.players[loser].person.fullName} has run out of cards.`;
             }
 
         } else {
@@ -39,7 +39,7 @@ PlayByPlay.prototype.generate = function () {
         wordCount += call.split(" ").length
         calls.push(call);
     }
-    call = `${this.game.players[0].person.fullName()} wins in ${this.game.hands.length} hands.`;
+    call = `${this.game.players[0].person.fullName} wins in ${this.game.hands.length} hands.`;
     calls.push(call);
     return calls;
 }
