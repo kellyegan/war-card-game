@@ -48,22 +48,22 @@ Tournament.prototype.play = function () {
 						id: gameID,
 						round: round,
 						players: [ 
-							{id: playerOneID, person: this.players[playerOneID]}, 
-							{id: playerTwoID, person: this.players[playerTwoID]} 
+							this.players[playerOneID], 
+							this.players[playerTwoID] 
 						],
-						winner: winner,
+						winner: this.players[winner].fullName,
 					  hands: game.hands
 					});
 
 					this.players[playerOneID].finals.push({
 							id: gameID,
-							opponent: playerTwoID,
+							opponent: this.players[playerTwoID].fullName,
 							win:  winner == playerOneID,
 						});
 
-					this.players[playerOneID].finals.push({
+					this.players[playerTwoID].finals.push({
 							id: gameID,
-							opponent: playerOneID,
+							opponent: this.players[playerOneID].fullName,
 							win:  winner == playerTwoID,
 						});
 
