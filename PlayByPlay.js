@@ -4,9 +4,9 @@ const CardDeck = require("./CardDeck")
 
 class PlayByPlay {
     constructor( game ) {
-        this.game = game;
         this.players = game.players;
         this.hands = game.hands;
+        this.winner = game.winner;
         this.deck = new CardDeck.Deck();   
     }
 
@@ -87,7 +87,7 @@ class PlayByPlay {
             wordCount += call.split(" ").length
             calls.push(call);
         }
-        call = `${this.game.winner} wins in ${this.hands.length} hands.`;
+        call = `${this.winner} wins in ${this.hands.length} hands.`;
         calls.push(call);
         return calls;
     }
