@@ -103,7 +103,7 @@ War.prototype.playRound = function () {
 			return total + player.numberOfCards();
 		}, 0);
 
-		this.hands.push( hand );
+		this.hands.push( hand.record() );
 		return true;
 	}
 	return false;
@@ -152,6 +152,17 @@ function Hand( activePlayers, players, prize, war ) {
 		});
 	} else {
 		this.winners = this.activePlayers.slice();
+	}
+}
+
+Hand.prototype.record = function () {
+	return {
+		"war": this.war,
+		"activePlayers": this.activePlayers,
+		"play": this.play,
+		"counts": this.counts,
+		"prize": this.prize.length,
+		"winners": this.winners
 	}
 }
 
