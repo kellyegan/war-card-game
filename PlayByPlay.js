@@ -30,8 +30,7 @@ PlayByPlay.prototype.generate = function () {
             if( hand.activePlayers.length > 1 ) {
                 const winning_card = this.deck.getName(hand.play[winner].identifier);
                 const losing_card = this.deck.getName(hand.play[loser].identifier);
-                const prizeSize = hand.prize.length
-                call += `${this.game.players[winner].lastName} beats ${this.game.players[loser].lastName} with ${winning_card} over ${losing_card} taking a prize of ${prizeSize}`
+                call += `${this.game.players[winner].lastName} beats ${this.game.players[loser].lastName} with ${winning_card} over ${losing_card} taking a prize of ${hand.prize}`
             } else {
                 call += `That's the match folks. ${this.game.players[loser].fullName} has run out of cards.`;
             }
