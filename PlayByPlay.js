@@ -55,7 +55,7 @@ class PlayByPlay {
         let wordCount = 0;
         let grammar = this.getGrammar();
 
-        let lastSpread = 0;
+        let spreadAtLastUpdate = 0;
         let streak = 0;
         let lastWinner = null;
 
@@ -85,16 +85,15 @@ class PlayByPlay {
                     
                     const spread = hand.counts[0] - hand.counts[1];
 
-                    if(Math.abs(spread - lastSpread) >= 8) {
+                    if(Math.abs(spread - spreadAtLastUpdate) >= 8) {
                         if(hand.counts[0] !== hand.counts[1]) {
                             let leader = hand.counts[0] > hand.counts[1] ? 0 : 1;
                             call += ` ${this.players[leader].lastName} leads ${hand.counts[leader]} to ${hand.counts[(leader + 1) % 2]}.`;
                         } else {
                             call += " The games tied.";
                         }
-                        lastSpread = spread;
-                    }           
-
+                        spreadAtLastUpdate = spread;
+                    }
                 } else {
                     call += `That's the match folks. ${this.players[loser].fullName} has run out of cards.`;
                 }
