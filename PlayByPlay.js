@@ -5,6 +5,7 @@ const CardDeck = require("./CardDeck")
 class PlayByPlay {
     constructor( game ) {
         this.game = game;
+        this.players = game.players;
         this.deck = new CardDeck.Deck();   
     }
 
@@ -29,10 +30,13 @@ class PlayByPlay {
         let calls = []
         let wordCount = 0;
         let grammar = this.getGrammar();
+
         let lastSpread = 0;
+        let streak = 0;
+        let lastWinner = null;
 
     
-        let call = `Looks like ${this.game.players[0].fullName} and ${this.game.players[1].fullName} are ready to start.`;
+        let call = `Looks like ${this.players[0].fullName} and ${this.players[1].fullName} are ready to start.`;
         calls.push(call);
     
         for(let i = 0; i < this.game.hands.length; i++) {
@@ -46,21 +50,33 @@ class PlayByPlay {
             if( hand.winners.length == 1) {
                 let winner = hand.winners[0];
                 let loser = (hand.winners[0] + 1) % 2;
+
+                if( lastWinner === winner ) {
+                    streak++;
+                } else {
+                    streak = 0;
+                }
+                lastWinner = winner;
+
+
                 if( hand.activePlayers.length > 1 ) {
                     const winning_card = this.deck.getName(hand.play[winner].identifier);
                     const losing_card = this.deck.getName(hand.play[loser].identifier);
 
-                    call += grammar.flatten(`[winner:${this.game.players[winner].lastName}][winning_card:${winning_card}][loser:${this.game.players[loser].lastName}][losing_card:${losing_card}]#call#`);
+                    call += grammar.flatten(`[winner:${this.players[winner].lastName}][winning_card:${winning_card}][loser:${this.players[loser].lastName}][losing_card:${losing_card}]#call#`);
                     
                     const spread = hand.counts[0] - hand.counts[1];
                     if(Math.abs(spread - lastSpread) >= 8) {
                         let leader = hand.counts[0] > hand.counts[1] ? 0 : 1;
                         
-                        call += ` ${this.game.players[leader].lastName} leads ${hand.counts[leader]} to ${hand.counts[(leader + 1) % 2]}`;
+                        call += ` ${this.players[leader].lastName} leads ${hand.counts[leader]} to ${hand.counts[(leader + 1) % 2]}`;
                         lastSpread = spread;
                     }
+
+                    call += `  ${streak}`
+
                 } else {
-                    call += `That's the match folks. ${this.game.players[loser].fullName} has run out of cards.`;
+                    call += `That's the match folks. ${this.players[loser].fullName} has run out of cards.`;
                 }
     
             } else {
