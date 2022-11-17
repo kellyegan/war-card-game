@@ -17,7 +17,6 @@ class PlayByPlay {
                 "#winner#'s #winning_card# #beats# #loser#'s #losing_card#.",
                 "#winner# with #winning_card.a# over #losing_card#.",
                 "#winner#. #winning_card# over #losing_card#.",
-                "#winner# takes it.",
                 "#winner#'s hand."
             ],
             tied: [
@@ -41,7 +40,7 @@ class PlayByPlay {
                 "#loser# falls to #winner# again.",
                 "#call#"
             ],
-            beats: ["beats", "bests", "tops", "takes"],
+            beats: ["beats", "bests", "tops"],
             loses: ["loses", "falls"]
         }
         const grammar = tracery.createGrammar(rules);
@@ -58,6 +57,8 @@ class PlayByPlay {
         let spreadAtLastUpdate = 0;
         let streak = 0;
         let lastWinner = null;
+        let leader = null;
+        let lastLeader = null;
 
     
         let call = `Looks like ${this.players[0].fullName} and ${this.players[1].fullName} are ready to start.`;
@@ -74,7 +75,11 @@ class PlayByPlay {
                 streak = lastWinner === winner ? streak + 1 : 0;
                 lastWinner = winner;
 
-                if( hand.activePlayers.length > 1 ) {
+                leader = hand.counts[0] > hand.counts[1] ? 0 : 1;
+
+                if(leader != lastLeader) {
+                    call += `${this.players[winner].fullName} takes the lead with a ${this.deck.getName(hand.play[winner].identifier)}`;
+                } else if( hand.activePlayers.length > 1 ) {
                     const winning_card = this.deck.getName(hand.play[winner].identifier);
                     const losing_card = this.deck.getName(hand.play[loser].identifier);
                     if(streak > 1) {
@@ -87,7 +92,7 @@ class PlayByPlay {
 
                     if(Math.abs(spread - spreadAtLastUpdate) >= 8) {
                         if(hand.counts[0] !== hand.counts[1]) {
-                            let leader = hand.counts[0] > hand.counts[1] ? 0 : 1;
+                            
                             call += ` ${this.players[leader].lastName} leads ${hand.counts[leader]} to ${hand.counts[(leader + 1) % 2]}.`;
                         } else {
                             call += " The games tied.";
@@ -97,7 +102,7 @@ class PlayByPlay {
                 } else {
                     call += `That's the match folks. ${this.players[loser].fullName} has run out of cards.`;
                 }
-    
+                lastLeader = leader;
             } else {
                 let rank = this.deck.getRank(hand.play[0].identifier);
                 
