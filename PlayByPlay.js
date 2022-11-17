@@ -107,7 +107,7 @@ class PlayByPlay {
             wordCount += call.split(" ").length
             calls.push(call);
         }
-        call = `${this.winner} wins in ${this.hands.length < 100 ? "just " : ""}${this.hands.length} hands.`;
+        call = `${this.winner} wins in ${this.hands.length < 150 ? "just " : ""}${this.hands.length} hands.`;
         calls.push(call);
         return calls;
     }
