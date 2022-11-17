@@ -74,8 +74,6 @@ class PlayByPlay {
                         lastSpread = spread;
                     }
 
-                    call += `  ${streak}`
-
                 } else {
                     call += `That's the match folks. ${this.players[loser].fullName} has run out of cards.`;
                 }
