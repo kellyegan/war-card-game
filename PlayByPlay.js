@@ -16,10 +16,26 @@ class PlayByPlay {
                 "#winner# #beats# #loser# with #winning_card# over #losing_card#.",
                 "#winner#'s #winning_card# #beats# #loser#'s #losing_card#.",
                 "#winner# with #winning_card.a# over #losing_card#.",
-                "#winner#. #winning_card# over #losing_card#."
+                "#winner#. #winning_card# over #losing_card#.",
+                "#winner# takes it.",
+                "#winner#'s hand."
             ],
-            beats: ["beats", "bests"],
-            loses: ["loses to", "falls"]
+            tied: [
+                "Two #card.s#. #war#",
+                "Two #card.s#. #war#",
+                "#card.capitalize.s#. #war#",
+                "#card.capitalize.s# all around. #war#"
+            ],
+            war: [
+                "War!",
+                "War!",
+                "War!!",
+                "War!!!",
+                "We have a war!",
+                "It's a war folks!"
+            ],
+            beats: ["beats", "bests", "tops", "takes"],
+            loses: ["loses", "falls"]
         }
         const grammar = tracery.createGrammar(rules);
         grammar.addModifiers(tracery.baseEngModifiers)
@@ -43,10 +59,6 @@ class PlayByPlay {
         for(let i = 0; i < this.hands.length; i++) {
             let hand = this.hands[i];
             call = ""
-    
-            if(hand.war) {
-                call += "War!!! "
-            }
             
             if( hand.winners.length == 1) {
                 let winner = hand.winners[0];
@@ -80,12 +92,13 @@ class PlayByPlay {
     
             } else {
                 let rank = this.deck.getRank(hand.play[0].identifier);
-                call += `Two ${rank.toLowerCase()}s`
+                
+                call += grammar.flatten(`[card:${rank.toLowerCase()}]#tied#`);
             }
             wordCount += call.split(" ").length
             calls.push(call);
         }
-        call = `${this.winner} wins in ${this.hands.length} hands.`;
+        call = `${this.winner} wins in ${this.hands.length < 100 ? "just " : ""}${this.hands.length} hands.`;
         calls.push(call);
         return calls;
     }
