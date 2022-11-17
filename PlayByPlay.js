@@ -6,6 +6,7 @@ class PlayByPlay {
     constructor( game ) {
         this.game = game;
         this.players = game.players;
+        this.hands = game.hands;
         this.deck = new CardDeck.Deck();   
     }
 
@@ -39,8 +40,8 @@ class PlayByPlay {
         let call = `Looks like ${this.players[0].fullName} and ${this.players[1].fullName} are ready to start.`;
         calls.push(call);
     
-        for(let i = 0; i < this.game.hands.length; i++) {
-            let hand = this.game.hands[i];
+        for(let i = 0; i < this.hands.length; i++) {
+            let hand = this.hands[i];
             call = ""
     
             if(hand.war) {
@@ -86,7 +87,7 @@ class PlayByPlay {
             wordCount += call.split(" ").length
             calls.push(call);
         }
-        call = `${this.game.winner} wins in ${this.game.hands.length} hands.`;
+        call = `${this.game.winner} wins in ${this.hands.length} hands.`;
         calls.push(call);
         return calls;
     }
