@@ -91,6 +91,10 @@ War.prototype.playRound = function () {
 			//We have a winner
 			const winnerIndex = hand.winners[0];
 			this.players[winnerIndex].takeCards(shuffle(hand.prize.slice()));
+
+			// This is to make sure the current prize is included in the players counts
+			hand.counts = this.players.map((player) => {return player.numberOfCards()});
+			
 			this.prize = [];
 			this.war = false;
 		} else {
