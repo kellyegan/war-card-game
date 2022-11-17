@@ -5,10 +5,12 @@ const CardDeck = require("./CardDeck")
 class PlayByPlay {
     constructor( game ) {
         this.game = game;
-        this.deck = new CardDeck.Deck();
+        this.deck = new CardDeck.Deck();   
     }
 
-    generate() {
+
+
+    create() {
         let calls = []
         let wordCount = 0;
     

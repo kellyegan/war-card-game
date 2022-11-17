@@ -1,0 +1,27 @@
+{
+  "name": "war-card-game",
+  "version": "1.0.0",
+  "description": "Simulates a war card game tournament and write commentary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellyegan/war-card-game.git"
+  },
+  "keywords": [
+    "nanogenmo",
+    "generative",
+    "writing"
+  ],
+  "author": "Kelly Egan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellyegan/war-card-game/issues"
+  },
+  "homepage": "https://github.com/kellyegan/war-card-game#readme",
+  "dependencies": {
+    "tracery-grammar": "^2.7.4"
+  }
+}
