@@ -15,9 +15,11 @@ class PlayByPlay {
         const rules = {
             call: [
                 "#winner# #beats# #loser# with #winningCardName# over #losingCardName#.",
-                "#winner#'s #winningCardName# #beats# #loser#'s #losingCardName#.",
+                "#winner#'s #winningCardRank# #beats# #loser#'s #losingCardRank#.",
                 "#winner# with #winningCardName.a# over #losingCardName#.",
-                "#winner#. #winningCardName# over #losingCardName#.",
+                "#winner#. #winningCardRank.capitalize# over #losingCardRank#.",
+                "#winningCardRank.capitalize# over #losingCardRank#. #winner#.",
+                "#loser#'s #losingCardRank# #loses# to #winner#'s #winningCardRank#.",
                 "#winner#'s hand."
             ],
             tied: [
@@ -34,6 +36,11 @@ class PlayByPlay {
                 "We have a war!",
                 "It's a war folks!"
             ],
+            warOver: [
+                "#winner#'s #winningCardRank# wins the battle. #prize# cards are the spoils.`",
+                "#winner# defeats #loser# with #winningCardRank.a#, takes #prize# cards.`",
+                "#loser# is defeated. #winner# takes #prize# cards.",
+            ],
             again: [
                 "#winner# again.",
                 "Another for #winner#.",
@@ -49,7 +56,7 @@ class PlayByPlay {
         return grammar;
     }
 
-    createCall(origin, winner, loser, winningCardIdentifier, losingCardIdentifier) {
+    createCall(origin, winner, loser, winningCardIdentifier, losingCardIdentifier, prize) {
         const winningCard = this.deck.getCard(winningCardIdentifier);
         const losingCard = this.deck.getCard(losingCardIdentifier);
 
@@ -59,6 +66,7 @@ class PlayByPlay {
         rules += `[winningCardRank:${winningCard.rank.toLowerCase()}]`;
         rules += `[losingCardName:${losingCard.name}]`;
         rules += `[losingCardRank:${losingCard.rank.toLowerCase()}]`;
+        rules += `[prize:${prize}]`;
         rules += origin;
         return this.grammar.flatten(rules);
     }
@@ -91,15 +99,16 @@ class PlayByPlay {
                 lastWinner = winner;
 
                 leader = hand.counts[0] > hand.counts[1] ? 0 : 1;
-
-                if(leader != lastLeader) {
+                if(hand.war) {
+                    call += this.createCall("#warOver#", this.players[winner], this.players[loser], hand.play[winner].identifier, hand.play[loser].identifier, hand.prize);
+                } else if(leader != lastLeader) {
                     call += `${this.players[winner].fullName} takes the lead with a ${this.deck.getName(hand.play[winner].identifier)}`;
                 } else if( hand.activePlayers.length > 1 ) {
   
                     if(streak > 1) {
-                        call += this.createCall("#again#", this.players[winner], this.players[loser], hand.play[winner].identifier, hand.play[loser].identifier);
+                        call += this.createCall("#again#", this.players[winner], this.players[loser], hand.play[winner].identifier, hand.play[loser].identifier, hand.prize);
                     } else {
-                        call += this.createCall("#call#", this.players[winner], this.players[loser], hand.play[winner].identifier, hand.play[loser].identifier);
+                        call += this.createCall("#call#", this.players[winner], this.players[loser], hand.play[winner].identifier, hand.play[loser].identifier, hand.prize);
                     }
                     
                     const spread = hand.counts[0] - hand.counts[1];
