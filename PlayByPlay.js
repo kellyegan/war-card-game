@@ -76,7 +76,17 @@ class PlayByPlay {
 
         details.leader = hand.counts[0] > hand.counts[1] ? 0 : 1;
 
-        details.gameover = hand.counts[0] === 0 || hand.counts[1] === 0;
+        if( hand.counts[0] === 0 ) {
+            details.gameover = true;
+            details.winner = this.players[1];
+            details.loser = this.players[0];
+        }
+
+        if( hand.counts[1] === 0 ) {
+            details.gameover = true;
+            details.winner = this.players[0];
+            details.loser = this.players[1];
+        }
         
         if(hand.winners.length == 1) {
             details.tie = false;
@@ -154,7 +164,11 @@ class PlayByPlay {
                     call += this.grammar.flatten(`[card:${rank}]#tied#`);
                 }
             } else {
-                call += "Game over."
+                if(handDetails.losingCard) {
+                    call += `${handDetails.winner.lastName}'s ${handDetails.winningCard.name} beats ${handDetails.loser.lastName}'s ${handDetails.losingCard.name} to finish the game.`
+                } else {
+                    call += `${handDetails.loser.lastName} is out of cards. That's the game.`
+                }
             }
 
             lastLeader = leader;
