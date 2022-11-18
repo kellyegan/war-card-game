@@ -7,7 +7,8 @@ class PlayByPlay {
         this.players = game.players;
         this.hands = game.hands;
         this.winner = game.winner;
-        this.deck = new CardDeck.Deck();   
+        this.deck = new CardDeck.Deck();
+        this.grammar = this.getGrammar();
     }
 
     getGrammar() {
@@ -48,11 +49,20 @@ class PlayByPlay {
         return grammar;
     }
 
+    createCall(origin, winner, loser, winningCard, losingCard) {
+        const rules = `[winner:${winner.lastName}`;
+        rules += `[loser:${loser.lastName}]`;
+        rules += `[winning_card:${winningCard}]`;
+        rules += `[losing_card:${losingCard}]`;
+        rules += origin;
+        return this.grammar.flatten(rules);
+    }
+
 
     create() {
         let calls = []
         let wordCount = 0;
-        let grammar = this.getGrammar();
+
 
         let spreadAtLastUpdate = 0;
         let streak = 0;
@@ -80,12 +90,12 @@ class PlayByPlay {
                 if(leader != lastLeader) {
                     call += `${this.players[winner].fullName} takes the lead with a ${this.deck.getName(hand.play[winner].identifier)}`;
                 } else if( hand.activePlayers.length > 1 ) {
-                    const winning_card = this.deck.getName(hand.play[winner].identifier);
-                    const losing_card = this.deck.getName(hand.play[loser].identifier);
+                    const winningCard = this.deck.getName(hand.play[winner].identifier);
+                    const losingCard = this.deck.getName(hand.play[loser].identifier);
                     if(streak > 1) {
-                        call += grammar.flatten(`[winner:${this.players[winner].lastName}][winning_card:${winning_card}][loser:${this.players[loser].lastName}][losing_card:${losing_card}]#again#`);
+                        call += this.grammar.flatten(`[winner:${this.players[winner].lastName}][winning_card:${winningCard}][loser:${this.players[loser].lastName}][losing_card:${losingCard}]#again#`);
                     } else {
-                        call += grammar.flatten(`[winner:${this.players[winner].lastName}][winning_card:${winning_card}][loser:${this.players[loser].lastName}][losing_card:${losing_card}]#call#`);
+                        call += this.grammar.flatten(`[winner:${this.players[winner].lastName}][winning_card:${winningCard}][loser:${this.players[loser].lastName}][losing_card:${losingCard}]#call#`);
                     }
                     
                     const spread = hand.counts[0] - hand.counts[1];
@@ -105,8 +115,9 @@ class PlayByPlay {
                 lastLeader = leader;
             } else {
                 let rank = this.deck.getRank(hand.play[0].identifier);
+                streak = 0;
                 
-                call += grammar.flatten(`[card:${rank.toLowerCase()}]#tied#`);
+                call += this.grammar.flatten(`[card:${rank.toLowerCase()}]#tied#`);
             }
             wordCount += call.split(" ").length
             calls.push(call);
