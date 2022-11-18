@@ -56,10 +56,7 @@ class PlayByPlay {
         return grammar;
     }
 
-    createCall(origin, winner, loser, winningCardIdentifier, losingCardIdentifier, prize) {
-        const winningCard = this.deck.getCard(winningCardIdentifier);
-        const losingCard = this.deck.getCard(losingCardIdentifier);
-
+    createCall(origin, winner, loser, winningCard, losingCard, prize) {        
         let rules = `[winner:${winner.lastName}]`;
         rules += `[loser:${loser.lastName}]`;
         rules += `[winningCardName:${winningCard.name}]`;
@@ -74,13 +71,17 @@ class PlayByPlay {
     parseHand(hand) {
         let details = {}
         details.war = hand.war;
+        details.prize = hand.prize;
+
+        details.leader = hand.counts[0] > hand.counts[1] ? 0 : 1;
 
         details.gameover = hand.counts[0] === 0 || hand.counts[1] === 0;
         
         if(hand.winners.length == 1) {
-            details.type = "winner";
+            details.tie = false;
             const winnerIndex = hand.winners[0];
             const loserIndex = (hand.winners[0] + 1) % 2;
+
             details.winner = this.players[winnerIndex];
             details.loser = this.players[loserIndex];
             
@@ -92,7 +93,8 @@ class PlayByPlay {
             }
             
         } else {
-            details.type = "tie";
+            details.tie = true;
+            details.rank = this.deck.getRank(hand.play[0].identifier);
         }
 
         return details;
@@ -107,13 +109,37 @@ class PlayByPlay {
         let lastWinner = null;
         let leader = null;
         let lastLeader = null;
+        let lastLeadChange;
     
         let call = `Looks like ${this.players[0].fullName} and ${this.players[1].fullName} are ready to start.`;
         calls.push(call);
         
         this.hands.forEach((hand, index) => {
             let handDetails = this.parseHand(hand);
-            console.log(handDetails)
+            call = ""
+
+            //Track winning streak
+            streak = lastWinner === handDetails.winner ? streak + 1 : 0;
+            lastWinner = handDetails.winner;
+
+            //Track change in who leads
+            leader = hand.counts[0] > hand.counts[1] ? 0 : 1;
+
+            if( !handDetails.gameover ) {
+                if(!handDetails.tie) {
+                    call += this.createCall("#call#", handDetails.winner, handDetails.loser, handDetails.winningCard, handDetails.losingCard, handDetails.prize);
+                } else {
+                    const rank = handDetails.rank.toLowerCase();
+                    call += this.grammar.flatten(`[card:${rank}]#tied#`);
+                }
+            } else {
+                call += "Game over."
+            }
+
+            lastLeader = leader;
+            if(call !== "") {
+                calls.push(call);
+            }
         });
 
         call = `${this.winner} wins in ${this.hands.length < 150 ? "just " : ""}${this.hands.length} hands.`;
