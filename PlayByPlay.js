@@ -99,12 +99,13 @@ class PlayByPlay {
                 lastWinner = winner;
 
                 leader = hand.counts[0] > hand.counts[1] ? 0 : 1;
-                if(hand.war) {
-                    call += this.createCall("#warOver#", this.players[winner], this.players[loser], hand.play[winner].identifier, hand.play[loser].identifier, hand.prize);
-                } else if(leader != lastLeader) {
+                
+                if(leader != lastLeader) {
                     call += `${this.players[winner].fullName} takes the lead with a ${this.deck.getName(hand.play[winner].identifier)}`;
                 } else if( hand.activePlayers.length > 1 ) {
-  
+                    // if(hand.war) {
+                    //     call += this.createCall("#warOver#", this.players[winner], this.players[loser], hand.play[winner].identifier, hand.play[loser].identifier, hand.prize);
+                    // } 
                     if(streak > 1) {
                         call += this.createCall("#again#", this.players[winner], this.players[loser], hand.play[winner].identifier, hand.play[loser].identifier, hand.prize);
                     } else {
