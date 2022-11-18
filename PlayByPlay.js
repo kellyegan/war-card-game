@@ -50,10 +50,13 @@ class PlayByPlay {
     }
 
     createCall(origin, winner, loser, winningCard, losingCard) {
-        const rules = `[winner:${winner.lastName}`;
+        const winningCardName = this.deck.getName(winningCard);
+        const losingCardName = this.deck.getName(losingCard)
+
+        let rules = `[winner:${winner.lastName}]`;
         rules += `[loser:${loser.lastName}]`;
-        rules += `[winning_card:${winningCard}]`;
-        rules += `[losing_card:${losingCard}]`;
+        rules += `[winning_card:${winningCardName}]`;
+        rules += `[losing_card:${losingCardName}]`;
         rules += origin;
         return this.grammar.flatten(rules);
     }
@@ -90,12 +93,11 @@ class PlayByPlay {
                 if(leader != lastLeader) {
                     call += `${this.players[winner].fullName} takes the lead with a ${this.deck.getName(hand.play[winner].identifier)}`;
                 } else if( hand.activePlayers.length > 1 ) {
-                    const winningCard = this.deck.getName(hand.play[winner].identifier);
-                    const losingCard = this.deck.getName(hand.play[loser].identifier);
+  
                     if(streak > 1) {
-                        call += this.grammar.flatten(`[winner:${this.players[winner].lastName}][winning_card:${winningCard}][loser:${this.players[loser].lastName}][losing_card:${losingCard}]#again#`);
+                        call += this.createCall("#again#", this.players[winner], this.players[loser], hand.play[winner].identifier, hand.play[loser].identifier);
                     } else {
-                        call += this.grammar.flatten(`[winner:${this.players[winner].lastName}][winning_card:${winningCard}][loser:${this.players[loser].lastName}][losing_card:${losingCard}]#call#`);
+                        call += this.createCall("#call#", this.players[winner], this.players[loser], hand.play[winner].identifier, hand.play[loser].identifier);
                     }
                     
                     const spread = hand.counts[0] - hand.counts[1];
