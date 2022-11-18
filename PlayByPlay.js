@@ -71,6 +71,32 @@ class PlayByPlay {
         return this.grammar.flatten(rules);
     }
 
+    parseHand(hand) {
+        let details = {}
+        details.war = hand.war;
+
+        details.gameover = hand.counts[0] === 0 || hand.counts[1] === 0;
+        
+        if(hand.winners.length == 1) {
+            details.type = "winner";
+            const winnerIndex = hand.winners[0];
+            const loserIndex = (hand.winners[0] + 1) % 2;
+            details.winner = this.players[winnerIndex];
+            details.loser = this.players[loserIndex];
+            
+            if(hand.play.length > 1) {
+                details.winningCard = this.deck.getCard(hand.play[winnerIndex].identifier);
+                details.losingCard = this.deck.getCard(hand.play[loserIndex].identifier);
+            } else {
+                details.winningCard = this.deck.getCard(hand.play[0].identifier);
+            }
+            
+        } else {
+            details.type = "tie";
+        }
+
+        return details;
+    }
 
     create() {
         let calls = []
