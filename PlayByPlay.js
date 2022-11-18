@@ -22,6 +22,14 @@ class PlayByPlay {
                 "#loser#'s #losingCardRank# #loses# to #winner#'s #winningCardRank#.",
                 "#winner#'s hand."
             ],
+            again: [
+                "#winner# again.",
+                "#winner# wins again. #winningCardRank.capitalize# over #losingCardRank#.",
+                "Another for #winner#.",
+                "#winner# this time with the #winningCardName#.",
+                "#loser# falls to #winner# again.",
+                "#call#"
+            ],
             tied: [
                 "Two #card.s#. #war#",
                 "Two #card.s#. #war#",
@@ -37,16 +45,9 @@ class PlayByPlay {
                 "It's a war folks!"
             ],
             warOver: [
-                "#winner#'s #winningCardRank# wins the battle. #prize# cards are the spoils.`",
-                "#winner# defeats #loser# with #winningCardRank.a#, takes #prize# cards.`",
-                "#loser# is defeated. #winner# takes #prize# cards.",
-            ],
-            again: [
-                "#winner# again.",
-                "Another for #winner#.",
-                "#winner# this time with the #winningCardName#.",
-                "#loser# falls to #winner# again.",
-                "#call#"
+                "#winner#'s #winningCardRank# wins the battletaking #prize# cards.",
+                "#winner# defeats #loser# with #winningCardRank.a#, takes #prize# cards.",
+                "#loser# loses the battle. #winner# takes #prize# cards.",
             ],
             beats: ["beats", "bests", "tops"],
             loses: ["loses", "falls"]
@@ -56,14 +57,14 @@ class PlayByPlay {
         return grammar;
     }
 
-    createCall(origin, winner, loser, winningCard, losingCard, prize) {        
-        let rules = `[winner:${winner.lastName}]`;
-        rules += `[loser:${loser.lastName}]`;
-        rules += `[winningCardName:${winningCard.name}]`;
-        rules += `[winningCardRank:${winningCard.rank.toLowerCase()}]`;
-        rules += `[losingCardName:${losingCard.name}]`;
-        rules += `[losingCardRank:${losingCard.rank.toLowerCase()}]`;
-        rules += `[prize:${prize}]`;
+    createCall(origin, handDetails) {  
+        let rules = `[winner:${handDetails.winner.lastName}]`;
+        rules += `[loser:${handDetails.loser.lastName}]`;
+        rules += `[winningCardName:${handDetails.winningCard.name}]`;
+        rules += `[winningCardRank:${handDetails.winningCard.rank.toLowerCase()}]`;
+        rules += `[losingCardName:${handDetails.losingCard.name}]`;
+        rules += `[losingCardRank:${handDetails.losingCard.rank.toLowerCase()}]`;
+        rules += `[prize:${handDetails.prize}]`;
         rules += origin;
         return this.grammar.flatten(rules);
     }
@@ -127,7 +128,27 @@ class PlayByPlay {
 
             if( !handDetails.gameover ) {
                 if(!handDetails.tie) {
-                    call += this.createCall("#call#", handDetails.winner, handDetails.loser, handDetails.winningCard, handDetails.losingCard, handDetails.prize);
+                    if(!handDetails.war) {
+                        if(streak > 1) {
+                            call += this.createCall("#again#", handDetails);
+                        } else {
+                            call += this.createCall("#call#", handDetails);
+                        }
+                    } else {
+                        call += this.createCall("#warOver#", handDetails);
+                    }
+
+                    const spread = hand.counts[0] - hand.counts[1];
+                    
+                    if(Math.abs(spread - spreadAtLastUpdate) >= 8) {
+                        if(hand.counts[0] !== hand.counts[1]) {
+                            
+                            call += ` ${this.players[leader].lastName} leads ${hand.counts[leader]} to ${hand.counts[(leader + 1) % 2]}.`;
+                        } else {
+                            call += " The games tied.";
+                        }
+                        spreadAtLastUpdate = spread;
+                    }
                 } else {
                     const rank = handDetails.rank.toLowerCase();
                     call += this.grammar.flatten(`[card:${rank}]#tied#`);
