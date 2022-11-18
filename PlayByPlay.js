@@ -14,10 +14,10 @@ class PlayByPlay {
     getGrammar() {
         const rules = {
             call: [
-                "#winner# #beats# #loser# with #winning_card# over #losing_card#.",
-                "#winner#'s #winning_card# #beats# #loser#'s #losing_card#.",
-                "#winner# with #winning_card.a# over #losing_card#.",
-                "#winner#. #winning_card# over #losing_card#.",
+                "#winner# #beats# #loser# with #winningCardName# over #losingCardName#.",
+                "#winner#'s #winningCardName# #beats# #loser#'s #losingCardName#.",
+                "#winner# with #winningCardName.a# over #losingCardName#.",
+                "#winner#. #winningCardName# over #losingCardName#.",
                 "#winner#'s hand."
             ],
             tied: [
@@ -37,7 +37,7 @@ class PlayByPlay {
             again: [
                 "#winner# again.",
                 "Another for #winner#.",
-                "#winner# this time with the #winning_card#.",
+                "#winner# this time with the #winningCardName#.",
                 "#loser# falls to #winner# again.",
                 "#call#"
             ],
@@ -49,14 +49,16 @@ class PlayByPlay {
         return grammar;
     }
 
-    createCall(origin, winner, loser, winningCard, losingCard) {
-        const winningCardName = this.deck.getName(winningCard);
-        const losingCardName = this.deck.getName(losingCard)
+    createCall(origin, winner, loser, winningCardIdentifier, losingCardIdentifier) {
+        const winningCard = this.deck.getCard(winningCardIdentifier);
+        const losingCard = this.deck.getCard(losingCardIdentifier);
 
         let rules = `[winner:${winner.lastName}]`;
         rules += `[loser:${loser.lastName}]`;
-        rules += `[winning_card:${winningCardName}]`;
-        rules += `[losing_card:${losingCardName}]`;
+        rules += `[winningCardName:${winningCard.name}]`;
+        rules += `[winningCardRank:${winningCard.rank.toLowerCase()}]`;
+        rules += `[losingCardName:${losingCard.name}]`;
+        rules += `[losingCardRank:${losingCard.rank.toLowerCase()}]`;
         rules += origin;
         return this.grammar.flatten(rules);
     }
