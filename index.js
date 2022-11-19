@@ -13,7 +13,7 @@ const CardDeck = require('./CardDeck');
 
 let deck = new CardDeck.Deck();
 
-const writeFile = util.promisify(fs.writeFile);
+// const writeFile = util.promisify(fs.writeFile);
 
 //Create a roster of players
 const players = [];
@@ -26,31 +26,25 @@ for(let i = 0; i < 31; i++) {
 const season = new RoundRobin(players);
 season.play();
 
-const seasonJSON = JSON.stringify(season, null, 2);
-
-writeFile("./output/season.json", seasonJSON, 'utf8')
-	.then( () => {
-		console.log(`Saved "./output/season.json"`);
-	}).catch ( (error) => {
-		console.error(error);
-	})
-
 //Play the tournament
 const tournament = new Tournament(season.roster, 16);
 tournament.play();
 
-const tournamentJSON = JSON.stringify(tournament, null, 2);
-
-writeFile("./output/tournament.json", tournamentJSON, 'utf8')
-	.then( () => {
-		console.log(`Saved "./output/tournament.json"`);
-	}).catch ( (error) => {
-		console.error(error);
-	})
-
+//Generate commentary
 const pbp = new PlayByPlay(tournament.games[0])
 let calls = pbp.create()
 
 for( let call of calls) {
 	console.log(call);
 }
+
+const writer = fs.createWriteStream("./output/commentary.txt");
+calls.forEach( call => writer.write(call + "\n\n") );
+writer.on('finish', () => console.log("Commentary saved."))
+
+// writeFile("./output/season.json", seasonJSON, 'utf8')
+// 	.then( () => {
+// 		console.log(`Saved "./output/season.json"`);
+// 	}).catch ( (error) => {
+// 		console.error(error);
+// 	})

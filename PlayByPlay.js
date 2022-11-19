@@ -26,8 +26,10 @@ class PlayByPlay {
                 "#winner# again.",
                 "#winner# wins again. #winningCardRank.capitalize# over #losingCardRank#.",
                 "Another for #winner#.",
+                "Another for #winner#. #winningCardRank.capitalize# over #losingCardRank#.",
                 "#winner# this time with the #winningCardName#.",
                 "#loser# falls to #winner# again.",
+                "#winner# continues streak. #winningCardRank.capitalize# over #losingCardRank#.",
                 "#call#"
             ],
             tied: [
@@ -45,7 +47,7 @@ class PlayByPlay {
                 "It's a war folks!"
             ],
             warOver: [
-                "#winner#'s #winningCardRank# wins the battletaking #prize# cards.",
+                "#winner#'s #winningCardRank# wins the battle taking #prize# cards.",
                 "#winner# defeats #loser# with #winningCardRank.a#, takes #prize# cards.",
                 "#loser# loses the battle. #winner# takes #prize# cards.",
             ],
