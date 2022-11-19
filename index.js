@@ -4,12 +4,9 @@ const fs = require('fs');
 
 const RoundRobin = require('./RoundRobin.js');
 const Tournament = require('./Tournament.js');
-const PlayByPlay = require('./PlayByPlay.js');
 const GameDirector = require('./GameDirector.js');
 const Player = require('./Player.js');
-const CardDeck = require('./CardDeck');
-
-let deck = new CardDeck.Deck();
+const Person = require('./Person.js');
 
 // const writeFile = util.promisify(fs.writeFile);
 
@@ -18,6 +15,12 @@ const players = [];
 
 for(let i = 0; i < 31; i++) {
 	players.push(new Player(i));
+}
+
+//Create announcers
+const announcers = {
+	mainCommentator: new Person(),
+	colorCommentator: new Person()
 }
 
 //Play the regular season
@@ -34,7 +37,7 @@ const writer = fs.createWriteStream("./output/commentary.md");
 tournament.games.forEach( (game, index) => {
 	writer.write(`## Round ${game.round}, Match ${game.match}\n\n`);
 
-	const gameDirector = new GameDirector(game);
+	const gameDirector = new GameDirector(game, announcers);
 	const commentary = gameDirector.getCommentary();
 	
 	
