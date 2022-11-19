@@ -3,11 +3,11 @@ const tracery = require("tracery-grammar");
 const CardDeck = require("./CardDeck")
 
 class PlayByPlay {
-    constructor( game ) {
+    constructor( game, deck ) {
         this.players = game.players;
         this.hands = game.hands;
         this.winner = game.winner;
-        this.deck = new CardDeck.Deck();
+        this.deck = deck;
         this.grammar = this.getGrammar();
     }
 

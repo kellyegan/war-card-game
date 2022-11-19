@@ -36,7 +36,7 @@ const writer = fs.createWriteStream("./output/commentary.txt");
 tournament.games.forEach( (game, index) => {
 	writer.write(`## Round ${game.round}, Match ${game.match}\n\n`);
 
-	const pbp = new PlayByPlay(game)
+	const pbp = new PlayByPlay(game, deck);
 	let calls = pbp.create()
 	
 	calls.forEach( call => {
@@ -45,25 +45,8 @@ tournament.games.forEach( (game, index) => {
 	});
 });
 
-//Generate commentary
-const pbp = new PlayByPlay(tournament.games[0])
-let calls = pbp.create()
-
-calls.forEach( call => {
-	writer.write(call + "\n\n");
-	words += countWords(call);
-});
-
-
 writer.end();
 writer.on('finish', () => console.log(`Saved. ${words} words.`))
-
-// writeFile("./output/season.json", seasonJSON, 'utf8')
-// 	.then( () => {
-// 		console.log(`Saved "./output/season.json"`);
-// 	}).catch ( (error) => {
-// 		console.error(error);
-// 	})
 
 function countWords(str) {
 	return str.trim().split(/\s+/).length;
