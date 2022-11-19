@@ -34,9 +34,11 @@ tournament.play();
 const pbp = new PlayByPlay(tournament.games[0])
 let calls = pbp.create()
 
-for( let call of calls) {
-	console.log(call);
-}
+console.log(calls.length)
+
+// for( let call of calls) {
+// 	console.log(call);
+// }
 
 const writer = fs.createWriteStream("./output/commentary.txt");
 calls.forEach( call => writer.write(call + "\n\n") );

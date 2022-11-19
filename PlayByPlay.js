@@ -177,6 +177,7 @@ class PlayByPlay {
                     call += `${handDetails.loser.lastName} is out of cards. That's the game.`
                 }
             }
+            calls.push(call);
         });
 
         call = `${this.winner} wins in ${this.hands.length < 150 ? "just " : ""}${this.hands.length} hands.`;
