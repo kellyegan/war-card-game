@@ -28,7 +28,8 @@ function Tournament( players, tournamentSpots ) {
 Tournament.prototype.play = function () {
 	let remainingPlayers = this.finalists.slice();
 
-	let round = 0;
+	let round = 1;
+	let match = 1; 
 	while( remainingPlayers.length > 1) {
 		let winners = [];
 
@@ -47,6 +48,7 @@ Tournament.prototype.play = function () {
 					this.games.push({
 						id: gameID,
 						round: round,
+						match: match,
 						players: [ 
 							this.players[playerOneID], 
 							this.players[playerTwoID] 
@@ -78,7 +80,9 @@ Tournament.prototype.play = function () {
 			} else {
 				//Hmm both players are null?
 			}
+			match++;
 		}
+		match = 1;
 		round++;
 		remainingPlayers = winners;
 	}

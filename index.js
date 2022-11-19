@@ -34,7 +34,7 @@ let words = 0;
 const writer = fs.createWriteStream("./output/commentary.txt");
 
 tournament.games.forEach( (game, index) => {
-	writer.write(`## Round ${game.round}\n\n`);
+	writer.write(`## Round ${game.round}, Match ${game.match}\n\n`);
 
 	const pbp = new PlayByPlay(game)
 	let calls = pbp.create()
