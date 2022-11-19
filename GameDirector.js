@@ -5,17 +5,23 @@ const PlayByPlay = require("./PlayByPlay.js");
 class GameDirector {
   constructor(game) {
     this.game = game;
-    this.players = game.players;
-    this.hands = game.hands;
-    this.winner = game.winner;
 
     const deck = new CardDeck.Deck();
     this.pbp = new PlayByPlay(this.game, deck);
   }
 
+  
   getCommentary() {
-    
-    return this.pbp.create();
+    let text = [];
+    text.push(this.pbp.getIntro());
+
+    for( let comment of this.pbp.getCall()) {
+      text.push(comment);
+    }
+
+    text.push(this.pbp.getConclusion());
+
+    return text;
   }
 }
 
