@@ -137,6 +137,11 @@ class PlayByPlay {
 
             //Track change in who leads
             leader = hand.counts[0] > hand.counts[1] ? 0 : 1;
+            if( leader !== lastLeader ) {
+                //Leader changed
+                lastLeadChange = index;
+            }
+            lastLeader = leader;
 
             if( !handDetails.gameover ) {
                 if(!handDetails.tie) {
@@ -171,11 +176,6 @@ class PlayByPlay {
                 } else {
                     call += `${handDetails.loser.lastName} is out of cards. That's the game.`
                 }
-            }
-
-            lastLeader = leader;
-            if(call !== "") {
-                calls.push(call);
             }
         });
 
