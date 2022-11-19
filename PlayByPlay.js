@@ -113,6 +113,13 @@ class PlayByPlay {
         return details;
     }
 
+    getIntro() {
+        return `Looks like ${this.players[0].fullName} and ${this.players[1].fullName} are ready to start.`;
+    }
+    getConclusion() {
+        return `${this.winner} wins in ${this.hands.length < 150 ? "just " : ""}${this.hands.length} hands.`;
+    }
+
     create() {
         let calls = []
 
@@ -123,7 +130,7 @@ class PlayByPlay {
         let lastLeader = null;
         let lastLeadChange;
     
-        let call = `Looks like ${this.players[0].fullName} and ${this.players[1].fullName} are ready to start.`;
+        let call = this.getIntro();
         calls.push(call);
         
         this.hands.forEach((hand, index) => {
@@ -179,7 +186,7 @@ class PlayByPlay {
             calls.push(call);
         });
 
-        call = `${this.winner} wins in ${this.hands.length < 150 ? "just " : ""}${this.hands.length} hands.`;
+        call = this.getConclusion();
         calls.push(call);
 
         return calls;
