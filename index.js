@@ -1,13 +1,11 @@
 "use strict";
 
 const fs = require('fs');
-const util = require('util');
 
-const War = require('./War.js');
-const Person = require("./Person.js");
 const RoundRobin = require('./RoundRobin.js');
 const Tournament = require('./Tournament.js');
 const PlayByPlay = require('./PlayByPlay.js');
+const GameDirector = require('./GameDirector.js');
 const Player = require('./Player.js');
 const CardDeck = require('./CardDeck');
 
@@ -31,17 +29,18 @@ const tournament = new Tournament(season.roster, 16);
 tournament.play();
 
 let words = 0;
-const writer = fs.createWriteStream("./output/commentary.txt");
+const writer = fs.createWriteStream("./output/commentary.md");
 
 tournament.games.forEach( (game, index) => {
 	writer.write(`## Round ${game.round}, Match ${game.match}\n\n`);
 
-	const pbp = new PlayByPlay(game, deck);
-	let calls = pbp.create()
+	const gameDirector = new GameDirector(game);
+	const commentary = gameDirector.getCommentary();
 	
-	calls.forEach( call => {
-		writer.write(call + "\n\n");
-		words += countWords(call);
+	
+	commentary.forEach( comment => {
+		writer.write(comment + "\n\n");
+		words += countWords(comment);
 	});
 });
 
