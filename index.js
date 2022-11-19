@@ -18,9 +18,9 @@ for(let i = 0; i < 31; i++) {
 }
 
 //Create announcers
-const announcers = {
-	mainCommentator: new Person(),
-	colorCommentator: new Person()
+const hosts = {
+	main: new Person(),
+	color: new Person()
 }
 
 //Play the regular season
@@ -37,7 +37,7 @@ const writer = fs.createWriteStream("./output/commentary.md");
 tournament.games.forEach( (game, index) => {
 	writer.write(`## Round ${game.round}, Match ${game.match}\n\n`);
 
-	const gameDirector = new GameDirector(game, announcers);
+	const gameDirector = new GameDirector(game, hosts);
 	const commentary = gameDirector.getCommentary();
 	
 	
