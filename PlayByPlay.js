@@ -115,7 +115,6 @@ class PlayByPlay {
 
     create() {
         let calls = []
-        let wordCount = 0;
 
         let spreadAtLastUpdate = 0;
         let streak = 0;
@@ -182,6 +181,7 @@ class PlayByPlay {
 
         call = `${this.winner} wins in ${this.hands.length < 150 ? "just " : ""}${this.hands.length} hands.`;
         calls.push(call);
+
         return calls;
     }
 }

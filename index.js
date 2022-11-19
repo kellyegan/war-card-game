@@ -30,19 +30,33 @@ season.play();
 const tournament = new Tournament(season.roster, 16);
 tournament.play();
 
+let words = 0;
+const writer = fs.createWriteStream("./output/commentary.txt");
+
+tournament.games.forEach( (game, index) => {
+	writer.write(`## Round ${game.round}\n\n`);
+
+	const pbp = new PlayByPlay(game)
+	let calls = pbp.create()
+	
+	calls.forEach( call => {
+		writer.write(call + "\n\n");
+		words += countWords(call);
+	});
+});
+
 //Generate commentary
 const pbp = new PlayByPlay(tournament.games[0])
 let calls = pbp.create()
 
-console.log(calls.length)
+calls.forEach( call => {
+	writer.write(call + "\n\n");
+	words += countWords(call);
+});
 
-// for( let call of calls) {
-// 	console.log(call);
-// }
 
-const writer = fs.createWriteStream("./output/commentary.txt");
-calls.forEach( call => writer.write(call + "\n\n") );
-writer.on('finish', () => console.log("Commentary saved."))
+writer.end();
+writer.on('finish', () => console.log(`Saved. ${words} words.`))
 
 // writeFile("./output/season.json", seasonJSON, 'utf8')
 // 	.then( () => {
@@ -50,3 +64,7 @@ writer.on('finish', () => console.log("Commentary saved."))
 // 	}).catch ( (error) => {
 // 		console.error(error);
 // 	})
+
+function countWords(str) {
+	return str.trim().split(/\s+/).length;
+}
