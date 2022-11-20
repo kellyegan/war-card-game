@@ -14,17 +14,21 @@ class ColorCommentator {
   getGrammar() {
     const rules = {
       bigPrize: [
+        "That's a big prize for #winner#.",
         "That's a big prize for #winner#. #regret#",
         "A lot of cards in that play.",
+        "A lot of cards in that play. #regret#",
         "#prize# cards is nothing to sneeze at.",
         "What's #winner# going to do with all those cards?",
-        "Hope he doesn't spend those all in one place!"
+        "Hope he doesn't spend those all in one place!",
+        "What a haul for #winner#."
       ],
       regret: [
         "I bet #loser# wishes they played that differently.",
         "#loser#'s going to lose sleep over that one tonight.",
         "I suspect #loser#'s kicking themselves over that one.",
         "#loser# is going to regret that one.",
+        "#loser# is probably stinging from that play."
       ],
       momentum: [
         "#winner# is looking good.",
@@ -62,6 +66,7 @@ class ColorCommentator {
         "#winner# might have stopped the bleeding.",
         "That's a start for #winner#.",
         "What a run for #loser#. #winner# has some ground to make up.",
+        "#winner# decided it is time to fight back."
       ],
       slugfest: [
         "These two are really slugging it out.",
@@ -69,6 +74,7 @@ class ColorCommentator {
         "#winner# and #loser# are trading punch for punch.",
         "We have some real fighters on our hands.",
         "What a fight!",
+        "Neither player is giving an inch.",
         "",
         "",
         "",
@@ -115,6 +121,7 @@ class ColorCommentator {
         "Nice!",
         "#winner# just showed us how to play.",
         "Well done.",
+        "Well done #winner#.",
         "Good job by #winner#.",
         "",
         "",
