@@ -119,20 +119,19 @@ class ColorCommentator {
         "",
       ],
       wellPlayed: [
-        "Well played by #winner#.",
-        "Nice play by #winner#.",
+        "#approval#.",
+        "#approval# by #winner#.",
         "Great use of #winningCardRank.a# by #winner#.",
         "#winner# used that #winningCardRank# at just the right time.",
-        "#winner# just showed us how to play.",
-        "Well done.",
-        "Nice play.",
-        "Well done #winner#.",
-        "Good job by #winner#.",
+        "#winner# just showed us how its done.",
         "",
         "",
         "",
         "",
         "",
+      ],
+      approval: [
+        "Good job", "Nice play", "Well played", "Excellent move", "Smart move", "Efficient play"
       ],
       whenWillThisEnd: [
         "These two are like the energizer bunny.",
