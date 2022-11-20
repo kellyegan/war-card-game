@@ -114,6 +114,9 @@ class ColorCommentator {
         "",
         "",
         "",
+        "",
+        "",
+        "",
       ],
       wellPlayed: [
         "Well played by #winner#.",

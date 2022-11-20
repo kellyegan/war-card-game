@@ -18,15 +18,16 @@ class GameDirector {
     let colorComments = this.color.getCall();
     
     text.push(this.pbp.getIntro());
-
+    let currentPlayByPlay = `**${this.hosts.main.lastName.toUpperCase()}:**`;
     for( let comment of this.pbp.getCall()) {
-      text.push(`**${this.hosts.main.lastName.toUpperCase()}:** ${comment}`);
+      currentPlayByPlay += ` ${comment}`;
 
       let colorComment = colorComments.next().value;
       if(colorComment !== "") {
+        text.push(currentPlayByPlay);
+        currentPlayByPlay = `**${this.hosts.main.lastName.toUpperCase()}:**`;
         text.push(`**${this.hosts.color.lastName.toUpperCase()}:** ${colorComment}`);
-      }
-      
+      }  
     }
 
     text.push(this.pbp.getConclusion());

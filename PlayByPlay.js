@@ -20,10 +20,10 @@ class PlayByPlay {
         "#winner#, #winningCardRank.capitalize# over #losingCardRank#.",
         "#winningCardRank.capitalize# over #losingCardRank#, #winner#.",
         "#loser#'s #losingCardRank# #loses# to #winner#'s #winningCardRank#.",
-        "#winner#'s hand, #winningCardRank.capitalize# over #losingCardRank#",
+        "#winner#'s hand, #winningCardRank.capitalize# over #losingCardRank#.",
       ],
       again: [
-        "#winner# again, #winningCardRank.capitalize# over #losingCardRank#",
+        "#winner# again, #winningCardRank.capitalize# over #losingCardRank#.",
         "#winner# wins again. #winningCardRank.capitalize# over #losingCardRank#.",
         "Another for #winner# with #winningCardRank.capitalize# over #losingCardRank#.",
         "Another for #winner#, #winningCardRank.capitalize# over #losingCardRank#.",
