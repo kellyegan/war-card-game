@@ -11,29 +11,43 @@ class GameDirector {
     const deck = new CardDeck.Deck();
     this.pbp = new PlayByPlay(this.game, deck);
     this.color = new ColorCommentator(this.game, deck);
+
+    this.text = []
   }
 
   getCommentary() {
-    let text = [];
     let colorComments = this.color.getCall();
-    
-    text.push(this.pbp.getIntro());
-    let currentPlayByPlay = `**${this.hosts.main.lastName.toUpperCase()}:**`;
+
+    this.clearText();
+
+    this.addComment(this.hosts.main, this.pbp.getIntro());
+    let currentPlayByPlay = "";
+
     for( let comment of this.pbp.getCall()) {
       currentPlayByPlay += ` ${comment}`;
 
       let colorComment = colorComments.next().value;
+
       if(colorComment !== "") {
-        text.push(currentPlayByPlay);
-        currentPlayByPlay = `**${this.hosts.main.lastName.toUpperCase()}:**`;
-        text.push(`**${this.hosts.color.lastName.toUpperCase()}:** ${colorComment}`);
+        this.addComment(this.hosts.main, currentPlayByPlay);
+        currentPlayByPlay = "";
+        this.addComment(this.hosts.color, colorComment);
       }  
     }
 
-    text.push(this.pbp.getConclusion());
+    this.addComment(this.hosts.main, this.pbp.getConclusion());
 
-    return text;
+    return this.text;
   }
+
+  clearText() {
+    this.text = [];
+  }
+
+  addComment( speaker, comment ) {
+    this.text.push(`**${speaker.lastName.toUpperCase()}:** ${comment}`);
+  }
+
 }
 
 module.exports = GameDirector;
