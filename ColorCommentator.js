@@ -13,53 +13,69 @@ class ColorCommentator {
 
   getGrammar() {
     const rules = {
-      call: [
-        "#winner# #beats# #loser# with #winningCardName# over #losingCardName#.",
-        "#winner#'s #winningCardRank# #beats# #loser#'s #losingCardRank#.",
-        "#winner# with #winningCardName.a# over #losingCardName#.",
-        "#winner#. #winningCardRank.capitalize# over #losingCardRank#.",
-        "#winningCardRank.capitalize# over #losingCardRank#. #winner#.",
-        "#loser#'s #losingCardRank# #loses# to #winner#'s #winningCardRank#.",
-        "#winner#'s hand.",
+      bigPrize: [
+        "That's a big prize for #winner#. #regret#",
+        "A lot of cards in that play.",
+        "#prize# cards is nothing to sneeze at.",
+        "What's #winner# going to do with all those cards.",
       ],
-      again: [
-        "#winner# again.",
-        "#winner# wins again. #winningCardRank.capitalize# over #losingCardRank#.",
-        "Another for #winner#.",
-        "Another for #winner#. #winningCardRank.capitalize# over #losingCardRank#.",
-        "#winner# this time with the #winningCardName#.",
-        "#loser# falls to #winner# again.",
-        "#winner# continues streak. #winningCardRank.capitalize# over #losingCardRank#.",
-        "#call#",
+      regret: [
+        "I bet #loser# wishes they played that differently.",
+        "#loser#'s going to lose sleep over that one tonight.",
+        "I suspect #loser#'s kicking themselves over that one.",
+        "#loser# is going to regret that one."
       ],
-      tied: [
-        "Two #card.s#. #war#",
-        "Two #card.s#. #war#",
-        "#card.capitalize.s#. #war#",
-        "#card.capitalize.s# all around. #war#",
+      momentum: [
+        "#winner# is looking good.",
+        "#winner# has got some momentum.",
+        "#winner# might be making a move.",
+        "I think #winner# is going somewhere.",
+        "Is #winner# going to take this somewhere?",
+        "#loser# is going to be playing catch up if they don't stop this.",
+        "#loser# is stumbling a little.",
+        "#loser# should nip this run in the bud.",
+        "", "", "", "", "", "", ""
       ],
-      war: [
-        "War!",
-        "War!",
-        "War!!",
-        "War!!!",
-        "We have a war!",
-        "It's a war folks!",
+      streak: [
+        "What a streak for #winner#.",
+        "#winner# is on fire.",
+        "#winner# ate their Wheaties today.",
+        "Is #loser# awake?",
+        "Someone should tell #loser# the match isn't over.",
+        "#loser# is really taking a beating.",
+        "I think #winner# has decided they want this more than #loser#.",
+        "I think #loser# should try some higher value cards.",
+        ""
       ],
-      warOver: [
-        "#winner#'s #winningCardRank# wins the battle taking #prize# cards.",
-        "#winner# defeats #loser# with #winningCardRank.a#, takes #prize# cards.",
-        "#loser# loses the battle. #winner# takes #prize# cards.",
+      streakBroken: [
+        "#winner# might still have some fight in them.",
+        "There's #winner#.",
+        "#winner#'s back in it.",
+        "#winner# finally get's a punch in.",
+        "#winner# might have stopped the bleeding.",
+        "That's a start for #winner#.",
+        "What a run for #loser#. #winner# has some ground to make up."
       ],
-      beats: ["beats", "bests", "tops"],
-      loses: ["loses", "falls"],
+      slugfest: [
+        "These two are really slugging it out.",
+        "They are really going toe to toe in this game.",
+        "#winner# and #loser# are trading punch for punch.",
+        "We have some real fighters on our hands.",
+        "What a fight!",
+        "","","",""
+      ],
+      couldendsoon: [
+        "It's getting close folks.",
+        "In just a few plays we could have a result.",
+        "", "", ""
+      ]
     };
     const grammar = tracery.createGrammar(rules);
     grammar.addModifiers(tracery.baseEngModifiers);
     return grammar;
   }
 
-  createCall(origin, handDetails) {
+  createComment(origin, handDetails) {
     let rules = `[winner:${handDetails.winner.lastName}]`;
     rules += `[loser:${handDetails.loser.lastName}]`;
     rules += `[winningCardName:${handDetails.winningCard.name}]`;
@@ -68,7 +84,7 @@ class ColorCommentator {
     rules += `[losingCardRank:${handDetails.losingCard.rank.toLowerCase()}]`;
     rules += `[prize:${handDetails.prize}]`;
     rules += origin;
-    return this.grammar.flatten(rules);
+    return this.grammar.flatten(rules) + " ";
   }
 
   parseHand(hand) {
@@ -123,6 +139,7 @@ class ColorCommentator {
   *getCall() {
     let spreadAtLastUpdate = 0;
     let streak = 0;
+    let previousStreaks = [];
     let lastWinner = null;
     let leader = null;
     let lastLeader = null;
@@ -135,6 +152,9 @@ class ColorCommentator {
 
       //Track winning streak
       streak = lastWinner === handDetails.winner ? streak + 1 : 0;
+      let longStreakBroken = streak - previousStreaks[previousStreaks.length - 1] < - 5;
+      previousStreaks.push(streak);
+      let maxPreviousStreaks = Math.max(...previousStreaks);
       lastWinner = handDetails.winner;
 
       //Track change in who leads
@@ -147,40 +167,42 @@ class ColorCommentator {
 
       if (!handDetails.gameover) {
         if (!handDetails.tie) {
-          if (!handDetails.war) {
-            if (streak > 1) {
-              call += this.createCall("#again#", handDetails);
-            } else {
-              call += this.createCall("#call#", handDetails);
-            }
-          } else {
-            call += this.createCall("#warOver#", handDetails);
+          if (streak >= 3 && streak < 5) {
+            call += this.createComment("#momentum#", handDetails);
           }
 
-          const spread = hand.counts[0] - hand.counts[1];
-
-          if (Math.abs(spread - spreadAtLastUpdate) >= 8) {
-            if (hand.counts[0] !== hand.counts[1]) {
-              call += ` ${this.players[leader].lastName} leads ${
-                hand.counts[leader]
-              } to ${hand.counts[(leader + 1) % 2]}.`;
-            } else {
-              call += " The games tied.";
-            }
-            spreadAtLastUpdate = spread;
+          if (streak >= 5) {
+            call += this.createComment("#streak#", handDetails);
           }
-        } else {
-          const rank = handDetails.rank.toLowerCase();
-          call += this.grammar.flatten(`[card:${rank}]#tied#`);
+
+          if (longStreakBroken) {
+            call += this.createComment("#streakBroken#", handDetails);
+          }
+
+          if(maxPreviousStreaks < 2 && previousStreaks.length >= 10) {
+              call += this.createComment("#slugfest#", handDetails);
+              previousStreaks = [];
+          }
+
+          if (handDetails.war) {
+            if (handDetails.prize > 6) {
+              call += this.createComment("#bigPrize#", handDetails);
+            }
+          }
+
+          if( hand.counts[0] < 5 || hand.counts[1] < 5) {
+            call += this.grammar.flatten("#couldendsoon#");
+          }
         }
-      } else {
-        if (handDetails.losingCard) {
-          call += `${handDetails.winner.lastName}'s ${handDetails.winningCard.name} beats ${handDetails.loser.lastName}'s ${handDetails.losingCard.name} to finish the game.`;
-        } else {
-          call += `${handDetails.loser.lastName} is out of cards. That's the game.`;
-        }
+
+
+
       }
-      yield call;
+
+      if (previousStreaks.length > 10) {
+        previousStreaks.shift();
+      }
+      yield call.trim();
     }
   }
 
