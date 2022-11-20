@@ -17,7 +17,8 @@ class ColorCommentator {
         "That's a big prize for #winner#. #regret#",
         "A lot of cards in that play.",
         "#prize# cards is nothing to sneeze at.",
-        "What's #winner# going to do with all those cards.",
+        "What's #winner# going to do with all those cards?",
+        "Hope he doesn't spend those all in one place!"
       ],
       regret: [
         "I bet #loser# wishes they played that differently.",
@@ -120,6 +121,12 @@ class ColorCommentator {
         "",
         "",
         "",
+      ],
+      whenWillThisEnd: [
+        "These two are like the energizer bunny.",
+        "I think I need to call home and tell them I'll be late.",
+        "I can't remember when we started this game, and I don't see when we are going to finish.",
+        "","",""
       ]
     };
     const grammar = tracery.createGrammar(rules);
@@ -260,8 +267,14 @@ class ColorCommentator {
             call += this.grammar.flatten("#endIsNye#");
           }
 
-          if (hand.counts[0] < 5 || hand.counts[1] > 10 && i >) {
-            call += this.grammar.flatten("#couldendsoon#");
+          if (call == "") {
+            if( (hand.counts[0] < 5 || hand.counts[1] > 10) ) {
+                if( i > 400 && i % (120 + Math.floor(Math.random() * 4)) == 0){
+                    call += this.grammar.flatten("#whenWillThisEnd#");
+                }
+                
+            }
+            
           }
         }
       }
