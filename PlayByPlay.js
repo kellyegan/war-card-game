@@ -30,6 +30,8 @@ class PlayByPlay {
         "#winner# this time with the #winningCardName#.",
         "#loser# falls to #winner# again, #winningCardRank.capitalize# over #losingCardRank#.",
         "#winner# continues streak. #winningCardRank.capitalize# over #losingCardRank#.",
+        "#winner# keeps going. #winningCardRank.capitalize# over #losingCardRank#.",
+        "#winner# does it again. #winningCardRank.capitalize# over #losingCardRank#.",
         "#call#",
       ],
       tied: [
