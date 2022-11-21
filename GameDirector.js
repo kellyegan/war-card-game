@@ -21,18 +21,88 @@ class GameDirector {
 
   getGrammar() {
     const rules = {
+      welcome: [
+        "Welcome to Game #gameNumber# of the #roundOrdinal# round of the War Championships."
+      ],
+      playerIntro: [
+        "Today's players are #playerOne# and #playerTwo#.",
+        "Today's competitors are #playerOne# and #playerTwo#.",
+        "At the table today, #playerOne# and #playerTwo#.",
+        "We are about to watch #playerOne# and #playerTwo# compete.",
+        "This game will pit #playerOne# against #playerTwo#.",
+        "Our competitors today, #playerOne# and #playerTwo#.",
+        "Our players today, #playerOne# and #playerTwo#.",
+        "#playerOne# and #playerTwo# will go head to head in today's match.",
+        "On one side of the table today, #playerOne#. On the other, #playerTwo#.",
+        "Either #playerOne# or #playerTwo# will emerge from this match a winner."
+      ],
       whenWeLastMet: [
-        "When these players last met,",
-        "In their match in the regular season,",
-        "Last time these players sat across from each other,",
-        "In the regular season, ",
+        "#whenWeLastMetOpening.capitalize#, #previousWinner# beat #previousLoser#. #whenWeLastMetQuestion#, ",
+        "#previousWinner# beat #previousLoser# #whenWeLastMetOpening#. #whenWeLastMetQuestion#, "
+      ],
+      beat: [ "beat", "defeated", "beat", "defeated", "bested"],
+      whenWeLastMetOpening: [
+        "when these players last met",
+        "in their match in the regular season",
+        "last time these players sat across from each other",
+        "in the regular season",
+        "in their last meeting"
+      ],
+      whenWeLastMetQuestion: [
+        "Will they repeat that performance again today",
+        "What are we in for today",
+        "What happens today",
+        "Who will win today",
+        "What happens now",
+        "What can we expect from them today",
+        "Can we expect the same",
+        "What's next"
+      ],
+      baselessSpeculation: [
+        "#equivocation.capitalize#, #mainHost#.",
+        "As you know #mainHost#, #equivocation#."
+      ],
+      equivocation: [
+        "it's hard to tell",
+        "you never know what to expect",
+        "it could go either way",
+        "they're both strong players",
+        "its all in the cards",
+        "there is always a possibility it could go either way",
+        "its really anyone's game",
+        "there is no way to know",
+        "things can change in a single hand"
+      ],
+      playersReady: [
+        "#players.capitalize# are ready. Here we go.",
+        "The cards are dealt and #players# are seated. Let's begin.",
+        "The dealer has signaled the start of the match.",
+        "It looks like #players# are about to start.",
+        "#players# are ready to play the first hand."
+      ],
+      players: [
+        "the players",
+        "#playerOne# and #playerTwo#",
+        "they",
+        "the competitors"
       ]
+      
     };
     const grammar = tracery.createGrammar(rules);
     grammar.addModifiers(tracery.baseEngModifiers);
     return grammar;
   }
 
+  createComment(origin, gameDetails) {
+    let rules = `[playerOneFullName:${gameDetails.winner.lastName}]`;
+    rules += `[playerTwoFullName:${gameDetails.loser.lastName}]`;
+    rules += `[playerOneLastName:${gameDetails.winningCard.name}]`;
+    rules += `[playerTwoLastName:${gameDetails.winningCard.rank.toLowerCase()}]`;
+    rules += `[previousWinner:${gameDetails.losingCard.name}]`;
+    rules += `[previousLoser:${gameDetails.losingCard.rank.toLowerCase()}]`;
+    rules += origin;
+    return this.grammar.flatten(rules);
+  }
 
   addIntro() {
     //Get their regular season game
@@ -47,11 +117,22 @@ class GameDirector {
 
     let intro = "";
     intro += `Welcome to Game ${this.game.match} of the ${this.ordinal(this.game.round)} round of the War Championships. `;
-    intro += `Today's players are ${this.game.players[0].fullName} and ${this.game.players[1].fullName}. `
-    intro += `When these two players last met ${winner.lastName} beat ${loser.lastName}. Will they repeat that performance again today ${this.hosts.color.firstName}?`
+
+    this.grammar.pushRules("playerOne", this.game.players[0].fullName);
+    this.grammar.pushRules("playerTwo", this.game.players[1].fullName);
+    intro += this.grammar.flatten(`#playerIntro# `);
+
+    //Last time the players met
+    this.grammar.pushRules("previousWinner", winner.lastName);
+    this.grammar.pushRules("previousLoser", loser.lastName);
+    intro += this.grammar.flatten(`#whenWeLastMet#`);
+    intro += this.hosts.color.firstName + "?";
     this.addComment(this.hosts.main, intro);
 
-    this.addComment(this.hosts.color, `Its hard to tell ${this.hosts.main.firstName}, something something something`);
+    let response = "";
+    this.grammar.pushRules("mainHost", this.hosts.main.firstName);
+    response += this.grammar.flatten(`#baselessSpeculation#`);
+    this.addComment(this.hosts.color, response);
   }
 
   getCommentary() {
@@ -61,7 +142,8 @@ class GameDirector {
 
     this.addIntro()
     
-    let currentPlayByPlay = "";
+    let parameters = `[playerOne:${this.game.players[0].lastName}][playerTwo:${this.game.players[1].lastName}]`;
+    let currentPlayByPlay = this.grammar.flatten(parameters + "#playersReady#");
 
     for( let comment of this.pbp.getCall()) {
       currentPlayByPlay += ` ${comment}`;

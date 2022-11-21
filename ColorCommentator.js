@@ -239,6 +239,10 @@ class ColorCommentator {
 
       if (!handDetails.gameover) {
         if (!handDetails.tie) {
+          if (longStreakBroken) {
+            call += this.createComment("#streakBroken#", handDetails);
+          }
+
           if ( handDetails.winningCard.value - handDetails.losingCard.value < 3 ) {
             call += this.createComment("#wellPlayed#", handDetails);
           }
@@ -249,10 +253,6 @@ class ColorCommentator {
 
           if (streak >= 5) {
             call += this.createComment("#streak#", handDetails);
-          }
-
-          if (longStreakBroken) {
-            call += this.createComment("#streakBroken#", handDetails);
           }
 
           if (maxPreviousStreaks < 2 && previousStreaks.length >= 10) {
