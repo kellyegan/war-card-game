@@ -108,17 +108,6 @@ class GameDirector {
     return grammar;
   }
 
-  createComment(origin, gameDetails) {
-    let rules = `[playerOneFullName:${gameDetails.winner.lastName}]`;
-    rules += `[playerTwoFullName:${gameDetails.loser.lastName}]`;
-    rules += `[playerOneLastName:${gameDetails.winningCard.name}]`;
-    rules += `[playerTwoLastName:${gameDetails.winningCard.rank.toLowerCase()}]`;
-    rules += `[previousWinner:${gameDetails.losingCard.name}]`;
-    rules += `[previousLoser:${gameDetails.losingCard.rank.toLowerCase()}]`;
-    rules += origin;
-    return this.grammar.flatten(rules);
-  }
-
   addIntro() {
     //Get their regular season game
     const lastMeeting = this.game.players[0].games.filter( game => game.opponent == this.game.players[1].fullName)[0]
