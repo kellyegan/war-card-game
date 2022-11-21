@@ -15,12 +15,27 @@ class GameDirector {
     this.text = []
   }
 
+  getIntro() {
+    let intro = "";
+    intro += `Welcome to the Game ${this.game.match} of the ${this.ordinal(this.game.round)} round of the War Championships. `;
+    intro += `Today's players are ${this.game.players[0].fullName} and ${this.game.players[1].fullName}.`
+    return intro;
+  }
+
   getCommentary() {
     let colorComments = this.color.getCall();
 
     this.clearText();
+    this.addComment(this.hosts.color, `What a beautiful day for war.`);
+    this.addComment(this.hosts.main, `Hello, I'm ${this.hosts.main.fullName}.`);
+    this.addComment(this.hosts.color, `Hello, I'm ${this.hosts.color.fullName}.`);
 
-    this.addComment(this.hosts.main, this.pbp.getIntro());
+    this.addComment(this.hosts.main, this.getIntro());
+
+    this.addComment(this.hosts.color, "When these two players last met #winner# beat #loser# pretty soundly. Will they repeat that performance again today?")
+
+    
+    
     let currentPlayByPlay = "";
 
     for( let comment of this.pbp.getCall()) {
@@ -47,6 +62,14 @@ class GameDirector {
   addComment( speaker, comment ) {
     this.text.push(`**${speaker.lastName.toUpperCase()}:** ${comment}`);
   }
+
+  /* So succinct. Here i sthe source: https://leancrew.com/all-this/2020/06/ordinal-numerals-and-javascript/ */ 
+  ordinal(n) {
+    var s = ["th", "st", "nd", "rd"];
+    var v = n%100;
+    return n + (s[(v-20)%10] || s[v] || s[0]);
+  }
+  
 
 }
 
