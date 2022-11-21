@@ -30,8 +30,8 @@ class GameDirector {
         "At the table today, #playerOne# and #playerTwo#.",
         "We are about to watch #playerOne# and #playerTwo# compete.",
         "This game will pit #playerOne# against #playerTwo#.",
-        "Our competitors today, #playerOne# and #playerTwo#.",
-        "Our players today, #playerOne# and #playerTwo#.",
+        "Our competitors today: #playerOne# and #playerTwo#.",
+        "Our players today: #playerOne# and #playerTwo#.",
         "#playerOne# and #playerTwo# will go head to head in today's match.",
         "On one side of the table today, #playerOne#. On the other, #playerTwo#.",
         "Either #playerOne# or #playerTwo# will emerge from this match a winner."
@@ -59,18 +59,24 @@ class GameDirector {
         "battled"
       ],
       repeatPerformanceQuestion: [
-        "Will they repeat that performance again today",
         "What are we in for today",
         "What happens today",
         "Who will win today",
         "What happens now",
         "What can we expect from them today",
         "Can we expect the same",
+        "Will they repeat that performance again today",
         "What's next"
       ],
+      repeatPerformanceAnswer: [
+        "I'm sure #previousWinner# would love to repeat that game, but #baselessSpeculation#.",
+        "I'm sure #previousLoser# is looking for a change in results, but #baselessSpeculation#.",
+        "#previousLoser# is definitely ready for a rematch, but #baselessSpeculation#.",
+        "#baselessSpeculation.capitalize#."
+      ],
       baselessSpeculation: [
-        "#equivocation.capitalize#, #mainHost#.",
-        "As you know #mainHost#, #equivocation#."
+        "#equivocation#, #mainHost#",
+        "as you know #mainHost#, #equivocation#"
       ],
       equivocation: [
         "it's hard to tell",
@@ -140,7 +146,7 @@ class GameDirector {
 
     let response = "";
     this.grammar.pushRules("mainHost", this.hosts.main.firstName);
-    response += this.grammar.flatten(`#baselessSpeculation#`);
+    response += this.grammar.flatten(`#repeatPerformanceAnswer#`);
     this.addComment(this.hosts.color, response);
   }
 
