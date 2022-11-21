@@ -110,10 +110,10 @@ class GameDirector {
 
   addIntro() {
     //Get their regular season game
-    const lastMeeting = this.game.players[0].games.filter( game => game.opponent == this.game.players[1].fullName)[0]
-
-    const winner = lastMeeting.win ? this.game.players[0] : this.game.players[1];
-    const loser = lastMeeting.win ? this.game.players[1] : this.game.players[0];
+    const lastGame = this.game.players[0].games.filter( game => game.opponent == this.game.players[1].fullName)[0]
+    
+    const previousWinner = lastGame.win ? this.game.players[0] : this.game.players[1];
+    const previousLoser = lastGame.win ? this.game.players[1] : this.game.players[0];
 
     this.addComment(this.hosts.color, `What a beautiful day for war.`);
     this.addComment(this.hosts.main, `Hello, I'm ${this.hosts.main.fullName}.`);
@@ -127,8 +127,8 @@ class GameDirector {
     intro += this.grammar.flatten(`#playerIntro# `);
 
     //Last time the players met
-    this.grammar.pushRules("previousWinner", winner.lastName);
-    this.grammar.pushRules("previousLoser", loser.lastName);
+    this.grammar.pushRules("previousWinner", previousWinner.lastName);
+    this.grammar.pushRules("previousLoser", previousLoser.lastName);
     intro += this.grammar.flatten(`#whenWeLastMet#`);
     intro += this.hosts.color.firstName + "?";
     this.addComment(this.hosts.main, intro);
