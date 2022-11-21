@@ -143,11 +143,11 @@ class GameDirector {
     let colorComments = this.color.getCall();
 
     this.clearText();
-
     this.addIntro()
     
-    let parameters = `[playerOne:${this.game.players[0].lastName}][playerTwo:${this.game.players[1].lastName}]`;
-    let currentPlayByPlay = this.grammar.flatten(parameters + "#playersReady#");
+    this.grammar.pushRules("playerOne", this.game.players[0].lastName);
+    this.grammar.pushRules("playerTwo", this.game.players[1].lastName);
+    let currentPlayByPlay = this.grammar.flatten("#playersReady#");
 
     for( let comment of this.pbp.getCall()) {
       currentPlayByPlay += ` ${comment}`;
