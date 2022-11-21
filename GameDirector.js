@@ -37,18 +37,28 @@ class GameDirector {
         "Either #playerOne# or #playerTwo# will emerge from this match a winner."
       ],
       whenWeLastMet: [
-        "#whenWeLastMetOpening.capitalize#, #previousWinner# beat #previousLoser#. #whenWeLastMetQuestion#, ",
-        "#previousWinner# beat #previousLoser# #whenWeLastMetOpening#. #whenWeLastMetQuestion#, "
+        "#lastMeeting.capitalize#, #previousWinner# #beat# #previousLoser#. #repeatPerformanceQuestion#, ",
+        "#previousWinner# #beat# #previousLoser# #lastMeeting#. #repeatPerformanceQuestion#, "
       ],
-      beat: [ "beat", "defeated", "beat", "defeated", "bested"],
-      whenWeLastMetOpening: [
-        "when these players last met",
+      beat: [ "beat", "defeated", "beat", "defeated", "bested", "triumphed over"],
+      lastMeeting: [
+        "when these players last #met#",
+        "the last time these players #met#",
         "in their match in the regular season",
-        "last time these players sat across from each other",
-        "in the regular season",
-        "in their last meeting"
+        "in their last meeting",
+        "in their last match",
+        "in their last game",
+        "in the regular season"
       ],
-      whenWeLastMetQuestion: [
+      met: [
+        "met",
+        "sat across from each other",
+        "sat at the table together",
+        "played",
+        "competed",
+        "battled"
+      ],
+      repeatPerformanceQuestion: [
         "Will they repeat that performance again today",
         "What are we in for today",
         "What happens today",
@@ -83,7 +93,6 @@ class GameDirector {
       players: [
         "the players",
         "#playerOne# and #playerTwo#",
-        "they",
         "the competitors"
       ]
       
