@@ -96,23 +96,21 @@ RoundRobin.prototype.ratePlayers = function () {
 }
 
 RoundRobin.prototype.compileStats = function () {
+	//Game length
 	const gamesRankedByLength = this.schedule.slice()
 		.sort( (a,b) => a.hands.length - b.hands.length )
 		.reduce( (map, game, index) => {
 			return map.set(game.id, {hands: game.hands.length, rank: index});
 		}, new Map() );
-		
 
-	console.log(gamesRankedByLength);
+	this.schedule.map( game => {
+		game.gameLengthRank = gamesRankedByLength.get(game.id).rank + "/" + this.schedule.length;
+		return game;
+	});
 
+	//Game leader transitions
 
-
-	// const gamesSortedByLength = this.schedule.sort( (a, b) => a.hands.length - b.hands.length ).map( game => {return {id: game.id, length: game.hands.length}});
-	// const size = gamesSortedByLength.length;
-	// console.log(size)
-	// console.log(gamesSortedByLength.slice(size - 20, size -1));
-	// const shortestGame = gamesSortedByLength[0];
-	// const longestGame = gamesSortedByLength[gamesSortedByLength.length - 1];
+	//Game hand exchange range
 
 
 }
