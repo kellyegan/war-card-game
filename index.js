@@ -26,6 +26,7 @@ const hosts = {
 //Play the regular season
 const season = new RoundRobin(players);
 season.play();
+season.compileStats();
 
 //Play the tournament
 const tournament = new Tournament(season.roster, 16);
