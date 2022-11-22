@@ -81,18 +81,40 @@ RoundRobin.prototype.play = function () {
  *  Wins are adjusted for game length (longer games are worth less)
  */
 RoundRobin.prototype.ratePlayers = function () {
-	const maxNumberOfRounds = this.schedule.reduce( (max, game) => { return Math.max(max, game.hands.length)}, 0);
+	const maxNumberofHands = this.schedule.reduce( (max, game) => { return Math.max(max, game.hands.length)}, 0);
 
 	for( let i = 0; i < this.roster.length; i++ ){
 		const rating = this.roster[i].games.filter( game => {
 			return game.win;
 		}).reduce( (total, game) => {
 			const gameObject = this.schedule[game.id];
-			let gameRating = (3 - gameObject.hands.length / maxNumberOfRounds) / 3;
+			let gameRating = (3 - gameObject.hands.length / maxNumberofHands) / 3;
 			return total + gameRating;
 		}, 0);
 		this.roster[i].rating = rating;
 	}
+}
+
+RoundRobin.prototype.compileStats = function () {
+	const gamesRankedByLength = this.schedule.slice()
+		.sort( (a,b) => a.hands.length - b.hands.length )
+		.reduce( (map, game, index) => {
+			return map.set(game.id, {hands: game.hands.length, rank: index});
+		}, new Map() );
+		
+
+	console.log(gamesRankedByLength);
+
+
+
+	// const gamesSortedByLength = this.schedule.sort( (a, b) => a.hands.length - b.hands.length ).map( game => {return {id: game.id, length: game.hands.length}});
+	// const size = gamesSortedByLength.length;
+	// console.log(size)
+	// console.log(gamesSortedByLength.slice(size - 20, size -1));
+	// const shortestGame = gamesSortedByLength[0];
+	// const longestGame = gamesSortedByLength[gamesSortedByLength.length - 1];
+
+
 }
 
 module.exports = RoundRobin;
