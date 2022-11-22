@@ -59,6 +59,7 @@ RoundRobin.prototype.play = function () {
 				id: gameID,
 				opponent: this.roster[playerTwoIndex].fullName,
 				win: winner == playerOneIndex,
+				hands: game.hands.length
 			});
 
 			this.roster[playerTwoIndex].games.push({
