@@ -97,22 +97,56 @@ RoundRobin.prototype.ratePlayers = function () {
 
 RoundRobin.prototype.compileStats = function () {
 	//Game length
-	const gamesRankedByLength = this.schedule.slice()
+	const gamesByLength = this.schedule.slice()
 		.sort( (a,b) => a.hands.length - b.hands.length )
 		.reduce( (map, game, index) => {
 			return map.set(game.id, {hands: game.hands.length, rank: index});
 		}, new Map() );
 
-	this.schedule.map( game => {
-		game.gameLengthRank = gamesRankedByLength.get(game.id).rank + "/" + this.schedule.length;
+	//Game leader transitions
+	const leaderTransitions = this.schedule.map( game => {
+		let leader = 2;
+		let lastLeader = 2;
+		let lastIndex = 0;
+
+		const leaderChanges = game.hands.reduce( (result, hand, index) => {
+			// Index 2 is for a tied hand
+			leader = 2;
+			if( hand.counts[0] !== hand.counts[1]) {
+				leader = hand.counts[0] > hand.counts[1] ? 0 : 1;
+			}
+
+			if( leader !== lastLeader) {
+				//Record who the leader is and what hand it is
+				result.leaderChanges.push({leader: leader, hand: index});
+
+				//Count hands since last change add to last leaders total
+				result.handsAsLeader[lastLeader] += index - lastIndex;
+				
+				lastIndex = index;
+			}
+			lastLeader = leader;
+
+			//Count hands between last change and end of game add to final leaders total
+			if(index == game.hands.length - 1) {
+				result.handsAsLeader[leader] += game.hands.length - lastIndex;
+			}
+			return result;
+		}, {handsAsLeader: [0, 0, 0], leaderChanges: []});
+
+		console.log(leaderChanges)
+		console.log(game.hands.length)
+
 		return game;
 	});
 
-	//Game leader transitions
 
 	//Game hand exchange range
 
+	return {
+		gamesByLength: gamesByLength
 
+	}
 }
 
 module.exports = RoundRobin;
