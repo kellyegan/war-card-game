@@ -7,6 +7,7 @@ const Tournament = require('./Tournament.js');
 const GameDirector = require('./GameDirector.js');
 const Player = require('./Player.js');
 const Person = require('./Person.js');
+const Stats = require('./Stats');
 
 // const writeFile = util.promisify(fs.writeFile);
 
@@ -28,7 +29,12 @@ const season = new RoundRobin(players);
 season.play();
 const regularSeasonStats = season.compileStats();
 
+const ranks = Stats.rankGamesByLength(season.schedule);
+
+
 console.log(regularSeasonStats.get(0))
+
+console.log(ranks);
 
 //Play the tournament
 const tournament = new Tournament(season.roster, 16);
