@@ -29,12 +29,9 @@ const season = new RoundRobin(players);
 season.play();
 const regularSeasonStats = season.compileStats();
 
-const ranks = Stats.rankGamesByLength(season.schedule);
+const transitions = Stats.getLeaderTransistions(season.schedule[0]);
+console.log(transitions);
 
-
-console.log(regularSeasonStats.get(0))
-
-console.log(ranks);
 
 //Play the tournament
 const tournament = new Tournament(season.roster, 16);

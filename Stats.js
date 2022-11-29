@@ -36,7 +36,7 @@ class Stats {
           result.leaderChanges.push({ leader: leader, hand: index });
 
           //Count hands since last change add to last leaders total
-          result.handsAsLeader[lastLeader] += index - lastIndex;
+          result.handsPerPlayer[lastLeader] += index - lastIndex;
 
           lastIndex = index;
         }
@@ -44,11 +44,11 @@ class Stats {
 
         //Count hands between last change and end of game add to final leaders total
         if (index == game.hands.length - 1) {
-          result.handsAsLeader[leader] += game.hands.length - lastIndex;
+          result.handsPerPlayer[leader] += game.hands.length - lastIndex;
         }
         return result;
       },
-      { handsAsLeader: [0, 0, 0], leaderChanges: [] }
+      { handsPerPlayer: [0, 0, 0], leaderChanges: [] }
     );
   }
 }
