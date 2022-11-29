@@ -28,6 +28,8 @@ const season = new RoundRobin(players);
 season.play();
 const regularSeasonStats = season.compileStats();
 
+console.log(regularSeasonStats.get(0))
+
 //Play the tournament
 const tournament = new Tournament(season.roster, 16);
 tournament.play();
@@ -40,7 +42,6 @@ tournament.games.forEach( (game, index) => {
 
 	const gameDirector = new GameDirector(game, hosts);
 	const commentary = gameDirector.getCommentary();
-	
 	
 	commentary.forEach( comment => {
 		writer.write(comment + "\n\n");

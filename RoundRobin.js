@@ -104,7 +104,7 @@ RoundRobin.prototype.compileStats = function () {
 		}, new Map() );
 
 	//Game leader transitions
-	const leaderTransitions = this.schedule.map( game => {
+	const leaderTransitions = this.schedule.reduce( (map, game, index) => {
 		let leader = 2;
 		let lastLeader = 2;
 		let lastIndex = 0;
@@ -134,19 +134,20 @@ RoundRobin.prototype.compileStats = function () {
 			return result;
 		}, {handsAsLeader: [0, 0, 0], leaderChanges: []});
 
-		console.log(leaderChanges)
-		console.log(game.hands.length)
-
-		return game;
-	});
-
+		return map.set(game.id, {
+			id: game.id,
+			week: game.week, 
+			winner: game.winner, 
+			hands: game.hands.length,
+			lengthRank: gamesByLength.get(game.id).rank,
+			handsAsLeader: leaderChanges.handsAsLeader,
+			leaderChanges: leaderChanges.leaderChanges
+		});
+	}, new Map());
 
 	//Game hand exchange range
 
-	return {
-		gamesByLength: gamesByLength
-
-	}
+	return leaderTransitions;
 }
 
 module.exports = RoundRobin;
