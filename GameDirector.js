@@ -69,14 +69,15 @@ class GameDirector {
         "What's next"
       ],
       repeatPerformanceAnswer: [
-        "I'm sure #previousWinner# would love to repeat that game, but #baselessSpeculation#.",
-        "I'm sure #previousLoser# is looking for a change in results, but #baselessSpeculation#.",
-        "#previousLoser# is definitely ready for a rematch, but #baselessSpeculation#.",
-        "#baselessSpeculation.capitalize#."
+        "I'm sure #previousWinner# would love to repeat that game, but #equivocationPlusHost#.",
+        "I'm sure #previousLoser# is looking for a change in results, but #equivocationPlusHost#.",
+        "#previousLoser# is definitely ready for a rematch, but #equivocationPlusHost#.",
+        "#equivocationPlusHost.capitalize#."
       ],
-      baselessSpeculation: [
+      equivocationPlusHost: [
         "#equivocation#, #mainHost#",
-        "as you know #mainHost#, #equivocation#"
+        "as you know #mainHost#, #equivocation#",
+        "well #mainHost#, #equivocation#"
       ],
       equivocation: [
         "it's hard to tell",
