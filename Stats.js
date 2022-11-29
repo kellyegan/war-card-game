@@ -13,7 +13,44 @@ class Stats {
       }, new Map());
   }
 
+  /**
+   * Return stats on who held the lead, and when leader changes happened for a game
+   * @param {*} game 
+   * @returns 
+   */
+  static getLeaderTransistions(game) {
+    let leader = 2;
+    let lastLeader = 2;
+    let lastIndex = 0;
 
+    return game.hands.reduce(
+      (result, hand, index) => {
+        // Index 2 is for a tied hand
+        leader = 2;
+        if (hand.counts[0] !== hand.counts[1]) {
+          leader = hand.counts[0] > hand.counts[1] ? 0 : 1;
+        }
+
+        if (leader !== lastLeader) {
+          //Record who the leader is and what hand it is
+          result.leaderChanges.push({ leader: leader, hand: index });
+
+          //Count hands since last change add to last leaders total
+          result.handsAsLeader[lastLeader] += index - lastIndex;
+
+          lastIndex = index;
+        }
+        lastLeader = leader;
+
+        //Count hands between last change and end of game add to final leaders total
+        if (index == game.hands.length - 1) {
+          result.handsAsLeader[leader] += game.hands.length - lastIndex;
+        }
+        return result;
+      },
+      { handsAsLeader: [0, 0, 0], leaderChanges: [] }
+    );
+  }
 }
 
 module.exports = Stats;
