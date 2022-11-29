@@ -29,7 +29,7 @@ const season = new RoundRobin(players);
 season.play();
 const regularSeasonStats = season.compileStats();
 
-const transitions = Stats.getLeaderTransistions(season.schedule[0]);
+const transitions = Stats.getLeaderTransistions(season.schedule[0].hands);
 console.log(transitions);
 
 

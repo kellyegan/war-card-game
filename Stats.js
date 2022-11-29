@@ -18,12 +18,12 @@ class Stats {
    * @param {*} game 
    * @returns 
    */
-  static getLeaderTransistions(game) {
+  static getLeaderTransistions(hands) {
     let leader = 2;
     let lastLeader = 2;
     let lastIndex = 0;
 
-    return game.hands.reduce(
+    return hands.reduce(
       (result, hand, index) => {
         // Index 2 is for a tied hand
         leader = 2;
@@ -43,8 +43,8 @@ class Stats {
         lastLeader = leader;
 
         //Count hands between last change and end of game add to final leaders total
-        if (index == game.hands.length - 1) {
-          result.handsPerPlayer[leader] += game.hands.length - lastIndex;
+        if (index == hands.length - 1) {
+          result.handsPerPlayer[leader] += hands.length - lastIndex;
         }
         return result;
       },
