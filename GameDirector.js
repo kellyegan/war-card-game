@@ -95,7 +95,7 @@ class GameDirector {
         "That game was a shutout. #winner# maintained the lead the whole game.",
       ],
       winnerDominated: [
-        "#winner# dominated.",
+        "#winner# dominated that match.",
         "#loser# really didn't have a chance in that match.",
         "#winner# held the lead for most of the game.",
         "#winner# kept the lead for most of the match.",
@@ -137,10 +137,33 @@ class GameDirector {
       ],
       upset: [
         "#winnerLast# has gotten their revenge. #pbpConclusion#",
-        "#loser# couldn't repeat their last performance against #winner#.",
+        "#loser# couldn't repeat their last performance against #winner#. #pbpConclusion#",
         "#pbpConclusion#",
         "#pbpConclusion#"
+      ],
+      longMatchComment: [
+        "I don't know about you #mainHost#, but my kidneys are thankful that one is over.",
+        "I think my legs are asleep.",
+        "I'm think I need a nap.",
+        "I need to call home to let them know I'm still alive.",
+        "If you'll excuse me #mainHost# I need to run to the restroom.",
+        "You would think #winner# could have wrapped that in less hands.",
+        "What day is it?",
+        "I think the word for that is 'protracted.'",
+      ],
+      longMatchDescriptive: [
+        "That was a long one.",
+        "I thought that game might never end. #gameHands# hands!",
+        "What a lengthy game.",
+        "They really drag that one out!",
+        "#gameHands# hands! What a battle!",
+      ],
+      longMatch: [
+        "#longMatchDescriptive#",
+        "#longMatchDescriptive#",
+        "#longMatchDescriptive# #longMatchComment#",        
       ]
+
       
     };
     const grammar = tracery.createGrammar(rules);
@@ -157,14 +180,19 @@ class GameDirector {
 
     const lastGameHandRatio = loserHands / winnerHands;
 
+    let header = "";
+
     if( this.game.round < 3) {
       this.grammar.pushRules("gameName", `Game ${this.game.match} of the ${this.ordinal(this.game.round)} round`);
+      header = `Game ${this.game.match}, Round ${this.game.round}`;
     } else if( this.game.round < 4) {
       this.grammar.pushRules("gameName", `Game ${this.game.match} of the Semi-Finals`);
+      header = `${this.grammar.flatten("#gameName.capitalize#")}`;
     } else {
       this.grammar.pushRules("gameName", "the Finals");
+      header = `${this.grammar.flatten("#gameName.capitalize#")}`;
     }
-    this.text.push(`## ${this.grammar.flatten("#gameName.capitalize#")}`);
+    this.text.push(`## ${header}`);
 
     this.addComment(this.hosts.color, `What a beautiful day for war.`);
     this.addComment(this.hosts.main, `Hello, I'm ${this.hosts.main.fullName}.`);
@@ -215,12 +243,15 @@ class GameDirector {
     let colorComments = this.color.getCall();
 
     this.clearText();
+
+    // Game introduction
     this.addIntro(lastGame);
     
     this.grammar.pushRules("playerOne", this.game.players[0].lastName);
     this.grammar.pushRules("playerTwo", this.game.players[1].lastName);
     let currentPlayByPlay = this.grammar.flatten("#playersReady#");
 
+    // The game
     // for( let comment of this.pbp.getCall()) {
     //   currentPlayByPlay += ` ${comment}`;
 
@@ -232,7 +263,6 @@ class GameDirector {
     //     this.addComment(this.hosts.color, colorComment);
     //   }  
     // }
-
 
     // Game conclusion
     let winningPlayer = this.game.players.filter( player => player.fullName === this.game.winner)[0];
@@ -251,6 +281,15 @@ class GameDirector {
     }
 
     this.addComment(this.hosts.main, pbpConclusion);
+
+    let colorConclusion = "";
+
+    if( this.game.hands.length > 600) {
+      colorConclusion += this.grammar.flatten("#longMatch#")
+    }
+
+    this.addComment(this.hosts.color, colorConclusion);
+    
 
     return this.text;
   }
