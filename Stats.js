@@ -1,6 +1,6 @@
 class Stats {
   /**
-   * Return a map for a series of games ranks by number of hands 
+   * Return a map for a series of games ranks by number of hands
    * @param {*} games
    * @returns {Map}
    */
@@ -15,8 +15,8 @@ class Stats {
 
   /**
    * Return stats on who held the lead, and when leader changes happened for a game
-   * @param {*} game 
-   * @returns 
+   * @param {*} game
+   * @returns
    */
   static getLeaderTransistions(hands) {
     let leader = 2;

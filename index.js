@@ -29,7 +29,8 @@ const season = new RoundRobin(players);
 season.play();
 
 const transitions = Stats.getLeaderTransistions(season.schedule[0].hands);
-console.log(transitions);
+
+const seasonStats = Stats.getSeriesStats(season.schedule);
 
 
 //Play the tournament
@@ -42,7 +43,7 @@ const writer = fs.createWriteStream("./output/commentary.md");
 tournament.games.forEach( (game, index) => {
 	writer.write(`## Round ${game.round}, Match ${game.match}\n\n`);
 
-	const gameDirector = new GameDirector(game, hosts);
+	const gameDirector = new GameDirector(game, hosts, seasonStats);
 	const commentary = gameDirector.getCommentary();
 	
 	commentary.forEach( comment => {
