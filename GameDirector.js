@@ -123,6 +123,20 @@ class GameDirector {
         "the players",
         "#playerOne# and #playerTwo#",
         "the competitors"
+      ],
+      pbpConclusion: [
+        "#winnerLast# wins in #gameHands# hands.",
+        "In #gameHands# hands, #winner# has won the match."
+      ],
+      repeatPerformance: [
+        "#winner# has done it again. #pbpConclusion#",
+        "#winner# repeats their regular season performance. #pbpConclusion#.",
+        "#pbpConclusion#",
+      ],
+      upset: [
+        "#winnerLast# has gotten their revenge. #pbpConclusion#",
+        "#pbpConclusion#",
+        "#pbpConclusion#"
       ]
       
     };
@@ -131,10 +145,7 @@ class GameDirector {
     return grammar;
   }
 
-  addIntro() {
-    //Get their regular season game
-    const lastGame = this.game.players[0].games.filter( game => game.opponent == this.game.players[1].fullName)[0]
-    
+  addIntro(lastGame) {
     const previousWinner = lastGame.win ? this.game.players[0] : this.game.players[1];
     const previousLoser = lastGame.win ? this.game.players[1] : this.game.players[0];
     
@@ -158,7 +169,7 @@ class GameDirector {
     this.grammar.pushRules("mainHost", this.hosts.main.firstName);
     this.grammar.pushRules("winner", this.game.players[0].lastName);
     this.grammar.pushRules("loser", this.game.players[1].lastName);
-    
+
     intro += this.grammar.flatten(`#whenWeLastMet#`);
     intro += this.hosts.color.firstName + "?";
     this.addComment(this.hosts.main, intro);
@@ -184,28 +195,50 @@ class GameDirector {
   }
 
   getCommentary() {
+    //Get their regular season game
+    const lastGame = this.game.players[0].games.filter( game => game.opponent == this.game.players[1].fullName)[0];
+    const previousWinner = lastGame.win ? this.game.players[0] : this.game.players[1];
+    const previousLoser = lastGame.win ? this.game.players[1] : this.game.players[0];
+
     let colorComments = this.color.getCall();
 
     this.clearText();
-    this.addIntro()
+    this.addIntro(lastGame);
     
     this.grammar.pushRules("playerOne", this.game.players[0].lastName);
     this.grammar.pushRules("playerTwo", this.game.players[1].lastName);
     let currentPlayByPlay = this.grammar.flatten("#playersReady#");
 
-    // for( let comment of this.pbp.getCall()) {
-    //   currentPlayByPlay += ` ${comment}`;
+    for( let comment of this.pbp.getCall()) {
+      currentPlayByPlay += ` ${comment}`;
 
-    //   let colorComment = colorComments.next().value;
+      let colorComment = colorComments.next().value;
 
-    //   if(colorComment !== "") {
-    //     this.addComment(this.hosts.main, currentPlayByPlay);
-    //     currentPlayByPlay = "";
-    //     this.addComment(this.hosts.color, colorComment);
-    //   }  
-    // }
+      if(colorComment !== "") {
+        this.addComment(this.hosts.main, currentPlayByPlay);
+        currentPlayByPlay = "";
+        this.addComment(this.hosts.color, colorComment);
+      }  
+    }
 
-    this.addComment(this.hosts.main, this.pbp.getConclusion());
+
+    // Game conclusion
+    let winningPlayer = this.game.players.filter( player => player.fullName === this.game.winner)[0];
+    
+    this.grammar.pushRules("winner", winningPlayer.fullName);
+    this.grammar.pushRules("winnerLast", winningPlayer.lastName);
+
+    this.grammar.pushRules("gameHands", (this.game.hands.length < 150 ? "just " : "") + this.game.hands.length);
+
+    let pbpConclusion = "";
+
+    if(this.game.winner === previousWinner.fullName) {
+      pbpConclusion += this.grammar.flatten("#repeatPerformance#");
+    } else {
+      pbpConclusion += this.grammar.flatten("#upset#");
+    }
+
+    this.addComment(this.hosts.main, pbpConclusion);
 
     return this.text;
   }
