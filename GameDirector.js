@@ -167,10 +167,10 @@ class GameDirector {
       ],
       shortMatch: [
         "An efficient effort by #winner#.",
-        "#winner# saw where they wanted to go and got there as quickly as possible.",
-        "#winner# quickly dispatched of #loser#.",
-        "#gameHands# is quite an accomplishment by #winner#.",
-        "#winner# wasted no time in finishing #loser#."
+        "#winnerLast# saw where they wanted to go and got there as quickly as possible.",
+        "#winnerLast# quickly dealt with #loserLast#.",
+        "#gameHands# is quite an accomplishment by #winnerLast#.",
+        "#winnerLast# wasted no time in finishing #loser#."
       ]
 
       
@@ -275,9 +275,12 @@ class GameDirector {
 
     // Game conclusion
     let winningPlayer = this.game.players.filter( player => player.fullName === this.game.winner)[0];
+    let losingPlayer = this.game.players.filter( player => player.fullName !== this.game.winner)[0];
     
     this.grammar.pushRules("winner", winningPlayer.fullName);
     this.grammar.pushRules("winnerLast", winningPlayer.lastName);
+    this.grammar.pushRules("loser", losingPlayer.fullName);
+    this.grammar.pushRules("loserLast", losingPlayer.lastName);
 
     this.grammar.pushRules("gameHands", (this.game.hands.length < this.shortGame ? "just " : "") + this.game.hands.length);
 
