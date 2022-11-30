@@ -22,7 +22,9 @@ class GameDirector {
   getGrammar() {
     const rules = {
       welcome: [
-        "Welcome to Game #gameNumber# of the #roundOrdinal# round of the War Championships."
+        "Welcome to #gameName# of the War Championship.",
+        "This is #gameName# of the War Championship.",
+        "We are here today for #gameName# of the War Championship."
       ],
       playerIntro: [
         "Today's players are #playerOne# and #playerTwo#.",
@@ -160,7 +162,14 @@ class GameDirector {
     this.addComment(this.hosts.color, `And I am ${this.hosts.color.fullName}.`);
 
     let intro = "";
-    intro += `Welcome to Game ${this.game.match} of the ${this.ordinal(this.game.round)} round of the War Championships. `;
+    if( this.game.round < 3) {
+      this.grammar.pushRules("gameName", `Game ${this.game.match} of the ${this.ordinal(this.game.round)} round`);
+    } else if( this.game.round < 4) {
+      this.grammar.pushRules("gameName", `Game ${this.game.match} of the semi-finals`);
+    } else {
+      this.grammar.pushRules("gameName", "the finals");
+    }
+    intro += this.grammar.flatten("#welcome# ")
 
     this.grammar.pushRules("playerOne", this.game.players[0].fullName);
     this.grammar.pushRules("playerTwo", this.game.players[1].fullName);
