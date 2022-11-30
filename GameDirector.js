@@ -130,7 +130,7 @@ class GameDirector {
       ],
       repeatPerformance: [
         "#winner# has done it again. #pbpConclusion#",
-        "#winner# repeats their regular season performance. #pbpConclusion#.",
+        "#winner# repeats their regular season performance. #pbpConclusion#",
         "#pbpConclusion#",
       ],
       upset: [
