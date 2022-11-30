@@ -37,8 +37,8 @@ class GameDirector {
         "Either #playerOne# or #playerTwo# will emerge from this match a winner."
       ],
       whenWeLastMet: [
-        "#lastMeeting.capitalize#, #previousWinner# #beat# #previousLoser#. #repeatPerformanceQuestion#, ",
-        "#previousWinner# #beat# #previousLoser# #lastMeeting#. #repeatPerformanceQuestion#, "
+        "#lastMeeting.capitalize#, #winner# #beat# #loser#. #repeatPerformanceQuestion#, ",
+        "#winner# #beat# #loser# #lastMeeting#. #repeatPerformanceQuestion#, "
       ],
       beat: [ "beat", "defeated", "beat", "defeated", "bested", "triumphed over"],
       lastMeeting: [
@@ -69,15 +69,14 @@ class GameDirector {
         "What's next"
       ],
       repeatPerformanceAnswer: [
-        "I'm sure #previousWinner# would love to repeat that game, but #equivocationPlusHost#.",
-        "I'm sure #previousLoser# is looking for a change in results, but #equivocationPlusHost#.",
-        "#previousLoser# is definitely ready for a rematch, but #equivocationPlusHost#.",
+        "I'm sure #winner# would love to repeat that game, but #equivocationPlusHost#.",
+        "I'm sure #loser# is looking for a change in results, but #equivocationPlusHost#.",
+        "#loser# is definitely ready for a rematch, but #equivocationPlusHost#.",
         "#equivocationPlusHost.capitalize#."
       ],
       equivocationPlusHost: [
         "#equivocation#, #mainHost#",
-        "as you know #mainHost#, #equivocation#",
-        "well #mainHost#, #equivocation#"
+        "as you know #mainHost#, #equivocation#"
       ],
       equivocation: [
         "it's hard to tell",
@@ -89,6 +88,29 @@ class GameDirector {
         "its really anyone's game",
         "there is no way to know",
         "things can change in a single hand"
+      ],
+      shutout: [
+        "That game was a shutout. #winner# maintained the lead the whole game.",
+      ],
+      winnerDominated: [
+        "#winner# dominated.",
+        "#loser# really didn't have a chance in that match.",
+        "#winner# held the lead for most of the game.",
+        "#winner# kept the lead for most of the match.",
+      ],
+      winnerLead: [
+        "#winner# lead for most of the game.",
+        "#loser# never really made a move in that game."
+      ],
+      tossUp: [
+        "That game was a pretty even match.",
+        "Neither #winner# or #loser# really dominated in that game."
+      ],
+      loserSlightLead: [
+        "Despite losing, #loser# lead for more hands than #winner#."
+      ],
+      loserLead: [
+        "#loser# really dominated in that game, but couldn't turn it into a win."
       ],
       playersReady: [
         "#players.capitalize# are ready. Here we go.",
@@ -115,6 +137,11 @@ class GameDirector {
     
     const previousWinner = lastGame.win ? this.game.players[0] : this.game.players[1];
     const previousLoser = lastGame.win ? this.game.players[1] : this.game.players[0];
+    
+    const winnerHands = lastGame.win ? lastGame.playerHands : lastGame.opponentHands;
+    const loserHands = lastGame.win ? lastGame.opponentHands : lastGame.playerHands;
+
+    const lastGameHandRatio = loserHands / winnerHands;
 
     this.addComment(this.hosts.color, `What a beautiful day for war.`);
     this.addComment(this.hosts.main, `Hello, I'm ${this.hosts.main.fullName}.`);
@@ -128,14 +155,30 @@ class GameDirector {
     intro += this.grammar.flatten(`#playerIntro# `);
 
     //Last time the players met
-    this.grammar.pushRules("previousWinner", previousWinner.lastName);
-    this.grammar.pushRules("previousLoser", previousLoser.lastName);
+    this.grammar.pushRules("mainHost", this.hosts.main.firstName);
+    this.grammar.pushRules("winner", this.game.players[0].lastName);
+    this.grammar.pushRules("loser", this.game.players[1].lastName);
+    
     intro += this.grammar.flatten(`#whenWeLastMet#`);
     intro += this.hosts.color.firstName + "?";
     this.addComment(this.hosts.main, intro);
 
     let response = "";
-    this.grammar.pushRules("mainHost", this.hosts.main.firstName);
+
+    if( lastGameHandRatio === 0) {
+      response += this.grammar.flatten(`#shutout# `);
+    } else if( lastGameHandRatio < 0.5 ) {
+      response += this.grammar.flatten(`#winnerDominated# `);
+    } else if( lastGameHandRatio < 0.8 ) {
+      response += this.grammar.flatten(`#winnerLead# `);
+    } else if( lastGameHandRatio < 1.0) {
+      response += this.grammar.flatten(`#tossUp# `);
+    } else if( lastGameHandRatio < 1.5) {
+      response += this.grammar.flatten(`#loserSlightLead# `);
+    } else {
+      response += this.grammar.flatten(`#loserLead# `);
+    }
+
     response += this.grammar.flatten(`#repeatPerformanceAnswer#`);
     this.addComment(this.hosts.color, response);
   }
@@ -150,17 +193,17 @@ class GameDirector {
     this.grammar.pushRules("playerTwo", this.game.players[1].lastName);
     let currentPlayByPlay = this.grammar.flatten("#playersReady#");
 
-    for( let comment of this.pbp.getCall()) {
-      currentPlayByPlay += ` ${comment}`;
+    // for( let comment of this.pbp.getCall()) {
+    //   currentPlayByPlay += ` ${comment}`;
 
-      let colorComment = colorComments.next().value;
+    //   let colorComment = colorComments.next().value;
 
-      if(colorComment !== "") {
-        this.addComment(this.hosts.main, currentPlayByPlay);
-        currentPlayByPlay = "";
-        this.addComment(this.hosts.color, colorComment);
-      }  
-    }
+    //   if(colorComment !== "") {
+    //     this.addComment(this.hosts.main, currentPlayByPlay);
+    //     currentPlayByPlay = "";
+    //     this.addComment(this.hosts.color, colorComment);
+    //   }  
+    // }
 
     this.addComment(this.hosts.main, this.pbp.getConclusion());
 
