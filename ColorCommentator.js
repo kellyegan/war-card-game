@@ -125,7 +125,7 @@ class ColorCommentator {
         "Nice use of #winningCardRank.a# by #winner#.",
         "Excellent use of #winningCardRank.a# by #winner#",
         "#winner# just showed us how its done.",
-        "I bet loser wishes they had something higher than #losingCardRank.a# on that play.",
+        "I bet #loser# wishes they had something higher than #losingCardRank.a# on that play.",
         "",
         "",
         "",
