@@ -176,6 +176,10 @@ class GameDirector {
       tugOfWar: [
         "It was a real tug of war with #turnOvers# turn overs.",
         "It was not an easy battle however, #winnerLast# and #loserLast# traded the lead #turnOvers# times.",
+        "#winnerLast# and #loserLast# really slugged it out.",
+        "Neither players would concede that match, trading the leader multiple times.",
+        "They really went back and forth in that game. Each held the lead multiple times.",
+        "The lead switched between #winner# and #loser# #turnOvers# times.",
       ]
 
       
