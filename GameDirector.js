@@ -5,6 +5,7 @@ const tracery = require("tracery-grammar");
 const CardDeck = require("./CardDeck");
 const PlayByPlay = require("./PlayByPlay.js");
 const ColorCommentator = require("./ColorCommentator.js");
+const Stats = require("./Stats");
 
 class GameDirector {
   constructor(game, hosts) {
@@ -166,7 +167,7 @@ class GameDirector {
         "#longMatchDescriptive# #longMatchComment#",        
       ],
       shortMatch: [
-        "An efficient effort by #winner#.",
+        "An efficient effort by #winnerLast#.",
         "#winnerLast# saw where they wanted to go and got there as quickly as possible.",
         "#winnerLast# quickly dealt with #loserLast#.",
         "#gameHands# is quite an accomplishment by #winnerLast#.",
@@ -274,8 +275,21 @@ class GameDirector {
     // }
 
     // Game conclusion
+    let changeOvers = Stats.getLeaderTransistions(this.game.hands)
+
     let winningPlayer = this.game.players.filter( player => player.fullName === this.game.winner)[0];
     let losingPlayer = this.game.players.filter( player => player.fullName !== this.game.winner)[0];
+
+    const winnerIndex = this.game.winner === this.game.players[0].fullName ? 0 : 1;
+    const loserIndex = (winnerIndex + 1) % 2;
+
+    const winnerHands = changeOvers.handsPerPlayer[winnerIndex];
+    const loserHands = changeOvers.handsPerPlayer[loserIndex];
+
+    const gameHandRatio = loserHands / winnerHands;
+
+    let averageChangeOver = Math.floor(this.game.hands.length / changeOvers.leaderChanges.length);
+    
     
     this.grammar.pushRules("winner", winningPlayer.fullName);
     this.grammar.pushRules("winnerLast", winningPlayer.lastName);
@@ -297,16 +311,29 @@ class GameDirector {
     let colorConclusion = "";
 
     if( this.game.hands.length > this.longGame) {
-      colorConclusion += this.grammar.flatten("#longMatch#");
+      colorConclusion += this.grammar.flatten("#longMatch# ");
     }
 
     if( this.game.hands.length < this.shortGame) {
-      colorConclusion += this.grammar.flatten("#shortMatch#");
+      colorConclusion += this.grammar.flatten("#shortMatch# ");
+    }
+
+    if( gameHandRatio === 0) {
+      colorConclusion += this.grammar.flatten(`#shutout# `);
+    } else if( gameHandRatio < 0.5 ) {
+      colorConclusion += this.grammar.flatten(`#winnerDominated# `);
+    } else if( gameHandRatio < 0.8 ) {
+      colorConclusion += this.grammar.flatten(`#winnerLead# `);
+    } else if( gameHandRatio < 1.0) {
+      colorConclusion += this.grammar.flatten(`#tossUp# `);
+    } else if( gameHandRatio < 1.5) {
+      colorConclusion += this.grammar.flatten(`#loserSlightLead# `);
+    } else {
+      colorConclusion += this.grammar.flatten(`#loserLead# `);
     }
 
     this.addComment(this.hosts.color, colorConclusion);
     
-
     return this.text;
   }
 
