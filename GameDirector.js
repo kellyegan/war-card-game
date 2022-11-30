@@ -270,17 +270,17 @@ class GameDirector {
     let currentPlayByPlay = this.grammar.flatten("#playersReady#");
 
     // The game
-    // for( let comment of this.pbp.getCall()) {
-    //   currentPlayByPlay += ` ${comment}`;
+    for( let comment of this.pbp.getCall()) {
+      currentPlayByPlay += ` ${comment}`;
 
-    //   let colorComment = colorComments.next().value;
+      let colorComment = colorComments.next().value;
 
-    //   if(colorComment !== "") {
-    //     this.addComment(this.hosts.main, currentPlayByPlay);
-    //     currentPlayByPlay = "";
-    //     this.addComment(this.hosts.color, colorComment);
-    //   }  
-    // }
+      if(colorComment !== "") {
+        this.addComment(this.hosts.main, currentPlayByPlay);
+        currentPlayByPlay = "";
+        this.addComment(this.hosts.color, colorComment);
+      }  
+    }
 
     // Game conclusion
     let turnOvers = Stats.getLeaderTransistions(this.game.hands)
@@ -361,7 +361,7 @@ class GameDirector {
     }
   }
 
-  /* So succinct. Here i sthe source: https://leancrew.com/all-this/2020/06/ordinal-numerals-and-javascript/ */ 
+  /* So succinct. Here is the source: https://leancrew.com/all-this/2020/06/ordinal-numerals-and-javascript/ */ 
   ordinal(n) {
     var s = ["th", "st", "nd", "rd"];
     var v = n%100;
