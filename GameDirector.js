@@ -157,18 +157,20 @@ class GameDirector {
 
     const lastGameHandRatio = loserHands / winnerHands;
 
+    if( this.game.round < 3) {
+      this.grammar.pushRules("gameName", `Game ${this.game.match} of the ${this.ordinal(this.game.round)} round`);
+    } else if( this.game.round < 4) {
+      this.grammar.pushRules("gameName", `Game ${this.game.match} of the Semi-Finals`);
+    } else {
+      this.grammar.pushRules("gameName", "the Finals");
+    }
+    this.text.push(`## ${this.grammar.flatten("#gameName.capitalize#")}`);
+
     this.addComment(this.hosts.color, `What a beautiful day for war.`);
     this.addComment(this.hosts.main, `Hello, I'm ${this.hosts.main.fullName}.`);
     this.addComment(this.hosts.color, `And I am ${this.hosts.color.fullName}.`);
 
     let intro = "";
-    if( this.game.round < 3) {
-      this.grammar.pushRules("gameName", `Game ${this.game.match} of the ${this.ordinal(this.game.round)} round`);
-    } else if( this.game.round < 4) {
-      this.grammar.pushRules("gameName", `Game ${this.game.match} of the semi-finals`);
-    } else {
-      this.grammar.pushRules("gameName", "the finals");
-    }
     intro += this.grammar.flatten("#welcome# ")
 
     this.grammar.pushRules("playerOne", this.game.players[0].fullName);

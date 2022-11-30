@@ -41,8 +41,6 @@ let words = 0;
 const writer = fs.createWriteStream("./output/commentary.md");
 
 tournament.games.forEach( (game, index) => {
-	writer.write(`## Round ${game.round}, Match ${game.match}\n\n`);
-
 	const gameDirector = new GameDirector(game, hosts, seasonStats);
 	const commentary = gameDirector.getCommentary();
 	
