@@ -15,6 +15,8 @@ class GameDirector {
     this.pbp = new PlayByPlay(this.game, deck);
     this.color = new ColorCommentator(this.game, deck);
     this.grammar = this.getGrammar();
+    this.shortGame = 150;
+    this.longGame = 650;
 
     this.text = []
   }
@@ -155,13 +157,20 @@ class GameDirector {
         "That was a long one.",
         "I thought that game might never end. #gameHands# hands!",
         "What a lengthy game.",
-        "They really drag that one out!",
+        "They really dragged that one out!",
         "#gameHands# hands! What a battle!",
       ],
       longMatch: [
         "#longMatchDescriptive#",
         "#longMatchDescriptive#",
         "#longMatchDescriptive# #longMatchComment#",        
+      ],
+      shortMatch: [
+        "An efficient effort by #winner#.",
+        "#winner# saw where they wanted to go and got there as quickly as possible.",
+        "#winner# quickly dispatched of #loser#.",
+        "#gameHands# is quite an accomplishment by #winner#.",
+        "#winner# wasted no time in finishing #loser#."
       ]
 
       
@@ -270,7 +279,7 @@ class GameDirector {
     this.grammar.pushRules("winner", winningPlayer.fullName);
     this.grammar.pushRules("winnerLast", winningPlayer.lastName);
 
-    this.grammar.pushRules("gameHands", (this.game.hands.length < 150 ? "just " : "") + this.game.hands.length);
+    this.grammar.pushRules("gameHands", (this.game.hands.length < this.shortGame ? "just " : "") + this.game.hands.length);
 
     let pbpConclusion = "";
 
@@ -284,8 +293,12 @@ class GameDirector {
 
     let colorConclusion = "";
 
-    if( this.game.hands.length > 600) {
-      colorConclusion += this.grammar.flatten("#longMatch#")
+    if( this.game.hands.length > this.longGame) {
+      colorConclusion += this.grammar.flatten("#longMatch#");
+    }
+
+    if( this.game.hands.length < this.shortGame) {
+      colorConclusion += this.grammar.flatten("#shortMatch#");
     }
 
     this.addComment(this.hosts.color, colorConclusion);
