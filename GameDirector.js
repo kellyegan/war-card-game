@@ -130,11 +130,12 @@ class GameDirector {
       ],
       repeatPerformance: [
         "#winner# has done it again. #pbpConclusion#",
-        "#winner# repeats their regular season performance. #pbpConclusion#",
+        "Again #winner# beats #loser#. #pbpConclusion#",
         "#pbpConclusion#",
       ],
       upset: [
         "#winnerLast# has gotten their revenge. #pbpConclusion#",
+        "#loser# couldn't repeat their last performance against #winner#.",
         "#pbpConclusion#",
         "#pbpConclusion#"
       ]
@@ -209,17 +210,17 @@ class GameDirector {
     this.grammar.pushRules("playerTwo", this.game.players[1].lastName);
     let currentPlayByPlay = this.grammar.flatten("#playersReady#");
 
-    for( let comment of this.pbp.getCall()) {
-      currentPlayByPlay += ` ${comment}`;
+    // for( let comment of this.pbp.getCall()) {
+    //   currentPlayByPlay += ` ${comment}`;
 
-      let colorComment = colorComments.next().value;
+    //   let colorComment = colorComments.next().value;
 
-      if(colorComment !== "") {
-        this.addComment(this.hosts.main, currentPlayByPlay);
-        currentPlayByPlay = "";
-        this.addComment(this.hosts.color, colorComment);
-      }  
-    }
+    //   if(colorComment !== "") {
+    //     this.addComment(this.hosts.main, currentPlayByPlay);
+    //     currentPlayByPlay = "";
+    //     this.addComment(this.hosts.color, colorComment);
+    //   }  
+    // }
 
 
     // Game conclusion
