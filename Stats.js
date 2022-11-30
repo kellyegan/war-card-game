@@ -51,6 +51,23 @@ class Stats {
       { handsPerPlayer: [0, 0, 0], leaderChanges: [] }
     );
   }
+
+  static getSeriesStats( games ) {
+    const gamesRankedByLength = this.rankGamesByLength(games);
+
+    const stats = games.reduce( (map, game, index) => {
+      const transitions = this.getLeaderTransistions(game.hands);
+
+      return map.set(game.id, {
+        hands: game.hands.length,
+        lengthRank: gamesRankedByLength.get(game.id).rank,
+        handsPerPlayer: transitions.handsPerPlayer,
+        leaderChanges: transitions.leaderChanges
+      });
+    }, new Map());
+
+    return stats;
+  }
 }
 
 module.exports = Stats;
