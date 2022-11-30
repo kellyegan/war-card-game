@@ -172,6 +172,10 @@ class GameDirector {
         "#winnerLast# quickly dealt with #loserLast#.",
         "#gameHands# is quite an accomplishment by #winnerLast#.",
         "#winnerLast# wasted no time in finishing #loser#."
+      ],
+      tugOfWar: [
+        "It was a real tug of war with #turnOvers# turn overs.",
+        "It was not an easy battle however, #winnerLast# and #loserLast# traded the lead #turnOvers# times.",
       ]
 
       
@@ -275,7 +279,7 @@ class GameDirector {
     // }
 
     // Game conclusion
-    let changeOvers = Stats.getLeaderTransistions(this.game.hands)
+    let turnOvers = Stats.getLeaderTransistions(this.game.hands)
 
     let winningPlayer = this.game.players.filter( player => player.fullName === this.game.winner)[0];
     let losingPlayer = this.game.players.filter( player => player.fullName !== this.game.winner)[0];
@@ -283,12 +287,12 @@ class GameDirector {
     const winnerIndex = this.game.winner === this.game.players[0].fullName ? 0 : 1;
     const loserIndex = (winnerIndex + 1) % 2;
 
-    const winnerHands = changeOvers.handsPerPlayer[winnerIndex];
-    const loserHands = changeOvers.handsPerPlayer[loserIndex];
+    const winnerHands = turnOvers.handsPerPlayer[winnerIndex];
+    const loserHands = turnOvers.handsPerPlayer[loserIndex];
 
     const gameHandRatio = loserHands / winnerHands;
 
-    let averageChangeOver = Math.floor(this.game.hands.length / changeOvers.leaderChanges.length);
+    let averageTurnOver = Math.floor(this.game.hands.length / turnOvers.leaderChanges.length);
     
     
     this.grammar.pushRules("winner", winningPlayer.fullName);
@@ -330,6 +334,12 @@ class GameDirector {
       colorConclusion += this.grammar.flatten(`#loserSlightLead# `);
     } else {
       colorConclusion += this.grammar.flatten(`#loserLead# `);
+    }
+
+    if( averageTurnOver < 10 ) {
+      this.grammar.pushRules("turnOvers", `${turnOvers.leaderChanges.length}`)
+      // this.grammar.pushRules("turnOvers", turnOvers.leaderChanges.length)
+      colorConclusion += this.grammar.flatten(`#tugOfWar# `);
     }
 
     this.addComment(this.hosts.color, colorConclusion);
