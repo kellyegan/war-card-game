@@ -99,7 +99,7 @@ class GameDirector {
       ],
       winnerDominated: [
         "#winner# dominated that match.",
-        "#loser# really didn't have a chance in that match.",
+        "#loser# really couldn't hold on to the lead for very long.",
         "#winner# held the lead for most of the game.",
         "#winner# kept the lead for most of the match.",
       ],
