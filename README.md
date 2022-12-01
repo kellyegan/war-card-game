@@ -1,5 +1,5 @@
 # War (card game)
 
-This is a simple simulator of the card game war using node.js. It should output the results of one or more games as an array of rounds in a JSON file. 
+This project simulates a season of games of the card game war. It then generates a play-by-play transcript of that season's tournament. An attempt at structured narrative, using simulation. 
 
 [Output of the novel.](https://github.com/kellyegan/war-card-game/blob/master/output/commentary.md)
