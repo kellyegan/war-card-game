@@ -8,9 +8,10 @@ const ColorCommentator = require("./ColorCommentator.js");
 const Stats = require("./Stats");
 
 class GameDirector {
-  constructor(game, hosts) {
+  constructor(game, hosts, previousGames) {
     this.game = game;
     this.hosts = hosts;
+    this.previousGames = previousGames;
 
     const deck = new CardDeck.Deck();
     this.pbp = new PlayByPlay(this.game, deck);
@@ -24,6 +25,20 @@ class GameDirector {
 
   getGrammar() {
     const rules = {
+      dayForWar: [
+        `What a #adjective# day for war.`
+      ],
+      adjective: [
+        "adorable", "adventurous", "aggressive", "agreeable", "alert", "alive", "amused", 
+        "angry", "annoyed", "annoying","anxious","arrogant","ashamed","attractive",
+        "average","awful","bad","beautiful","better","bewildered","black","bloody",
+        "blue","blue-eyed","blushing","bored","brainy","brave","breakable","bright",
+        "busy","calm","careful","cautious","charming","cheerful","clean","clear","clever",
+        "cloudy","clumsy","colorful","combative","comfortable","concerned","condemned","confused","cooperative",
+        "courageous","crazy","creepy","crowded","cruel","curious","cute","dangerous","dark",
+        "dead", "defeated", "defiant", "delightful", "depressed", "determined", "different", "difficult",
+        "disgusted", "distinct", "disturbed", "dizzy", "doubtful", "drab", "dull"        
+      ],
       welcome: [
         "Welcome to #gameName# of the War Championship.",
         "This is #gameName# of the War Championship.",
@@ -182,7 +197,9 @@ class GameDirector {
         "The lead switched between #winner# and #loser# #turnOvers# times.",
       ],
       nextGame: [
-        "#nextOpponent#"
+        "#winner# will face #nextOpponent# in #nextGameName#.",
+        "#winner# meets #nextOpponent# in #nextGameName#.",
+        "#winner# goes on to #nextGameName# where they will face #nextOpponent#."
       ],
       tournamentEnds: [
         "#theEnd# #proudWinner#",
@@ -232,7 +249,7 @@ class GameDirector {
     }
     this.text.push(`## ${header}`);
 
-    this.addComment(this.hosts.color, `What a beautiful day for war.`);
+    this.addComment(this.hosts.color, this.grammar.flatten("#dayForWar#"));
     this.addComment(this.hosts.main, `Hello, I'm ${this.hosts.main.fullName}.`);
     this.addComment(this.hosts.color, `And I am ${this.hosts.color.fullName}.`);
 
@@ -290,17 +307,17 @@ class GameDirector {
     let currentPlayByPlay = this.grammar.flatten("#playersReady#");
 
     // The game
-    // for( let comment of this.pbp.getCall()) {
-    //   currentPlayByPlay += ` ${comment}`;
+    for( let comment of this.pbp.getCall()) {
+      currentPlayByPlay += ` ${comment}`;
 
-    //   let colorComment = colorComments.next().value;
+      let colorComment = colorComments.next().value;
 
-    //   if(colorComment !== "") {
-    //     this.addComment(this.hosts.main, currentPlayByPlay);
-    //     currentPlayByPlay = "";
-    //     this.addComment(this.hosts.color, colorComment);
-    //   }  
-    // }
+      if(colorComment !== "") {
+        this.addComment(this.hosts.main, currentPlayByPlay);
+        currentPlayByPlay = "";
+        this.addComment(this.hosts.color, colorComment);
+      }  
+    }
 
     // Game conclusion
     let turnOvers = Stats.getLeaderTransistions(this.game.hands)
@@ -371,32 +388,27 @@ class GameDirector {
 
     const nextRound = this.game.round < 4 ? this.game.round + 1 : null;
     const nextMatch = Math.ceil(this.game.match / 2);
-    let nextOpponent = this.game.match % 2 == 0 ? "Opponent is known" : `the winner of game ${this.game.match + 1}`
-    
-    this.grammar.pushRules("nextOpponent", nextOpponent);
-    
-    if( 1 % 2 == 0 ) {
-      //Opponent is known
 
+    if( this.game.match % 2 == 0 && this.game.round < 4) {
+      let nextOpponent = this.previousGames.filter(game => {
+        return game.match == this.game.match - 1 && game.round == this.game.round;
+      })[0].winner
+      this.grammar.pushRules("nextOpponent", nextOpponent);
     } else {
-      //Opponent is unknown
+      this.grammar.pushRules("nextOpponent", `the winner of game ${this.game.match + 1}`);
     }
     
-    if( this.game.round < 3) {
-      this.grammar.pushRules("gameName", `Game ${this.game.match} of the ${this.ordinal(this.game.round)} round`);
-    } else if( this.game.round < 4) {
-      this.grammar.pushRules("gameName", `Game ${this.game.match} of the Semi-Finals`);
+    if( nextRound < 3) {
+      this.grammar.pushRules("nextGameName", `Game ${nextMatch} of the ${this.ordinal(nextRound)} round`);
+    } else if( nextRound < 4) {
+      this.grammar.pushRules("nextGameName", `Game ${nextMatch} of the Semi-Finals`);
     } else {
-      this.grammar.pushRules("gameName", "the Finals");
+      this.grammar.pushRules("nextGameName", "the Finals");
     }
 
     let nextGame = "";
-    if( this.game.round < 2 ) {
+    if( this.game.round < 4 ) {
       nextGame += this.grammar.flatten(`#nextGame# `);
-    } else if( this.game.round < 3) {
-      nextGame += this.grammar.flatten(`#semiFinalsNext# `);
-    } else if( this.game.round < 4){
-      nextGame += this.grammar.flatten(`#finalsNext# `);
     } else {
       nextGame += this.grammar.flatten(`#tournamentEnds# `);
     }

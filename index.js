@@ -39,15 +39,18 @@ tournament.play();
 
 let words = 0;
 const writer = fs.createWriteStream("./output/commentary.md");
+let previousGames = [];
 
 tournament.games.forEach( (game, index) => {
-	const gameDirector = new GameDirector(game, hosts, seasonStats);
+	const gameDirector = new GameDirector(game, hosts, previousGames);
 	const commentary = gameDirector.getCommentary();
 	
 	commentary.forEach( comment => {
 		writer.write(comment + "\n\n");
 		words += countWords(comment);
 	});
+
+	previousGames.push(game);
 });
 
 writer.end();
