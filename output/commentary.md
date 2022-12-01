@@ -1,7046 +1,6984 @@
+# Transcript of the Tournament of War, the card game.
+
 ## Game 1, Round 1
 
-**MCLAUGHLIN:** What a annoying day for war.
+**GARCIA:** What a crazy day for war.
 
-**QUINTERO:** Hello, I'm Regina Quintero.
+**HUERTA:** Hello, I'm Daryl Huerta.
 
-**MCLAUGHLIN:** And I am Bentley McLaughlin.
+**GARCIA:** And I am Ray Garcia.
 
-**QUINTERO:** Welcome to Game 1 of the 1st round of the War Championship. Our players today: Rose Stanley and Val Beil. In the regular season, Stanley beat Beil. What's next, Bentley?
+**HUERTA:** Welcome to Game 1 of the 1st round of the War Championship. Today's competitors are Bennett Hayden and Logan Mathews. Hayden triumphed over Mathews in their last game. What are we in for today, Ray?
 
-**MCLAUGHLIN:** That game was a shutout. Stanley maintained the lead the whole game. Beil is definitely ready for a rematch, but as you know Regina, there is no way to know.
+**GARCIA:** Despite losing, Mathews lead for more hands than Hayden. I'm sure Hayden would love to repeat that game, but there is always a possibility it could go either way, Daryl.
 
-**QUINTERO:** The dealer has signaled the start of the match. Stanley, Ten over four. Stanley's ace bests Beil's eight. King over nine, Beil. Ten over three, Stanley. Beil's hand, Five over three.
+**HUERTA:** The dealer has signaled the start of the match. Mathews with a Jack of Clubs over Eight of Diamonds. King over five, Mathews. Four over three, Hayden. Mathews's hand, Queen over two. Hayden's five falls to Mathews's six.
 
-**MCLAUGHLIN:** Well played by Beil.
+**GARCIA:** Nice use of a six by Mathews.
 
-**QUINTERO:**  Stanley with a Queen of Hearts over Eight of Clubs. Stanley beats Beil with King of Hearts over Queen of Spades.
+**HUERTA:**  Hayden beats Mathews with Jack of Diamonds over Seven of Hearts. Mathews beats Hayden with Eight of Clubs over Two of Spades. Hayden's ace beats Mathews's three. Mathews tops Hayden with King of Clubs over Jack of Spades.
 
-**MCLAUGHLIN:** Great use of a king by Stanley.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Stanley again, Jack over two. Stanley leads 30 to 22. Stanley keeps going. King over eight. Stanley's six loses to Beil's seven.
+**HUERTA:**  Mathews's hand, Ten over three. Mathews leads 30 to 22. Mathews this time with the Six of Hearts. Mathews's eight loses to Hayden's jack. Hayden with a Four of Hearts over Two of Clubs.
 
-**MCLAUGHLIN:** Beil just showed us how its done.
+**GARCIA:** Excellent use of a four by Hayden
 
-**QUINTERO:**  Beil bests Stanley with Six of Clubs over Four of Diamonds.
+**HUERTA:**  Hayden continues streak. Seven over six. Mathews's queen beats Hayden's eight. Ace over king, Mathews.
 
-**MCLAUGHLIN:** Beil just showed us how its done.
+**GARCIA:** Nice use of an ace by Mathews.
 
-**QUINTERO:**  Another for Beil, Nine over four. Queen over seven, Stanley. Beil with a Nine of Diamonds over Three of Diamonds. Stanley tops Beil with Ace of Spades over Two of Clubs. Beil's hand, Ten over six. Fives. We have a war! Beil's jack wins the battle taking 6 cards. Beil leads 27 to 25. Stanley's three loses to Beil's king. Beil this time with the Five of Clubs. Ace over ten, Beil.
+**HUERTA:**  Hayden beats Mathews with Four of Clubs over Two of Diamonds.
 
-**MCLAUGHLIN:** Stanley is going to be playing catch up if they don't stop this.
+**GARCIA:** Hayden just showed us how its done.
 
-**QUINTERO:**  Stanley falls to Beil again, Queen over seven. Beil leads 31 to 21.
+**HUERTA:**  Two nines. War!! Hayden's ace wins the battle taking 6 cards. The games tied. Mathews's ten tops Hayden's five. Hayden's seven loses to Mathews's queen. Mathews wins again. Six over four. Mathews does it again. Ace over queen. Mathews leads 30 to 22.
 
-**MCLAUGHLIN:** Stanley should nip this run in the bud.
+**GARCIA:** Great use of an ace by Mathews. Is Mathews going to take this somewhere?
 
-**QUINTERO:**  Beil wins again. Ace over eight.
+**HUERTA:**  Mathews's nine loses to Hayden's ten.
 
-**MCLAUGHLIN:** Stanley is really taking a beating.
+**GARCIA:** Hayden just showed us how its done.
 
-**QUINTERO:**  Beil does it again. Jack over seven.
+**HUERTA:**  King over seven, Mathews. Eight over four, Mathews. Mathews continues streak. Jack over three. Mathews's five falls to Hayden's seven.
 
-**MCLAUGHLIN:** Is Stanley awake?
+**GARCIA:** Nice use of a seven by Hayden.
 
-**QUINTERO:**  Beil again, Jack over two.
+**HUERTA:**  King over jack, Mathews.
 
-**MCLAUGHLIN:** I think Stanley should try some higher value cards.
+**GARCIA:** I bet Hayden wishes they had something higher than a jack on that play.
 
-**QUINTERO:**  Another for Beil with Nine over four. Beil leads 35 to 17.
+**HUERTA:**  Mathews's queen bests Hayden's three.
 
-**MCLAUGHLIN:** I think Stanley should try some higher value cards.
+**GARCIA:** That queen seems wasted on a three.
 
-**QUINTERO:**  Beil keeps going. King over ten.
+**HUERTA:**  Mathews's two falls to Hayden's ace.
 
-**MCLAUGHLIN:** I think Stanley should try some higher value cards.
+**GARCIA:** That ace got the job done, but was it the most strategic play by Hayden?
 
-**QUINTERO:**  Stanley's ace bests Beil's five.
+**HUERTA:**  Hayden's hand, Eight over five. Hayden this time with the Jack of Hearts. Mathews tops Hayden with Eight of Clubs over Four of Hearts. Two twos. War! Mathews defeats Hayden with a jack, takes 6 cards. Mathews leads 34 to 18. Hayden's four falls to Mathews's ten. Mathews wins again. Three over two.
 
-**MCLAUGHLIN:** Stanley finally get's a punch in.
+**GARCIA:** Nice use of a three by Mathews.
 
-**QUINTERO:**  Stanley's hand, Eight over three. Stanley wins again. Ten over seven. Six over three, Beil. Beil's six falls to Stanley's eight. Stanley beats Beil with Queen of Hearts over Four of Diamonds. Stanley wins again. Queen over nine. Beil leads 31 to 21. Beil falls to Stanley again, King over four.
+**HUERTA:**  Hayden bests Mathews with Ace of Spades over Six of Hearts. Hayden with a Five of Diamonds over Three of Clubs.
 
-**MCLAUGHLIN:** Stanley has got some momentum.
+**GARCIA:** Nice use of a five by Hayden.
 
-**QUINTERO:**  Beil tops Stanley with Three of Diamonds over Two of Spades.
+**HUERTA:**  Hayden again, Ten over eight.
 
-**MCLAUGHLIN:** Nice use of a three by Beil.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Stanley's hand, Jack over nine.
+**HUERTA:**  Mathews tops Hayden with Queen of Diamonds over Nine of Diamonds. Ace over nine, Mathews. Hayden falls to Mathews again, King over nine. Hayden with a Ten of Spades over Five of Hearts. Mathews's ten tops Hayden's nine.
 
-**MCLAUGHLIN:** Nice use of a jack by Stanley.
+**GARCIA:** Good job by Mathews.
 
-**QUINTERO:**  King over six, Stanley. Ten over eight, Beil. Queen over nine, Stanley. Stanley's seven tops Beil's six. Stanley again, Ace over five. Beil leads 27 to 25.
+**HUERTA:**  Mathews with a Queen of Hearts over Seven of Hearts. Hayden falls to Mathews again, Seven over five. Mathews leads 38 to 14.
 
-**MCLAUGHLIN:** Stanley probably didn't need to use an ace in that play.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Five over two, Beil. Stanley, Ace over four. Beil, Jack over five. Two threes. War! Stanley defeats Beil with a seven, takes 6 cards. Stanley's ten tops Beil's five. Beil, Ace over eight. Beil with a Ten of Hearts over Six of Clubs. Stanley's queen tops Beil's seven. Beil bests Stanley with Queen of Clubs over Four of Diamonds. Beil, Ace over nine.
+**HUERTA:**  Hayden bests Mathews with Ace of Diamonds over Four of Spades. Mathews bests Hayden with Six of Spades over Two of Hearts. Mathews with an Ace of Clubs over Eight of Hearts. Another for Mathews with Queen over five. Another for Mathews, Seven over six.
 
-**MCLAUGHLIN:** They are really going toe to toe in this game.
+**GARCIA:** Mathews has got some momentum.
 
-**QUINTERO:**  Stanley's hand, Queen over eight. Stanley bests Beil with King of Hearts over Jack of Hearts. Beil with a Seven of Hearts over Four of Clubs. Beil with a Jack of Clubs over Nine of Diamonds.
+**HUERTA:**  Hayden falls to Mathews again, King over jack. Mathews leads 42 to 10.
 
-**MCLAUGHLIN:** Beil just showed us how its done.
+**GARCIA:** Hayden is going to be playing catch up if they don't stop this.
 
-**QUINTERO:**  Stanley's jack tops Beil's two. Stanley's six falls to Beil's nine. Beil's four loses to Stanley's king. Stanley with a Queen of Diamonds over Ten of Spades. Stanley's nine loses to Beil's king. Sixes all around. War! Stanley defeats Beil with an ace, takes 6 cards. Stanley leads 29 to 23. Stanley's five tops Beil's two. Ace over eight, Stanley. Beil with a Ten of Clubs over Four of Spades. Beil's two loses to Stanley's king. Beil's five falls to Stanley's eight. Beil's jack bests Stanley's two. Beil tops Stanley with Five of Diamonds over Three of Clubs. Beil wins again. Ace over seven. Beil keeps going. Eight over three.
+**HUERTA:**  Hayden's hand, Ace over four. Mathews with an Eight of Diamonds over Six of Hearts. Hayden's five loses to Mathews's jack. Threes all around. War!! Hayden loses the battle. Mathews takes 6 cards. Mathews leads 46 to 6.
 
-**MCLAUGHLIN:** Beil might be making a move.
+**GARCIA:** Efficient play by Mathews.
 
-**QUINTERO:**  Stanley falls to Beil again, Six over five.
+**HUERTA:**  Hayden's hand, Five over three.
 
-**MCLAUGHLIN:** Well played. Stanley should nip this run in the bud.
+**GARCIA:** I bet Mathews wishes they had something higher than a three on that play.
 
-**QUINTERO:**  Two tens. War! Two queens. War!! Stanley loses the battle. Beil takes 10 cards. Beil leads 30 to 22.
+**HUERTA:**  Hayden's ten loses to Mathews's queen.
 
-**MCLAUGHLIN:** That's a big prize for Beil.
+**GARCIA:** Excellent use of a queen by Mathews
 
-**QUINTERO:**  Stanley's hand, King over four.
+**HUERTA:**  Hayden's ace beats Mathews's eight. Two fours. War! Hayden defeats Mathews with an ace, takes 6 cards. Mathews leads 42 to 10. Five over two, Hayden.
 
-**MCLAUGHLIN:** That king seems wasted on a four.
+**GARCIA:** They are really going toe to toe in this game.
 
-**QUINTERO:**  Stanley's jack tops Beil's seven. Two jacks. War!!! Beil's nine wins the battle taking 6 cards. Stanley's king beats Beil's six. Stanley, Ten over nine.
+**HUERTA:**  Mathews's hand, Jack over three. Ace over two, Hayden.
 
-**MCLAUGHLIN:** Excellent use of a ten by Stanley
+**GARCIA:** Hayden probably didn't need to use an ace in that play.
 
-**QUINTERO:**  Beil with a King of Diamonds over Queen of Diamonds.
+**HUERTA:**  Hayden's hand, Eight over seven. Hayden's four loses to Mathews's ten. Two fours. We have a war! Hayden defeats Mathews with a four, takes 6 cards. Mathews leads 38 to 14. Hayden bests Mathews with King of Clubs over Queen of Diamonds. Mathews bests Hayden with Nine of Diamonds over Six of Diamonds. Nine over five, Mathews. Mathews wins again. Ace over two.
 
-**MCLAUGHLIN:** Excellent use of a king by Beil
+**GARCIA:** Mathews over paid for that two.
 
-**QUINTERO:**  Beil beats Stanley with Ten of Clubs over Seven of Spades.
+**HUERTA:**  Hayden, Ace over nine. Mathews's king tops Hayden's two.
 
-**MCLAUGHLIN:** They are really going toe to toe in this game.
+**GARCIA:** I hope Mathews doesn't need that king when something bigger comes along.
 
-**QUINTERO:**  Stanley with a Six of Spades over Four of Spades.
+**HUERTA:**  Ten over seven, Mathews. Mathews continues streak. Nine over eight. Mathews leads 42 to 10.
 
-**MCLAUGHLIN:** I bet Beil wishes they had something higher than a four on that play.
+**GARCIA:** Nice use of a nine by Mathews.
 
-**QUINTERO:**  Stanley's six tops Beil's two. Another for Stanley with Ace over jack. Beil's five bests Stanley's three. Threes. War! Beil's seven wins the battle taking 6 cards. Stanley's eight bests Beil's three. Stanley, Ace over eight. Beil falls to Stanley again, King over five. Six over two, Beil. Beil's hand, Ace over five. Beil's ten beats Stanley's eight.
+**HUERTA:**  Mathews wins again. Queen over three. Mathews, Seven over four.
 
-**MCLAUGHLIN:** Well played by Beil.
+**GARCIA:** Mathews has got some momentum.
 
-**QUINTERO:**  Another for Beil, Seven over four. King over queen, Stanley.
+**HUERTA:**  Hayden, Ace over five. Mathews's hand, Seven over four. Twos. It's a war folks! Mathews defeats Hayden with an ace, takes 6 cards. Mathews leads 47 to 5.
 
-**MCLAUGHLIN:** Great use of a king by Stanley.
+**GARCIA:** Excellent use of an ace by Mathews
 
-**QUINTERO:**  Beil tops Stanley with Queen of Hearts over Seven of Hearts. Beil's queen beats Stanley's jack. Beil leads 34 to 18. Beil's four falls to Stanley's six. Stanley with a King of Clubs over Ten of Diamonds. Nines all around. War! Beil loses the battle. Stanley takes 6 cards. Beil leads 29 to 23. Beil, Nine over four. Stanley's two falls to Beil's jack. Beil continues streak. Nine over six. Two jacks. War!! Beil's queen wins the battle taking 6 cards. Beil leads 35 to 17. Beil's hand, King over eight. Beil's seven falls to Stanley's eight.
+**HUERTA:**  Hayden's hand, Queen over eight. Hayden's nine bests Mathews's five. Hayden this time with the Ace of Diamonds.
 
-**MCLAUGHLIN:** I bet Beil wishes they had something higher than a seven on that play.
+**GARCIA:** I bet Mathews wishes they had something higher than a queen on that play.
 
-**QUINTERO:**  Stanley, Ace over ten. Stanley wins again. King over five. Beil falls to Stanley again, Five over three.
+**HUERTA:**  Hayden beats Mathews with Ace of Spades over Six of Clubs. Mathews leads 43 to 9.
 
-**MCLAUGHLIN:** Stanley might be making a move.
+**GARCIA:** Is Hayden going to take this somewhere?
 
-**QUINTERO:**  Beil, Ace over king.
+**HUERTA:**  Mathews, Seven over five. Mathews, King over queen.
 
-**MCLAUGHLIN:** Nice use of an ace by Beil.
+**GARCIA:** Great use of a king by Mathews.
 
-**QUINTERO:**  Queen over three, Stanley. Four over three, Stanley. Beil leads 31 to 21. Stanley wins again. Six over five. Another for Stanley with Ten over two. Another for Stanley, King over seven.
+**HUERTA:**  Mathews again, Jack over eight. Hayden's hand, Nine over six. Mathews, Eight over five. Hayden's ace bests Mathews's five. Mathews's jack loses to Hayden's queen.
 
-**MCLAUGHLIN:** I think Stanley is going somewhere.
+**GARCIA:** Nice use of a queen by Hayden.
 
-**QUINTERO:**  Stanley beats Beil with Nine of Clubs over Two of Clubs. Beil leads 27 to 25.
+**HUERTA:**  Mathews falls to Hayden again, Six over three. Another for Hayden with Ace over three.
 
-**MCLAUGHLIN:** Beil is really taking a beating.
+**GARCIA:** Mathews is stumbling a little.
 
-**QUINTERO:**  Beil with a Six of Clubs over Two of Hearts. Beil's hand, Ace over nine. Beil's five falls to Stanley's six. Two tens. War! Two sevens. War!!! Beil loses the battle. Stanley takes 10 cards. Stanley leads 29 to 23.
+**HUERTA:**  King over six, Mathews. Mathews's hand, Jack over nine.
 
-**MCLAUGHLIN:** What a haul for Stanley.
+**GARCIA:** I bet Hayden wishes they had something higher than a nine on that play.
 
-**QUINTERO:**  Stanley with an Ace of Diamonds over Queen of Hearts.
+**HUERTA:**  Ace over ten, Hayden. Hayden's five loses to Mathews's eight. Two queens. War!!! Hayden loses the battle. Mathews takes 6 cards. Mathews leads 47 to 5. Hayden, Six over three. Ace over four, Hayden. Ten over three, Mathews. Hayden's hand, Ten over six. Hayden, Ace over nine.
 
-**MCLAUGHLIN:** Nice use of an ace by Stanley.
+**GARCIA:** Neither player is giving an inch.
 
-**QUINTERO:**  Stanley again, King over queen. Beil's jack tops Stanley's five. Stanley's three loses to Beil's four. Beil this time with the Nine of Spades. Stanley's queen bests Beil's two.
+**HUERTA:**  Hayden keeps going. Six over five. Mathews leads 43 to 9. Mathews beats Hayden with Nine of Hearts over Three of Diamonds. Hayden's ace bests Mathews's two.
 
-**MCLAUGHLIN:** Stanley over paid for that two.
+**GARCIA:** I hope Hayden doesn't need that ace when something bigger comes along.
 
-**QUINTERO:**  Jack over three, Beil. Beil, Nine over three. Beil this time with the Six of Diamonds.
+**HUERTA:**  Hayden's four falls to Mathews's ace.
 
-**MCLAUGHLIN:** Great use of a six by Beil.
+**GARCIA:** I hope Mathews doesn't need that ace when something bigger comes along.
 
-**QUINTERO:**  Beil does it again. Ace over five. Beil leads 27 to 25.
+**HUERTA:**  Hayden with a Ten of Diamonds over Two of Spades. Mathews tops Hayden with King of Diamonds over Six of Diamonds. Hayden, Ace over seven. Mathews, Ten over nine.
 
-**MCLAUGHLIN:** Stanley is stumbling a little.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Beil wins again. Jack over six.
+**HUERTA:**  Hayden's five loses to Mathews's eight. Mathews does it again. Nine over six. Hayden falls to Mathews again, Three over two. Mathews leads 47 to 5. Hayden's hand, Ace over queen.
 
-**MCLAUGHLIN:** Beil has got some momentum.
+**GARCIA:** Hayden just showed us how its done.
 
-**QUINTERO:**  Another for Beil with Queen over ten.
+**HUERTA:**  Hayden, Ten over four. Mathews, Seven over two. Two sevens. War! Hayden's ace wins the battle taking 6 cards. Mathews leads 43 to 9. Hayden with a Queen of Hearts over Two of Hearts. King over ten, Mathews. Four over two, Hayden.
 
-**MCLAUGHLIN:** Beil just showed us how its done. Is Stanley awake?
+**GARCIA:** Nice play by Hayden.
 
-**QUINTERO:**  Beil does it again. Three over two.
+**HUERTA:**  Two aces. War! Mathews loses the battle. Hayden takes 6 cards. Mathews leads 39 to 13. Hayden's seven bests Mathews's five.
 
-**MCLAUGHLIN:** What a streak for Beil.
+**GARCIA:** Good job.
 
-**QUINTERO:**  Stanley bests Beil with Seven of Clubs over Four of Hearts.
+**HUERTA:**  Mathews beats Hayden with Queen of Diamonds over Seven of Diamonds. Mathews's king beats Hayden's six. Mathews wins again. Eight over two. Mathews's jack loses to Hayden's queen.
 
-**MCLAUGHLIN:** Stanley might have stopped the bleeding.
+**GARCIA:** I bet Mathews wishes they had something higher than a jack on that play.
 
-**QUINTERO:**  Stanley's king tops Beil's jack. Stanley keeps going. Nine over eight. Beil tops Stanley with King of Diamonds over Two of Clubs. Beil, King over five. Beil keeps going. Ace over six. Stanley's hand, Seven over two. Stanley bests Beil with Ten of Spades over Six of Clubs. Nine over seven, Beil.
+**HUERTA:**  Hayden's two falls to Mathews's eight. Mathews tops Hayden with Five of Spades over Four of Diamonds. Hayden falls to Mathews again, King over seven. Mathews leads 43 to 9. Mathews does it again. Six over four.
 
-**MCLAUGHLIN:** Good job by Beil.
+**GARCIA:** Mathews just showed us how its done. Is Mathews going to take this somewhere?
 
-**QUINTERO:**  Beil's ace beats Stanley's seven. Stanley falls to Beil again, Jack over eight. Beil leads 31 to 21. Stanley's hand, Ten over five. Stanley's hand, Eight over three. Stanley keeps going. Eight over four. Stanley continues streak. Ten over nine. Beil leads 27 to 25. Beil with a Five of Clubs over Four of Clubs.
+**HUERTA:**  Hayden's hand, Ace over jack. Hayden with an Ace of Clubs over Nine of Spades. Hayden's ace tops Mathews's eight. Mathews with a Five of Diamonds over Four of Spades. Hayden's seven bests Mathews's three. Mathews's hand, Queen over five. Two queens. War!! Hayden's ace wins the battle taking 6 cards. Mathews leads 39 to 13. Two jacks. War!!! Mathews loses the battle. Hayden takes 6 cards. Hayden bests Mathews with Ace of Spades over Three of Diamonds. Mathews leads 35 to 17. Hayden's eight loses to Mathews's nine. Mathews, Ace over seven. Mathews wins again. Four over three.
 
-**MCLAUGHLIN:** Smart move by Beil.
+**GARCIA:** Nice use of a four by Mathews.
 
-**QUINTERO:**  Stanley with a Queen of Hearts over Jack of Clubs. Stanley, Ace over three. Stanley does it again. Queen over nine. King over three, Stanley. Stanley keeps going. Queen over six. Stanley leads 29 to 23. Beil beats Stanley with Four of Diamonds over Two of Diamonds. Beil, Ace over seven. Beil wins again. Five over four.
+**HUERTA:**  Hayden's hand, Ace over king.
 
-**MCLAUGHLIN:** I bet Stanley wishes they had something higher than a four on that play.
+**GARCIA:** Nice play.
 
-**QUINTERO:**  Jack over six, Stanley. Beil's jack loses to Stanley's king.
+**HUERTA:**  Mathews's six loses to Hayden's jack. Another for Hayden with Jack over nine. Another for Hayden, Queen over ten.
 
-**MCLAUGHLIN:** Excellent use of a king by Stanley
+**GARCIA:** Nice use of a queen by Hayden. Mathews should nip this run in the bud.
 
-**QUINTERO:**  Beil with a Queen of Diamonds over Nine of Clubs. Beil, Ten over eight. Stanley beats Beil with Seven of Hearts over Two of Spades. Beil's hand, Three over two. Stanley, Ten over two. Beil's hand, King over six. Beil's hand, King over five. Beil leads 27 to 25. Stanley, Ten over five. Beil's hand, Six over three.
+**HUERTA:**  Hayden keeps going. Ten over eight.
 
-**MCLAUGHLIN:** Neither player is giving an inch.
+**GARCIA:** Hayden just showed us how its done. Mathews should nip this run in the bud.
 
-**QUINTERO:**  Stanley's eight loses to Beil's ace. Beil again, Seven over four. Beil again, Nine over eight.
+**HUERTA:**  Hayden again, Queen over five.
 
-**MCLAUGHLIN:** I bet Stanley wishes they had something higher than an eight on that play.
+**GARCIA:** Hayden ate their Wheaties today.
 
-**QUINTERO:**  Stanley's ten tops Beil's seven. Beil's ace tops Stanley's nine. Stanley's hand, Queen over jack.
+**HUERTA:**  Mathews falls to Hayden again, Ace over nine. Mathews leads 31 to 21.
 
-**MCLAUGHLIN:** Great use of a queen by Stanley.
+**GARCIA:** I think Mathews should try some higher value cards.
 
-**QUINTERO:**  Beil's eight loses to Stanley's jack. Stanley continues streak. Ace over four. Beil, Five over three. Nine over four, Stanley. Stanley, Queen over two.
+**HUERTA:**  Hayden does it again. Jack over six.
 
-**MCLAUGHLIN:** That queen got the job done, but was it the most strategic play by Stanley?
+**GARCIA:** Someone should tell Mathews the match isn't over.
 
-**QUINTERO:**  Stanley's three loses to Beil's ace. Beil's seven loses to Stanley's king. Beil's four falls to Stanley's queen. Stanley this time with the Six of Diamonds.
+**HUERTA:**  Another for Hayden, Three over two.
 
-**MCLAUGHLIN:** Stanley just showed us how its done.
+**GARCIA:** What a streak for Hayden.
 
-**QUINTERO:**  Beil's hand, Queen over jack. Nine over six, Beil. Stanley's king tops Beil's ten. Beil's eight loses to Stanley's jack. Three over two, Beil. Stanley's seven bests Beil's two. Beil with a King of Diamonds over Ten of Spades. Beil with a Six of Clubs over Two of Clubs. Another for Beil, King over five. Stanley with a Ten of Hearts over Five of Diamonds. Stanley with a Ten of Clubs over Three of Diamonds. Another for Stanley, Seven over six. Stanley continues streak. Jack over eight. Stanley leads 29 to 23. Beil, Ace over queen. Stanley with an Eight of Hearts over Four of Spades. Stanley with a Jack of Clubs over Seven of Spades. Stanley this time with the Ace of Diamonds. Eight over four, Beil. Nine over four, Beil. Another for Beil with Ace over nine. Stanley, Queen over three. Beil's five beats Stanley's two. Stanley's king loses to Beil's ace. Stanley's hand, Seven over three. Beil's hand, Jack over four. Queens. War! Beil defeats Stanley with a nine, takes 6 cards. Beil leads 28 to 24. King over two, Stanley. Ten over three, Stanley. Beil falls to Stanley again, Jack over ten.
+**HUERTA:**  Another for Hayden, Ten over three.
 
-**MCLAUGHLIN:** Stanley just showed us how its done.
+**GARCIA:** I think Mathews should try some higher value cards.
 
-**QUINTERO:**  Beil with a King of Diamonds over Eight of Spades. Beil tops Stanley with Six of Clubs over Two of Hearts. Stanley's hand, Seven over two. King over ten, Beil. Fives. War!! Beil defeats Stanley with a queen, takes 6 cards. Beil's hand, Eight over seven. Six over four, Stanley. Stanley, Jack over four. Beil beats Stanley with Nine of Spades over Eight of Diamonds.
+**HUERTA:**  Another for Hayden with Nine over seven. Mathews leads 27 to 25. Hayden again, Jack over two.
 
-**MCLAUGHLIN:** Efficient play.
+**GARCIA:** Someone should tell Mathews the match isn't over.
 
-**QUINTERO:**  Stanley's eight falls to Beil's nine.
+**HUERTA:**  Mathews with a Ten of Diamonds over Three of Diamonds.
 
-**MCLAUGHLIN:** Nice play.
+**GARCIA:** What a run for Hayden. Mathews has some ground to make up.
 
-**QUINTERO:**  Beil this time with the Ace of Clubs. Beil leads 32 to 20. Stanley's hand, Jack over two.
+**HUERTA:**  Hayden tops Mathews with Ace of Spades over King of Clubs.
 
-**MCLAUGHLIN:** Stanley probably didn't need to use a jack in that play.
+**GARCIA:** I bet Mathews wishes they had something higher than a king on that play.
 
-**QUINTERO:**  Beil's five falls to Stanley's seven.
+**HUERTA:**  Hayden's hand, Ace over seven. Another for Hayden, King over queen. Mathews's king tops Hayden's jack. Two sixes. War! Mathews loses the battle. Hayden takes 6 cards. Hayden leads 30 to 22. Hayden bests Mathews with Ten of Hearts over Two of Diamonds. Mathews falls to Hayden again, Queen over eight. Hayden tops Mathews with Eight of Clubs over Four of Diamonds.
 
-**MCLAUGHLIN:** Smart move by Stanley.
+**GARCIA:** Mathews is going to be playing catch up if they don't stop this.
 
-**QUINTERO:**  Stanley again, Ace over king. Beil's hand, Ace over nine. Stanley's three falls to Beil's jack. Queen over four, Stanley. Beil, Five over three.
+**HUERTA:**  Hayden this time with the Ten of Spades. Hayden leads 34 to 18.
 
-**MCLAUGHLIN:** Great use of a five by Beil.
+**GARCIA:** Hayden might be making a move.
 
-**QUINTERO:**  Seven over six, Stanley. Stanley with a King of Clubs over Queen of Clubs.
+**HUERTA:**  Mathews's seven beats Hayden's five. Hayden's queen falls to Mathews's king.
 
-**MCLAUGHLIN:** Good job by Stanley.
+**GARCIA:** Excellent use of a king by Mathews
 
-**QUINTERO:**  Beil's queen tops Stanley's two. Beil with a Six of Diamonds over Three of Hearts. Beil's nine loses to Stanley's ten. Beil beats Stanley with King of Diamonds over Jack of Spades. Stanley, Ten over eight.
+**HUERTA:**  Hayden, Ace over four. Hayden tops Mathews with Nine of Clubs over Six of Hearts. Mathews's four falls to Hayden's jack. Hayden again, Six over five.
 
-**MCLAUGHLIN:** Efficient play by Stanley.
+**GARCIA:** Well played by Hayden.
 
-**QUINTERO:**  Stanley, Seven over six. Two twos. We have a war! Stanley loses the battle. Beil takes 6 cards. Jack over five, Stanley. Beil bests Stanley with Ten of Clubs over Four of Diamonds. Jack over three, Stanley. Beil's hand, Five over two. Beil, Ace over seven. Beil's queen tops Stanley's five. Stanley's hand, Ace over eight. Stanley's king beats Beil's seven. Beil falls to Stanley again, Queen over nine. Beil's eight tops Stanley's four. Beil, Nine over six. Another for Beil with Eight over seven. Stanley with a King of Clubs over Four of Spades.
+**HUERTA:**  Mathews's hand, Queen over two.
 
-**MCLAUGHLIN:** I hope Stanley doesn't need that king when something bigger comes along.
+**GARCIA:** That queen got the job done, but was it the most strategic play by Mathews?
 
-**QUINTERO:**  Beil with an Ace of Clubs over Queen of Clubs. Beil tops Stanley with Ace of Spades over Ten of Diamonds. Nines all around. War!! Stanley defeats Beil with an eight, takes 6 cards. Stanley tops Beil with Six of Clubs over Three of Spades. Another for Stanley with Seven over five.
+**HUERTA:**  Mathews with a Five of Clubs over Three of Spades.
 
-**MCLAUGHLIN:** Nice play.
+**GARCIA:** Nice play.
 
-**QUINTERO:**  Another for Stanley with Five over two. Queen over jack, Beil.
+**HUERTA:**  Mathews wins again. Nine over three. Hayden with a Ten of Clubs over Eight of Spades.
 
-**MCLAUGHLIN:** Well played by Beil.
+**GARCIA:** I bet Mathews wishes they had something higher than an eight on that play.
 
-**QUINTERO:**  Stanley, Jack over three. Six over three, Beil. Beil bests Stanley with King of Diamonds over Eight of Clubs. Stanley with an Ace of Diamonds over Jack of Spades. Beil with a Ten of Hearts over Seven of Diamonds. Stanley's king beats Beil's four. Beil's two falls to Stanley's queen.
+**HUERTA:**  Hayden's nine beats Mathews's seven.
 
-**MCLAUGHLIN:** Stanley probably didn't need to use a queen in that play.
+**GARCIA:** Nice use of a nine by Hayden.
 
-**QUINTERO:**  Stanley continues streak. Nine over two. Beil leads 28 to 24. Stanley this time with the King of Clubs.
+**HUERTA:**  Hayden's seven loses to Mathews's ace. Hayden, Jack over three. Four over two, Mathews.
 
-**MCLAUGHLIN:** Stanley might be making a move.
+**GARCIA:** Great use of a four by Mathews.
 
-**QUINTERO:**  Beil with a King of Hearts over Four of Spades. Stanley's hand, Ten over four. Stanley's eight falls to Beil's ten. Stanley bests Beil with Three of Clubs over Two of Diamonds.
+**HUERTA:**  Hayden, King over three. Mathews's ten loses to Hayden's ace. Mathews, King over seven. Hayden with an Ace of Diamonds over Jack of Hearts. Hayden bests Mathews with King of Diamonds over Seven of Spades. Hayden again, Queen over five. Hayden leads 38 to 14. Queen over two, Mathews. Mathews, King over eight. Hayden bests Mathews with Six of Spades over Two of Clubs. Mathews beats Hayden with Queen of Clubs over Nine of Diamonds. Jack over five, Hayden. Mathews's three loses to Hayden's six. Mathews, Three over two. Mathews's nine falls to Hayden's ten. Mathews, Ace over eight. Hayden's queen bests Mathews's seven. Mathews's two falls to Hayden's eight. Fours all around. We have a war! Hayden loses the battle. Mathews takes 6 cards. Mathews's hand, Queen over four. Hayden, Ace over two. Hayden's nine beats Mathews's eight.
 
-**MCLAUGHLIN:** Efficient play by Stanley.
+**GARCIA:** Hayden just showed us how its done.
 
-**QUINTERO:**  Nine over five, Stanley. Stanley does it again. Jack over seven. Beil with an Ace of Hearts over Nine of Clubs. Beil tops Stanley with Queen of Hearts over Six of Clubs. Beil keeps going. Five over three.
+**HUERTA:**  Mathews, King over six. Mathews's queen beats Hayden's four. Hayden, Jack over nine.
 
-**MCLAUGHLIN:** Excellent use of a five by Beil
+**GARCIA:** Good job by Hayden.
 
-**QUINTERO:**  Beil's four loses to Stanley's five. Beil, Eight over seven.
+**HUERTA:**  Hayden, Six over three. Another for Hayden, Five over two. Mathews with an Ace of Hearts over Ten of Clubs. Eights all around. War!! Mathews's ten wins the battle taking 6 cards. Hayden leads 34 to 18.
 
-**MCLAUGHLIN:** Smart move by Beil.
+**GARCIA:** Great use of a ten by Mathews.
 
-**QUINTERO:**  Beil, Nine over five. Beil, Six over two. Another for Beil, Seven over three. Jack over eight, Stanley. Stanley, Ace over queen.
+**HUERTA:**  Mathews's hand, King over jack.
 
-**MCLAUGHLIN:** Great use of an ace by Stanley.
+**GARCIA:** Smart move by Mathews.
 
-**QUINTERO:**  Beil bests Stanley with Ace of Clubs over Jack of Spades. Ten over four, Beil. Stanley's king loses to Beil's ace. Beil leads 32 to 20.
+**HUERTA:**  Four over three, Mathews.
 
-**MCLAUGHLIN:** Efficient play.
+**GARCIA:** I bet Hayden wishes they had something higher than a three on that play.
 
-**QUINTERO:**  Beil this time with the Queen of Diamonds. Queen over jack, Stanley. Three over two, Beil.
+**HUERTA:**  Mathews this time with the Seven of Diamonds.
 
-**MCLAUGHLIN:** Great use of a three by Beil.
+**GARCIA:** Mathews has got some momentum.
 
-**QUINTERO:**  Beil's six falls to Stanley's nine. King over six, Beil. King over eight, Stanley. Stanley bests Beil with Ten of Spades over Seven of Diamonds. Beil's hand, Ten over four. Beil tops Stanley with King of Hearts over Two of Diamonds. Stanley falls to Beil again, Four over three.
+**HUERTA:**  Hayden's hand, King over four. Hayden bests Mathews with Ten of Diamonds over Four of Clubs. Hayden again, Ace over queen. Hayden again, Ace over king.
 
-**MCLAUGHLIN:** Beil just showed us how its done.
+**GARCIA:** Excellent use of an ace by Hayden
 
-**QUINTERO:**  Another for Beil, Ten over five. Nine over eight, Stanley.
+**HUERTA:**  Another for Hayden, Jack over six. Hayden again, King over four.
 
-**MCLAUGHLIN:** Stanley just showed us how its done.
+**GARCIA:** Hayden ate their Wheaties today.
 
-**QUINTERO:**  Beil's nine tops Stanley's seven. Stanley's jack loses to Beil's ace. Beil leads 36 to 16. Beil does it again. Six over four.
+**HUERTA:**  Mathews's queen beats Hayden's seven. Hayden bests Mathews with Queen of Diamonds over Ten of Clubs.
 
-**MCLAUGHLIN:** Excellent move.
+**GARCIA:** Great use of a queen by Hayden.
 
-**QUINTERO:**  Stanley falls to Beil again, Queen over five.
+**HUERTA:**  Hayden's five falls to Mathews's ace.
 
-**MCLAUGHLIN:** Stanley should nip this run in the bud.
+**GARCIA:** That ace got the job done, but was it the most strategic play by Mathews?
 
-**QUINTERO:**  Beil's three falls to Stanley's jack. Eight over five, Stanley. Another for Stanley, Ace over eight. Stanley does it again. Queen over seven. Stanley continues streak. Queen over five.
+**HUERTA:**  Mathews bests Hayden with Seven of Clubs over Six of Spades. Mathews continues streak. Five over two. Another for Mathews with Nine over five. Mathews's eight loses to Hayden's jack. Mathews's eight beats Hayden's three. Mathews's ten beats Hayden's six. Mathews does it again. Jack over nine.
 
-**MCLAUGHLIN:** Beil is stumbling a little.
+**GARCIA:** Excellent use of a jack by Mathews
 
-**QUINTERO:**  Beil falls to Stanley again, Jack over nine. Beil leads 32 to 20.
+**HUERTA:**  Mathews this time with the King of Spades. Hayden leads 30 to 22.
 
-**MCLAUGHLIN:** I think Stanley has decided they want this more than Beil.
+**GARCIA:** Hayden is going to be playing catch up if they don't stop this.
 
-**QUINTERO:**  Stanley this time with the Six of Diamonds.
+**HUERTA:**  Hayden beats Mathews with Seven of Hearts over Three of Clubs. Hayden with a Queen of Spades over Four of Hearts. Mathews, Three over two. Hayden, Eight over seven. Mathews, Seven over two. Hayden's ace beats Mathews's queen.
 
-**MCLAUGHLIN:** I think Stanley has decided they want this more than Beil.
+**GARCIA:** Great use of an ace by Hayden.
 
-**QUINTERO:**  Stanley wins again. Nine over six.
+**HUERTA:**  Mathews with an Ace of Hearts over Nine of Clubs. Hayden with an Eight of Hearts over Five of Hearts. Hayden, Nine over six. Mathews falls to Hayden again, Jack over seven. Hayden leads 34 to 18. Hayden continues streak. Three over two.
 
-**MCLAUGHLIN:** Stanley is on fire.
+**GARCIA:** Hayden has got some momentum.
 
-**QUINTERO:**  Stanley wins again. Eight over three.
+**HUERTA:**  Hayden does it again. Six over five.
 
-**MCLAUGHLIN:** Stanley ate their Wheaties today.
+**GARCIA:** I bet Mathews wishes they had something higher than a five on that play.
 
-**QUINTERO:**  Stanley continues streak. King over seven. Beil leads 28 to 24.
+**HUERTA:**  Nine over two, Mathews. Fives. War! Hayden loses the battle. Mathews takes 6 cards. Two tens. War! Hayden defeats Mathews with a queen, takes 6 cards.
 
-**MCLAUGHLIN:** Is Beil awake?
+**GARCIA:** Great use of a queen by Hayden.
 
-**QUINTERO:**  Ace over ten, Beil.
+**HUERTA:**  Hayden with an Ace of Spades over Nine of Hearts. Kings all around. War! Mathews loses the battle. Hayden takes 6 cards. Hayden leads 39 to 13. Hayden's jack bests Mathews's two. Hayden this time with the King of Diamonds. Another for Hayden, Four over two.
 
-**MCLAUGHLIN:** Beil finally get's a punch in.
+**GARCIA:** Nice use of a four by Hayden. Mathews should nip this run in the bud.
 
-**QUINTERO:**  Beil tops Stanley with Jack of Spades over Seven of Diamonds. Eight over four, Stanley. Beil's hand, Ten over nine.
+**HUERTA:**  Mathews bests Hayden with Ace of Hearts over Ten of Clubs. Hayden beats Mathews with Queen of Diamonds over Nine of Clubs. Mathews's two falls to Hayden's eight. Hayden leads 43 to 9. Hayden with a Jack of Clubs over Nine of Spades.
 
-**MCLAUGHLIN:** Great use of a ten by Beil.
+**GARCIA:** I bet Mathews wishes they had something higher than a nine on that play.
 
-**QUINTERO:**  Beil beats Stanley with King of Spades over Three of Spades.
+**HUERTA:**  Mathews beats Hayden with King of Clubs over Three of Clubs. Seven over five, Hayden. Hayden, Queen over eight. Five over four, Mathews.
 
-**MCLAUGHLIN:** Beil probably didn't need to use a king in that play.
+**GARCIA:** Well played by Mathews.
 
-**QUINTERO:**  Beil continues streak. Ace over jack. Beil leads 32 to 20. Stanley's hand, Five over two. Beil with a Queen of Diamonds over Eight of Hearts. Stanley, Ace over two.
+**HUERTA:**  Eight over three, Hayden. Hayden, Seven over four. Mathews, Ace over queen.
 
-**MCLAUGHLIN:** I hope Stanley doesn't need that ace when something bigger comes along.
+**GARCIA:** Good job.
 
-**QUINTERO:**  Stanley's hand, Eight over three. Stanley this time with the Seven of Hearts.
+**HUERTA:**  Hayden tops Mathews with Ace of Clubs over Ten of Clubs. King over five, Mathews. Hayden with an Eight of Hearts over Three of Clubs. Hayden, Six over five. Hayden leads 47 to 5.
 
-**MCLAUGHLIN:** Well played by Stanley.
+**GARCIA:** Nice play. We have some real fighters on our hands.
 
-**QUINTERO:**  Beil's king tops Stanley's queen. Stanley with a Five of Spades over Four of Diamonds.
+**HUERTA:**  Another for Hayden with Nine over four.
 
-**MCLAUGHLIN:** Great use of a five by Stanley.
+**GARCIA:** Hayden likes where this is going.
 
-**QUINTERO:**  Stanley bests Beil with Queen of Spades over Ten of Hearts. Beil leads 28 to 24.
+**HUERTA:**  Ace over seven, Mathews. Mathews, Queen over jack.
 
-**MCLAUGHLIN:** Nice play by Stanley.
+**GARCIA:** Nice use of a queen by Mathews.
 
-**QUINTERO:**  Another for Stanley, Nine over two. Beil's king tops Stanley's jack. Six over four, Stanley.
+**HUERTA:**  Hayden's three falls to Mathews's five. Mathews's king bests Hayden's two. Another for Mathews, Ace over six. Hayden leads 43 to 9. Mathews, Seven over five.
 
-**MCLAUGHLIN:** Nice play by Stanley.
+**GARCIA:** Nice play. Is Hayden awake?
 
-**QUINTERO:**  Beil's three tops Stanley's two. Beil bests Stanley with Ten of Clubs over Nine of Spades. Stanley bests Beil with Six of Hearts over Five of Diamonds. Nine over three, Beil. Beil's seven loses to Stanley's eight. Beil, Ace over king.
+**HUERTA:**  Mathews with a Queen of Clubs over Six of Diamonds.
 
-**MCLAUGHLIN:** I bet Stanley wishes they had something higher than a king on that play.
+**GARCIA:** I think Mathews has decided they want this more than Hayden.
 
-**QUINTERO:**  Beil tops Stanley with Jack of Diamonds over Seven of Clubs. Stanley's hand, Eight over six.
+**HUERTA:**  Mathews continues streak. Jack over ten.
 
-**MCLAUGHLIN:** Nice play by Stanley.
+**GARCIA:** Smart move by Mathews. Someone should tell Hayden the match isn't over.
 
-**QUINTERO:**  Two fours. War!! Stanley loses the battle. Beil takes 6 cards. Beil leads 32 to 20. Ace over two, Beil.
+**HUERTA:**  Hayden's hand, Ten over three.
 
-**MCLAUGHLIN:** I hope Beil doesn't need that ace when something bigger comes along.
+**GARCIA:** Hayden might still have some fight in them.
 
-**QUINTERO:**  Stanley beats Beil with Ace of Diamonds over Ten of Spades. Seven over three, Beil. Beil's hand, Jack over eight. Beil again, Ten over seven. Beil keeps going. Nine over six. Beil leads 36 to 16.
+**HUERTA:**  Hayden, Queen over five. Hayden's hand, Four over two. Mathews, King over jack.
 
-**MCLAUGHLIN:** Beil might be making a move.
+**GARCIA:** Nice use of a king by Mathews.
 
-**QUINTERO:**  Stanley bests Beil with Four of Diamonds over Three of Spades.
+**HUERTA:**  Two aces. We have a war! Mathews loses the battle. Hayden takes 6 cards. Hayden's hand, Ace over five. Mathews beats Hayden with Queen of Clubs over Ten of Hearts.
 
-**MCLAUGHLIN:** Great use of a four by Stanley.
+**GARCIA:** Mathews just showed us how its done.
 
-**QUINTERO:**  Beil with a King of Spades over Five of Spades. Stanley's hand, Queen over jack.
+**HUERTA:**  Hayden with a King of Spades over Six of Diamonds. Mathews, Jack over three. Mathews's hand, Ten over six. King over jack, Mathews. Another for Mathews, Jack over two. Hayden's hand, King over ten. Queen over seven, Mathews. Hayden's four beats Mathews's three.
 
-**MCLAUGHLIN:** Excellent use of a queen by Stanley
+**GARCIA:** Great use of a four by Hayden.
 
-**QUINTERO:**  Stanley's ten loses to Beil's ace. Beil's queen tops Stanley's two. Stanley's nine tops Beil's eight. Beil beats Stanley with King of Diamonds over Six of Diamonds. Stanley's four loses to Beil's queen. Beil again, King over six. Beil does it again. Jack over five. Beil leads 40 to 12. Stanley with an Eight of Clubs over Three of Clubs. Stanley's seven bests Beil's two. Stanley's six loses to Beil's ten. Nine over eight, Beil.
+**HUERTA:**  Mathews tops Hayden with Jack of Spades over Two of Hearts. Hayden's nine tops Mathews's six. Hayden's queen bests Mathews's ten. Jack over two, Mathews. Mathews with a King of Clubs over Eight of Diamonds. Hayden's hand, Jack over two. Mathews's hand, Jack over nine.
 
-**MCLAUGHLIN:** Well played.
+**GARCIA:** Mathews just showed us how its done.
 
-**QUINTERO:**  Stanley's ten beats Beil's nine. Stanley, Ace over three. Beil's king tops Stanley's three. Stanley's four loses to Beil's ace.
+**HUERTA:**  Mathews's hand, Queen over five.
 
-**MCLAUGHLIN:** Beil probably didn't need to use an ace in that play.
+**GARCIA:** Neither player is giving an inch.
 
-**QUINTERO:**  Stanley's queen beats Beil's seven. Jacks. We have a war! Beil loses the battle. Stanley takes 6 cards. Beil leads 36 to 16.
+**HUERTA:**  Two sevens. It's a war folks! Hayden defeats Mathews with a queen, takes 6 cards. Hayden's hand, Three over two.
 
-**MCLAUGHLIN:** We have some real fighters on our hands.
+**GARCIA:** Hayden just showed us how its done.
 
-**QUINTERO:**  Stanley's three tops Beil's two. Stanley's eight falls to Beil's queen. Stanley, Seven over four. Stanley's two falls to Beil's five. Stanley's ten beats Beil's two. Ace over nine, Beil. Stanley, Ace over three. Beil, Seven over three. Eight over seven, Beil. Beil's jack loses to Stanley's queen.
+**HUERTA:**  Mathews with a Jack of Hearts over Eight of Clubs. Mathews's king bests Hayden's seven. Mathews keeps going. Eight over four. Hayden bests Mathews with Ten of Clubs over Nine of Spades.
 
-**MCLAUGHLIN:** Stanley and Beil are trading punch for punch.
+**GARCIA:** Excellent use of a ten by Hayden
 
-**QUINTERO:**  Beil's ten bests Stanley's four. Stanley, Jack over seven. Stanley's jack beats Beil's six. Beil beats Stanley with Nine of Hearts over Five of Clubs. Beil, King over eight. Nine over five, Stanley. Beil bests Stanley with Ten of Hearts over Three of Clubs. Beil, Ace over two.
+**HUERTA:**  Hayden, Ace over jack. Mathews's queen bests Hayden's eight. Mathews with a Five of Clubs over Three of Clubs. Mathews does it again. Eight over five. Mathews does it again. Jack over six. Mathews does it again. King over nine. Hayden leads 39 to 13. Hayden's four loses to Mathews's seven.
 
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Beil?
+**GARCIA:** What a streak for Mathews.
 
-**QUINTERO:**  Stanley's hand, Four over two. Queen over seven, Beil.
+**HUERTA:**  Hayden bests Mathews with Ten of Spades over Eight of Diamonds. Four over three, Mathews. Hayden's queen bests Mathews's eight. Mathews, Queen over five. Mathews's hand, Five over two. Mathews's three falls to Hayden's four. Mathews, Eight over six.
 
-**MCLAUGHLIN:** What a fight!
+**GARCIA:** Nice use of an eight by Mathews.
 
-**QUINTERO:**  Beil's king beats Stanley's two. Beil's six falls to Stanley's ten. Beil's hand, Four over three.
+**HUERTA:**  Mathews's five falls to Hayden's king. Mathews, Jack over nine.
 
-**MCLAUGHLIN:** Great use of a four by Beil.
+**GARCIA:** Excellent move by Mathews.
 
-**QUINTERO:**  Ace over queen, Stanley.
+**HUERTA:**  Mathews's six falls to Hayden's seven. Hayden beats Mathews with Ace of Hearts over Nine of Diamonds.
 
-**MCLAUGHLIN:** I bet Beil wishes they had something higher than a queen on that play.
+**GARCIA:** Hayden and Mathews are trading punch for punch.
 
-**QUINTERO:**  Stanley's jack beats Beil's six. Beil, King over queen.
+**HUERTA:**  Hayden continues streak. Ace over king. Hayden continues streak. Five over four.
 
-**MCLAUGHLIN:** Excellent move by Beil.
+**GARCIA:** Hayden just showed us how its done. Mathews is going to be playing catch up if they don't stop this.
 
-**QUINTERO:**  Jacks all around. We have a war! Stanley defeats Beil with a jack, takes 6 cards. Beil's ten tops Stanley's six. Nines. We have a war! Beil defeats Stanley with a three, takes 6 cards. Stanley's four falls to Beil's king. Beil leads 40 to 12. Beil wins again. Ace over six. Stanley's hand, Ten over four. Stanley tops Beil with Queen of Clubs over Eight of Clubs. Another for Stanley, Ace over queen. Stanley wins again. Jack over five.
+**HUERTA:**  Hayden keeps going. Ace over seven.
 
-**MCLAUGHLIN:** Stanley is looking good.
+**GARCIA:** Mathews is stumbling a little.
 
-**QUINTERO:**  Another for Stanley with Six over two. Beil leads 36 to 16. Beil with an Ace of Clubs over Five of Diamonds.
+**HUERTA:**  Another for Hayden with King over four. Hayden leads 43 to 9.
 
-**MCLAUGHLIN:** Beil probably didn't need to use an ace in that play.
+**GARCIA:** What a streak for Hayden.
 
-**QUINTERO:**  Jack over nine, Stanley. Two sevens. War! Beil loses the battle. Stanley takes 6 cards. Beil with an Eight of Diamonds over Six of Clubs.
+**HUERTA:**  Another for Hayden with Six over three. Hayden keeps going. Ten over five. Hayden wins again. King over queen.
 
-**MCLAUGHLIN:** Nice use of an eight by Beil.
+**GARCIA:** I think Hayden has decided they want this more than Mathews.
 
-**QUINTERO:**  Two tens. We have a war! Stanley defeats Beil with an eight, takes 6 cards. Beil leads 31 to 21. Stanley's queen bests Beil's nine. Stanley again, Ace over king. Stanley does it again. Queen over eight.
+**HUERTA:**  Hayden wins again. Three over two. Hayden leads 47 to 5.
 
-**MCLAUGHLIN:** Stanley has got some momentum.
+**GARCIA:** Smart move. Someone should tell Mathews the match isn't over.
 
-**QUINTERO:**  Stanley again, Jack over three. Beil leads 27 to 25. Beil, Ten over five. Stanley with a Six of Hearts over Two of Clubs. Beil's hand, Ace over two.
+**HUERTA:**  Mathews, Five over four.
 
-**MCLAUGHLIN:** Beil over paid for that two.
+**GARCIA:** Mathews's back in it. Nice use of a five by Mathews.
 
-**QUINTERO:**  Stanley, Nine over seven. Beil's queen bests Stanley's jack. Stanley's three tops Beil's two. Beil, King over seven. Stanley's hand, Jack over four. Seven over three, Stanley. Beil's queen tops Stanley's jack.
+**HUERTA:**  Hayden bests Mathews with Nine of Clubs over Six of Clubs. Mathews's eight beats Hayden's six. Hayden bests Mathews with Ten of Diamonds over Nine of Hearts.
 
-**MCLAUGHLIN:** I bet Stanley wishes they had something higher than a jack on that play.
+**GARCIA:** Nice play. Hayden likes where this is going.
 
-**QUINTERO:**  Beil, King over seven. Two tens. War! Fives all around. War! Stanley's eight wins the battle taking 10 cards. Stanley leads 29 to 23.
+**HUERTA:**  Hayden, Queen over jack.
 
-**MCLAUGHLIN:** What a haul for Stanley.
+**GARCIA:** Great use of a queen by Hayden.
 
-**QUINTERO:**  Beil's nine bests Stanley's four. Stanley with a Queen of Clubs over Nine of Spades. Beil's eight falls to Stanley's nine.
+**HUERTA:**  Mathews with a Five of Clubs over Two of Spades. Mathews's four loses to Hayden's jack. Mathews's six loses to Hayden's seven.
 
-**MCLAUGHLIN:** Stanley just showed us how its done.
+**GARCIA:** It's getting close folks.
 
-**QUINTERO:**  Kings. War! Stanley defeats Beil with a queen, takes 6 cards. Stanley leads 33 to 19. Beil with an Ace of Hearts over Eight of Hearts. Stanley's three falls to Beil's five.
+**HUERTA:** Hayden wins in 354 hands.
 
-**MCLAUGHLIN:** I bet Stanley wishes they had something higher than a three on that play.
+**GARCIA:** That game was a pretty even match. 
 
-**QUINTERO:**  Beil keeps going. Ace over jack. Sixes. War!!! Stanley defeats Beil with a nine, takes 6 cards. Stanley's seven loses to Beil's ten. Stanley, Three over two.
-
-**MCLAUGHLIN:** Well played.
-
-**QUINTERO:**  Beil, Ace over two. Beil's queen bests Stanley's four. Jacks all around. War! Beil defeats Stanley with a seven, takes 6 cards. Stanley leads 28 to 24. Jack over eight, Beil. Beil this time with the Queen of Spades.
-
-**MCLAUGHLIN:** Nice play.
-
-**QUINTERO:**  Beil this time with the Seven of Hearts.
-
-**MCLAUGHLIN:** Is Beil going to take this somewhere?
-
-**QUINTERO:**  Beil again, King over five. Beil leads 28 to 24. Beil does it again. Nine over two.
-
-**MCLAUGHLIN:** What a streak for Beil.
-
-**QUINTERO:**  Stanley, Ten over four. Stanley's five loses to Beil's ace. Beil's eight falls to Stanley's ten. Stanley's four falls to Beil's five. Two threes. War! Beil defeats Stanley with an ace, takes 6 cards. Beil leads 32 to 20. Ten over nine, Beil. Stanley's hand, Eight over seven.
-
-**MCLAUGHLIN:** Stanley just showed us how its done.
-
-**QUINTERO:**  King over two, Stanley. Ace over four, Beil. Stanley tops Beil with Six of Diamonds over Four of Spades. Stanley's king bests Beil's queen.
-
-**MCLAUGHLIN:** Nice use of a king by Stanley.
-
-**QUINTERO:**  Stanley again, Ace over seven. Stanley wins again. Queen over three. Beil leads 28 to 24. Stanley's six falls to Beil's jack. Beil's king bests Stanley's six. Beil keeps going. Jack over nine.
-
-**MCLAUGHLIN:** Excellent move by Beil.
-
-**QUINTERO:**  Beil does it again. Seven over five. Beil leads 32 to 20.
-
-**MCLAUGHLIN:** Smart move by Beil.
-
-**QUINTERO:**  Beil does it again. Eight over two. Another for Beil with Jack over eight.
-
-**MCLAUGHLIN:** What a streak for Beil.
-
-**QUINTERO:**  Another for Beil, Queen over two.
-
-**MCLAUGHLIN:** Beil ate their Wheaties today.
-
-**QUINTERO:**  Beil again, Ten over three. Beil leads 36 to 16. Beil's six bests Stanley's four.
-
-**MCLAUGHLIN:** I bet Stanley wishes they had something higher than a four on that play. I think Beil has decided they want this more than Stanley.
-
-**QUINTERO:**  Stanley's hand, Ten over seven.
-
-**MCLAUGHLIN:** Stanley might have stopped the bleeding.
-
-**QUINTERO:**  Stanley, Ten over five. King over eight, Beil. Stanley bests Beil with Eight of Spades over Two of Diamonds. Beil's hand, Nine over seven.
-
-**MCLAUGHLIN:** Great use of a nine by Beil.
-
-**QUINTERO:**  Beil tops Stanley with Five of Spades over Two of Hearts. Beil continues streak. Ace over king. Fours. War! Beil loses the battle. Stanley takes 6 cards. Beil bests Stanley with Ace of Clubs over King of Spades. Stanley tops Beil with Ace of Diamonds over Three of Spades. Beil's hand, Queen over seven. Beil beats Stanley with Jack of Spades over Three of Diamonds. Stanley tops Beil with Queen of Hearts over Nine of Spades. Two tens. War! Beil's ace wins the battle taking 6 cards. Stanley bests Beil with Ten of Diamonds over Four of Clubs. Beil's hand, Jack over two. Stanley, Eight over six.
-
-**MCLAUGHLIN:** Stanley just showed us how its done.
-
-**QUINTERO:**  Six over four, Beil. King over queen, Beil. Beil leads 40 to 12.
-
-**MCLAUGHLIN:** Well played.
-
-**QUINTERO:**  Beil wins again. Jack over five. Beil keeps going. Nine over three.
-
-**MCLAUGHLIN:** Is Beil going to take this somewhere?
-
-**QUINTERO:**  Beil this time with the Five of Hearts. Beil continues streak. Seven over six. Beil leads 44 to 8.
-
-**MCLAUGHLIN:** Excellent use of a seven by Beil Stanley is really taking a beating.
-
-**QUINTERO:**  Beil with an Eight of Clubs over Three of Spades.
-
-**MCLAUGHLIN:** Stanley is really taking a beating.
-
-**QUINTERO:**  Stanley bests Beil with Ace of Diamonds over Two of Clubs.
-
-**MCLAUGHLIN:** What a run for Beil. Stanley has some ground to make up.
-
-**QUINTERO:**  Stanley's hand, Queen over jack. Another for Stanley, Nine over eight. Beil, Queen over four. Stanley's hand, Ten over two. Six over three, Stanley. Beil's hand, Ten over eight.
-
-**MCLAUGHLIN:** Great use of a ten by Beil.
-
-**QUINTERO:**  Beil bests Stanley with Four of Hearts over Two of Clubs.
-
-**MCLAUGHLIN:** Excellent use of a four by Beil
-
-**QUINTERO:**  Stanley's ace tops Beil's six. Beil's king bests Stanley's queen. Jack over eight, Stanley. Nine over seven, Stanley.
-
-**MCLAUGHLIN:** Nice play.
-
-**QUINTERO:**  Beil with a Nine of Diamonds over Eight of Diamonds.
-
-**MCLAUGHLIN:** Excellent use of a nine by Beil
-
-**QUINTERO:**  Stanley with a Ten of Diamonds over Five of Spades.
-
-**MCLAUGHLIN:** These two are really slugging it out.
-
-**QUINTERO:**  Twos all around. War! Beil's king wins the battle taking 6 cards. Beil's hand, Ace over six. Stanley's hand, Ace over king.
-
-**MCLAUGHLIN:** Smart move.
-
-**QUINTERO:**  Jack over seven, Stanley. Beil bests Stanley with Queen of Clubs over Eight of Hearts. Stanley's seven loses to Beil's jack. Stanley's hand, Nine over three. Two tens. We have a war! Stanley defeats Beil with an ace, takes 6 cards.
-
-**MCLAUGHLIN:** They are really going toe to toe in this game.
-
-**QUINTERO:**  Stanley with a King of Spades over Ten of Clubs. Beil leads 40 to 12. Beil's ace tops Stanley's jack. Sevens. War! Beil loses the battle. Stanley takes 6 cards.
-
-**MCLAUGHLIN:** Excellent use of a three by Stanley
-
-**QUINTERO:**  Stanley's hand, Nine over four. Beil with a Six of Clubs over Five of Spades.
-
-**MCLAUGHLIN:** Great use of a six by Beil.
-
-**QUINTERO:**  Queen over ten, Beil.
-
-**MCLAUGHLIN:** Great use of a queen by Beil.
-
-**QUINTERO:**  Stanley falls to Beil again, King over five. Stanley bests Beil with Ace of Diamonds over Jack of Hearts. Beil's five loses to Stanley's ten. Stanley, Ten over three. Stanley does it again. King over nine. Beil leads 36 to 16.
-
-**MCLAUGHLIN:** Stanley has got some momentum.
-
-**QUINTERO:**  Stanley keeps going. Seven over five.
-
-**MCLAUGHLIN:** Stanley just showed us how its done.
-
-**QUINTERO:**  Stanley this time with the Jack of Diamonds.
-
-**MCLAUGHLIN:** Is Beil awake?
-
-**QUINTERO:**  Another for Stanley, Nine over six.
-
-**MCLAUGHLIN:** I think Beil should try some higher value cards.
-
-**QUINTERO:**  Sevens. War!! Beil defeats Stanley with a three, takes 6 cards. Two fours. It's a war folks! Beil loses the battle. Stanley takes 6 cards. Stanley, Ace over ten. Beil leads 32 to 20. Stanley again, Five over four.
-
-**MCLAUGHLIN:** Well played.
-
-**QUINTERO:**  Stanley continues streak. Ten over two. Beil's hand, Queen over ten.
-
-**MCLAUGHLIN:** Great use of a queen by Beil.
-
-**QUINTERO:**  King over three, Beil. Beil's nine loses to Stanley's king. Stanley, Nine over eight. Beil's ace beats Stanley's five. Stanley with a Seven of Hearts over Two of Spades. Stanley's four loses to Beil's king. Stanley tops Beil with Jack of Diamonds over Six of Hearts. Stanley's hand, Nine over three. Another for Stanley, Six over two. Beil leads 28 to 24. Ace over nine, Beil. Stanley's hand, Jack over six. Beil with an Eight of Hearts over Four of Spades. Beil beats Stanley with Queen of Clubs over Eight of Spades. Stanley's queen bests Beil's seven. Jack over four, Beil. Beil tops Stanley with Ace of Spades over Ten of Spades. Stanley's ace beats Beil's jack. Stanley's four loses to Beil's six. Fives. War!!! Two tens. War! Stanley defeats Beil with a king, takes 10 cards.
-
-**MCLAUGHLIN:** We have some real fighters on our hands. A lot of cards in that play. I bet Beil wishes they played that differently.
-
-**QUINTERO:**  Stanley's nine bests Beil's seven.
-
-**MCLAUGHLIN:** Excellent move by Stanley.
-
-**QUINTERO:**  Another for Stanley with Eight over two. Stanley leads 28 to 24. Beil, Seven over two. Stanley's hand, Seven over three. Beil, Eight over six. Stanley with a Jack of Diamonds over Three of Spades. Beil's ten bests Stanley's nine. Beil with a Queen of Hearts over Three of Hearts. Stanley with a Six of Diamonds over Three of Clubs. Stanley's two loses to Beil's king. Stanley's six tops Beil's five. Beil beats Stanley with Ace of Hearts over Jack of Hearts. Stanley's queen falls to Beil's king.
-
-**MCLAUGHLIN:** They are really going toe to toe in this game.
-
-**QUINTERO:**  Stanley, Seven over four. Ace over jack, Beil. Stanley, Ace over nine. Beil's four falls to Stanley's ten. Beil with an Eight of Hearts over Five of Diamonds. Stanley with a King of Diamonds over Queen of Clubs. Stanley's king bests Beil's eight. Stanley's five falls to Beil's jack. Beil, Four over two.
-
-**MCLAUGHLIN:** Excellent use of a four by Beil
-
-**QUINTERO:**  Stanley bests Beil with Queen of Diamonds over Ten of Spades.
-
-**MCLAUGHLIN:** I bet Beil wishes they had something higher than a ten on that play. Neither player is giving an inch.
-
-**QUINTERO:**  Stanley's five loses to Beil's ace.
-
-**MCLAUGHLIN:** Beil over paid for that five.
-
-**QUINTERO:**  Stanley bests Beil with Ten of Diamonds over Four of Hearts. Stanley's hand, Nine over six. Stanley continues streak. Nine over seven.
-
-**MCLAUGHLIN:** Nice use of a nine by Stanley.
-
-**QUINTERO:**  Stanley this time with the Seven of Clubs. Another for Stanley with Eight over six.
-
-**MCLAUGHLIN:** Well played. Stanley is looking good.
-
-**QUINTERO:**  Eight over two, Beil. Beil's ten tops Stanley's seven. Beil does it again. Nine over three. Beil's three falls to Stanley's jack. Beil's queen bests Stanley's three.
-
-**MCLAUGHLIN:** Beil over paid for that three.
-
-**QUINTERO:**  Beil's king bests Stanley's three. Six over two, Stanley. Stanley's six falls to Beil's ace. Beil's jack beats Stanley's five. Beil keeps going. Queen over four. Beil keeps going. King over seven. Beil leads 28 to 24.
-
-**MCLAUGHLIN:** Stanley is stumbling a little.
-
-**QUINTERO:**  Beil this time with the Jack of Clubs.
-
-**MCLAUGHLIN:** Beil is looking good.
-
-**QUINTERO:**  Aces. War!!! Beil defeats Stanley with a five, takes 6 cards. Beil leads 32 to 20. Stanley's king beats Beil's jack.
-
-**MCLAUGHLIN:** Great use of a king by Stanley.
-
-**QUINTERO:**  Beil's five falls to Stanley's queen. Stanley does it again. King over two. Beil falls to Stanley again, Eight over four. Beil leads 28 to 24. Stanley's ten loses to Beil's ace. Stanley, Queen over five. Stanley's four loses to Beil's eight. Stanley, Ten over two. Beil beats Stanley with Ten of Clubs over Nine of Diamonds.
-
-**MCLAUGHLIN:** Excellent use of a ten by Beil
-
-**QUINTERO:**  Beil with a Seven of Hearts over Six of Clubs.
-
-**MCLAUGHLIN:** Smart move.
-
-**QUINTERO:**  Beil does it again. Nine over seven.
-
-**MCLAUGHLIN:** Beil just showed us how its done.
-
-**QUINTERO:**  Stanley's nine bests Beil's three. Beil, Queen over two.
-
-**MCLAUGHLIN:** Beil probably didn't need to use a queen in that play.
-
-**QUINTERO:**  Stanley bests Beil with Seven of Clubs over Three of Spades. Stanley, Six over three. King over eight, Beil. Beil's six falls to Stanley's jack. Stanley's three falls to Beil's ace. Stanley's hand, Six over five. Beil's hand, Jack over two. Beil's four falls to Stanley's jack. Stanley with a King of Diamonds over Queen of Spades.
-
-**MCLAUGHLIN:** These two are really slugging it out.
-
-**QUINTERO:**  Beil's hand, Seven over five.
-
-**MCLAUGHLIN:** Nice use of a seven by Beil.
-
-**QUINTERO:**  Beil's king tops Stanley's queen.
-
-**MCLAUGHLIN:** I bet Stanley wishes they had something higher than a queen on that play.
-
-**QUINTERO:**  Beil's jack falls to Stanley's king. Stanley's two loses to Beil's nine. Stanley's four loses to Beil's five.
-
-**MCLAUGHLIN:** I bet Stanley wishes they had something higher than a four on that play.
-
-**QUINTERO:**  Beil this time with the Ten of Hearts. Beil leads 32 to 20.
-
-**MCLAUGHLIN:** Excellent use of a ten by Beil
-
-**QUINTERO:**  Beil keeps going. Ace over five.
-
-**MCLAUGHLIN:** Beil might be making a move.
-
-**QUINTERO:**  Stanley's queen bests Beil's eight. Beil's ace beats Stanley's two. Stanley with a Ten of Diamonds over Four of Spades. Beil tops Stanley with Ace of Spades over Three of Diamonds.
-
-**MCLAUGHLIN:** Beil over paid for that three.
-
-**QUINTERO:**  Beil's hand, Ten over nine.
-
-**MCLAUGHLIN:** Well played.
-
-**QUINTERO:**  Another for Beil, Eight over seven.
-
-**MCLAUGHLIN:** Great use of an eight by Beil.
-
-**QUINTERO:**  Beil wins again. Four over three. Beil leads 36 to 16.
-
-**MCLAUGHLIN:** Beil just showed us how its done. Stanley should nip this run in the bud.
-
-**QUINTERO:**  Beil wins again. Nine over six.
-
-**MCLAUGHLIN:** Is Beil going to take this somewhere?
-
-**QUINTERO:**  Beil continues streak. Ten over three.
-
-**MCLAUGHLIN:** Stanley is really taking a beating.
-
-**QUINTERO:**  Stanley with a Jack of Diamonds over Six of Clubs. Stanley's six loses to Beil's seven.
-
-**MCLAUGHLIN:** Well played by Beil.
-
-**QUINTERO:**  Beil's hand, Nine over six. Another for Beil with Seven over five. Beil leads 40 to 12. Stanley, Four over two. Beil, Queen over jack. Beil's eight falls to Stanley's queen. Two kings. War!! Beil's ace wins the battle taking 6 cards.
-
-**MCLAUGHLIN:** Efficient play by Beil.
-
-**QUINTERO:**  Stanley's queen beats Beil's jack.
-
-**MCLAUGHLIN:** I bet Beil wishes they had something higher than a jack on that play.
-
-**QUINTERO:**  Stanley's hand, Eight over two. Beil falls to Stanley again, Ten over five. Seven over four, Beil. Queen over six, Beil. Beil this time with the King of Clubs. Stanley tops Beil with Four of Diamonds over Two of Clubs. Beil bests Stanley with Nine of Hearts over Two of Spades. Stanley's hand, Queen over five. Stanley with an Eight of Diamonds over Four of Clubs. Stanley wins again. Jack over eight. Stanley again, Queen over ten.
-
-**MCLAUGHLIN:** Nice use of a queen by Stanley. Beil is stumbling a little.
-
-**QUINTERO:**  Beil with an Ace of Clubs over Eight of Hearts. Beil beats Stanley with Five of Spades over Two of Hearts. Beil's two loses to Stanley's ten. Stanley's five falls to Beil's ace. Beil's ace tops Stanley's four. Beil keeps going. Three over two.
-
-**MCLAUGHLIN:** Excellent move.
-
-**QUINTERO:**  Stanley with a Queen of Spades over Ten of Spades.
-
-**MCLAUGHLIN:** Efficient play by Stanley.
-
-**QUINTERO:**  Beil's hand, Nine over five. Beil with an Eight of Clubs over Four of Clubs. Beil's seven falls to Stanley's eight.
-
-**MCLAUGHLIN:** I bet Beil wishes they had something higher than a seven on that play.
-
-**QUINTERO:**  Stanley tops Beil with Jack of Hearts over Four of Hearts. Stanley continues streak. Eight over three. Stanley again, Ten over six.
-
-**MCLAUGHLIN:** Beil is stumbling a little.
-
-**QUINTERO:**  Stanley this time with the Queen of Diamonds. Beil, Ten over two. Stanley's hand, Ten over three. Stanley with a Queen of Spades over Six of Spades. Another for Stanley, Ten over seven. Beil leads 36 to 16. Beil, Nine over seven. Eight over six, Stanley.
-
-**MCLAUGHLIN:** Excellent use of an eight by Stanley
-
-**QUINTERO:**  Stanley with a Jack of Hearts over Seven of Diamonds. Beil with a Five of Hearts over Four of Hearts. Beil, Jack over three. Another for Beil with Queen over eight. Beil does it again. Ace over six.
-
-**MCLAUGHLIN:** Beil is looking good.
-
-**QUINTERO:**  Stanley falls to Beil again, King over ten. Beil leads 40 to 12.
-
-**MCLAUGHLIN:** Is Beil going to take this somewhere?
-
-**QUINTERO:**  Another for Beil, King over nine.
-
-**MCLAUGHLIN:** What a streak for Beil.
-
-**QUINTERO:**  Stanley bests Beil with Queen of Diamonds over Three of Hearts.
-
-**MCLAUGHLIN:** That queen got the job done, but was it the most strategic play by Stanley?
-
-**QUINTERO:**  Beil, King over three.
-
-**MCLAUGHLIN:** That king got the job done, but was it the most strategic play by Beil?
-
-**QUINTERO:**  Beil bests Stanley with Jack of Clubs over Ten of Diamonds. Stanley with a Queen of Spades over Four of Spades. Beil tops Stanley with Seven of Spades over Six of Spades.
-
-**MCLAUGHLIN:** I bet Stanley wishes they had something higher than a six on that play.
-
-**QUINTERO:**  Stanley's ten falls to Beil's queen.
-
-**MCLAUGHLIN:** Excellent use of a queen by Beil
-
-**QUINTERO:**  Beil's six falls to Stanley's seven.
-
-**MCLAUGHLIN:** Nice use of a seven by Stanley.
-
-**QUINTERO:**  Beil beats Stanley with Jack of Diamonds over Six of Diamonds. Beil, King over eight. Beil leads 44 to 8. Beil again, Nine over seven. Stanley with a Jack of Hearts over Two of Spades.
-
-**MCLAUGHLIN:** I hope Stanley doesn't need that jack when something bigger comes along.
-
-**QUINTERO:**  Beil's ace bests Stanley's three.
-
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Beil?
-
-**QUINTERO:**  Queen over eight, Stanley. Beil's hand, Five over four.
-
-**MCLAUGHLIN:** Beil just showed us how its done.
-
-**QUINTERO:**  Stanley's queen tops Beil's two. Six over five, Stanley.
-
-**MCLAUGHLIN:** Excellent use of a six by Stanley
-
-**QUINTERO:**  Beil's hand, Ace over seven. Beil's ace beats Stanley's two. Stanley's jack bests Beil's four. Queen over two, Stanley. Stanley continues streak. Eight over three. Beil, Five over two. Queen over nine, Stanley. Six over four, Stanley.
-
-**MCLAUGHLIN:** Nice use of a six by Stanley.
-
-**QUINTERO:**  Beil beats Stanley with Eight of Clubs over Five of Clubs. Jack over ten, Stanley. Stanley's hand, Four over two. Beil leads 40 to 12.
-
-**MCLAUGHLIN:** Well played.
-
-**QUINTERO:**  Beil's hand, Nine over two. Stanley with a Queen of Diamonds over Seven of Clubs. Stanley with an Eight of Hearts over Four of Hearts.
-
-**MCLAUGHLIN:** I think I need to call home and tell them I'll be late.
-
-**QUINTERO:**  Beil bests Stanley with Five of Hearts over Three of Diamonds.
-
-**MCLAUGHLIN:** Excellent use of a five by Beil
-
-**QUINTERO:**  Stanley, Queen over three.
-
-**MCLAUGHLIN:** Stanley and Beil are trading punch for punch.
-
-**QUINTERO:**  Jack over nine, Beil.
-
-**MCLAUGHLIN:** Well played by Beil.
-
-**QUINTERO:**  Beil bests Stanley with Eight of Spades over Six of Clubs.
-
-**MCLAUGHLIN:** Excellent use of an eight by Beil
-
-**QUINTERO:**  Another for Beil with Queen over four. Stanley, Ten over six. Beil with an Ace of Hearts over Jack of Hearts. Beil's hand, King over four. Beil does it again. Ten over two. Beil leads 44 to 8. Another for Beil with Nine over seven.
-
-**MCLAUGHLIN:** Stanley should nip this run in the bud.
-
-**QUINTERO:**  Another for Beil with King over queen.
-
-**MCLAUGHLIN:** Great use of a king by Beil.
-
-**QUINTERO:**  Stanley falls to Beil again, King over four.
-
-**MCLAUGHLIN:** Beil is on fire.
-
-**QUINTERO:**  Stanley, Eight over three. Beil, Jack over three. Stanley's queen bests Beil's ten. Two sixes. War! Stanley loses the battle. Beil takes 6 cards. Beil leads 49 to 3.
-
-**MCLAUGHLIN:** Beil likes where this is going.
-
-**QUINTERO:**  Beil's ten bests Stanley's eight.
-
-**MCLAUGHLIN:** It's getting tight. Beil must be feeling good.
-
-**QUINTERO:**  Beil's six falls to Stanley's queen.
-
-**MCLAUGHLIN:** Beil likes where this is going.
-
-**QUINTERO:**  Beil, Jack over ten.
-
-**MCLAUGHLIN:** We're almost there.
-
-**QUINTERO:**  Stanley tops Beil with Queen of Spades over Eight of Diamonds.
-
-**MCLAUGHLIN:** Beil likes where this is going.
-
-**QUINTERO:**  Beil's king tops Stanley's six.
-
-**MCLAUGHLIN:** It's getting close folks.
-
-**QUINTERO:**  Eight over seven, Stanley.
-
-**MCLAUGHLIN:** Excellent move.  In just a few plays we could have a result.
-
-**QUINTERO:**  Stanley's queen bests Beil's nine.
-
-**MCLAUGHLIN:** We're almost there.
-
-**QUINTERO:**  Stanley this time with the Eight of Diamonds. Stanley's seven falls to Beil's ace. Stanley's hand, Queen over four. Stanley beats Beil with Nine of Hearts over Five of Spades. Ace over eight, Beil. Stanley's three loses to Beil's seven. Beil continues streak. Ace over four.
-
-**MCLAUGHLIN:** We're almost there.
-
-**QUINTERO:**  Queen over two, Stanley.
-
-**MCLAUGHLIN:** We're almost there.
-
-**QUINTERO:**  Stanley with a Nine of Hearts over Five of Diamonds. Another for Stanley with Five over two. Stanley's two falls to Beil's five. Stanley's hand, Queen over eight. Two nines. It's a war folks! Beil loses the battle. Stanley takes 6 cards. Beil leads 43 to 9.
-
-**MCLAUGHLIN:** Nice use of a five by Stanley.
-
-**QUINTERO:**  Beil with a Five of Hearts over Two of Hearts. Beil's jack tops Stanley's eight. Queen over nine, Stanley. Eight over two, Beil. Stanley with a Nine of Hearts over Six of Clubs. Five over four, Stanley.
-
-**MCLAUGHLIN:** Great use of a five by Stanley.
-
-**QUINTERO:**  Queen over five, Beil.
-
-**MCLAUGHLIN:** They are really going toe to toe in this game.
-
-**QUINTERO:**  Beil, Ace over nine. Another for Beil with Jack over three. Another for Beil with King over queen. Beil leads 47 to 5.
-
-**MCLAUGHLIN:** Beil is looking good.
-
-**QUINTERO:**  Stanley with a Nine of Clubs over Four of Diamonds. Stanley's nine loses to Beil's ten. Stanley tops Beil with Six of Clubs over Two of Diamonds. Beil's hand, Nine over four. Beil bests Stanley with Seven of Clubs over Five of Spades. Beil continues streak. King over four. Another for Beil, Queen over nine.
-
-**MCLAUGHLIN:** It's getting tight. Beil must be feeling good.
-
-**QUINTERO:**  Another for Beil, King over two. Beil leads 51 to 1.
-
-**MCLAUGHLIN:** I think Beil is going somewhere. Beil likes where this is going.
-
-**QUINTERO:**  Stanley with a Six of Clubs over Four of Hearts.
-
-**MCLAUGHLIN:** Beil likes where this is going.
-
-**QUINTERO:**  Beil with a Jack of Clubs over Four of Hearts.
-
-**MCLAUGHLIN:** Beil likes where this is going.
-
-**QUINTERO:**  Stanley beats Beil with Six of Clubs over Three of Spades.
-
-**MCLAUGHLIN:** Beil likes where this is going.
-
-**QUINTERO:**  Beil with a Ten of Clubs over Six of Clubs.
-
-**MCLAUGHLIN:** It's getting close folks.Game point folks.
-
-**QUINTERO:** Beil wins in 800 hands.
-
-**MCLAUGHLIN:** What a lengthy game. Val Beil held the lead for most of the game. 
-
-**QUINTERO:** Val Beil meets the winner of game 2 in Game 1 of the 2nd round. 
+**HUERTA:** Bennett Hayden will face the winner of game 2 in Game 1 of the 2nd round. 
 
 ## Game 2, Round 1
 
-**MCLAUGHLIN:** What a annoying day for war.
+**GARCIA:** What a careful day for war.
 
-**QUINTERO:** Hello, I'm Regina Quintero.
+**HUERTA:** Hello, I'm Daryl Huerta.
 
-**MCLAUGHLIN:** And I am Bentley McLaughlin.
+**GARCIA:** And I am Ray Garcia.
 
-**QUINTERO:** We are here today for Game 2 of the 1st round of the War Championship. Today's competitors are Abd Mendoza and Bryce Ali. Mendoza bested Ali in their match in the regular season. Can we expect the same, Bentley?
+**HUERTA:** We are here today for Game 2 of the 1st round of the War Championship. Our players today: Logan George and Juan Weber. George triumphed over Weber in the regular season. Will they repeat that performance again today, Ray?
 
-**MCLAUGHLIN:** That game was a shutout. Mendoza maintained the lead the whole game. As you know Regina, they're both strong players.
+**GARCIA:** Weber never really made a move in that game. They're both strong players, Daryl.
 
-**QUINTERO:** The competitors are ready. Here we go. Mendoza's four beats Ali's three. Mendoza, Nine over five. Ali's ace beats Mendoza's king.
+**HUERTA:** The cards are dealt and George and Weber are seated. Let's begin. Weber with a Six of Diamonds over Five of Hearts.
 
-**MCLAUGHLIN:** Nice use of an ace by Ali.
+**GARCIA:** Nice use of a six by Weber.
 
-**QUINTERO:**  Ali with a Jack of Hearts over Five of Hearts. Ali again, Five over three. Mendoza with an Eight of Spades over Two of Hearts. Mendoza's hand, Queen over eight. Two twos. War! Ali loses the battle. Mendoza takes 6 cards. Mendoza leads 30 to 22. Queen over seven, Ali. Sixes. War! Ali loses the battle. Mendoza takes 6 cards. Ali's hand, Ten over four. Ali's five falls to Mendoza's ten. Mendoza's nine beats Ali's seven.
+**HUERTA:**  George with a King of Diamonds over Queen of Spades.
 
-**MCLAUGHLIN:** Excellent move.
+**GARCIA:** Smart move.
 
-**QUINTERO:**  Mendoza keeps going. Eight over four. Mendoza leads 34 to 18. Mendoza continues streak. Ten over two.
+**HUERTA:**  George tops Weber with Queen of Diamonds over Two of Spades. King over three, Weber.
 
-**MCLAUGHLIN:** Ali is going to be playing catch up if they don't stop this.
+**GARCIA:** Weber probably didn't need to use a king in that play.
 
-**QUINTERO:**  Ali tops Mendoza with Nine of Clubs over Six of Diamonds. Ace over seven, Ali. Ali again, Ace over king. Mendoza's queen tops Ali's three. Ali's ten beats Mendoza's nine.
+**HUERTA:**  Two twos. We have a war! George's ten wins the battle taking 6 cards. George's nine beats Weber's seven. George leads 30 to 22.
 
-**MCLAUGHLIN:** Excellent use of a ten by Ali
+**GARCIA:** I bet Weber wishes they had something higher than a seven on that play.
 
-**QUINTERO:**  Ali with a King of Clubs over Seven of Diamonds. Mendoza, Queen over eight. Ali, King over three. Mendoza's four loses to Ali's ace. Mendoza leads 30 to 22. Two fives. War!! Ali's five wins the battle taking 6 cards. Ali's three falls to Mendoza's eight. Queens. War! Mendoza's king wins the battle taking 6 cards.
+**HUERTA:**  Weber falls to George again, Eight over two. Another for George, King over seven.
 
-**MCLAUGHLIN:** Mendoza and Ali are trading punch for punch.
+**GARCIA:** George has got some momentum.
 
-**QUINTERO:**  Mendoza's hand, Ace over ten. Nine over three, Ali. Ali, Six over two. Mendoza, Jack over seven. Ace over two, Ali. Ali bests Mendoza with King of Hearts over Six of Hearts. Another for Ali, Ace over six. Mendoza, Jack over nine. Ali's hand, Ten over four. Ali bests Mendoza with King of Clubs over Six of Clubs. Mendoza, Jack over seven. Ali's king beats Mendoza's five. Ali's three falls to Mendoza's ten. Mendoza with a Nine of Diamonds over Four of Spades. Ali's ace tops Mendoza's seven. Ali's five beats Mendoza's four. Ali bests Mendoza with Jack of Hearts over Eight of Diamonds. The games tied. Mendoza with a Ten of Clubs over Five of Spades. Ali tops Mendoza with Five of Clubs over Two of Clubs. Ali's hand, Nine over three. Mendoza tops Ali with Queen of Hearts over Two of Hearts. Mendoza's queen tops Ali's nine. Mendoza with an Eight of Hearts over Three of Hearts. Mendoza, Three over two.
+**HUERTA:**  George keeps going. Ace over ten. George again, Jack over ten. George leads 34 to 18.
 
-**MCLAUGHLIN:** Ali is stumbling a little.
+**GARCIA:** Is Weber awake?
 
-**QUINTERO:**  Another for Mendoza with Eight over six. Mendoza leads 30 to 22.
+**HUERTA:**  Weber's hand, Ace over eight. George beats Weber with King of Clubs over Five of Clubs. George tops Weber with Jack of Diamonds over Nine of Diamonds.
 
-**MCLAUGHLIN:** I think Mendoza is going somewhere.
+**GARCIA:** I bet Weber wishes they had something higher than a nine on that play.
 
-**QUINTERO:**  Ali's ace beats Mendoza's king. Mendoza tops Ali with Four of Clubs over Two of Diamonds. Mendoza beats Ali with Seven of Hearts over Six of Hearts.
+**HUERTA:**  George does it again. Ten over six. George's four falls to Weber's five. George tops Weber with Nine of Hearts over Three of Clubs. George's eight falls to Weber's ace. George beats Weber with Queen of Clubs over Seven of Hearts. George with a Queen of Hearts over Three of Hearts. Weber's eight bests George's seven.
 
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than a six on that play.
+**GARCIA:** Excellent use of an eight by Weber
 
-**QUINTERO:**  Ali tops Mendoza with King of Hearts over Queen of Diamonds. Mendoza's eight bests Ali's six.
+**HUERTA:**  Weber beats George with Ace of Hearts over Four of Diamonds. George's hand, Six over four. George's three falls to Weber's jack. George beats Weber with Jack of Spades over Four of Spades. George's queen beats Weber's six.
 
-**MCLAUGHLIN:** Excellent use of an eight by Mendoza
+**GARCIA:** They are really going toe to toe in this game.
 
-**QUINTERO:**  Ali's ace beats Mendoza's queen.
+**HUERTA:**  Another for George with King over five. George leads 38 to 14. George continues streak. Queen over three.
 
-**MCLAUGHLIN:** Great use of an ace by Ali.
+**GARCIA:** George has got some momentum.
 
-**QUINTERO:**  Mendoza's ace tops Ali's four. Two tens. We have a war! Ali's king wins the battle taking 6 cards.
+**HUERTA:**  Weber with a King of Spades over Two of Spades. Weber's hand, Ace over ten. George, Nine over eight.
 
-**MCLAUGHLIN:** Nice use of a king by Ali.
+**GARCIA:** George just showed us how its done.
 
-**QUINTERO:**  Mendoza's jack loses to Ali's king. Mendoza's hand, Nine over five.
+**HUERTA:**  Two fives. It's a war folks! Weber defeats George with an ace, takes 6 cards. Weber's eight bests George's two. George leads 34 to 18. George's nine bests Weber's eight.
 
-**MCLAUGHLIN:** These two are really slugging it out.
+**GARCIA:** Great use of a nine by George.
 
-**QUINTERO:**  Mendoza's jack beats Ali's seven. Mendoza's seven loses to Ali's ace. Mendoza's ten tops Ali's four. Five over three, Ali.
+**HUERTA:**  Two sevens. War!!! Weber's ace wins the battle taking 6 cards. George's hand, King over jack.
 
-**MCLAUGHLIN:** Ali just showed us how its done.
+**GARCIA:** Excellent use of a king by George
 
-**QUINTERO:**  Mendoza bests Ali with Nine of Diamonds over Eight of Diamonds.
+**HUERTA:**  George bests Weber with Seven of Clubs over Three of Spades. George this time with the Ace of Spades.
 
-**MCLAUGHLIN:** Great use of a nine by Mendoza.
+**GARCIA:** Good job.
 
-**QUINTERO:**  Ali's hand, Jack over four. Ten over five, Mendoza. Mendoza with a Five of Spades over Two of Clubs. Mendoza this time with the Queen of Hearts. Three over two, Ali.
+**HUERTA:**  George keeps going. Ten over two.
 
-**MCLAUGHLIN:** Efficient play by Ali.
+**GARCIA:** Is George going to take this somewhere?
 
-**QUINTERO:**  Ali's hand, Ace over nine. Ali keeps going. King over queen. Another for Ali with King over eight.
+**HUERTA:**  Weber beats George with Ace of Clubs over Ten of Spades. Weber's ten loses to George's jack. Weber's ace beats George's five.
 
-**MCLAUGHLIN:** Is Ali going to take this somewhere?
+**GARCIA:** Weber over paid for that five.
 
-**QUINTERO:**  Ali does it again. Queen over three. The games tied. Mendoza falls to Ali again, Queen over three. Ali does it again. Ace over two.
+**HUERTA:**  Weber's five falls to George's king. George with a Jack of Diamonds over Two of Clubs.
 
-**MCLAUGHLIN:** Mendoza is really taking a beating.
+**GARCIA:** That jack seems wasted on a two.
 
-**QUINTERO:**  Mendoza falls to Ali again, Jack over eight.
+**HUERTA:**  Another for George, Nine over six. George leads 38 to 14. George does it again. Ten over four. Weber falls to George again, Six over five.
 
-**MCLAUGHLIN:** Mendoza is really taking a beating.
+**GARCIA:** George has got some momentum.
 
-**QUINTERO:**  Ali wins again. Ten over six. Ali leads 30 to 22.
+**HUERTA:**  George keeps going. Nine over two.
 
-**MCLAUGHLIN:** What a streak for Ali.
+**GARCIA:** I think Weber should try some higher value cards.
 
-**QUINTERO:**  Another for Ali with Seven over two. Ali wins again. King over four. Ali this time with the Ten of Diamonds.
+**HUERTA:**  Eight over three, Weber. George bests Weber with Queen of Clubs over Seven of Diamonds. Sevens all around. We have a war! George loses the battle. Weber takes 6 cards. Weber with an Ace of Hearts over Four of Clubs.
 
-**MCLAUGHLIN:** What a streak for Ali.
+**GARCIA:** I hope Weber doesn't need that ace when something bigger comes along.
 
-**QUINTERO:**  Mendoza, Seven over six.
+**HUERTA:**  Another for Weber with Eight over six.
 
-**MCLAUGHLIN:** Mendoza might have stopped the bleeding.
+**GARCIA:** Great use of an eight by Weber.
 
-**QUINTERO:**  Ali bests Mendoza with King of Spades over Eight of Clubs. Ali's hand, Jack over six. Ali leads 34 to 18. Two aces. War! Two fives. War!! Mendoza's seven wins the battle taking 10 cards. Ali leads 29 to 23.
+**HUERTA:**  Weber's ace beats George's jack.
 
-**MCLAUGHLIN:** What a haul for Mendoza.
+**GARCIA:** I think Weber is going somewhere.
 
-**QUINTERO:**  Jacks all around. We have a war! Ali loses the battle. Mendoza takes 6 cards. Ali with an Ace of Clubs over Nine of Diamonds. Nine over eight, Ali.
+**HUERTA:**  Weber this time with the Ten of Spades. George leads 34 to 18.
 
-**MCLAUGHLIN:** Excellent use of a nine by Ali
+**GARCIA:** George is going to be playing catch up if they don't stop this.
 
-**QUINTERO:**  Mendoza falls to Ali again, King over five. Ali this time with the Queen of Clubs.
+**HUERTA:**  Six over five, George.
 
-**MCLAUGHLIN:** I bet Mendoza wishes they had something higher than a ten on that play. Mendoza is going to be playing catch up if they don't stop this.
+**GARCIA:** Nice use of a six by George.
 
-**QUINTERO:**  Ali again, Eight over five. King over two, Ali.
+**HUERTA:**  Weber with an Ace of Diamonds over Queen of Spades. Weber, Eight over five. George tops Weber with King of Diamonds over Three of Clubs. Weber bests George with Queen of Hearts over Three of Diamonds. George with a Queen of Diamonds over Seven of Hearts. George's nine beats Weber's seven. George keeps going. Eight over four. George does it again. Eight over two.
 
-**MCLAUGHLIN:** Ali ate their Wheaties today.
+**GARCIA:** Weber is stumbling a little.
 
-**QUINTERO:**  Mendoza's nine tops Ali's three. Two queens. We have a war! Ali defeats Mendoza with a queen, takes 6 cards. Ali leads 34 to 18. Aces all around. War!! Mendoza loses the battle. Ali takes 6 cards. Ali's jack bests Mendoza's five. Ali leads 38 to 14. Another for Ali, Six over three. Another for Ali, Ten over nine.
+**HUERTA:**  Another for George with Nine over three. George leads 38 to 14. George does it again. Jack over four. Ace over king, Weber.
 
-**MCLAUGHLIN:** Excellent use of a ten by Ali
+**GARCIA:** Excellent use of an ace by Weber
 
-**QUINTERO:**  Mendoza, Ace over seven. Mendoza's hand, Four over two.
+**HUERTA:**  Weber's eight beats George's seven.
 
-**MCLAUGHLIN:** Mendoza just showed us how its done.
+**GARCIA:** I bet George wishes they had something higher than a seven on that play.
 
-**QUINTERO:**  Mendoza keeps going. Seven over four. Ali with a King of Clubs over Five of Hearts. Ali's six beats Mendoza's three. Tens. It's a war folks! Ali's king wins the battle taking 6 cards. Ali leads 42 to 10.
+**HUERTA:**  Weber this time with the Six of Spades. George with a King of Spades over Jack of Spades.
 
-**MCLAUGHLIN:** Ali just showed us how its done.
+**GARCIA:** Excellent use of a king by George
 
-**QUINTERO:**  Mendoza's jack tops Ali's six. Ali's jack tops Mendoza's two. Nines all around. It's a war folks! Mendoza defeats Ali with an ace, takes 6 cards. Ali's hand, Eight over seven. Five over two, Ali. Ali this time with the King of Diamonds. Ali wins again. Queen over four. Ali this time with the Ten of Clubs.
+**HUERTA:**  Two aces. We have a war! George loses the battle. Weber takes 6 cards. George leads 34 to 18. Weber, Ace over ten. Weber this time with the Queen of Spades.
 
-**MCLAUGHLIN:** I think Ali is going somewhere.
+**GARCIA:** Nice use of a queen by Weber.
 
-**QUINTERO:**  Mendoza's jack bests Ali's five. Ali, Eight over six. Ali tops Mendoza with King of Hearts over Three of Hearts. Mendoza's hand, Ace over two. Mendoza beats Ali with Nine of Clubs over Six of Clubs. Another for Mendoza with Ace over queen. Queen over nine, Ali. Ali tops Mendoza with Queen of Spades over Nine of Hearts. Mendoza's hand, Jack over seven. Mendoza with a Five of Spades over Three of Spades.
+**HUERTA:**  Weber's five loses to George's king. Weber bests George with Eight of Hearts over Five of Spades. Weber's hand, Queen over jack. Weber does it again. Three over two. George leads 30 to 22. George falls to Weber again, King over nine.
 
-**MCLAUGHLIN:** Good job.
+**GARCIA:** Is Weber going to take this somewhere?
 
-**QUINTERO:**  Ali's seven beats Mendoza's two. Ali's eight loses to Mendoza's ace. Mendoza's six falls to Ali's ace. Mendoza, Nine over four. Mendoza's ace bests Ali's two.
+**HUERTA:**  Weber does it again. Ace over six.
 
-**MCLAUGHLIN:** Mendoza over paid for that two.
+**GARCIA:** I think Weber is going somewhere.
 
-**QUINTERO:**  Mendoza's queen falls to Ali's ace.
+**HUERTA:**  George's hand, Ten over eight. Weber's seven bests George's four. George, Six over three. Weber with a Six of Spades over Five of Diamonds. George's two falls to Weber's four. Weber's two falls to George's nine. Weber's hand, Ace over seven. George, Queen over ten.
 
-**MCLAUGHLIN:** Ali just showed us how its done.
+**GARCIA:** Excellent use of a queen by George
 
-**QUINTERO:**  Mendoza, Jack over five.
+**HUERTA:**  Weber tops George with Ten of Spades over Five of Clubs. Weber's ace tops George's six. The games tied. Weber this time with the Ten of Diamonds. Weber this time with the Ace of Diamonds. Weber again, Queen over seven.
 
-**MCLAUGHLIN:** What a fight!
+**GARCIA:** Weber is looking good.
 
-**QUINTERO:**  Jack over seven, Ali. Mendoza bests Ali with Five of Spades over Three of Diamonds.
+**HUERTA:**  George's hand, Queen over jack. George's nine tops Weber's five. Weber, Eight over seven.
 
-**MCLAUGHLIN:** Excellent use of a five by Mendoza
+**GARCIA:** Weber just showed us how its done.
 
-**QUINTERO:**  Ali with a Six of Diamonds over Three of Spades. Ace over nine, Mendoza. Ali with a Ten of Hearts over Eight of Spades. King over four, Ali. Mendoza bests Ali with Nine of Clubs over Five of Hearts. Mendoza with an Ace of Hearts over Three of Clubs. Ali tops Mendoza with Six of Hearts over Two of Spades. Mendoza, Jack over four.
+**HUERTA:**  Weber, Queen over eight. Weber's jack beats George's four. Weber leads 30 to 22. George falls to Weber again, Three over two.
 
-**MCLAUGHLIN:** These two are really slugging it out.
+**GARCIA:** Weber just showed us how its done. George should nip this run in the bud.
 
-**QUINTERO:**  Mendoza's five loses to Ali's ten. Ali, Ten over three. Another for Ali with Jack over five. Mendoza tops Ali with Ace of Clubs over King of Spades.
+**HUERTA:**  George bests Weber with Eight of Diamonds over Two of Clubs. Weber bests George with King of Hearts over Three of Hearts. Two nines. It's a war folks! Weber's six wins the battle taking 6 cards. Weber leads 34 to 18.
 
-**MCLAUGHLIN:** Excellent move by Mendoza.
+**GARCIA:** Weber just showed us how its done.
 
-**QUINTERO:**  Mendoza with a Nine of Spades over Eight of Clubs. Mendoza's nine falls to Ali's jack.
+**HUERTA:**  Jack over four, George. George tops Weber with King of Spades over Seven of Clubs. Fives all around. We have a war! George defeats Weber with an eight, takes 6 cards. Weber leads 29 to 23. George with a Ten of Clubs over Two of Hearts. Ace over six, Weber. George's three loses to Weber's seven.
 
-**MCLAUGHLIN:** I bet Mendoza wishes they had something higher than a nine on that play.
+**GARCIA:** They are really going toe to toe in this game.
 
-**QUINTERO:**  Mendoza tops Ali with Five of Hearts over Two of Hearts. Mendoza's hand, Ace over seven. Mendoza's three falls to Ali's eight. Ali with a Five of Clubs over Four of Diamonds.
+**HUERTA:**  George's two loses to Weber's ten. George's hand, Nine over five. George, Ten over six. Weber, Ace over queen.
 
-**MCLAUGHLIN:** Nice use of a five by Ali.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Mendoza with a Jack of Hearts over Two of Diamonds. Ali's king falls to Mendoza's ace.
+**HUERTA:**  Weber's three loses to George's queen. Jack over ten, George.
 
-**MCLAUGHLIN:** Nice use of an ace by Mendoza.
+**GARCIA:** George just showed us how its done.
 
-**QUINTERO:**  Mendoza keeps going. King over four.
+**HUERTA:**  Weber, Ace over five.
 
-**MCLAUGHLIN:** Mendoza probably didn't need to use a king in that play.
+**GARCIA:** Weber over paid for that five.
 
-**QUINTERO:**  Ali falls to Mendoza again, Eight over four. Ali's hand, Queen over nine. Mendoza's five falls to Ali's seven.
+**HUERTA:**  King over nine, Weber. Weber with a Queen of Spades over Eight of Diamonds. Weber wins again. Seven over two. George's hand, Jack over eight. George's four falls to Weber's seven. Queen over seven, Weber. Weber leads 33 to 19. George with a King of Spades over Eight of Spades. Weber's four loses to George's king. George's six loses to Weber's jack. George's hand, Five over three.
 
-**MCLAUGHLIN:** Excellent move.
+**GARCIA:** Excellent use of a five by George
 
-**QUINTERO:**  Another for Ali with Ten over two. Mendoza bests Ali with Ace of Hearts over Six of Spades. Eight over seven, Ali.
+**HUERTA:**  George's hand, Eight over two. George's five falls to Weber's king. Four over three, George.
 
-**MCLAUGHLIN:** Good job by Ali.
+**GARCIA:** George just showed us how its done.
 
-**QUINTERO:**  Ali with a Three of Hearts over Two of Diamonds. Ali this time with the King of Hearts.
+**HUERTA:**  Weber beats George with Six of Hearts over Two of Hearts.
 
-**MCLAUGHLIN:** Efficient play.
+**GARCIA:** These two are really slugging it out.
 
-**QUINTERO:**  Mendoza, Ace over nine. Mendoza with a King of Diamonds over Queen of Hearts. Mendoza again, King over queen.
+**HUERTA:**  George, Ten over nine. Weber, Jack over nine.
 
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than a queen on that play.
+**GARCIA:** Well played.
 
-**QUINTERO:**  Ali tops Mendoza with Nine of Hearts over Four of Spades. Mendoza beats Ali with Eight of Clubs over Seven of Spades.
+**HUERTA:**  Weber's hand, Nine over five. Ten over four, George. George's six loses to Weber's ace. George's three falls to Weber's six. Weber keeps going. Ace over queen. George beats Weber with Ten of Diamonds over Seven of Diamonds. Jack over three, George. George's eight loses to Weber's ten. George's jack tops Weber's two.
 
-**MCLAUGHLIN:** Great use of an eight by Mendoza.
+**GARCIA:** I hope George doesn't need that jack when something bigger comes along.
 
-**QUINTERO:**  Mendoza with a Four of Clubs over Two of Clubs.
+**HUERTA:**  Queen over eight, Weber. Weber with an Ace of Spades over King of Spades.
 
-**MCLAUGHLIN:** Great use of a four by Mendoza.
+**GARCIA:** Great use of an ace by Weber.
 
-**QUINTERO:**  Mendoza this time with the Ace of Hearts. Ali's ace bests Mendoza's six. Mendoza's hand, Ace over queen. Ali beats Mendoza with Ace of Spades over Nine of Diamonds. Mendoza's hand, Queen over seven. King over jack, Mendoza. Ali leads 38 to 14.
+**HUERTA:**  George, King over five. Weber with an Ace of Diamonds over Four of Diamonds. Weber, Nine over five. Another for Weber, King over three. Weber continues streak. Queen over eight. Weber leads 37 to 15. Weber does it again. Eight over two. Another for Weber, Seven over three.
 
-**MCLAUGHLIN:** Excellent use of a king by Mendoza
+**GARCIA:** I think Weber has decided they want this more than George.
 
-**QUINTERO:**  Mendoza wins again. Queen over six. Mendoza keeps going. King over three. Eights all around. War!! Two fours. War! Mendoza's ace wins the battle taking 10 cards. Ali leads 31 to 21.
+**HUERTA:**  George with a Four of Spades over Two of Clubs.
 
-**MCLAUGHLIN:** That's a big prize for Mendoza.
+**GARCIA:** I bet Weber wishes they had something higher than a two on that play.
 
-**QUINTERO:**  Ali's two loses to Mendoza's six. Mendoza again, Queen over five. Mendoza does it again. Ace over ten. Mendoza's seven falls to Ali's ten. Ali's three falls to Mendoza's queen. Mendoza's king beats Ali's jack. Ali leads 27 to 25. Another for Mendoza, Jack over five. Ali's nine loses to Mendoza's queen.
+**HUERTA:**  George, Ten over four. George keeps going. Nine over seven. Weber beats George with Seven of Clubs over Four of Clubs. George's ten loses to Weber's queen.
 
-**MCLAUGHLIN:** Ali should nip this run in the bud.
+**GARCIA:** Nice use of a queen by Weber.
 
-**QUINTERO:**  Ali, Jack over six. Mendoza's king beats Ali's eight. Two threes. War! Ali loses the battle. Mendoza takes 6 cards. Mendoza leads 30 to 22. Mendoza with a King of Clubs over Nine of Spades. Queen over seven, Ali. Mendoza, Ace over seven. Mendoza's six bests Ali's five.
+**HUERTA:**  Weber keeps going. Jack over seven. Weber's six loses to George's ten. Weber, King over jack. George's three falls to Weber's five.
 
-**MCLAUGHLIN:** Great use of a six by Mendoza.
+**GARCIA:** Weber just showed us how its done.
 
-**QUINTERO:**  Tens. It's a war folks! Mendoza loses the battle. Ali takes 6 cards. Mendoza's eight tops Ali's seven.
+**HUERTA:**  George's jack tops Weber's two.
 
-**MCLAUGHLIN:** Nice use of an eight by Mendoza.
+**GARCIA:** George probably didn't need to use a jack in that play.
 
-**QUINTERO:**  Twos all around. War! Ali's king wins the battle taking 6 cards.
+**HUERTA:**  George's two falls to Weber's six. Jack over five, Weber. Weber leads 41 to 11. George with a King of Clubs over Nine of Hearts. Weber's nine tops George's four. Weber's five beats George's two. Weber, Six over four. Ace over ten, Weber.
 
-**MCLAUGHLIN:** Great use of a king by Ali.
+**GARCIA:** Weber is looking good.
 
-**QUINTERO:**  Ali, Jack over five. The games tied. Mendoza's ten tops Ali's four. Ali's nine falls to Mendoza's ace. Six over three, Ali. Ali with an Ace of Diamonds over Queen of Hearts. Ali keeps going. Ace over jack. Ali's nine falls to Mendoza's king. Ali with a Seven of Hearts over Five of Spades.
+**HUERTA:**  George, Nine over three. George bests Weber with Seven of Spades over Six of Clubs.
 
-**MCLAUGHLIN:** Ali just showed us how its done.
+**GARCIA:** Excellent use of a seven by George
 
-**QUINTERO:**  Mendoza, Jack over ten.
+**HUERTA:**  Weber, Ace over six. Weber bests George with Queen of Diamonds over Ten of Diamonds.
 
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than a ten on that play.
+**GARCIA:** Weber just showed us how its done.
 
-**QUINTERO:**  Queen over six, Mendoza. Ali with a Jack of Spades over Nine of Clubs. King over queen, Mendoza. Mendoza's eight tops Ali's seven.
+**HUERTA:**  Weber this time with the Ten of Spades. Weber leads 45 to 7. George with a Jack of Spades over Eight of Hearts. George's nine loses to Weber's queen. George tops Weber with King of Clubs over Eight of Spades. Weber with an Ace of Spades over Three of Clubs. King over nine, Weber. George, Six over four. Weber tops George with Ace of Diamonds over Seven of Spades. Weber, Nine over eight. George's jack tops Weber's five. George beats Weber with King of Clubs over Three of Diamonds.
 
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than a seven on that play.
+**GARCIA:** That king seems wasted on a three.
 
-**QUINTERO:**  Another for Mendoza, Four over two. Ali, Ten over three. Four over two, Mendoza.
+**HUERTA:**  Weber, King over eight. Queen over six, Weber. Another for Weber with Eight over four.
 
-**MCLAUGHLIN:** Efficient play.
+**GARCIA:** Weber likes where this is going.
 
-**QUINTERO:**  Ali's ten beats Mendoza's three. Eights. War!! Mendoza defeats Ali with a king, takes 6 cards. Mendoza leads 31 to 21. Mendoza beats Ali with Nine of Spades over Two of Spades. Ace over king, Mendoza.
+**HUERTA:**  George with a Jack of Spades over Eight of Diamonds. George tops Weber with Five of Diamonds over Two of Diamonds. George keeps going. King over seven. Threes. War!!! Weber loses the battle. George takes 6 cards. Weber bests George with Queen of Hearts over Five of Diamonds. Weber's ten beats George's two. George's king tops Weber's seven. Weber with a Jack of Diamonds over Seven of Hearts. Weber's jack bests George's three. Weber again, King over seven. Four over three, George.
 
-**MCLAUGHLIN:** Mendoza just showed us how its done.
+**GARCIA:** Nice use of a four by George.
 
-**QUINTERO:**  Mendoza keeps going. Seven over three.
+**HUERTA:**  Weber's five falls to George's eight. George this time with the Three of Diamonds.
 
-**MCLAUGHLIN:** I think Mendoza is going somewhere.
+**GARCIA:** Nice use of a three by George.
 
-**QUINTERO:**  Six over five, Ali.
+**HUERTA:**  George again, Jack over six. George does it again. King over jack. Weber leads 41 to 11.
 
-**MCLAUGHLIN:** Excellent use of a six by Ali
+**GARCIA:** George just showed us how its done.
 
-**QUINTERO:**  Mendoza's six beats Ali's two. Ali tops Mendoza with Jack of Hearts over Eight of Spades. Mendoza's seven beats Ali's five.
+**HUERTA:**  Weber's five loses to George's seven.
 
-**MCLAUGHLIN:** Mendoza just showed us how its done.
+**GARCIA:** George is on fire.
 
-**QUINTERO:**  Mendoza beats Ali with Ten of Diamonds over Six of Spades. Mendoza leads 35 to 17. Another for Mendoza, Four over three. Aces. War! Ali defeats Mendoza with an ace, takes 6 cards. Mendoza beats Ali with King of Diamonds over Jack of Clubs.
+**HUERTA:**  Fours all around. We have a war! George defeats Weber with an eight, takes 6 cards. Weber leads 37 to 15. Five over two, George. Weber, Four over two.
 
-**MCLAUGHLIN:** Great use of a king by Mendoza.
+**GARCIA:** Well played.
 
-**QUINTERO:**  Mendoza, Jack over seven. Another for Mendoza, Ten over five. Ali falls to Mendoza again, Queen over nine. Ali with a Jack of Spades over Six of Diamonds. Queen over ten, Mendoza. Mendoza bests Ali with King of Spades over Three of Spades. Ali, Ten over eight. Mendoza, Seven over three. Ali tops Mendoza with Five of Hearts over Two of Hearts. Ali, Six over four.
+**HUERTA:**  Weber's hand, Six over three. Weber wins again. Ace over six. George's hand, Jack over ten. George's jack loses to Weber's ace. George, King over six. Ten over seven, Weber. Weber's queen bests George's five. Nine over two, George. Weber's ten tops George's five. Weber with a Queen of Clubs over Three of Spades. Weber leads 41 to 11.
 
-**MCLAUGHLIN:** Excellent use of a six by Ali
+**GARCIA:** I hope Weber doesn't need that queen when something bigger comes along.
 
-**QUINTERO:**  Ali's hand, Eight over two. Ali again, Jack over four. Ali wins again. Ace over four.
+**HUERTA:**  George falls to Weber again, Nine over four. Weber keeps going. Ace over four.
 
-**MCLAUGHLIN:** Is Ali going to take this somewhere?
+**GARCIA:** Weber is looking good.
 
-**QUINTERO:**  Ali keeps going. Ace over five.
+**HUERTA:**  George's eight tops Weber's three. Weber with a King of Spades over Two of Clubs. Weber, Nine over five. George falls to Weber again, Ace over jack. Weber leads 45 to 7. George, Ten over seven. George's six loses to Weber's nine. George, King over eight. Weber's hand, King over nine. George's two loses to Weber's eight. Another for Weber with Queen over eight. Weber does it again. Six over three.
 
-**MCLAUGHLIN:** Mendoza is really taking a beating.
+**GARCIA:** It's getting tight. Weber must be feeling good.
 
-**QUINTERO:**  Mendoza falls to Ali again, Nine over eight. Mendoza leads 31 to 21.
+**HUERTA:**  George beats Weber with Seven of Spades over Four of Diamonds. George with a Ten of Clubs over Eight of Clubs. Another for George with Eight over five. George continues streak. King over queen.
 
-**MCLAUGHLIN:** Efficient play. What a streak for Ali.
+**GARCIA:** Great use of a king by George.
 
-**QUINTERO:**  Ali keeps going. Ace over king.
+**HUERTA:**  George's seven loses to Weber's ten. George's hand, Four over two.
 
-**MCLAUGHLIN:** Nice use of an ace by Ali.
+**GARCIA:** Great use of a four by George.
 
-**QUINTERO:**  Ali this time with the Nine of Diamonds.
+**HUERTA:**  Eight over seven, George. Weber's hand, Jack over ten. Weber's jack tops George's five. George's hand, Eight over three. George with a Queen of Hearts over Seven of Clubs. Kings all around. It's a war folks! Two twos. War!!! George's eight wins the battle taking 10 cards. Weber leads 38 to 14.
 
-**MCLAUGHLIN:** Excellent use of a nine by Ali What a streak for Ali.
+**GARCIA:** Hope he doesn't spend those all in one place!
 
-**QUINTERO:**  Two queens. War!! Mendoza defeats Ali with a nine, takes 6 cards. Mendoza with a King of Hearts over Ten of Clubs. Mendoza tops Ali with Ace of Hearts over Eight of Diamonds. Mendoza does it again. Three over two. Mendoza leads 35 to 17.
+**HUERTA:**  George's three loses to Weber's six.
 
-**MCLAUGHLIN:** Smart move by Mendoza. Mendoza has got some momentum.
+**GARCIA:** These two are really slugging it out.
 
-**QUINTERO:**  Mendoza wins again. Seven over five.
+**HUERTA:**  George's eight falls to Weber's ace. Another for Weber with Ace over queen. Weber this time with the Jack of Clubs. Weber leads 42 to 10. George tops Weber with King of Hearts over Ten of Diamonds. Two sevens. It's a war folks! Weber defeats George with a queen, takes 6 cards. Weber's five beats George's four. Weber this time with the Ten of Spades. Weber leads 46 to 6. Weber's three loses to George's king. Queen over three, Weber.
 
-**MCLAUGHLIN:** Ali is stumbling a little.
+**GARCIA:** Weber over paid for that three.
 
-**QUINTERO:**  Ali, Four over two.
+**HUERTA:**  Weber's nine beats George's four. Another for Weber, Four over two.
 
-**MCLAUGHLIN:** I bet Mendoza wishes they had something higher than a two on that play.
+**GARCIA:** Good job by Weber. It's getting close folks.
 
-**QUINTERO:**  Sixes all around. War! Mendoza loses the battle. Ali takes 6 cards.
+**HUERTA:**  George bests Weber with Ten of Diamonds over Four of Spades. Weber with an Ace of Spades over King of Hearts.
 
-**MCLAUGHLIN:** Good job by Ali.
+**GARCIA:** I bet George wishes they had something higher than a king on that play. Weber likes where this is going.
 
-**QUINTERO:**  Ali's jack bests Mendoza's six. Mendoza leads 31 to 21. Ali's four falls to Mendoza's ten. Ali with an Ace of Clubs over Four of Spades. Ali's hand, Four over three.
+**HUERTA:**  Weber tops George with King of Spades over Three of Spades. George, King over two.
 
-**MCLAUGHLIN:** Excellent use of a four by Ali
+**GARCIA:** That king got the job done, but was it the most strategic play by George? It's getting tight. Weber must be feeling good.
 
-**QUINTERO:**  Ali's five falls to Mendoza's jack. Ali, Ace over king. Mendoza, Jack over eight. Mendoza's seven falls to Ali's nine.
+**HUERTA:**  Weber, Nine over four. Weber's five loses to George's ten.
 
-**MCLAUGHLIN:** Excellent move by Ali.
+**GARCIA:** It's getting tight. Weber must be feeling good.
 
-**QUINTERO:**  Ali bests Mendoza with King of Clubs over Ten of Spades. Ace over five, Ali. Mendoza's queen bests Ali's eight. Nines all around. We have a war! Mendoza's ten wins the battle taking 6 cards. Mendoza's three beats Ali's two. Mendoza does it again. King over six. Mendoza's seven loses to Ali's eight. Five over three, Ali.
+**HUERTA:**  George's two loses to Weber's ace.
 
-**MCLAUGHLIN:** Well played.
+**GARCIA:** We're almost there.
 
-**QUINTERO:**  Mendoza's queen beats Ali's seven. Six over two, Ali. Ali's hand, Jack over six. Mendoza bests Ali with Jack of Spades over Six of Spades. Mendoza, Nine over four. Ali's hand, Ace over queen.
+**HUERTA:**  George tops Weber with King of Clubs over Jack of Spades. George beats Weber with Ten of Diamonds over Six of Spades. Weber's nine tops George's five.
 
-**MCLAUGHLIN:** Good job by Ali.
+**GARCIA:** In just a few plays we could have a result.
 
-**QUINTERO:**  Mendoza beats Ali with King of Hearts over Four of Clubs. Ali's three loses to Mendoza's ten. Mendoza does it again. Ace over king. Mendoza leads 35 to 17.
+**HUERTA:**  George's king bests Weber's nine.
 
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than a king on that play.
+**GARCIA:** We have some real fighters on our hands.
 
-**QUINTERO:**  Ali with an Ace of Spades over Eight of Diamonds. Ali with a Nine of Hearts over Three of Hearts. Mendoza falls to Ali again, Seven over two. Another for Ali with Ten over seven. Mendoza leads 31 to 21. Another for Ali with King over five.
+**HUERTA:**  Weber with a King of Diamonds over Jack of Spades.
 
-**MCLAUGHLIN:** Mendoza is stumbling a little.
+**GARCIA:** Efficient play by Weber.
 
-**QUINTERO:**  Ali continues streak. Ace over ten.
+**HUERTA:**  Weber's two falls to George's ten. Weber, Eight over six.
 
-**MCLAUGHLIN:** I think Ali has decided they want this more than Mendoza.
+**GARCIA:** It's getting close folks.
 
-**QUINTERO:**  Another for Ali, Five over four.
+**HUERTA:**  George, King over queen. George with a Nine of Diamonds over Eight of Diamonds. George, Ten over six. Weber's hand, Three over two. Weber's seven loses to George's king. George's hand, Queen over ten.
 
-**MCLAUGHLIN:** Ali just showed us how its done. Ali ate their Wheaties today.
+**GARCIA:** Well played.
 
-**QUINTERO:**  Jack over seven, Mendoza.
+**HUERTA:**  Ten over eight, Weber.
 
-**MCLAUGHLIN:** That's a start for Mendoza.
+**GARCIA:** Great use of a ten by Weber.
 
-**QUINTERO:**  Ali with an Eight of Spades over Five of Clubs. Mendoza with a Jack of Diamonds over Five of Diamonds. Mendoza's hand, Eight over three. Ali falls to Mendoza again, Eight over two. Mendoza does it again. Queen over six. Another for Mendoza with Queen over six.
+**HUERTA:**  George's nine falls to Weber's jack.
 
-**MCLAUGHLIN:** Is Mendoza going to take this somewhere?
+**GARCIA:** I bet George wishes they had something higher than a nine on that play.
 
-**QUINTERO:**  Ali's jack tops Mendoza's four. Queen over ten, Ali.
+**HUERTA:**  George's six beats Weber's five.
 
-**MCLAUGHLIN:** Excellent use of a queen by Ali
+**GARCIA:** Great use of a six by George.
 
-**QUINTERO:**  Ali with an Ace of Clubs over Nine of Clubs. Ali continues streak. Ace over two. Ali's eight falls to Mendoza's nine. Two threes. War! Mendoza's king wins the battle taking 6 cards. Mendoza, Six over two. Two sevens. War!!! Mendoza's jack wins the battle taking 6 cards. Mendoza leads 37 to 15. Ali's king tops Mendoza's six. Ali's hand, Ten over nine. Ali again, Ace over four.
+**HUERTA:**  Weber bests George with Jack of Hearts over Ten of Diamonds. George's seven beats Weber's three. George's king bests Weber's six. Weber's ace beats George's queen. George, Ten over eight. Weber's hand, Queen over five. Weber beats George with Ace of Clubs over Six of Clubs. Weber again, Jack over seven. Weber again, Seven over three.
 
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Ali?
+**GARCIA:** George should nip this run in the bud. In just a few plays we could have a result.
 
-**QUINTERO:**  King over four, Mendoza. Five over four, Ali. Mendoza's hand, Ten over five. Ali tops Mendoza with Eight of Spades over Three of Diamonds. King over four, Mendoza.
+**HUERTA:**  George's six beats Weber's two. King over seven, George. George wins again. Eight over seven. Weber's five loses to George's ten.
 
-**MCLAUGHLIN:** Mendoza over paid for that four.
+**GARCIA:** George has got some momentum.
 
-**QUINTERO:**  Ace over jack, Mendoza. Mendoza continues streak. Jack over ten.
+**HUERTA:**  Weber's hand, Queen over six. Weber bests George with Eight of Clubs over Two of Diamonds. George's hand, King over four. Weber's five falls to George's seven.
 
-**MCLAUGHLIN:** Mendoza just showed us how its done.
+**GARCIA:** I bet Weber wishes they had something higher than a five on that play.
 
-**QUINTERO:**  Ali's queen tops Mendoza's seven. Ali tops Mendoza with Nine of Clubs over Five of Diamonds. Ali this time with the Ace of Clubs. Ali's two loses to Mendoza's eight. Ali, Ace over three. Ali with a King of Clubs over Eight of Hearts. Mendoza leads 33 to 19. Ali keeps going. Six over two. Queen over ten, Mendoza. Mendoza's six falls to Ali's nine. Six over four, Mendoza.
+**HUERTA:**  George wins again. Seven over six. Weber tops George with Ten of Spades over Eight of Hearts.
 
-**MCLAUGHLIN:** Nice use of a six by Mendoza.
+**GARCIA:** Efficient play by Weber.
 
-**QUINTERO:**  Ali's hand, Ace over queen. Mendoza tops Ali with Eight of Diamonds over Five of Spades. Mendoza tops Ali with Nine of Diamonds over Four of Clubs. Another for Mendoza, King over three. Ali's eight tops Mendoza's three. Nine over seven, Mendoza.
+**HUERTA:**  George's five beats Weber's three. Queen over ten, Weber.
 
-**MCLAUGHLIN:** Excellent move by Mendoza.
+**GARCIA:** Nice play.
 
-**QUINTERO:**  Queen over two, Ali. Ali, Nine over seven.
+**HUERTA:**  Nine over four, Weber. George's hand, King over four. George's seven tops Weber's two. Another for George, Five over four. Weber leads 42 to 10. Weber's hand, King over six. Ace over seven, Weber. Another for Weber, King over five. Threes all around. It's a war folks! Weber's nine wins the battle taking 6 cards. Weber leads 48 to 4.
 
-**MCLAUGHLIN:** Ali just showed us how its done.
+**GARCIA:** Weber likes where this is going.
 
-**QUINTERO:**  Mendoza falls to Ali again, Five over three. Ali this time with the Ace of Clubs. Ali does it again. Jack over six.
+**HUERTA:** Weber wins in 316 hands.
 
-**MCLAUGHLIN:** Is Ali going to take this somewhere?
+**GARCIA:** Juan Weber dominated that match. 
 
-**QUINTERO:**  Mendoza's hand, Five over three.
-
-**MCLAUGHLIN:** Smart move by Mendoza.
-
-**QUINTERO:**  Mendoza's seven falls to Ali's ace. Ali's eight loses to Mendoza's ten. Mendoza's queen falls to Ali's king. Mendoza, Seven over two. Ali's six loses to Mendoza's jack. Mendoza wins again. King over six. Ali's hand, Nine over four. Ali's queen beats Mendoza's five. Ali this time with the Ace of Diamonds. King over three, Mendoza. Mendoza's four falls to Ali's eight. Ali's two falls to Mendoza's ace.
-
-**MCLAUGHLIN:** That ace seems wasted on a two.
-
-**QUINTERO:**  Ali's hand, Queen over jack.
-
-**MCLAUGHLIN:** Efficient play by Ali.
-
-**QUINTERO:**  Ali's nine falls to Mendoza's ten. Jack over seven, Mendoza. Mendoza again, Eight over five. Ali with a Three of Hearts over Two of Diamonds.
-
-**MCLAUGHLIN:** Good job.
-
-**QUINTERO:**  Ali's hand, Ace over queen.
-
-**MCLAUGHLIN:** Ali just showed us how its done.
-
-**QUINTERO:**  Mendoza tops Ali with Ten of Diamonds over Two of Hearts. Six over four, Ali.
-
-**MCLAUGHLIN:** Excellent use of a six by Ali
-
-**QUINTERO:**  Ali's jack beats Mendoza's six. Another for Ali, Seven over five. Mendoza leads 29 to 23. Ali does it again. Ace over eight.
-
-**MCLAUGHLIN:** Mendoza should nip this run in the bud.
-
-**QUINTERO:**  Ali again, Queen over nine.
-
-**MCLAUGHLIN:** Mendoza is going to be playing catch up if they don't stop this.
-
-**QUINTERO:**  King over four, Ali.
-
-**MCLAUGHLIN:** Ali is on fire.
-
-**QUINTERO:**  Another for Ali with Four over three. Ali leads 27 to 25.
-
-**MCLAUGHLIN:** Excellent move. What a streak for Ali.
-
-**QUINTERO:**  Ali's nine loses to Mendoza's king.
-
-**MCLAUGHLIN:** Mendoza's back in it.
-
-**QUINTERO:**  Ali's queen bests Mendoza's seven. Ali's five loses to Mendoza's nine. Ali's hand, Ten over five. Ali with an Ace of Diamonds over Three of Clubs. Mendoza with a Ten of Spades over Eight of Spades. Eight over four, Mendoza. Mendoza's two falls to Ali's queen. Mendoza's seven loses to Ali's jack. Ali's two falls to Mendoza's jack.
-
-**MCLAUGHLIN:** Mendoza over paid for that two.
-
-**QUINTERO:**  Mendoza bests Ali with Six of Spades over Three of Hearts.
-
-**MCLAUGHLIN:** These two are really slugging it out.
-
-**QUINTERO:**  Mendoza continues streak. King over queen. Ali bests Mendoza with Ace of Clubs over Six of Hearts. Ali bests Mendoza with Four of Spades over Three of Spades.
-
-**MCLAUGHLIN:** I bet Mendoza wishes they had something higher than a three on that play.
-
-**QUINTERO:**  King over six, Mendoza. Ali's hand, Jack over two.
-
-**MCLAUGHLIN:** That jack seems wasted on a two.
-
-**QUINTERO:**  Mendoza beats Ali with Ace of Hearts over Six of Diamonds. Mendoza's nine tops Ali's five. Another for Mendoza with Ten over seven. Ali, Ace over seven. Mendoza with a Jack of Clubs over Eight of Diamonds. Ali tops Mendoza with Queen of Diamonds over Five of Diamonds. Ali, Nine over eight. Ali this time with the King of Clubs. Ali wins again. Four over two.
-
-**MCLAUGHLIN:** Ali just showed us how its done. Ali is looking good.
-
-**QUINTERO:**  Mendoza with a King of Spades over Four of Diamonds. Mendoza, Nine over three. Another for Mendoza with Nine over seven.
-
-**MCLAUGHLIN:** Efficient play.
-
-**QUINTERO:**  Mendoza's five falls to Ali's queen. Mendoza with a Ten of Spades over Five of Hearts. Ten over eight, Ali.
-
-**MCLAUGHLIN:** Smart move by Ali.
-
-**QUINTERO:**  Mendoza's hand, Eight over three. Ali's ace bests Mendoza's four.
-
-**MCLAUGHLIN:** Ali over paid for that four.
-
-**QUINTERO:**  Ali's hand, Queen over jack.
-
-**MCLAUGHLIN:** Great use of a queen by Ali.
-
-**QUINTERO:**  Twos. War!!! Ali's jack wins the battle taking 6 cards. Mendoza's king tops Ali's six. Ali with an Ace of Clubs over Queen of Spades. Mendoza with a Six of Clubs over Three of Spades.
-
-**MCLAUGHLIN:** They are really going toe to toe in this game.
-
-**QUINTERO:**  King over four, Mendoza. Mendoza, Ace over two. Ali, Jack over six. Ali's ace bests Mendoza's nine. Ali keeps going. Seven over five.
-
-**MCLAUGHLIN:** Nice use of a seven by Ali.
-
-**QUINTERO:**  Ali this time with the Queen of Diamonds. Ali leads 31 to 21.
-
-**MCLAUGHLIN:** I bet Mendoza wishes they had something higher than a ten on that play. I think Ali is going somewhere.
-
-**QUINTERO:**  Mendoza's hand, Seven over five.
-
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than a five on that play.
-
-**QUINTERO:**  Mendoza tops Ali with Jack of Clubs over Eight of Clubs. Ali's nine beats Mendoza's eight. Ali's hand, King over four. Mendoza's king beats Ali's ten. Mendoza's hand, Nine over two. Ali's hand, Four over three. Ali with a Queen of Clubs over Seven of Spades. Ali's five loses to Mendoza's nine. Two tens. We have a war! Ali defeats Mendoza with an ace, takes 6 cards.
-
-**MCLAUGHLIN:** Neither player is giving an inch.
-
-**QUINTERO:**  Mendoza with an Eight of Hearts over Four of Hearts. Ali with a Queen of Hearts over Six of Hearts. Mendoza's king bests Ali's jack.
-
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than a jack on that play.
-
-**QUINTERO:**  Mendoza's six beats Ali's two. Ali's six bests Mendoza's three. Mendoza, Four over three.
-
-**MCLAUGHLIN:** Mendoza just showed us how its done.
-
-**QUINTERO:**  Mendoza with a King of Diamonds over Seven of Clubs. Twos. It's a war folks! Mendoza loses the battle. Ali takes 6 cards. Ali, Ace over five. Mendoza, Jack over six. Ali with a Jack of Diamonds over Eight of Clubs. Ali tops Mendoza with Ace of Spades over King of Spades. Ali leads 35 to 17.
-
-**MCLAUGHLIN:** I bet Mendoza wishes they had something higher than a king on that play.
-
-**QUINTERO:**  Ali's nine loses to Mendoza's ten. Mendoza's hand, Nine over seven.
-
-**MCLAUGHLIN:** Nice use of a nine by Mendoza.
-
-**QUINTERO:**  Ali's five tops Mendoza's two. Ali, Queen over five. Ali's ten tops Mendoza's nine. Ali continues streak. Nine over four.
-
-**MCLAUGHLIN:** Ali is looking good.
-
-**QUINTERO:**  Eights all around. War! Two kings. War! Ali defeats Mendoza with a three, takes 10 cards. Ali leads 42 to 10.
-
-**MCLAUGHLIN:** Excellent use of a three by Ali Hope he doesn't spend those all in one place!
-
-**QUINTERO:**  Ali's hand, Seven over four. Ali wins again. Queen over three.
-
-**MCLAUGHLIN:** That queen got the job done, but was it the most strategic play by Ali?
-
-**QUINTERO:**  Ali wins again. Ace over king.
-
-**MCLAUGHLIN:** Well played by Ali.
-
-**QUINTERO:**  Mendoza's hand, Seven over three. Mendoza's hand, Jack over five. Ali, Ten over six. Mendoza beats Ali with Ten of Diamonds over Eight of Spades. Ali, Ten over nine. Mendoza, Seven over six. Ali with a Queen of Hearts over Nine of Spades. Ali's six falls to Mendoza's seven.
-
-**MCLAUGHLIN:** Great use of a seven by Mendoza.
-
-**QUINTERO:**  Threes. War! Mendoza's five wins the battle taking 6 cards. Ali, Jack over ten.
-
-**MCLAUGHLIN:** Ali just showed us how its done. They are really going toe to toe in this game.
-
-**QUINTERO:**  Mendoza's eight bests Ali's seven. Ali's queen bests Mendoza's seven. Mendoza, Six over two. Ali, Ace over six. Seven over five, Mendoza. Ali's eight beats Mendoza's three. Jack over three, Ali. Ali keeps going. Ace over two. Another for Ali, King over five.
-
-**MCLAUGHLIN:** Ali has got some momentum.
-
-**QUINTERO:**  Mendoza's hand, Ace over two. Jack over five, Mendoza. Mendoza again, Seven over five.
-
-**MCLAUGHLIN:** Great use of a seven by Mendoza.
-
-**QUINTERO:**  Ali beats Mendoza with Queen of Diamonds over Eight of Spades. Ali with a Nine of Hearts over Two of Clubs. Ali does it again. Ten over six. Ali keeps going. Nine over five. Mendoza, Seven over four. Mendoza's hand, Ace over three. Ali's hand, Eight over two. Two jacks. War!!! Mendoza defeats Ali with a seven, takes 6 cards. Ali's six tops Mendoza's five. Ali's two falls to Mendoza's seven. Mendoza's four falls to Ali's king. Ace over four, Mendoza. Ali with an Eight of Hearts over Three of Diamonds. Two sevens. War! Mendoza defeats Ali with a five, takes 6 cards.
-
-**MCLAUGHLIN:** Great use of a five by Mendoza.
-
-**QUINTERO:**  Queen over four, Ali. King over jack, Ali.
-
-**MCLAUGHLIN:** Smart move.
-
-**QUINTERO:**  Another for Ali with Ace over jack. Ali wins again. Six over two.
-
-**MCLAUGHLIN:** Ali has got some momentum.
-
-**QUINTERO:**  Mendoza falls to Ali again, Ten over seven.
-
-**MCLAUGHLIN:** Ali has got some momentum.
-
-**QUINTERO:**  Ali again, Nine over four.
-
-**MCLAUGHLIN:** Is Mendoza awake?
-
-**QUINTERO:**  Mendoza's hand, Ace over ten. Ali beats Mendoza with Queen of Hearts over Five of Spades. Mendoza tops Ali with King of Clubs over Nine of Spades. Ali's hand, Ten over four. Ali's jack beats Mendoza's seven. Ali leads 46 to 6. Ali again, Queen over seven. Another for Ali, Seven over three.
-
-**MCLAUGHLIN:** Ali likes where this is going.
-
-**QUINTERO:**  Ace over six, Mendoza. Ali bests Mendoza with Ace of Clubs over Ten of Spades.
-
-**MCLAUGHLIN:** It's getting close folks.
-
-**QUINTERO:**  Ali's three falls to Mendoza's king. Mendoza with a Nine of Spades over Eight of Clubs.
-
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than an eight on that play.
-
-**QUINTERO:**  Ali, Jack over six. Mendoza beats Ali with Ace of Hearts over Three of Clubs.
-
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Mendoza?
-
-**QUINTERO:**  Ali's hand, Ace over king. Mendoza with a Three of Spades over Two of Diamonds.
-
-**MCLAUGHLIN:** Mendoza just showed us how its done.
-
-**QUINTERO:**  Mendoza tops Ali with Nine of Spades over Five of Hearts. King over eight, Ali. Mendoza's hand, Ace over queen. Ali with an Eight of Spades over Three of Clubs. Two twos. War!! Ali defeats Mendoza with a ten, takes 6 cards. Mendoza with a Nine of Spades over Six of Hearts. Mendoza's queen bests Ali's nine. Mendoza again, Ace over five. Ali's hand, Eight over six.
-
-**MCLAUGHLIN:** Great use of an eight by Ali.
-
-**QUINTERO:**  Ali's two loses to Mendoza's nine. Mendoza's nine bests Ali's six. Another for Mendoza, Queen over five. Ali's hand, King over five. Mendoza's hand, Ace over four. Mendoza's nine tops Ali's eight.
-
-**MCLAUGHLIN:** Great use of a nine by Mendoza.
-
-**QUINTERO:**  Mendoza's two loses to Ali's three. Ali's queen tops Mendoza's six. Mendoza, Nine over four. Mendoza with a Queen of Diamonds over Jack of Clubs.
-
-**MCLAUGHLIN:** Excellent use of a queen by Mendoza
-
-**QUINTERO:**  Ali's king bests Mendoza's five. Mendoza's ace tops Ali's jack. Ace over four, Ali.
-
-**MCLAUGHLIN:** Ali over paid for that four.
-
-**QUINTERO:**  Nine over six, Mendoza. Mendoza's eight bests Ali's two. Ali leads 42 to 10. Mendoza's four falls to Ali's seven. Ali with a Ten of Clubs over Nine of Diamonds.
-
-**MCLAUGHLIN:** Nice use of a ten by Ali.
-
-**QUINTERO:**  Mendoza's hand, Jack over nine. Mendoza, Queen over four. Mendoza this time with the Ace of Hearts.
-
-**MCLAUGHLIN:** Nice use of an ace by Mendoza.
-
-**QUINTERO:**  Mendoza wins again. Jack over five.
-
-**MCLAUGHLIN:** Is Mendoza going to take this somewhere?
-
-**QUINTERO:**  Ali, Ten over nine. Ali's four loses to Mendoza's six.
-
-**MCLAUGHLIN:** Efficient play.
-
-**QUINTERO:**  Ali's jack tops Mendoza's two.
-
-**MCLAUGHLIN:** Ali over paid for that two.
-
-**QUINTERO:**  Mendoza, Eight over seven.
-
-**MCLAUGHLIN:** Nice play by Mendoza.
-
-**QUINTERO:**  Jack over seven, Mendoza. Ali with a Queen of Spades over Nine of Clubs. Mendoza, Four over three. Mendoza with a Queen of Diamonds over Seven of Hearts. Ali leads 38 to 14. Two aces. War!!! Mendoza's jack wins the battle taking 6 cards. Jack over five, Ali.
-
-**MCLAUGHLIN:** Ali and Mendoza are trading punch for punch.
-
-**QUINTERO:**  Ali's hand, Ace over six. Ali, King over four. Eights. War!! Mendoza's jack wins the battle taking 6 cards. Eight over seven, Ali.
-
-**MCLAUGHLIN:** Nice use of an eight by Ali.
-
-**QUINTERO:**  Mendoza's hand, Four over three.
-
-**MCLAUGHLIN:** Good job.
-
-**QUINTERO:**  Mendoza, Three over two. Ali leads 34 to 18. Mendoza wins again. Queen over five. Ali's hand, Ten over seven. Ali's two loses to Mendoza's jack. Ace over nine, Mendoza. Mendoza again, Ten over six. Mendoza again, Queen over eight. Ali leads 30 to 22. Ali bests Mendoza with King of Hearts over Six of Spades. Mendoza's hand, Ace over five.
-
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Mendoza?
-
-**QUINTERO:**  Mendoza's hand, King over two. Mendoza does it again. Jack over three. Ali's hand, Queen over eight. Mendoza with a Seven of Spades over Six of Clubs.
-
-**MCLAUGHLIN:** Great use of a seven by Mendoza.
-
-**QUINTERO:**  Ali's hand, King over three. Mendoza, Eight over five. Mendoza's three falls to Ali's four.
-
-**MCLAUGHLIN:** Ali just showed us how its done.
-
-**QUINTERO:**  Ali's ace tops Mendoza's four. Another for Ali with Seven over two. Ali continues streak. Four over three. Mendoza with a Queen of Diamonds over Ten of Clubs.
-
-**MCLAUGHLIN:** Smart move.
-
-**QUINTERO:**  Ali's hand, Nine over five. Ali, Ten over two. Mendoza tops Ali with Jack of Spades over Nine of Spades. Mendoza tops Ali with Ace of Hearts over Two of Spades. Ali's hand, Jack over nine.
-
-**MCLAUGHLIN:** Great use of a jack by Ali.
-
-**QUINTERO:**  Mendoza's six loses to Ali's nine. Another for Ali, Queen over ten. Ali leads 34 to 18.
-
-**MCLAUGHLIN:** Nice use of a queen by Ali.
-
-**QUINTERO:**  Mendoza's hand, Eight over five. Mendoza's hand, Queen over jack.
-
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than a jack on that play.
-
-**QUINTERO:**  Ali's hand, Ace over five. Mendoza's hand, Ace over six. Mendoza with a King of Spades over Four of Spades.
-
-**MCLAUGHLIN:** I hope Mendoza doesn't need that king when something bigger comes along.
-
-**QUINTERO:**  Ali with a King of Clubs over Two of Hearts.
-
-**MCLAUGHLIN:** That king seems wasted on a two.
-
-**QUINTERO:**  Mendoza, Jack over seven. Ali with an Eight of Spades over Three of Diamonds. Seven over six, Ali. Another for Ali, Ten over seven. King over five, Ali.
-
-**MCLAUGHLIN:** Ali is looking good.
-
-**QUINTERO:**  Mendoza with an Eight of Clubs over Six of Spades.
-
-**MCLAUGHLIN:** Nice play by Mendoza.
-
-**QUINTERO:**  Ali, Queen over ten.
-
-**MCLAUGHLIN:** Efficient play.
-
-**QUINTERO:**  Mendoza's hand, Queen over eight. Ali's king bests Mendoza's nine. Mendoza's jack tops Ali's three. Ali's three falls to Mendoza's ace.
-
-**MCLAUGHLIN:** I hope Mendoza doesn't need that ace when something bigger comes along.
-
-**QUINTERO:**  Mendoza's two falls to Ali's four.
-
-**MCLAUGHLIN:** Well played.
-
-**QUINTERO:**  Mendoza tops Ali with Eight of Diamonds over Four of Diamonds. Ali, Ace over five.
-
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Ali?
-
-**QUINTERO:**  Mendoza's hand, Jack over two. Mendoza's hand, Queen over seven. Another for Mendoza, Ace over three.
-
-**MCLAUGHLIN:** I hope Mendoza doesn't need that ace when something bigger comes along.
-
-**QUINTERO:**  Mendoza does it again. Six over four. Ali leads 30 to 22.
-
-**MCLAUGHLIN:** Nice use of a six by Mendoza.
-
-**QUINTERO:**  Mendoza wins again. King over nine. Mendoza's four falls to Ali's five.
-
-**MCLAUGHLIN:** Good job.
-
-**QUINTERO:**  Mendoza's hand, Jack over ten. Mendoza's hand, Seven over two. Ali beats Mendoza with Jack of Hearts over Six of Spades. Nine over eight, Ali. Mendoza with an Eight of Hearts over Six of Hearts. Mendoza, Queen over nine. Ali's hand, Queen over three. Mendoza with a Jack of Spades over Ten of Spades.
-
-**MCLAUGHLIN:** Great use of a jack by Mendoza.
-
-**QUINTERO:**  Mendoza with an Ace of Hearts over Five of Diamonds.
-
-**MCLAUGHLIN:** Mendoza probably didn't need to use an ace in that play.
-
-**QUINTERO:**  Ace over three, Ali.
-
-**MCLAUGHLIN:** These two are really slugging it out.
-
-**QUINTERO:**  Mendoza's four beats Ali's two. Ali's hand, King over eight. Jack over eight, Mendoza. Ali, Three over two.
-
-**MCLAUGHLIN:** Excellent move.
-
-**QUINTERO:**  Mendoza beats Ali with Queen of Hearts over Six of Clubs. Sevens all around. It's a war folks! Mendoza defeats Ali with an ace, takes 6 cards. Mendoza leads 28 to 24. Mendoza's four loses to Ali's king. Mendoza with a Six of Diamonds over Five of Clubs.
-
-**MCLAUGHLIN:** Nice use of a six by Mendoza.
-
-**QUINTERO:**  Mendoza with a King of Spades over Ten of Clubs.
-
-**MCLAUGHLIN:** Neither player is giving an inch.
-
-**QUINTERO:**  Ali's hand, Queen over nine. King over ten, Ali. Ali's nine falls to Mendoza's jack.
-
-**MCLAUGHLIN:** Great use of a jack by Mendoza.
-
-**QUINTERO:**  Mendoza tops Ali with Seven of Diamonds over Four of Hearts. Two twos. War!! Mendoza defeats Ali with an eight, takes 6 cards. Mendoza leads 32 to 20. Ali's five loses to Mendoza's queen. Ali falls to Mendoza again, Nine over four. Two jacks. War! Ali loses the battle. Mendoza takes 6 cards. Mendoza leads 37 to 15. Nine over five, Ali. Ali, Three over two.
-
-**MCLAUGHLIN:** Good job.
-
-**QUINTERO:**  Another for Ali, Queen over four. Mendoza's eight beats Ali's three. Ali tops Mendoza with Ace of Spades over Jack of Diamonds. Ali, King over six. Mendoza leads 33 to 19. Mendoza's queen tops Ali's eight. Ace over three, Mendoza. Ali falls to Mendoza again, Seven over two. Mendoza again, Seven over four. Mendoza leads 37 to 15.
-
-**MCLAUGHLIN:** Mendoza has got some momentum.
-
-**QUINTERO:**  King over three, Ali.
-
-**MCLAUGHLIN:** Ali over paid for that three.
-
-**QUINTERO:**  Ali beats Mendoza with Nine of Diamonds over Seven of Spades.
-
-**MCLAUGHLIN:** Smart move by Ali.
-
-**QUINTERO:**  Ali wins again. Queen over ten.
-
-**MCLAUGHLIN:** Good job.
-
-**QUINTERO:**  Ali this time with the King of Diamonds. Mendoza leads 33 to 19. Mendoza's five falls to Ali's ten. Mendoza's hand, Ten over five. Mendoza with a King of Spades over Nine of Hearts. Another for Mendoza, Jack over two.
-
-**MCLAUGHLIN:** I hope Mendoza doesn't need that jack when something bigger comes along.
-
-**QUINTERO:**  Mendoza bests Ali with Nine of Spades over Three of Clubs.
-
-**MCLAUGHLIN:** I think Mendoza is going somewhere.
-
-**QUINTERO:**  Ali's hand, Queen over seven. Two fours. We have a war! Ali's jack wins the battle taking 6 cards. Six over five, Ali.
-
-**MCLAUGHLIN:** Well played.
-
-**QUINTERO:**  Ali wins again. King over eight. Ali keeps going. Three over two. Mendoza leads 29 to 23. Ali again, King over six. Ali this time with the Seven of Spades.
-
-**MCLAUGHLIN:** I bet Mendoza wishes they had something higher than a five on that play. Ali is on fire.
-
-**QUINTERO:**  Mendoza's queen beats Ali's nine. Queen over four, Ali. Ali with a Ten of Hearts over Nine of Clubs. Another for Ali, King over six. Ali leads 27 to 25. Ali's six falls to Mendoza's eight.
-
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than a six on that play.
-
-**QUINTERO:**  Mendoza's hand, Jack over ten.
-
-**MCLAUGHLIN:** Well played by Mendoza.
-
-**QUINTERO:**  Mendoza wins again. Jack over five. Mendoza does it again. Ace over seven. Mendoza leads 29 to 23.
-
-**MCLAUGHLIN:** Mendoza has got some momentum.
-
-**QUINTERO:**  Ali with a Queen of Spades over Ten of Spades. Three over two, Mendoza.
-
-**MCLAUGHLIN:** Great use of a three by Mendoza.
-
-**QUINTERO:**  Mendoza's eight loses to Ali's jack. Ace over eight, Ali. Ali continues streak. Ace over queen. Mendoza, Ace over four. Four over three, Ali. Mendoza with a Seven of Hearts over Six of Clubs.
-
-**MCLAUGHLIN:** Excellent use of a seven by Mendoza
-
-**QUINTERO:**  Ali's hand, Five over two. Ali's hand, Eight over four. Ali leads 27 to 25. Ali this time with the King of Clubs. Mendoza's five bests Ali's two. Mendoza bests Ali with Ten of Clubs over Three of Hearts. Mendoza's nine falls to Ali's king. Mendoza with a King of Spades over Six of Hearts. Mendoza's two loses to Ali's seven. Mendoza's hand, Jack over five. Ali's queen beats Mendoza's nine. Ali tops Mendoza with Four of Spades over Three of Clubs. Queen over nine, Mendoza. Ali, Ten over nine. Ali bests Mendoza with King of Diamonds over Six of Diamonds.
-
-**MCLAUGHLIN:** We have some real fighters on our hands.
-
-**QUINTERO:**  Eight over six, Mendoza.
-
-**MCLAUGHLIN:** Smart move.
-
-**QUINTERO:**  Mendoza's ten falls to Ali's queen. Mendoza beats Ali with Jack of Spades over Ten of Spades. Mendoza, Jack over eight. Ali with a Jack of Diamonds over Five of Clubs. Two aces. War! Mendoza loses the battle. Ali takes 6 cards. Ali leads 31 to 21. Ali with a Queen of Hearts over Three of Spades. Mendoza with a Four of Hearts over Three of Diamonds.
-
-**MCLAUGHLIN:** Excellent move by Mendoza.
-
-**QUINTERO:**  Mendoza with an Ace of Clubs over Four of Diamonds.
-
-**MCLAUGHLIN:** Mendoza and Ali are trading punch for punch.
-
-**QUINTERO:**  Mendoza, Seven over two. Mendoza wins again. Six over five.
-
-**MCLAUGHLIN:** Great use of a six by Mendoza.
-
-**QUINTERO:**  Ali's eight bests Mendoza's two. Mendoza's hand, Five over four.
-
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than a four on that play.
-
-**QUINTERO:**  Ali's hand, King over three.
-
-**MCLAUGHLIN:** That king got the job done, but was it the most strategic play by Ali?
-
-**QUINTERO:**  Mendoza's ten tops Ali's seven. Mendoza, King over nine. Ali leads 27 to 25. Ali, King over six. Seven over five, Ali.
-
-**MCLAUGHLIN:** Ali just showed us how its done.
-
-**QUINTERO:**  Mendoza, Jack over two. Mendoza, Queen over nine. Ali tops Mendoza with Queen of Clubs over Nine of Clubs. Mendoza with a Six of Spades over Four of Spades.
-
-**MCLAUGHLIN:** Excellent move by Mendoza. What a fight!
-
-**QUINTERO:**  Ali's three falls to Mendoza's eight. Mendoza again, Ten over nine.
-
-**MCLAUGHLIN:** Good job.
-
-**QUINTERO:**  Mendoza keeps going. Jack over ten. Mendoza keeps going. Jack over six. Mendoza leads 29 to 23. Ali tops Mendoza with King of Diamonds over Eight of Spades. Mendoza's four falls to Ali's ten. Ali wins again. Queen over three. Mendoza, Ace over five.
-
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Mendoza?
-
-**QUINTERO:**  Ali tops Mendoza with Jack of Diamonds over Four of Diamonds. Ali's hand, Ace over seven. Ali leads 27 to 25. Mendoza falls to Ali again, Ace over two. Mendoza's six beats Ali's two. Ali's eight beats Mendoza's five. Ace over five, Ali.
-
-**MCLAUGHLIN:** Ali over paid for that five.
-
-**QUINTERO:**  Ali does it again. Seven over four. Seven over three, Mendoza. Ali, Queen over ten. Ali's eight loses to Mendoza's nine.
-
-**MCLAUGHLIN:** Mendoza just showed us how its done.
-
-**QUINTERO:**  Mendoza's king beats Ali's two. Ali beats Mendoza with King of Clubs over Two of Hearts. Jack over three, Mendoza. Mendoza's queen loses to Ali's king. Nine over six, Mendoza. Seven over four, Ali. Mendoza's six beats Ali's five.
-
-**MCLAUGHLIN:** Efficient play.
-
-**QUINTERO:**  Ali's hand, Nine over eight.
-
-**MCLAUGHLIN:** I bet Mendoza wishes they had something higher than an eight on that play. We have some real fighters on our hands.
-
-**QUINTERO:**  Ali, Queen over three. Mendoza's ten bests Ali's eight.
-
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than an eight on that play.
-
-**QUINTERO:**  Ali, King over nine. Mendoza's hand, Jack over four. Two tens. It's a war folks! Mendoza defeats Ali with a jack, takes 6 cards. Mendoza's ace bests Ali's jack. Mendoza this time with the Five of Clubs.
-
-**MCLAUGHLIN:** Excellent use of a five by Mendoza
-
-**QUINTERO:**  Ali, Seven over two. Ali's ace bests Mendoza's six. Mendoza's seven beats Ali's two. Mendoza's three loses to Ali's ace.
-
-**MCLAUGHLIN:** Ali probably didn't need to use an ace in that play.
-
-**QUINTERO:**  Mendoza tops Ali with Eight of Hearts over Five of Spades. Mendoza's nine tops Ali's eight.
-
-**MCLAUGHLIN:** Mendoza just showed us how its done.
-
-**QUINTERO:**  Ali, Five over two. Ali, Ace over king.
-
-**MCLAUGHLIN:** Excellent use of an ace by Ali
-
-**QUINTERO:**  Ali continues streak. Seven over three. Ali's four falls to Mendoza's jack. Ali's hand, Queen over nine. Ali with a Ten of Clubs over Six of Hearts. Mendoza's five loses to Ali's king. Mendoza, Six over two. Ali's king tops Mendoza's eight. Ali's queen beats Mendoza's ten.
-
-**MCLAUGHLIN:** Excellent use of a queen by Ali
-
-**QUINTERO:**  Seven over four, Ali. Ali leads 31 to 21. Mendoza's hand, Jack over four. Mendoza's queen bests Ali's eight. Ali falls to Mendoza again, Ten over nine. Ali tops Mendoza with Queen of Clubs over Three of Diamonds.
-
-**MCLAUGHLIN:** I hope Ali doesn't need that queen when something bigger comes along.
-
-**QUINTERO:**  Six over three, Mendoza. Mendoza beats Ali with Jack of Hearts over Nine of Diamonds. Ali leads 27 to 25.
-
-**MCLAUGHLIN:** Great use of a jack by Mendoza.
-
-**QUINTERO:**  Ali's hand, King over ten. Mendoza's hand, Ace over two. Jack over seven, Mendoza. Ali with an Ace of Spades over Four of Diamonds.
-
-**MCLAUGHLIN:** I hope Ali doesn't need that ace when something bigger comes along.
-
-**QUINTERO:**  Ali's hand, Six over five.
-
-**MCLAUGHLIN:** Ali just showed us how its done.
-
-**QUINTERO:**  Ali with an Ace of Diamonds over Seven of Clubs. Ali this time with the Three of Spades.
-
-**MCLAUGHLIN:** Mendoza is going to be playing catch up if they don't stop this.
-
-**QUINTERO:**  Fives all around. War! Ali's king wins the battle taking 6 cards. Ali leads 33 to 19. Ali's ace tops Mendoza's nine. Ali's three falls to Mendoza's jack. Ali with a Seven of Diamonds over Four of Clubs. Nine over six, Ali. Ali keeps going. Queen over two.
-
-**MCLAUGHLIN:** That queen seems wasted on a two.
-
-**QUINTERO:**  Ali does it again. Six over four. Ali leads 37 to 15.
-
-**MCLAUGHLIN:** Excellent move by Ali. I think Ali is going somewhere.
-
-**QUINTERO:**  Mendoza's jack bests Ali's ten.
-
-**MCLAUGHLIN:** Nice use of a jack by Mendoza.
-
-**QUINTERO:**  Mendoza's eight loses to Ali's king. Mendoza's queen bests Ali's five. Nine over eight, Mendoza.
-
-**MCLAUGHLIN:** Nice use of a nine by Mendoza.
-
-**QUINTERO:**  Ali's hand, King over ten. Queen over three, Ali.
-
-**MCLAUGHLIN:** Ali probably didn't need to use a queen in that play.
-
-**QUINTERO:**  Ali keeps going. Ten over six. Mendoza's jack beats Ali's seven. Mendoza with a Nine of Diamonds over Four of Hearts. Mendoza again, Ace over queen. Mendoza's two loses to Ali's three. Ali tops Mendoza with Ten of Diamonds over Seven of Hearts. Ali again, King over jack.
-
-**MCLAUGHLIN:** Well played.
-
-**QUINTERO:**  Another for Ali with Four over three.
-
-**MCLAUGHLIN:** Smart move by Ali. Ali has got some momentum.
-
-**QUINTERO:**  Mendoza falls to Ali again, Ace over jack.
-
-**MCLAUGHLIN:** Is Ali going to take this somewhere?
-
-**QUINTERO:**  Mendoza, Jack over six. Mendoza's ten beats Ali's five. Ali's seven falls to Mendoza's queen. Ali beats Mendoza with Ace of Diamonds over Five of Hearts. Mendoza's eight bests Ali's three. Mendoza with a Nine of Clubs over Two of Diamonds. Mendoza wins again. Jack over eight. Mendoza this time with the Seven of Spades.
-
-**MCLAUGHLIN:** Excellent use of a seven by Mendoza
-
-**QUINTERO:**  Mendoza continues streak. Four over two. Ali leads 33 to 19.
-
-**MCLAUGHLIN:** Mendoza might be making a move.
-
-**QUINTERO:**  Mendoza does it again. Nine over eight.
-
-**MCLAUGHLIN:** What a streak for Mendoza.
-
-**QUINTERO:**  Ali with a King of Spades over Queen of Clubs.
-
-**MCLAUGHLIN:** Well played.
-
-**QUINTERO:**  Mendoza's hand, Ace over five.
-
-**MCLAUGHLIN:** Mendoza probably didn't need to use an ace in that play.
-
-**QUINTERO:**  Ali tops Mendoza with Ace of Hearts over Six of Clubs. Mendoza's hand, Jack over nine.
-
-**MCLAUGHLIN:** Nice use of a jack by Mendoza.
-
-**QUINTERO:**  Mendoza's five falls to Ali's seven. Ali's four loses to Mendoza's ten. Mendoza's queen tops Ali's nine. Mendoza does it again. Seven over six.
-
-**MCLAUGHLIN:** Excellent move.
-
-**QUINTERO:**  Mendoza with a Three of Spades over Two of Hearts. Ali leads 29 to 23.
-
-**MCLAUGHLIN:** Excellent use of a three by Mendoza Mendoza has got some momentum.
-
-**QUINTERO:**  Ali, Queen over eight. Mendoza's nine tops Ali's six. Four over two, Ali.
-
-**MCLAUGHLIN:** Ali just showed us how its done.
-
-**QUINTERO:**  Ali's king bests Mendoza's jack.
-
-**MCLAUGHLIN:** Excellent use of a king by Ali
-
-**QUINTERO:**  Eights. We have a war! Ali's king wins the battle taking 6 cards. Ali leads 34 to 18. Queen over four, Ali. Ali continues streak. Three over two. Ali keeps going. Ten over eight. Mendoza's hand, Nine over six. Mendoza bests Ali with Five of Diamonds over Two of Clubs. Mendoza with an Ace of Clubs over Three of Diamonds. Ali falls to Mendoza again, Jack over seven.
-
-**MCLAUGHLIN:** Mendoza might be making a move.
-
-**QUINTERO:**  Ten over nine, Ali.
-
-**MCLAUGHLIN:** Excellent use of a ten by Ali
-
-**QUINTERO:**  King over ten, Ali. Ali wins again. Jack over four. Mendoza's nine bests Ali's three. Mendoza's hand, Queen over four. Ali beats Mendoza with Jack of Clubs over Six of Spades. Ace over seven, Ali. Ali keeps going. Five over three.
-
-**MCLAUGHLIN:** I bet Mendoza wishes they had something higher than a three on that play.
-
-**QUINTERO:**  Ali again, Ace over two. Ali leads 38 to 14. Mendoza falls to Ali again, King over six.
-
-**MCLAUGHLIN:** Ali is looking good.
-
-**QUINTERO:**  Ali this time with the Queen of Clubs.
-
-**MCLAUGHLIN:** I think Mendoza should try some higher value cards.
-
-**QUINTERO:**  Ali does it again. Ace over nine.
-
-**MCLAUGHLIN:** Mendoza is really taking a beating.
-
-**QUINTERO:**  Sixes all around. It's a war folks! Mendoza loses the battle. Ali takes 6 cards. Ali leads 44 to 8. Ali tops Mendoza with Queen of Hearts over Three of Diamonds.
-
-**MCLAUGHLIN:** Ali probably didn't need to use a queen in that play.
-
-**QUINTERO:**  Mendoza's hand, Ace over eight. Mendoza's hand, Jack over four. Mendoza continues streak. Seven over two. Ali, King over nine. Ali, Jack over three. Ali again, Seven over four. Queen over five, Mendoza. Ace over eight, Mendoza. Ali's hand, Ten over eight.
-
-**MCLAUGHLIN:** Nice play by Ali.
-
-**QUINTERO:**  Ali tops Mendoza with Eight of Diamonds over Four of Spades. Ali does it again. King over jack.
-
-**MCLAUGHLIN:** Excellent use of a king by Ali
-
-**QUINTERO:**  Mendoza's hand, Seven over four. Ali with a Queen of Diamonds over Two of Diamonds. Mendoza tops Ali with Five of Spades over Three of Clubs. Mendoza's hand, Queen over two. Another for Mendoza, Ace over eight. Ten over eight, Ali. Ali, Ten over four. Ali's nine bests Mendoza's seven.
-
-**MCLAUGHLIN:** Excellent use of a nine by Ali
-
-**QUINTERO:**  Ali does it again. King over three.
-
-**MCLAUGHLIN:** I think Ali is going somewhere.
-
-**QUINTERO:**  Mendoza's five falls to Ali's ten. Ali leads 48 to 4.
-
-**MCLAUGHLIN:** Mendoza is stumbling a little.
-
-**QUINTERO:**  Mendoza beats Ali with Queen of Spades over Jack of Diamonds.
-
-**MCLAUGHLIN:** Excellent use of a queen by Mendoza
-
-**QUINTERO:**  Ali, Four over two.
-
-**MCLAUGHLIN:** Nice use of a four by Ali.
-
-**QUINTERO:**  Mendoza's hand, Eight over six.
-
-**MCLAUGHLIN:** Well played by Mendoza.
-
-**QUINTERO:**  Mendoza, Ace over jack. Ali falls to Mendoza again, Jack over seven. Ali tops Mendoza with Ace of Spades over Queen of Spades. Mendoza, Eight over three. Mendoza tops Ali with Six of Spades over Five of Hearts. Ali leads 44 to 8.
-
-**MCLAUGHLIN:** Efficient play.
-
-**QUINTERO:**  Mendoza again, Jack over two.
-
-**MCLAUGHLIN:** That jack got the job done, but was it the most strategic play by Mendoza?
-
-**QUINTERO:**  Two aces. War! Mendoza's seven wins the battle taking 6 cards. Ali leads 40 to 12.
-
-**MCLAUGHLIN:** Good job by Mendoza.
-
-**QUINTERO:**  Ali bests Mendoza with Nine of Clubs over Three of Spades. Ali with a Queen of Clubs over Eight of Hearts. Nine over five, Ali. Mendoza's six falls to Ali's ace. Ali leads 44 to 8.
-
-**MCLAUGHLIN:** Mendoza is stumbling a little.
-
-**QUINTERO:**  Mendoza tops Ali with Jack of Clubs over Two of Clubs. Ali's hand, Five over two. Mendoza tops Ali with Ace of Clubs over Five of Clubs.
-
-**MCLAUGHLIN:** Mendoza over paid for that five.
-
-**QUINTERO:**  Jack over six, Mendoza. Mendoza again, Seven over six.
-
-**MCLAUGHLIN:** Mendoza just showed us how its done.
-
-**QUINTERO:**  Seven over six, Ali.
-
-**MCLAUGHLIN:** Nice use of a seven by Ali.
-
-**QUINTERO:**  Ali's three falls to Mendoza's ace.
-
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Mendoza?
-
-**QUINTERO:**  Mendoza's king bests Ali's queen. Ali leads 40 to 12.
-
-**MCLAUGHLIN:** Efficient play.
-
-**QUINTERO:**  Another for Mendoza, Jack over nine.
-
-**MCLAUGHLIN:** Nice use of a jack by Mendoza.
-
-**QUINTERO:**  Ali's hand, King over two. Mendoza's five loses to Ali's jack. Ace over three, Mendoza. Mendoza's jack bests Ali's seven. Mendoza this time with the Six of Clubs. Ali bests Mendoza with Eight of Spades over Six of Diamonds.
-
-**MCLAUGHLIN:** Excellent move.
-
-**QUINTERO:**  Ali's ten beats Mendoza's seven. Ali this time with the Four of Spades. Mendoza tops Ali with Ace of Diamonds over Eight of Diamonds. Ali's king tops Mendoza's queen. Mendoza with a King of Spades over Jack of Spades.
-
-**MCLAUGHLIN:** Nice play by Mendoza.
-
-**QUINTERO:**  Mendoza's jack beats Ali's two.
-
-**MCLAUGHLIN:** That jack got the job done, but was it the most strategic play by Mendoza?
-
-**QUINTERO:**  Ali's queen tops Mendoza's nine. Ali's hand, Eight over three. Mendoza with an Ace of Clubs over Ten of Spades. Seven over four, Mendoza. Another for Mendoza, Jack over ten.
-
-**MCLAUGHLIN:** Mendoza just showed us how its done.
-
-**QUINTERO:**  Ali bests Mendoza with Seven of Hearts over Six of Clubs.
-
-**MCLAUGHLIN:** Good job by Ali.
-
-**QUINTERO:**  Nine over four, Ali. Mendoza's hand, Ace over three. Mendoza's eight falls to Ali's king. Mendoza tops Ali with King of Spades over Ten of Clubs. Ali's five loses to Mendoza's jack. Ali with a Four of Clubs over Two of Diamonds. Mendoza bests Ali with Jack of Clubs over Two of Spades. Two aces. We have a war! Ali loses the battle. Mendoza takes 6 cards. Ali leads 35 to 17.
-
-**MCLAUGHLIN:** Nice use of a four by Mendoza.
-
-**QUINTERO:**  Nine over seven, Ali.
-
-**MCLAUGHLIN:** Ali just showed us how its done. We have some real fighters on our hands.
-
-**QUINTERO:**  Queen over ten, Ali.
-
-**MCLAUGHLIN:** I bet Mendoza wishes they had something higher than a ten on that play.
-
-**QUINTERO:**  Mendoza with a Jack of Diamonds over Eight of Hearts. Mendoza beats Ali with Ace of Diamonds over Five of Hearts. Nine over three, Ali. Ali's hand, Ace over ten. King over six, Mendoza. Two fives. War!!! Mendoza's jack wins the battle taking 6 cards. Ali, Seven over two. Mendoza bests Ali with Ace of Spades over Two of Clubs.
-
-**MCLAUGHLIN:** Mendoza and Ali are trading punch for punch.
-
-**QUINTERO:**  Ali's king bests Mendoza's queen. Ali, Five over three.
-
-**MCLAUGHLIN:** Ali just showed us how its done.
-
-**QUINTERO:**  Mendoza, Ace over jack. Mendoza's hand, Ten over six. Ali tops Mendoza with Eight of Spades over Four of Hearts. Ali's seven falls to Mendoza's jack. Ali, Ten over eight.
-
-**MCLAUGHLIN:** Great use of a ten by Ali.
-
-**QUINTERO:**  Mendoza's ace bests Ali's three.
-
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Mendoza?
-
-**QUINTERO:**  Five over four, Mendoza.
-
-**MCLAUGHLIN:** Nice use of a five by Mendoza.
-
-**QUINTERO:**  Kings. War!!! Mendoza defeats Ali with a jack, takes 6 cards. Ali leads 29 to 23.
-
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than a nine on that play. These two are really slugging it out.
-
-**QUINTERO:**  Mendoza's six loses to Ali's queen. Mendoza's jack beats Ali's three. Ali's eight tops Mendoza's five. Ali's six tops Mendoza's five.
-
-**MCLAUGHLIN:** I bet Mendoza wishes they had something higher than a five on that play.
-
-**QUINTERO:**  Mendoza falls to Ali again, Seven over two. Mendoza's ace tops Ali's nine. Ali's four bests Mendoza's two. Ace over eight, Mendoza. King over jack, Ali.
-
-**MCLAUGHLIN:** Nice use of a king by Ali.
-
-**QUINTERO:**  Mendoza's hand, Six over two. Mendoza tops Ali with Ten of Spades over Four of Clubs. Ali's hand, Nine over seven.
-
-**MCLAUGHLIN:** Nice play.
-
-**QUINTERO:**  Mendoza's hand, Jack over seven. Ali with a Ten of Diamonds over Three of Diamonds. Mendoza's ace beats Ali's queen. Mendoza with a Five of Hearts over Three of Clubs.
-
-**MCLAUGHLIN:** These two are really slugging it out.
-
-**QUINTERO:**  Ali, Nine over four. Ten over nine, Ali. Ali keeps going. Ace over six. Mendoza tops Ali with King of Spades over Two of Spades. Mendoza, King over seven. Mendoza's queen loses to Ali's king.
-
-**MCLAUGHLIN:** Nice use of a king by Ali.
-
-**QUINTERO:**  Mendoza's jack falls to Ali's queen.
-
-**MCLAUGHLIN:** Ali just showed us how its done.
-
-**QUINTERO:**  Ali this time with the Five of Clubs. Ali leads 33 to 19. Mendoza's hand, Jack over three. Ace over eight, Mendoza. Another for Mendoza with Nine over four. Ali, Ten over eight.
-
-**MCLAUGHLIN:** Great use of a ten by Ali.
-
-**QUINTERO:**  Ali's eight falls to Mendoza's ace. Ali with a Queen of Diamonds over Two of Diamonds. Sixes. It's a war folks! Mendoza defeats Ali with a ten, takes 6 cards. Ali leads 28 to 24.
-
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than an eight on that play.
-
-**QUINTERO:**  Mendoza beats Ali with Seven of Spades over Five of Spades.
-
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than a five on that play.
-
-**QUINTERO:**  Mendoza keeps going. Jack over six. Mendoza does it again. Queen over two.
-
-**MCLAUGHLIN:** Is Mendoza going to take this somewhere?
-
-**QUINTERO:**  Another for Mendoza with Ace over seven. Mendoza leads 28 to 24.
-
-**MCLAUGHLIN:** Mendoza is looking good.
-
-**QUINTERO:**  Mendoza's three beats Ali's two.
-
-**MCLAUGHLIN:** Nice use of a three by Mendoza. Mendoza ate their Wheaties today.
-
-**QUINTERO:**  Mendoza continues streak. Five over four.
-
-**MCLAUGHLIN:** Mendoza ate their Wheaties today.
-
-**QUINTERO:**  Ali with a Jack of Hearts over Two of Spades.
-
-**MCLAUGHLIN:** Ali's back in it.
-
-**QUINTERO:**  Kings. War!! Mendoza defeats Ali with a king, takes 6 cards. Mendoza leads 32 to 20. Ali's hand, Ten over three. Ali's three loses to Mendoza's jack. Ali with a Nine of Diamonds over Eight of Spades.
-
-**MCLAUGHLIN:** Excellent use of a nine by Ali
-
-**QUINTERO:**  Mendoza bests Ali with Ace of Spades over Four of Spades. Nine over four, Ali. Ali's hand, Ten over nine. Mendoza bests Ali with Ace of Clubs over Six of Spades. Ali's ace tops Mendoza's eight.
-
-**MCLAUGHLIN:** What a fight!
-
-**QUINTERO:**  King over four, Ali.
-
-**MCLAUGHLIN:** That king seems wasted on a four.
-
-**QUINTERO:**  Mendoza falls to Ali again, Queen over six. Mendoza leads 28 to 24. Ali this time with the Queen of Spades.
-
-**MCLAUGHLIN:** Mendoza is stumbling a little.
-
-**QUINTERO:**  Ali again, Jack over ten. Mendoza with a Six of Hearts over Five of Clubs.
-
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than a five on that play.
-
-**QUINTERO:**  Mendoza beats Ali with Five of Diamonds over Three of Hearts.
-
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than a three on that play.
-
-**QUINTERO:**  Ali's eight tops Mendoza's seven. Ali, Ten over five. Jack over two, Mendoza.
-
-**MCLAUGHLIN:** Mendoza over paid for that two.
-
-**QUINTERO:**  Ali's queen bests Mendoza's six. Queen over jack, Mendoza. Two twos. It's a war folks! Mendoza defeats Ali with an ace, takes 6 cards. Ali, Nine over three. Eight over two, Ali.
-
-**MCLAUGHLIN:** We have some real fighters on our hands.
-
-**QUINTERO:**  Ali wins again. Nine over five. Two fours. War!! Ali loses the battle. Mendoza takes 6 cards. Ali with an Eight of Hearts over Seven of Clubs.
-
-**MCLAUGHLIN:** Nice play by Ali.
-
-**QUINTERO:**  Ali bests Mendoza with Ace of Hearts over King of Diamonds.
-
-**MCLAUGHLIN:** Excellent use of an ace by Ali
-
-**QUINTERO:**  Ali this time with the King of Clubs. Ali's four loses to Mendoza's seven. Mendoza bests Ali with Jack of Spades over Six of Diamonds. Ali's queen tops Mendoza's three.
-
-**MCLAUGHLIN:** That queen seems wasted on a three.
-
-**QUINTERO:**  Mendoza tops Ali with Ace of Spades over Eight of Clubs. Ali, Queen over four. Mendoza's six falls to Ali's ten. Mendoza with an Ace of Clubs over Jack of Clubs. Ali with a Seven of Spades over Five of Clubs.
-
-**MCLAUGHLIN:** Efficient play by Ali.
-
-**QUINTERO:**  Ali with an Eight of Diamonds over Six of Hearts. Ali's hand, Ten over three. Two fives. War!!! Mendoza's jack wins the battle taking 6 cards. Mendoza with a Queen of Clubs over Nine of Diamonds. Mendoza again, Jack over three. Ali, Eight over seven. Ali's two falls to Mendoza's ten. Ali tops Mendoza with Nine of Spades over Three of Spades. Mendoza's ace bests Ali's five.
-
-**MCLAUGHLIN:** Mendoza probably didn't need to use an ace in that play.
-
-**QUINTERO:**  Mendoza's two falls to Ali's eight. Ali with a Seven of Clubs over Two of Spades. Ali this time with the Ace of Hearts.
-
-**MCLAUGHLIN:** Ali probably didn't need to use an ace in that play.
-
-**QUINTERO:**  Ali this time with the King of Diamonds. Ali again, King over ten.
-
-**MCLAUGHLIN:** Ali might be making a move.
-
-**QUINTERO:**  Two nines. We have a war! Mendoza's king wins the battle taking 6 cards. Ali's hand, Queen over four. Mendoza's hand, Seven over four. Ali's ten falls to Mendoza's jack. Two sixes. War!! Mendoza's ace wins the battle taking 6 cards. Mendoza leads 32 to 20. Mendoza's jack tops Ali's six. Another for Mendoza, Ace over eight. Ali, Three over two. Ali's ten loses to Mendoza's jack. Seven over five, Ali.
-
-**MCLAUGHLIN:** Great use of a seven by Ali.
-
-**QUINTERO:**  Mendoza with a Queen of Diamonds over Eight of Spades. Ali, Nine over six. Mendoza, Five over three. Ali's two loses to Mendoza's nine. Ali falls to Mendoza again, Queen over eight. Mendoza leads 36 to 16. Ali falls to Mendoza again, Jack over seven.
-
-**MCLAUGHLIN:** Mendoza might be making a move.
-
-**QUINTERO:**  Mendoza continues streak. Three over two.
-
-**MCLAUGHLIN:** Mendoza has got some momentum.
-
-**QUINTERO:**  Mendoza's two loses to Ali's four.
-
-**MCLAUGHLIN:** I bet Mendoza wishes they had something higher than a two on that play.
-
-**QUINTERO:**  Ace over ten, Ali. Mendoza, Ace over four. Ali, King over five. Ali's ten falls to Mendoza's king. Mendoza's queen falls to Ali's king.
-
-**MCLAUGHLIN:** Efficient play by Ali.
-
-**QUINTERO:**  Mendoza's nine beats Ali's four. Ali's hand, Queen over nine. Two threes. We have a war! Ali defeats Mendoza with a five, takes 6 cards.
-
-**MCLAUGHLIN:** Excellent use of a five by Ali
-
-**QUINTERO:**  Two sevens. War!! Mendoza defeats Ali with a ten, takes 6 cards.
-
-**MCLAUGHLIN:** What a fight!
-
-**QUINTERO:**  Ali's four falls to Mendoza's ace. Mendoza again, Seven over two. Ali's ten tops Mendoza's eight.
-
-**MCLAUGHLIN:** Great use of a ten by Ali.
-
-**QUINTERO:**  Mendoza's five loses to Ali's ace. Mendoza with a Six of Spades over Five of Hearts. Ali with a King of Diamonds over Six of Diamonds. Ali with a King of Clubs over Six of Hearts. Ali wins again. Queen over jack. Ace over queen, Mendoza. Ali's hand, Nine over eight.
-
-**MCLAUGHLIN:** Efficient play.
-
-**QUINTERO:**  Mendoza with a Jack of Diamonds over Two of Diamonds. Ali's hand, King over ten. Eight over five, Mendoza. Mendoza's hand, Queen over four. Another for Mendoza with Five over three.
-
-**MCLAUGHLIN:** I bet Ali wishes they had something higher than a three on that play.
-
-**QUINTERO:**  Threes all around. We have a war! Mendoza loses the battle. Ali takes 6 cards. Ali beats Mendoza with Ace of Hearts over Eight of Hearts. Mendoza's queen tops Ali's five. Mendoza beats Ali with Jack of Hearts over Six of Diamonds. King over seven, Ali. Mendoza's three falls to Ali's king.
-
-**MCLAUGHLIN:** I hope Ali doesn't need that king when something bigger comes along.
-
-**QUINTERO:**  Another for Ali, Six over two. Mendoza leads 32 to 20. Ali's queen loses to Mendoza's ace.
-
-**MCLAUGHLIN:** Nice play by Mendoza.
-
-**QUINTERO:**  Ali bests Mendoza with Jack of Clubs over Four of Diamonds. Mendoza's ten beats Ali's nine. Mendoza's king tops Ali's eight.
-
-**MCLAUGHLIN:** I think I need to call home and tell them I'll be late.
-
-**QUINTERO:**  Ali beats Mendoza with Ten of Hearts over Nine of Hearts. Ali, King over four. Ali this time with the Eight of Clubs.
-
-**MCLAUGHLIN:** Excellent use of an eight by Ali
-
-**QUINTERO:**  Another for Ali with Nine over seven. Mendoza, Jack over ten.
-
-**MCLAUGHLIN:** Mendoza just showed us how its done.
-
-**QUINTERO:**  Mendoza with a Nine of Spades over Two of Hearts. Mendoza wins again. Six over three. Mendoza continues streak. Ten over three.
-
-**MCLAUGHLIN:** Is Mendoza going to take this somewhere?
-
-**QUINTERO:**  Aces all around. War!! Ali defeats Mendoza with a king, takes 6 cards. Sevens all around. It's a war folks! Mendoza's five wins the battle taking 6 cards. Mendoza, Queen over two. Mendoza wins again. Ace over six. Mendoza leads 36 to 16. Two jacks. It's a war folks! Mendoza loses the battle. Ali takes 6 cards. Ten over five, Ali. Mendoza leads 32 to 20. Mendoza's hand, Queen over four. Ali's hand, King over four. Mendoza's five falls to Ali's eight. Ali wins again. Seven over three. Mendoza falls to Ali again, Nine over five. Ali's seven loses to Mendoza's queen. Ali beats Mendoza with Eight of Hearts over Six of Diamonds. King over jack, Ali. Mendoza leads 28 to 24. Mendoza's hand, Queen over two. Aces. It's a war folks! Mendoza defeats Ali with a nine, takes 6 cards. Mendoza leads 32 to 20. Ali's hand, Nine over eight. Mendoza's king tops Ali's two.
-
-**MCLAUGHLIN:** That king got the job done, but was it the most strategic play by Mendoza?
-
-**QUINTERO:**  Jacks all around. War! Mendoza defeats Ali with a nine, takes 6 cards. Ali beats Mendoza with Four of Diamonds over Two of Hearts.
-
-**MCLAUGHLIN:** These two are really slugging it out.
-
-**QUINTERO:**  Ali bests Mendoza with Ten of Hearts over Six of Clubs. Ali continues streak. Five over three.
-
-**MCLAUGHLIN:** Great use of a five by Ali.
-
-**QUINTERO:**  Another for Ali, King over three.
-
-**MCLAUGHLIN:** Mendoza is going to be playing catch up if they don't stop this.
-
-**QUINTERO:**  Ten over four, Mendoza. Ali's hand, Eight over seven.
-
-**MCLAUGHLIN:** Ali just showed us how its done.
-
-**QUINTERO:**  Mendoza's six tops Ali's five.
-
-**MCLAUGHLIN:** Excellent use of a six by Mendoza
-
-**QUINTERO:**  Mendoza with a Five of Hearts over Three of Hearts. Two sevens. War!!! Ali loses the battle. Mendoza takes 6 cards. Mendoza leads 36 to 16. Mendoza's queen tops Ali's eight. Ali's hand, Six over two. Ali's hand, King over six. Mendoza's ace tops Ali's jack. Ali with an Eight of Diamonds over Four of Clubs.
-
-**MCLAUGHLIN:** They are really going toe to toe in this game.
-
-**QUINTERO:**  Ali's nine falls to Mendoza's queen. Mendoza, Seven over two. Mendoza keeps going. Queen over four. Mendoza keeps going. Queen over six. Ali with a Ten of Hearts over Two of Clubs. Mendoza's ten tops Ali's three. Mendoza's ace beats Ali's five. Mendoza leads 40 to 12.
-
-**MCLAUGHLIN:** Mendoza probably didn't need to use an ace in that play.
-
-**QUINTERO:**  Mendoza keeps going. Ace over king. Mendoza keeps going. Nine over three.
-
-**MCLAUGHLIN:** Mendoza has got some momentum.
-
-**QUINTERO:**  Ace over seven, Mendoza. Ali's hand, Eight over four. Mendoza's hand, King over two. Ali's hand, Six over two. King over nine, Ali. Mendoza's jack beats Ali's six. Jack over four, Mendoza. Mendoza this time with the Jack of Spades. Mendoza leads 44 to 8. Mendoza keeps going. Ten over two. Ali, Ten over eight.
-
-**MCLAUGHLIN:** Ali just showed us how its done.
-
-**QUINTERO:**  Ten over four, Mendoza. Ali with an Eight of Clubs over Four of Spades. Ali's hand, Six over five.
-
-**MCLAUGHLIN:** Excellent use of a six by Ali
-
-**QUINTERO:**  Mendoza beats Ali with Six of Spades over Two of Diamonds. Ali with a King of Diamonds over Three of Hearts.
-
-**MCLAUGHLIN:** I hope Ali doesn't need that king when something bigger comes along.
-
-**QUINTERO:**  Nine over five, Ali. Ali again, Eight over three. Ali with a Ten of Hearts over Five of Clubs. Mendoza leads 40 to 12. Ali does it again. Eight over seven.
-
-**MCLAUGHLIN:** I think Ali is going somewhere.
-
-**QUINTERO:**  Mendoza, Nine over four. Mendoza tops Ali with Seven of Spades over Five of Diamonds.
-
-**MCLAUGHLIN:** Nice play by Mendoza.
-
-**QUINTERO:**  Mendoza does it again. King over six. Another for Mendoza, Eight over three. Ali, King over queen.
-
-**MCLAUGHLIN:** Smart move by Ali.
-
-**QUINTERO:**  Mendoza with an Ace of Clubs over Nine of Spades. Mendoza's jack tops Ali's five. Mendoza leads 44 to 8. Mendoza wins again. Nine over three. Ali falls to Mendoza again, Queen over eight.
-
-**MCLAUGHLIN:** Is Mendoza going to take this somewhere?
-
-**QUINTERO:**  Ali, Five over two. Ali with a Ten of Hearts over Seven of Hearts. Mendoza, Queen over seven. Ali beats Mendoza with Eight of Clubs over Four of Diamonds. Ali bests Mendoza with King of Diamonds over Six of Clubs. Queens all around. War!!! Mendoza defeats Ali with a three, takes 6 cards. Mendoza's ace beats Ali's seven. Ten over five, Ali. Mendoza's hand, Ace over eight. King over four, Mendoza. Mendoza leads 48 to 4. Mendoza's three falls to Ali's six.
-
-**MCLAUGHLIN:** It's getting tight. Mendoza must be feeling good.
-
-**QUINTERO:**  Ali's king bests Mendoza's nine. Ali again, Ten over seven. Ali's five falls to Mendoza's ace.
-
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Mendoza?
-
-**QUINTERO:**  Mendoza, King over six.
-
-**MCLAUGHLIN:** Mendoza likes where this is going.
-
-**QUINTERO:**  Ali with a Three of Spades over Two of Spades. Ali with a King of Diamonds over Jack of Diamonds.
-
-**MCLAUGHLIN:** Ali just showed us how its done.
-
-**QUINTERO:**  Ali this time with the Nine of Clubs. Mendoza leads 44 to 8. Ali continues streak. Ten over four. Mendoza tops Ali with Jack of Clubs over Seven of Clubs. Mendoza with an Eight of Diamonds over Three of Spades. Mendoza's jack bests Ali's two. Mendoza's ten falls to Ali's jack.
-
-**MCLAUGHLIN:** Ali just showed us how its done.
-
-**QUINTERO:**  Ali tops Mendoza with King of Diamonds over Two of Clubs.
-
-**MCLAUGHLIN:** That king got the job done, but was it the most strategic play by Ali?
-
-**QUINTERO:**  Ali wins again. Six over four.
-
-**MCLAUGHLIN:** Excellent use of a six by Ali
-
-**QUINTERO:**  Mendoza's ten tops Ali's nine.
-
-**MCLAUGHLIN:** Smart move.
-
-**QUINTERO:**  Ali with a Ten of Hearts over Six of Spades. Mendoza's two loses to Ali's four.
-
-**MCLAUGHLIN:** Nice use of a four by Ali.
-
-**QUINTERO:**  Ali does it again. Jack over four. Ali continues streak. Ten over nine. Mendoza leads 40 to 12.
-
-**MCLAUGHLIN:** Great use of a ten by Ali. Ali is looking good.
-
-**QUINTERO:**  Mendoza, Five over two. Mendoza's seven falls to Ali's king. Sixes all around. We have a war! Mendoza defeats Ali with an eight, takes 6 cards. Ali's hand, Ten over three. Mendoza's nine beats Ali's two. Mendoza tops Ali with Ace of Clubs over Four of Clubs. Mendoza leads 44 to 8. Mendoza keeps going. Five over four. Two jacks. War!!! Ali defeats Mendoza with a nine, takes 6 cards. Ali, King over eight. Mendoza with a Queen of Diamonds over Seven of Spades. Mendoza with a Queen of Clubs over Ten of Hearts. Ali's three falls to Mendoza's seven. Another for Mendoza with Queen over ten. Mendoza this time with the Queen of Spades.
-
-**MCLAUGHLIN:** Mendoza might be making a move.
-
-**QUINTERO:**  Mendoza keeps going. Ten over nine.
-
-**MCLAUGHLIN:** Excellent move. What a streak for Mendoza.
-
-**QUINTERO:**  Jack over five, Ali. Mendoza's three falls to Ali's nine. Ali with a Jack of Hearts over Two of Hearts.
-
-**MCLAUGHLIN:** That jack seems wasted on a two.
-
-**QUINTERO:**  Ali wins again. Eight over seven.
-
-**MCLAUGHLIN:** Ali just showed us how its done.
-
-**QUINTERO:**  Mendoza's ace tops Ali's king. Mendoza's eight loses to Ali's jack. Ali's five loses to Mendoza's ace.
-
-**MCLAUGHLIN:** Mendoza over paid for that five.
-
-**QUINTERO:**  Ali, Nine over four. Mendoza tops Ali with King of Hearts over Three of Diamonds. Ali's jack loses to Mendoza's ace. Ali falls to Mendoza again, Five over two. Mendoza's king bests Ali's seven.
-
-**MCLAUGHLIN:** Ali is stumbling a little.
-
-**QUINTERO:**  Mendoza's six loses to Ali's eight.
-
-**MCLAUGHLIN:** Great use of an eight by Ali.
-
-**QUINTERO:**  Mendoza with a Jack of Clubs over Eight of Clubs. Ali tops Mendoza with Jack of Diamonds over Seven of Clubs. Mendoza's eight falls to Ali's nine.
-
-**MCLAUGHLIN:** Ali just showed us how its done.
-
-**QUINTERO:**  Another for Ali with Four over three.
-
-**MCLAUGHLIN:** Excellent move by Ali.
-
-**QUINTERO:**  Mendoza's jack tops Ali's six. Ali's eight bests Mendoza's two. Ali's jack tops Mendoza's ten. Mendoza's nine beats Ali's seven.
-
-**MCLAUGHLIN:** Nice use of a nine by Mendoza.
-
-**QUINTERO:**  Ali's hand, Eight over two. Ali beats Mendoza with Nine of Diamonds over Five of Diamonds. Mendoza's six tops Ali's three. Two fours. War!! Ali loses the battle. Mendoza takes 6 cards. Ali with a Ten of Spades over Six of Spades. Ali tops Mendoza with Jack of Diamonds over Eight of Hearts.
-
-**MCLAUGHLIN:** Neither player is giving an inch.
-
-**QUINTERO:**  Mendoza's hand, Nine over two. Ali with an Eight of Diamonds over Two of Diamonds. Ali, Nine over four. Mendoza, Ace over five. Ali beats Mendoza with Six of Spades over Four of Spades. Ali, Ten over five. Ali keeps going. Eight over seven.
-
-**MCLAUGHLIN:** Nice use of an eight by Ali.
-
-**QUINTERO:**  Mendoza with a Queen of Diamonds over Jack of Diamonds. Mendoza, Queen over eight. Mendoza keeps going. Ten over two. Ali beats Mendoza with Nine of Diamonds over Three of Hearts. Seven over four, Mendoza. Mendoza's queen tops Ali's four. Mendoza this time with the Ten of Diamonds. Ali's five bests Mendoza's three. Queen over ten, Mendoza. Mendoza with a Ten of Clubs over Eight of Hearts.
-
-**MCLAUGHLIN:** Excellent use of a ten by Mendoza
-
-**QUINTERO:**  Ali falls to Mendoza again, Nine over seven. Mendoza leads 48 to 4.
-
-**MCLAUGHLIN:** In just a few plays we could have a result.
-
-**QUINTERO:**  Mendoza keeps going. King over nine.
-
-**MCLAUGHLIN:** Mendoza is looking good. It's getting tight. Mendoza must be feeling good.
-
-**QUINTERO:**  Mendoza keeps going. Ace over three.
-
-**MCLAUGHLIN:** Ali is stumbling a little. It's getting close folks.
-
-**QUINTERO:** In 1290 hands, Abd Mendoza has won the match.
-
-**MCLAUGHLIN:** They really dragged that one out! Despite losing, Bryce Ali lead for more hands than Abd Mendoza. 
-
-**QUINTERO:** Abd Mendoza will face Val Beil in Game 1 of the 2nd round. 
+**HUERTA:** Juan Weber meets Bennett Hayden in Game 1 of the 2nd round. 
 
 ## Game 3, Round 1
 
-**MCLAUGHLIN:** What a clean day for war.
+**GARCIA:** What a cloudy day for war.
 
-**QUINTERO:** Hello, I'm Regina Quintero.
+**HUERTA:** Hello, I'm Daryl Huerta.
 
-**MCLAUGHLIN:** And I am Bentley McLaughlin.
+**GARCIA:** And I am Ray Garcia.
 
-**QUINTERO:** We are here today for Game 3 of the 1st round of the War Championship. Today's competitors are Vincent Wood and Jonas Stuart. Wood beat Stuart in their last meeting. What are we in for today, Bentley?
+**HUERTA:** Welcome to Game 3 of the 1st round of the War Championship. On one side of the table today, Juliana Miller. On the other, Jeremiah Roy. Miller defeated Roy in their last game. Who will win today, Ray?
 
-**MCLAUGHLIN:** Wood held the lead for most of the game. You never know what to expect, Regina.
+**GARCIA:** Roy really dominated in that game, but couldn't turn it into a win. Roy is definitely ready for a rematch, but as you know Daryl, there is always a possibility it could go either way.
 
-**QUINTERO:** The players are ready. Here we go. Ace over queen, Wood. Stuart's hand, King over three. Wood's eight tops Stuart's six. Stuart's queen bests Wood's six. Wood beats Stuart with Ten of Diamonds over Two of Diamonds. Four over two, Stuart. Sevens all around. War! Nines all around. War!!! Stuart defeats Wood with a five, takes 10 cards. Stuart leads 31 to 21.
+**HUERTA:** The dealer has signaled the start of the match. Two sixes. We have a war! Miller loses the battle. Roy takes 6 cards. Miller's hand, Ace over queen.
 
-**MCLAUGHLIN:** Stuart just showed us how its done. What a haul for Stuart.
+**GARCIA:** Miller just showed us how its done.
 
-**QUINTERO:**  Stuart, Ace over queen.
+**HUERTA:**  Miller beats Roy with King of Spades over Five of Spades. Roy bests Miller with Jack of Spades over Three of Hearts. Miller tops Roy with Seven of Spades over Three of Spades. Roy, Eight over two. Roy's nine loses to Miller's jack. Miller's king beats Roy's seven. Roy falls to Miller again, Nine over four. Miller this time with the Queen of Hearts.
 
-**MCLAUGHLIN:** What a fight!
+**GARCIA:** Miller is looking good.
 
-**QUINTERO:**  Stuart again, Queen over five. Wood's ace bests Stuart's six. Stuart's ace tops Wood's eight. Wood, Five over two. Stuart, King over ten. Wood tops Stuart with Ten of Hearts over Eight of Diamonds. Stuart's hand, Jack over four. Stuart bests Wood with Jack of Diamonds over Nine of Diamonds.
+**HUERTA:**  Roy, Seven over four. Miller's three tops Roy's two.
 
-**MCLAUGHLIN:** Great use of a jack by Stuart.
+**GARCIA:** Excellent use of a three by Miller
 
-**QUINTERO:**  Stuart's seven falls to Wood's jack. Four over three, Wood.
+**HUERTA:**  Miller with a Nine of Diamonds over Four of Clubs. Roy with an Ace of Clubs over Nine of Hearts. King over ten, Roy. Miller beats Roy with Ace of Hearts over Six of Diamonds. Miller, Eight over three. Queen over jack, Miller. Miller leads 30 to 22.
 
-**MCLAUGHLIN:** Wood just showed us how its done.
+**GARCIA:** Efficient play.
 
-**QUINTERO:**  Wood keeps going. Seven over three. Wood wins again. King over five.
+**HUERTA:**  Another for Miller with Jack over two. Miller this time with the Eight of Clubs.
 
-**MCLAUGHLIN:** Stuart is going to be playing catch up if they don't stop this.
+**GARCIA:** Roy should nip this run in the bud.
 
-**QUINTERO:**  Wood keeps going. Ten over six.
+**HUERTA:**  Miller this time with the Queen of Diamonds.
 
-**MCLAUGHLIN:** Is Wood going to take this somewhere?
+**GARCIA:** What a streak for Miller.
 
-**QUINTERO:**  Jack over three, Stuart. Ace over three, Wood. Stuart, King over queen. Sixes all around. War!! Twos all around. We have a war! Wood defeats Stuart with a six, takes 10 cards. Wood leads 27 to 25.
+**HUERTA:**  Miller this time with the Ten of Diamonds. Miller leads 34 to 18.
 
-**MCLAUGHLIN:** 10 cards is nothing to sneeze at.
+**GARCIA:** Someone should tell Roy the match isn't over.
 
-**QUINTERO:**  Wood beats Stuart with Ace of Spades over Five of Diamonds. Stuart, Nine over five. Stuart's nine bests Wood's two. Wood falls to Stuart again, King over eight. Stuart's eight loses to Wood's ten.
+**HUERTA:**  Miller with a Ten of Clubs over Eight of Hearts.
 
-**MCLAUGHLIN:** I bet Stuart wishes they had something higher than an eight on that play.
+**GARCIA:** I bet Roy wishes they had something higher than an eight on that play.
 
-**QUINTERO:**  Stuart's seven falls to Wood's jack. Sevens. War! Wood loses the battle. Stuart takes 6 cards. Stuart's ace bests Wood's three. Stuart leads 29 to 23. Stuart wins again. Queen over seven. Two fives. War!!! Stuart's ace wins the battle taking 6 cards. Stuart leads 33 to 19. Wood's six loses to Stuart's eight.
+**HUERTA:**  Roy tops Miller with King of Diamonds over Six of Clubs.
 
-**MCLAUGHLIN:** Nice use of an eight by Stuart.
+**GARCIA:** Roy might have stopped the bleeding.
 
-**QUINTERO:**  Stuart keeps going. Ten over three. Wood bests Stuart with Ace of Hearts over King of Hearts. Stuart's hand, Jack over six. Stuart with a Four of Clubs over Two of Diamonds.
+**HUERTA:**  Roy's six loses to Miller's ace. Miller with a Queen of Spades over Five of Hearts. Roy's six bests Miller's five.
 
-**MCLAUGHLIN:** I bet Wood wishes they had something higher than a two on that play.
+**GARCIA:** Great use of a six by Roy.
 
-**QUINTERO:**  Stuart wins again. Nine over two. Stuart leads 37 to 15. Wood beats Stuart with Queen of Clubs over Jack of Diamonds. Wood's hand, Six over three. Stuart beats Wood with Jack of Hearts over Four of Diamonds. Stuart's king bests Wood's ten. Another for Stuart, Queen over eight. Stuart keeps going. Nine over six.
+**HUERTA:**  Roy with an Ace of Diamonds over King of Spades. Roy's hand, Four over three. Roy continues streak. Ten over seven.
 
-**MCLAUGHLIN:** Stuart has got some momentum.
+**GARCIA:** Is Roy going to take this somewhere?
 
-**QUINTERO:**  Another for Stuart, Five over four.
+**HUERTA:**  Jacks all around. War!! Miller defeats Roy with a king, takes 6 cards. Eight over seven, Roy.
 
-**MCLAUGHLIN:** Excellent use of a five by Stuart Stuart has got some momentum.
+**GARCIA:** Nice use of an eight by Roy.
 
-**QUINTERO:**  Wood's hand, Five over two. Wood's ace tops Stuart's nine. Wood tops Stuart with Ten of Hearts over Eight of Diamonds.
+**HUERTA:**  Miller with a Nine of Clubs over Four of Spades. Roy beats Miller with Seven of Clubs over Four of Hearts. Roy with an Ace of Clubs over Seven of Diamonds. Miller with a Queen of Hearts over Nine of Hearts. Roy, King over two. Miller's three loses to Roy's ten. Miller with a Nine of Diamonds over Six of Clubs. Roy beats Miller with King of Diamonds over Four of Clubs. Two sixes. It's a war folks! Roy's king wins the battle taking 6 cards. Miller leads 29 to 23. Roy, Ace over three. Miller with a Queen of Clubs over Three of Spades. Miller's hand, Jack over four. Roy with a Ten of Hearts over Two of Hearts. Miller's hand, Jack over seven. Roy, Seven over five. Eights. War! Miller loses the battle. Roy takes 6 cards.
 
-**MCLAUGHLIN:** Nice use of a ten by Wood.
+**GARCIA:** Great use of a four by Roy.
 
-**QUINTERO:**  Stuart's king beats Wood's eight. Stuart, Nine over seven.
+**HUERTA:**  Roy's hand, Ace over five. Roy leads 27 to 25.
 
-**MCLAUGHLIN:** Nice use of a nine by Stuart.
+**GARCIA:** That ace got the job done, but was it the most strategic play by Roy?
 
-**QUINTERO:**  Wood, Jack over seven. Stuart's three falls to Wood's ace. Another for Wood, King over four. Wood wins again. Queen over seven.
+**HUERTA:**  Ten over seven, Miller. Miller's ten falls to Roy's king. Miller bests Roy with Eight of Hearts over Two of Clubs. Roy's ten tops Miller's six. Miller, Ace over three.
 
-**MCLAUGHLIN:** Stuart should nip this run in the bud.
+**GARCIA:** Miller probably didn't need to use an ace in that play.
 
-**QUINTERO:**  Wood keeps going. Jack over two. Wood keeps going. Six over three. Stuart leads 33 to 19.
+**HUERTA:**  Miller's queen bests Roy's four. Miller's five loses to Roy's king. King over jack, Roy. Miller, Jack over six.
 
-**MCLAUGHLIN:** Wood ate their Wheaties today.
+**GARCIA:** What a fight!
 
-**QUINTERO:**  Stuart's ace bests Wood's three.
+**HUERTA:**  Eight over two, Roy. Roy's hand, Ace over three.
 
-**MCLAUGHLIN:** I hope Stuart doesn't need that ace when something bigger comes along.
+**GARCIA:** Roy over paid for that three.
 
-**QUINTERO:**  Stuart with a Seven of Spades over Two of Spades. Stuart keeps going. Queen over five. Two aces. It's a war folks! Wood defeats Stuart with a ten, takes 6 cards. Ten over eight, Stuart.
+**HUERTA:**  King over six, Miller. Miller with a Nine of Spades over Five of Spades. Miller wins again. Nine over three. Roy with an Ace of Diamonds over Four of Spades. Miller's nine bests Roy's two. Miller's queen beats Roy's ten. Miller keeps going. Nine over five. Miller leads 29 to 23. Roy with a Seven of Hearts over Six of Clubs.
 
-**MCLAUGHLIN:** Excellent use of a ten by Stuart
+**GARCIA:** Nice use of a seven by Roy.
 
-**QUINTERO:**  Stuart, Queen over seven. Jack over five, Wood. Wood, Ace over six. Stuart, Eight over three. Stuart's three loses to Wood's king.
+**HUERTA:**  Miller's queen bests Roy's seven. Roy with an Eight of Diamonds over Three of Spades. Miller, Jack over two. Fours. War! Miller loses the battle. Roy takes 6 cards.
 
-**MCLAUGHLIN:** That king got the job done, but was it the most strategic play by Wood?
+**GARCIA:** Roy just showed us how its done.
 
-**QUINTERO:**  Stuart, Ten over four. Wood's queen beats Stuart's jack. Stuart's six falls to Wood's seven. Stuart, Four over two.
+**HUERTA:**  Miller's ten falls to Roy's ace. Roy leads 27 to 25. Roy's five falls to Miller's seven.
 
-**MCLAUGHLIN:** Excellent move by Stuart.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Wood's hand, Jack over two. Stuart's two loses to Wood's six. Stuart's nine tops Wood's three. Wood, Nine over four. Wood's ten falls to Stuart's jack. Wood's hand, Ace over ten. King over five, Stuart. Wood's ace bests Stuart's eight. King over queen, Wood.
+**HUERTA:**  Roy, King over two. Roy's ten bests Miller's eight.
 
-**MCLAUGHLIN:** Neither player is giving an inch.
+**GARCIA:** Excellent use of a ten by Roy
 
-**QUINTERO:**  Wood, Jack over nine. Stuart leads 29 to 23.
+**HUERTA:**  Miller beats Roy with Ace of Spades over Ten of Spades. Roy with a Six of Spades over Three of Diamonds. Miller's four falls to Roy's five. Roy continues streak. King over queen. Two jacks. It's a war folks! Roy loses the battle. Miller takes 6 cards. Eight over six, Roy. Ace over five, Roy. Miller's nine tops Roy's three. Four over three, Roy.
 
-**MCLAUGHLIN:** Excellent use of a jack by Wood
+**GARCIA:** Good job.
 
-**QUINTERO:**  Wood's five falls to Stuart's six. Wood with an Ace of Hearts over Five of Hearts. Six over four, Wood.
+**HUERTA:**  Roy with an Ace of Diamonds over Nine of Clubs. Miller, Nine over seven. Six over two, Roy. Miller's hand, Queen over three. Miller's hand, Ten over eight. Roy's queen beats Miller's nine. Roy's jack bests Miller's five. Roy's four falls to Miller's queen. Two sevens. War! Roy loses the battle. Miller takes 6 cards. Roy with a Ten of Diamonds over Five of Diamonds. Miller's seven loses to Roy's ace. Roy continues streak. King over ten. Miller, Ace over two. Miller's king tops Roy's eight. Roy beats Miller with Ten of Clubs over Six of Diamonds. Jack over six, Miller. Miller's hand, King over three. Roy, Four over two. Miller's hand, Jack over five. Roy, King over three. Queen over nine, Roy. Seven over six, Miller.
 
-**MCLAUGHLIN:** I bet Stuart wishes they had something higher than a four on that play.
+**GARCIA:** I bet Roy wishes they had something higher than a six on that play.
 
-**QUINTERO:**  Stuart, King over three.
+**HUERTA:**  Miller tops Roy with Nine of Hearts over Eight of Spades.
 
-**MCLAUGHLIN:** That king seems wasted on a three.
+**GARCIA:** We have some real fighters on our hands.
 
-**QUINTERO:**  Stuart's eight loses to Wood's king. Jack over seven, Wood. Wood again, Queen over nine. Stuart with an Ace of Diamonds over Six of Clubs. Wood, Seven over three. Stuart's seven beats Wood's two. Stuart's two falls to Wood's jack.
+**HUERTA:**  Roy's ace bests Miller's three. Miller beats Roy with Queen of Hearts over Five of Spades. Ten over three, Miller. Another for Miller, Eight over four. Ace over four, Roy. Miller, Queen over nine. Six over two, Roy. Miller with a Seven of Spades over Two of Hearts. Queen over four, Roy. Miller's jack beats Roy's nine.
 
-**MCLAUGHLIN:** That jack seems wasted on a two.
+**GARCIA:** I bet Roy wishes they had something higher than a nine on that play.
 
-**QUINTERO:**  Stuart, Five over two. Stuart with a Queen of Spades over Six of Diamonds. Stuart continues streak. Ten over four. Nine over eight, Wood. Wood, Ten over seven. Wood does it again. Ace over queen. Stuart falls to Wood again, Ace over three. Wood leads 27 to 25. Two eights. War! Wood's king wins the battle taking 6 cards. Wood's hand, Nine over two. Wood leads 31 to 21. Wood's jack tops Stuart's four. Stuart falls to Wood again, Ace over nine. Wood continues streak. Five over three.
+**HUERTA:**  Miller tops Roy with Eight of Clubs over Five of Clubs. Miller leads 29 to 23. Roy's hand, Jack over seven. Miller's hand, Ace over five.
 
-**MCLAUGHLIN:** Excellent use of a five by Wood
+**GARCIA:** I hope Miller doesn't need that ace when something bigger comes along.
 
-**QUINTERO:**  Wood's four loses to Stuart's ten. Jack over six, Stuart. Wood beats Stuart with Eight of Hearts over Five of Spades. Two kings. War!! Wood defeats Stuart with a jack, takes 6 cards. Wood leads 36 to 16. Wood beats Stuart with Queen of Clubs over Three of Diamonds.
+**HUERTA:**  Miller's two loses to Roy's ten. Miller's eight falls to Roy's ace.
 
-**MCLAUGHLIN:** Wood over paid for that three.
+**GARCIA:** What a fight!
 
-**QUINTERO:**  Wood's nine loses to Stuart's king. Wood with a Seven of Clubs over Six of Clubs.
+**HUERTA:**  Miller, King over seven. Roy, King over six. Miller's hand, Jack over ten.
 
-**MCLAUGHLIN:** Wood just showed us how its done.
+**GARCIA:** Excellent use of a jack by Miller
 
-**QUINTERO:**  Stuart with an Ace of Diamonds over Three of Hearts.
+**HUERTA:**  Miller's king tops Roy's six. Ten over three, Roy. Roy's four loses to Miller's jack. Roy's two falls to Miller's five. Miller does it again. Seven over three. King over six, Roy. Roy, Nine over eight. Miller falls to Roy again, Queen over nine. Roy's three falls to Miller's five. Miller's queen loses to Roy's ace. Miller beats Roy with Ten of Hearts over Four of Diamonds. Ace over three, Roy. Roy's two loses to Miller's four. Roy's six loses to Miller's eight. Roy, Queen over nine. Roy's four falls to Miller's queen. Sevens. It's a war folks! Roy loses the battle. Miller takes 6 cards. Miller leads 33 to 19. Jack over ten, Miller.
 
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Stuart?
+**GARCIA:** Miller just showed us how its done.
 
-**QUINTERO:**  Seven over two, Stuart. Jack over two, Wood. Wood with an Eight of Diamonds over Five of Diamonds. Wood this time with the Nine of Hearts. Wood does it again. Ten over six.
+**HUERTA:**  Roy's hand, Eight over five. Roy, Ace over eight. Miller's hand, Ace over six. Roy with a King of Hearts over Five of Diamonds. Miller's seven loses to Roy's ten. Miller beats Roy with King of Spades over Three of Diamonds. Roy's hand, King over ten. Miller, Jack over six. Roy's nine tops Miller's six. Miller, King over eight.
 
-**MCLAUGHLIN:** Stuart is going to be playing catch up if they don't stop this.
+**GARCIA:** What a fight!
 
-**QUINTERO:**  Stuart with a Queen of Spades over Seven of Hearts. Wood, Ace over four. Wood, Queen over ten. Wood leads 40 to 12.
+**HUERTA:**  Roy's hand, Nine over four. Roy's queen tops Miller's jack. Roy continues streak. Ace over five. Miller leads 29 to 23. Roy wins again. Queen over two. Another for Roy with Ace over three.
 
-**MCLAUGHLIN:** Excellent move.
+**GARCIA:** Miller is going to be playing catch up if they don't stop this.
 
-**QUINTERO:**  Wood's three loses to Stuart's ten. Wood bests Stuart with Ace of Clubs over Four of Spades. Wood, Queen over jack.
+**HUERTA:**  Miller with a Seven of Hearts over Three of Clubs. Queen over five, Roy. Nine over three, Roy. Miller with a Ten of Hearts over Five of Clubs. Roy, Eight over four. Roy, Eight over two. Roy leads 27 to 25. Roy tops Miller with Ace of Clubs over Four of Spades. Miller's six beats Roy's five.
 
-**MCLAUGHLIN:** Nice use of a queen by Wood.
+**GARCIA:** Nice play.
 
-**QUINTERO:**  Another for Wood, Eight over six.
+**HUERTA:**  Roy's hand, King over eight. Roy's ten loses to Miller's queen. Roy bests Miller with Seven of Diamonds over Four of Hearts. Miller's seven falls to Roy's king. Roy keeps going. Ten over nine. Roy keeps going. Six over two. Roy leads 31 to 21.
 
-**MCLAUGHLIN:** Well played by Wood.
+**GARCIA:** Roy might be making a move.
 
-**QUINTERO:**  Wood wins again. King over nine.
+**HUERTA:**  Roy's nine tops Miller's two.
 
-**MCLAUGHLIN:** Wood is looking good.
+**GARCIA:** Roy might be making a move.
 
-**QUINTERO:**  Stuart with a King of Spades over Four of Hearts. Wood's eight beats Stuart's three. Ace over ten, Stuart. Two twos. We have a war! Wood loses the battle. Stuart takes 6 cards. Stuart, Queen over jack. Wood, Ace over ten. Nine over three, Wood. Wood wins again. Five over four. Wood's three falls to Stuart's king. Ace over eight, Stuart. Stuart does it again. Ten over five. Wood beats Stuart with Six of Hearts over Two of Spades. Stuart's seven falls to Wood's jack. Stuart falls to Wood again, Five over two. Wood does it again. King over four.
+**HUERTA:**  Miller's hand, Seven over four. Jack over nine, Miller.
 
-**MCLAUGHLIN:** Wood might be making a move.
+**GARCIA:** Good job.
 
-**QUINTERO:**  Another for Wood with King over nine.
+**HUERTA:**  Miller's jack falls to Roy's queen. Miller's ten loses to Roy's jack. Another for Roy, Ace over six. Roy's five loses to Miller's ace. Roy's two falls to Miller's three.
 
-**MCLAUGHLIN:** Stuart is going to be playing catch up if they don't stop this.
+**GARCIA:** Miller just showed us how its done.
 
-**QUINTERO:**  Two sevens. War!!! Stuart's jack wins the battle taking 6 cards. Seven over three, Wood. Stuart beats Wood with King of Spades over Six of Clubs. Ace over two, Stuart.
+**HUERTA:**  Another for Miller with King over queen.
 
-**MCLAUGHLIN:** I hope Stuart doesn't need that ace when something bigger comes along.
+**GARCIA:** Excellent use of a king by Miller
 
-**QUINTERO:**  Wood, Jack over eight. Stuart, Ten over five. Wood with an Eight of Diamonds over Five of Spades. Wood with a Nine of Hearts over Seven of Spades.
+**HUERTA:**  Miller tops Roy with Jack of Spades over Three of Hearts.
 
-**MCLAUGHLIN:** Good job.
+**GARCIA:** I think Miller is going somewhere.
 
-**QUINTERO:**  Seven over two, Stuart. Wood with a Ten of Diamonds over Three of Diamonds.
+**HUERTA:**  Roy bests Miller with Ace of Diamonds over Six of Hearts. Roy's hand, Queen over eight. Miller tops Roy with King of Clubs over Five of Spades. Threes. War! Miller defeats Roy with a ten, takes 6 cards. Roy leads 27 to 25. Roy's hand, Eight over five. Miller's six tops Roy's two. Miller's five loses to Roy's eight. Miller with a Queen of Clubs over Four of Spades. Ace over ten, Roy. Roy, Eight over seven.
 
-**MCLAUGHLIN:** They are really going toe to toe in this game.
+**GARCIA:** Nice use of an eight by Roy. They are really going toe to toe in this game.
 
-**QUINTERO:**  Stuart bests Wood with Queen of Clubs over Six of Diamonds. Stuart's hand, Jack over four. Wood bests Stuart with Ace of Spades over Queen of Spades.
+**HUERTA:**  Roy bests Miller with King of Hearts over Four of Clubs. Miller tops Roy with Jack of Diamonds over Seven of Diamonds. Miller beats Roy with Nine of Hearts over Four of Hearts. Seven over five, Roy. Miller's ace tops Roy's king.
 
-**MCLAUGHLIN:** I bet Stuart wishes they had something higher than a queen on that play.
+**GARCIA:** Great use of an ace by Miller.
 
-**QUINTERO:**  Wood's queen loses to Stuart's king.
+**HUERTA:**  Roy's hand, Ten over three. Roy, Nine over two. Miller's queen bests Roy's two. King over six, Miller. Another for Miller with Jack over nine.
 
-**MCLAUGHLIN:** Great use of a king by Stuart.
+**GARCIA:** Good job.
 
-**QUINTERO:**  Stuart's six falls to Wood's ten. Ace over four, Stuart.
+**HUERTA:**  Miller this time with the Three of Hearts.
 
-**MCLAUGHLIN:** That ace seems wasted on a four.
+**GARCIA:** Miller is looking good.
 
-**QUINTERO:**  Wood bests Stuart with Ace of Clubs over Two of Diamonds. Stuart's five falls to Wood's queen. Wood continues streak. Jack over ten. Another for Wood, Eight over seven.
+**HUERTA:**  Miller this time with the King of Clubs.
 
-**MCLAUGHLIN:** Wood just showed us how its done.
+**GARCIA:** Roy should nip this run in the bud.
 
-**QUINTERO:**  Wood this time with the Six of Spades. Wood leads 44 to 8. Wood wins again. King over six.
+**HUERTA:**  Miller's five loses to Roy's jack. Roy's hand, Jack over nine.
 
-**MCLAUGHLIN:** Stuart is really taking a beating.
+**GARCIA:** Smart move by Roy.
 
-**QUINTERO:**  Queen over nine, Stuart. Stuart with a Four of Diamonds over Three of Hearts. Stuart this time with the Jack of Clubs. Wood with an Ace of Hearts over King of Spades. Stuart, Queen over ten. Stuart with an Ace of Diamonds over Three of Spades. Nine over four, Wood. Stuart, Queen over four. Stuart bests Wood with Nine of Clubs over Five of Hearts. Wood leads 40 to 12. Another for Stuart with Four over two.
+**HUERTA:**  Another for Roy with Ten over three. Roy this time with the Ace of Hearts.
 
-**MCLAUGHLIN:** Stuart just showed us how its done.
+**GARCIA:** Is Roy going to take this somewhere?
 
-**QUINTERO:**  Wood's hand, Six over three. Wood's seven falls to Stuart's eight.
+**HUERTA:**  Miller, Ten over six. Roy with an Ace of Diamonds over Seven of Hearts. Miller's four falls to Roy's six. Miller falls to Roy again, Queen over six. Roy leads 31 to 21. Roy does it again. Eight over two. Another for Roy, Eight over four. Miller with a Queen of Clubs over Five of Clubs. Miller's seven bests Roy's five.
 
-**MCLAUGHLIN:** Nice use of an eight by Stuart.
+**GARCIA:** Smart move.
 
-**QUINTERO:**  Two jacks. War! Stuart's queen wins the battle taking 6 cards. Wood leads 36 to 16. Wood with a Four of Clubs over Three of Spades.
+**HUERTA:**  Miller's hand, Jack over eight. Roy's hand, Ace over four. Roy, Ten over nine.
 
-**MCLAUGHLIN:** Wood just showed us how its done.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Ace over king, Stuart.
+**HUERTA:**  Miller's hand, Ace over eight. King over seven, Miller. Another for Miller with Queen over four. Roy tops Miller with King of Hearts over Two of Hearts. King over five, Miller. Roy's seven beats Miller's six.
 
-**MCLAUGHLIN:** Stuart just showed us how its done.
+**GARCIA:** Smart move by Roy.
 
-**QUINTERO:**  King over four, Wood. Stuart's hand, Queen over nine. Stuart, Nine over seven. Wood falls to Stuart again, Five over three. Stuart's two falls to Wood's eight. Wood's hand, Jack over four. Eights all around. We have a war! Stuart's ten wins the battle taking 6 cards. Wood with a Nine of Hearts over Five of Clubs. Jack over three, Stuart. Wood, Ten over two. Wood with an Ace of Spades over Jack of Spades. Two queens. We have a war! Stuart's ace wins the battle taking 6 cards. Wood leads 32 to 20. Wood's two falls to Stuart's nine.
+**HUERTA:**  Ten over nine, Roy.
 
-**MCLAUGHLIN:** We have some real fighters on our hands.
+**GARCIA:** Good job.
 
-**QUINTERO:**  Wood's ace tops Stuart's queen. Wood tops Stuart with Queen of Hearts over Seven of Clubs. Stuart's hand, Nine over five. Wood with a Ten of Spades over Five of Hearts. Wood's hand, Jack over three. Eights all around. War!!! Wood loses the battle. Stuart takes 6 cards. Wood's six loses to Stuart's seven. Wood with a King of Clubs over Eight of Spades. Stuart's hand, Seven over six.
+**HUERTA:**  Roy's three falls to Miller's jack. Roy, Nine over two. Three over two, Miller.
 
-**MCLAUGHLIN:** Excellent use of a seven by Stuart
+**GARCIA:** Miller just showed us how its done.
 
-**QUINTERO:**  Wood's king tops Stuart's three. Stuart's jack falls to Wood's ace. Stuart beats Wood with Queen of Spades over Nine of Diamonds. Stuart tops Wood with King of Diamonds over Four of Spades. Stuart keeps going. Six over three. Wood falls to Stuart again, Queen over six. Wood leads 28 to 24.
+**HUERTA:**  Miller's queen bests Roy's five. Miller keeps going. King over jack. Another for Miller, Ten over nine. Roy leads 27 to 25.
 
-**MCLAUGHLIN:** Wood is going to be playing catch up if they don't stop this.
+**GARCIA:** Excellent use of a ten by Miller
 
-**QUINTERO:**  Stuart again, Ten over three. Stuart keeps going. Ace over four.
+**HUERTA:**  Roy with a Jack of Hearts over Six of Spades. Miller with a Queen of Clubs over Ten of Diamonds. Miller with a Five of Clubs over Three of Clubs.
 
-**MCLAUGHLIN:** Someone should tell Wood the match isn't over.
+**GARCIA:** Nice use of a five by Miller.
 
-**QUINTERO:**  King over two, Wood.
+**HUERTA:**  Roy, Ace over five. Seven over three, Miller. Roy, Ace over eight. Miller with a Jack of Diamonds over Seven of Hearts. Miller's hand, Ace over four.
 
-**MCLAUGHLIN:** That king seems wasted on a two.
+**GARCIA:** Miller over paid for that four.
 
-**QUINTERO:**  Stuart beats Wood with Nine of Spades over Four of Hearts. Wood with an Eight of Hearts over Five of Diamonds. Stuart beats Wood with Nine of Clubs over Two of Spades. Wood, Jack over eight. Stuart with a Seven of Diamonds over Four of Diamonds. Wood's hand, Nine over eight.
+**HUERTA:**  Another for Miller, Eight over six. Roy's queen bests Miller's seven. Miller's king bests Roy's six. Four over two, Miller. Miller leads 29 to 23. Miller keeps going. Queen over eight. Miller with a King of Spades over Four of Spades. Miller's five falls to Roy's eight. Four over three, Roy. Roy again, Ace over jack. Roy's nine bests Miller's three. Roy does it again. Ten over two. Another for Roy, King over queen. Roy leads 27 to 25.
 
-**MCLAUGHLIN:** Great use of a nine by Wood.
+**GARCIA:** Nice play. Miller is really taking a beating.
 
-**QUINTERO:**  Stuart with a Ten of Hearts over Five of Clubs. Twos all around. We have a war! Stuart loses the battle. Wood takes 6 cards. Ace over seven, Wood. Wood again, Queen over seven. Wood does it again. Ace over six. Wood leads 32 to 20. Stuart with a Nine of Diamonds over Seven of Clubs.
+**HUERTA:**  Five over two, Miller. Miller's hand, King over six. Miller again, Jack over seven. Another for Miller with Ten over nine. Miller leads 29 to 23.
 
-**MCLAUGHLIN:** Efficient play by Stuart.
+**GARCIA:** I bet Roy wishes they had something higher than a nine on that play.
 
-**QUINTERO:**  Two queens. It's a war folks! Stuart's king wins the battle taking 6 cards. Wood leads 28 to 24. Jack over six, Wood. Threes all around. It's a war folks! Stuart's queen wins the battle taking 6 cards. Wood with a King of Spades over Ten of Clubs. Two threes. War! Wood defeats Stuart with a jack, takes 6 cards. Stuart with a Nine of Spades over Two of Diamonds. Wood, King over four. Wood with a Five of Diamonds over Two of Spades. Stuart with a Nine of Clubs over Eight of Hearts.
+**HUERTA:**  Roy with a Ten of Spades over Nine of Clubs.
 
-**MCLAUGHLIN:** Excellent use of a nine by Stuart
+**GARCIA:** I bet Miller wishes they had something higher than a nine on that play.
 
-**QUINTERO:**  Jack over seven, Wood. Eight over four, Wood. Wood leads 32 to 20. Another for Wood, Eight over five. Stuart tops Wood with Ten of Hearts over Nine of Hearts. Stuart's hand, Seven over two. Stuart, Nine over five. Stuart again, Queen over jack.
+**HUERTA:**  Roy's nine falls to Miller's queen. Miller's ten bests Roy's two. Roy with a Six of Spades over Five of Clubs.
 
-**MCLAUGHLIN:** Stuart just showed us how its done.
+**GARCIA:** Excellent use of a six by Roy
 
-**QUINTERO:**  Stuart's four loses to Wood's ten. Wood's hand, Six over five.
+**HUERTA:**  Roy beats Miller with Jack of Hearts over Three of Clubs. Miller falls to Roy again, Ace over three. Miller's hand, Seven over five. Roy's hand, Ace over jack. Miller's seven loses to Roy's eight. Ace over queen, Miller. Roy, Seven over four. Eights. It's a war folks! Roy loses the battle. Miller takes 6 cards. Roy's three loses to Miller's six. Roy, Jack over four. Roy with an Ace of Clubs over Two of Diamonds. Miller's hand, Queen over three.
 
-**MCLAUGHLIN:** Nice use of a six by Wood.
+**GARCIA:** These two are really slugging it out.
 
-**QUINTERO:**  Stuart's hand, Ten over two. Wood's ace beats Stuart's king. Stuart's hand, Queen over seven. Stuart with an Eight of Spades over Seven of Hearts.
+**HUERTA:**  Roy bests Miller with Nine of Hearts over Eight of Spades.
 
-**MCLAUGHLIN:** Nice use of an eight by Stuart.
+**GARCIA:** Excellent use of a nine by Roy
 
-**QUINTERO:**  Wood beats Stuart with Queen of Clubs over Six of Hearts. Wood, Ace over three. Queen over six, Stuart. Wood tops Stuart with Jack of Hearts over Three of Hearts. Stuart's hand, King over six. Wood's hand, Ten over two. King over nine, Wood. Another for Wood with Jack over nine. Wood wins again. Ace over eight.
+**HUERTA:**  Miller's hand, Four over two.
 
-**MCLAUGHLIN:** Is Wood going to take this somewhere?
+**GARCIA:** Nice play.
 
-**QUINTERO:**  Stuart with a Ten of Hearts over Three of Diamonds. Stuart, Nine over three. Wood's ace tops Stuart's seven. Stuart's two loses to Wood's four. Nine over four, Stuart. Wood's king tops Stuart's five. Stuart, Queen over five. Stuart's hand, Jack over two.
+**HUERTA:**  Miller, King over ten. Roy with a Queen of Spades over Five of Spades. Roy bests Miller with King of Hearts over Two of Hearts. Another for Roy with Nine over six. Miller's hand, King over ten. Miller's hand, Seven over five. Miller keeps going. Jack over six. Miller keeps going. Nine over three.
 
-**MCLAUGHLIN:** That jack got the job done, but was it the most strategic play by Stuart?
+**GARCIA:** Roy is stumbling a little.
 
-**QUINTERO:**  Wood with a Seven of Diamonds over Two of Hearts. Wood's hand, Jack over ten.
+**HUERTA:**  Roy, Jack over ten.
 
-**MCLAUGHLIN:** I bet Stuart wishes they had something higher than a ten on that play.
+**GARCIA:** I bet Miller wishes they had something higher than a ten on that play.
 
-**QUINTERO:**  Wood's hand, Eight over seven. Stuart with a Queen of Spades over Four of Diamonds. Eight over seven, Wood. Stuart's eight beats Wood's five. Wood's hand, Ten over six. Queen over four, Stuart. Two sixes. War!! Wood's king wins the battle taking 6 cards. Wood leads 37 to 15. Wood beats Stuart with Ace of Spades over Ten of Hearts. Wood does it again. Queen over three. Stuart beats Wood with Nine of Hearts over Six of Hearts. Wood beats Stuart with Ace of Clubs over Four of Hearts. Stuart's hand, Nine over three. Wood's three loses to Stuart's queen.
+**HUERTA:**  Miller with a Nine of Diamonds over Three of Spades. Roy bests Miller with Ace of Hearts over Queen of Clubs.
 
-**MCLAUGHLIN:** I hope Stuart doesn't need that queen when something bigger comes along.
+**GARCIA:** Well played.
 
-**QUINTERO:**  Wood beats Stuart with Jack of Hearts over Five of Diamonds. Wood tops Stuart with Ten of Clubs over Two of Spades. Stuart's jack tops Wood's two. Wood's nine falls to Stuart's queen. King over four, Wood.
+**HUERTA:**  Roy bests Miller with Ace of Diamonds over Ten of Diamonds. Roy again, Jack over two. Miller falls to Roy again, Seven over five.
 
-**MCLAUGHLIN:** That king got the job done, but was it the most strategic play by Wood?
+**GARCIA:** Nice use of a seven by Roy.
 
-**QUINTERO:**  Wood bests Stuart with Nine of Clubs over Five of Clubs. Jack over eight, Wood. Wood this time with the Ace of Diamonds. Wood leads 41 to 11.
+**HUERTA:**  Roy this time with the Eight of Clubs.
 
-**MCLAUGHLIN:** Wood just showed us how its done. Stuart is stumbling a little.
+**GARCIA:** Excellent move by Roy.
 
-**QUINTERO:**  Wood keeps going. Eight over four. Another for Wood with Seven over six.
+**HUERTA:**  Miller's hand, Ace over seven. Miller tops Roy with Queen of Diamonds over Four of Diamonds. Roy's jack bests Miller's eight. Miller, King over four.
 
-**MCLAUGHLIN:** Excellent move. Is Stuart awake?
+**GARCIA:** I hope Miller doesn't need that king when something bigger comes along.
 
-**QUINTERO:**  Another for Wood with Ace over nine.
+**HUERTA:**  Miller beats Roy with Five of Hearts over Two of Diamonds. Roy with an Ace of Clubs over Six of Hearts. Roy's nine bests Miller's four. Eights all around. War! Roy defeats Miller with a five, takes 6 cards. Roy leads 28 to 24. Roy's two falls to Miller's three. King over queen, Roy.
 
-**MCLAUGHLIN:** Stuart is really taking a beating.
+**GARCIA:** Good job by Roy. Roy and Miller are trading punch for punch.
 
-**QUINTERO:**  Stuart's nine tops Wood's two.
+**HUERTA:**  Six over four, Roy.
 
-**MCLAUGHLIN:** What a run for Wood. Stuart has some ground to make up.
+**GARCIA:** Excellent use of a six by Roy
 
-**QUINTERO:**  Four over three, Wood. Wood, Five over three. Wood leads 45 to 7.
+**HUERTA:**  Roy again, Nine over two. Two tens. War!! Roy defeats Miller with an ace, takes 6 cards. Roy leads 33 to 19.
 
-**MCLAUGHLIN:** Nice use of a five by Wood.
+**GARCIA:** Efficient play by Roy.
 
-**QUINTERO:**  Wood keeps going. King over queen.
+**HUERTA:**  Roy with a Queen of Clubs over Ten of Spades.
 
-**MCLAUGHLIN:** Great use of a king by Wood.
+**GARCIA:** Nice use of a queen by Roy.
 
-**QUINTERO:**  Stuart, Jack over two. Stuart's two loses to Wood's seven. Wood's hand, Jack over nine. Wood's ten falls to Stuart's queen. Stuart's hand, Nine over seven. Wood with an Eight of Diamonds over Two of Clubs. Wood tops Stuart with Seven of Hearts over Two of Hearts.
+**HUERTA:**  Roy this time with the Ace of Diamonds.
 
-**MCLAUGHLIN:** We're almost there.
+**GARCIA:** Roy probably didn't need to use an ace in that play.
 
-**QUINTERO:**  Stuart's hand, Jack over eight. Stuart with a Queen of Spades over Six of Diamonds. Two tens. War! Stuart's nine wins the battle taking 6 cards. Wood, King over eight. Stuart's hand, Jack over five. Sixes all around. It's a war folks! Stuart loses the battle. Wood takes 6 cards. Stuart's six loses to Wood's ten. Stuart falls to Wood again, Queen over ten.
+**HUERTA:**  Roy again, Ten over seven.
 
-**MCLAUGHLIN:** Excellent use of a queen by Wood
+**GARCIA:** Roy is looking good.
 
-**QUINTERO:**  Stuart tops Wood with Seven of Spades over Three of Spades. Wood's ace tops Stuart's ten. Stuart, Nine over four. Jacks all around. We have a war! Wood's ten wins the battle taking 6 cards. Wood leads 49 to 3.
+**HUERTA:**  Two jacks. War!! Miller loses the battle. Roy takes 6 cards. Roy leads 39 to 13.
 
-**MCLAUGHLIN:** In just a few plays we could have a result.
+**GARCIA:** Nice use of a five by Roy.
 
-**QUINTERO:**  Stuart bests Wood with Seven of Spades over Two of Spades.
+**HUERTA:**  Miller's nine bests Roy's seven.
 
-**MCLAUGHLIN:** Wood likes where this is going.
+**GARCIA:** Excellent move by Miller.
 
-**QUINTERO:**  Stuart tops Wood with Nine of Diamonds over Four of Diamonds.
+**HUERTA:**  Roy, Seven over three. Miller's nine tops Roy's eight.
 
-**MCLAUGHLIN:** It's getting close folks.
+**GARCIA:** Great use of a nine by Miller.
 
-**QUINTERO:**  King over four, Wood.
+**HUERTA:**  Roy's eight falls to Miller's ace. Roy, Jack over seven. Roy's ace tops Miller's queen.
 
-**MCLAUGHLIN:** We're almost there.
+**GARCIA:** Nice use of an ace by Roy.
 
-**QUINTERO:**  Stuart beats Wood with Seven of Spades over Five of Clubs.
+**HUERTA:**  Roy, Six over four.
 
-**MCLAUGHLIN:** Stuart just showed us how its done.
+**GARCIA:** Nice use of a six by Roy.
 
-**QUINTERO:**  Nine over two, Wood.
+**HUERTA:**  Miller's king bests Roy's four.
 
-**MCLAUGHLIN:** It's getting tight. Wood must be feeling good.
+**GARCIA:** Miller probably didn't need to use a king in that play.
 
-**QUINTERO:**  Wood's eight loses to Stuart's nine.
+**HUERTA:**  Roy, Nine over four. Roy's hand, Six over two. Roy continues streak. Eight over five. Another for Roy with Five over three. Roy leads 43 to 9.
 
-**MCLAUGHLIN:** Stuart and Wood are trading punch for punch. Wood likes where this is going.
+**GARCIA:** Great use of a five by Roy. Roy has got some momentum.
 
-**QUINTERO:**  Wood tops Stuart with Jack of Clubs over Four of Diamonds.
+**HUERTA:**  Roy wins again. Three over two. Roy's eight loses to Miller's nine. Roy bests Miller with Queen of Spades over Seven of Hearts. Roy tops Miller with Queen of Hearts over Eight of Clubs. Roy keeps going. King over nine. Eight over six, Miller.
 
-**MCLAUGHLIN:** In just a few plays we could have a result.
+**GARCIA:** Miller just showed us how its done.
 
-**QUINTERO:**  Queen over seven, Wood.
+**HUERTA:**  Roy's four loses to Miller's ace. Roy with a Nine of Clubs over Four of Hearts. Miller's king beats Roy's two.
 
-**MCLAUGHLIN:** It's getting close folks.
+**GARCIA:** That king seems wasted on a two.
 
-**QUINTERO:**  Ace over five, Wood.
+**HUERTA:**  Roy with a King of Clubs over Eight of Hearts. Ace over nine, Roy. Roy wins again. King over six. Roy leads 47 to 5. Roy, Ten over eight.
 
-**MCLAUGHLIN:** It's getting close folks.The game could end in this play.
+**GARCIA:** Nice play by Roy.  It's getting tight. Roy must be feeling good.
 
-**QUINTERO:**  Stuart bests Wood with Nine of Diamonds over Eight of Hearts.
+**HUERTA:**  Miller's four falls to Roy's jack.
 
-**MCLAUGHLIN:** In just a few plays we could have a result.
+**GARCIA:** It's getting close folks.
 
-**QUINTERO:**  Stuart's eight tops Wood's four. Stuart wins again. Nine over seven.
+**HUERTA:**  Miller tops Roy with Ace of Spades over Ten of Hearts. Miller's king bests Roy's ten. Roy bests Miller with Queen of Clubs over Two of Spades.
 
-**MCLAUGHLIN:** We're almost there.
+**GARCIA:** We're almost there.
 
-**QUINTERO:**  Wood falls to Stuart again, Eight over six. Stuart's eight loses to Wood's nine.
+**HUERTA:**  Aces all around. War!!! Miller defeats Roy with a king, takes 6 cards. Miller with a Ten of Spades over Seven of Clubs. Another for Miller, Ace over jack. Roy leads 43 to 9. Miller this time with the King of Diamonds.
 
-**MCLAUGHLIN:** Wood just showed us how its done. It's getting tight. Wood must be feeling good.
+**GARCIA:** I think Miller is going somewhere.
 
-**QUINTERO:**  Wood, Ace over four. Stuart's nine tops Wood's three.
+**HUERTA:**  Roy bests Miller with Jack of Diamonds over Ten of Diamonds. Roy's five loses to Miller's ten. Miller's hand, Ace over three.
 
-**MCLAUGHLIN:** In just a few plays we could have a result.
+**GARCIA:** That ace seems wasted on a three.
 
-**QUINTERO:**  Wood's four loses to Stuart's seven. Another for Stuart, Eight over five. Wood leads 45 to 7. Stuart continues streak. Six over three. Wood, King over three. Wood's hand, Queen over nine. Stuart's four bests Wood's two. Two sevens. War! Wood's jack wins the battle taking 6 cards.
+**HUERTA:**  Six over five, Roy. Miller's ten tops Roy's three. Sevens. War! Roy loses the battle. Miller takes 6 cards. Roy leads 38 to 14. Roy's ace beats Miller's two. King over queen, Miller.
 
-**MCLAUGHLIN:** We're almost there.
+**GARCIA:** Great use of a king by Miller.
 
-**QUINTERO:**  Stuart, Six over two.
+**HUERTA:**  Six over five, Roy.
 
-**MCLAUGHLIN:** In just a few plays we could have a result.
+**GARCIA:** Nice play by Roy.
 
-**QUINTERO:**  Eight over three, Wood. Stuart with a Four of Clubs over Two of Hearts.
+**HUERTA:**  Miller's ten beats Roy's four. Roy tops Miller with Four of Clubs over Three of Clubs.
 
-**MCLAUGHLIN:** Wood likes where this is going.
+**GARCIA:** Smart move by Roy.
 
-**QUINTERO:**  Wood bests Stuart with Seven of Hearts over Two of Diamonds.
+**HUERTA:**  Miller, Ace over nine. Miller with a Ten of Spades over Two of Diamonds. Miller's three falls to Roy's six. Miller with a Seven of Clubs over Five of Hearts.
 
-**MCLAUGHLIN:** Wood likes where this is going.
+**GARCIA:** Nice use of a seven by Miller.
 
-**QUINTERO:**  Wood's king bests Stuart's two. Wood leads 49 to 3.
+**HUERTA:**  Miller tops Roy with Jack of Spades over Eight of Spades. Miller keeps going. Ace over three.
 
-**MCLAUGHLIN:** We're almost there.
+**GARCIA:** That ace seems wasted on a three.
 
-**QUINTERO:**  Wood continues streak. Eight over six.
+**HUERTA:**  Miller continues streak. Jack over five. Roy leads 34 to 18. Another for Miller with Seven over two. Miller keeps going. Seven over three. Miller does it again. King over seven.
 
-**MCLAUGHLIN:** Excellent move. This could be it.
+**GARCIA:** Someone should tell Roy the match isn't over.
 
-**QUINTERO:**  Another for Wood with Queen over four.
+**HUERTA:**  Two queens. We have a war! Miller defeats Roy with a ten, takes 6 cards. Roy leads 28 to 24. Miller with an Ace of Spades over Nine of Diamonds. Miller's nine falls to Roy's king. Roy's four loses to Miller's ten. Roy with a Nine of Clubs over Two of Diamonds. Roy, Eight over seven. Miller falls to Roy again, King over five. Roy continues streak. Nine over eight.
 
-**MCLAUGHLIN:** This could be it.
+**GARCIA:** Nice use of a nine by Roy.
 
-**QUINTERO:** In 366 hands, Vincent Wood has won the match.
+**HUERTA:**  Roy's ace bests Miller's jack. Roy leads 32 to 20. Miller with an Ace of Diamonds over Six of Diamonds. King over three, Roy. Miller's jack beats Roy's ten. Eight over five, Roy. Miller's two loses to Roy's jack.
 
-**MCLAUGHLIN:** Vincent Wood held the lead for most of the game. 
+**GARCIA:** That jack got the job done, but was it the most strategic play by Roy?
 
-**QUINTERO:** Vincent Wood meets the winner of game 4 in Game 2 of the 2nd round. 
+**HUERTA:**  Roy's four falls to Miller's seven. Miller's three falls to Roy's queen.
+
+**GARCIA:** Roy probably didn't need to use a queen in that play.
+
+**HUERTA:**  Miller, Seven over two. Roy's hand, Ten over seven. Miller with a King of Diamonds over Jack of Diamonds.
+
+**GARCIA:** Great use of a king by Miller.
+
+**HUERTA:**  Queen over six, Miller. Miller this time with the Queen of Diamonds. Miller's four loses to Roy's ace. Roy's two loses to Miller's queen.
+
+**GARCIA:** That queen seems wasted on a two.
+
+**HUERTA:**  Miller, Eight over five. Miller does it again. Ten over six. Roy leads 28 to 24. Miller does it again. Nine over three. Miller wins again. Ace over four.
+
+**GARCIA:** Roy is going to be playing catch up if they don't stop this.
+
+**HUERTA:**  Roy bests Miller with Six of Clubs over Four of Hearts. Miller, Ten over three. Roy's hand, Nine over six. Miller with an Ace of Diamonds over King of Hearts.
+
+**GARCIA:** Miller just showed us how its done.
+
+**HUERTA:**  Roy's nine falls to Miller's ten. Jack over two, Miller. Miller leads 28 to 24. Roy, Eight over four. Two sevens. We have a war! Roy defeats Miller with a king, takes 6 cards. Roy leads 28 to 24. Miller with a Jack of Diamonds over Eight of Spades. Miller with a King of Diamonds over Nine of Spades. Roy, Ace over queen. Roy with a Jack of Spades over Six of Spades. Roy wins again. King over queen.
+
+**GARCIA:** Nice play by Roy.
+
+**HUERTA:**  Miller, Five over three.
+
+**GARCIA:** Miller just showed us how its done.
+
+**HUERTA:**  Miller's hand, Queen over five. Roy's eight beats Miller's two. Roy with a Jack of Hearts over Five of Diamonds. Miller with an Eight of Clubs over Two of Hearts. Roy, Queen over six. Miller, Ten over three. Nine over seven, Miller.
+
+**GARCIA:** Excellent use of a nine by Miller
+
+**HUERTA:**  Roy's hand, Ten over three. Miller's hand, Ace over four.
+
+**GARCIA:** Miller probably didn't need to use an ace in that play.
+
+**HUERTA:**  Ace over four, Roy.
+
+**GARCIA:** They are really going toe to toe in this game.
+
+**HUERTA:**  Four over three, Roy. Miller's hand, Ten over six. Miller, King over nine. Miller keeps going. Ace over six. Ten over eight, Miller.
+
+**GARCIA:** Excellent use of a ten by Miller Roy should nip this run in the bud.
+
+**HUERTA:**  Another for Miller with Nine over four. Miller leads 28 to 24.
+
+**GARCIA:** Miller might be making a move.
+
+**HUERTA:**  King over jack, Roy.
+
+**GARCIA:** Nice play.
+
+**HUERTA:**  Roy with a Five of Hearts over Two of Diamonds. Jack over seven, Miller. Eight over seven, Miller.
+
+**GARCIA:** Excellent use of an eight by Miller
+
+**HUERTA:**  Miller beats Roy with Nine of Spades over Seven of Diamonds.
+
+**GARCIA:** Miller just showed us how its done.
+
+**HUERTA:**  Another for Miller, King over two.
+
+**GARCIA:** Roy should nip this run in the bud.
+
+**HUERTA:**  Ace over five, Roy. Roy with a Queen of Spades over Three of Hearts. Roy again, Six over five. Miller, Queen over jack.
+
+**GARCIA:** Miller just showed us how its done.
+
+**HUERTA:**  Roy's queen bests Miller's two. King over eight, Roy. Miller's three beats Roy's two.
+
+**GARCIA:** Good job.
+
+**HUERTA:**  Miller with a Ten of Hearts over Eight of Diamonds.
+
+**GARCIA:** Miller just showed us how its done.
+
+**HUERTA:**  Roy's hand, Jack over nine.
+
+**GARCIA:** Smart move by Roy.
+
+**HUERTA:**  Seven over five, Miller. Roy beats Miller with Queen of Clubs over Four of Diamonds. Miller bests Roy with Ace of Spades over Six of Hearts. Ten over three, Miller. Roy with a Ten of Diamonds over Six of Clubs. Roy's ace bests Miller's king.
+
+**GARCIA:** Nice use of an ace by Roy.
+
+**HUERTA:**  Nine over four, Miller. Miller, Six over four. Another for Miller with Ace over three. Roy with a Jack of Clubs over Eight of Hearts. Roy, King over ten. Four over two, Miller.
+
+**GARCIA:** I bet Roy wishes they had something higher than a two on that play.
+
+**HUERTA:**  Miller's nine tops Roy's five. Miller again, Seven over five.
+
+**GARCIA:** Excellent use of a seven by Miller
+
+**HUERTA:**  Roy's hand, Ace over jack. Queen over eight, Roy. Miller, Seven over three. Seven over six, Miller.
+
+**GARCIA:** Smart move.
+
+**HUERTA:**  Miller beats Roy with Nine of Spades over Five of Spades. Miller leads 32 to 20. Miller bests Roy with King of Diamonds over Queen of Diamonds.
+
+**GARCIA:** I bet Roy wishes they had something higher than a queen on that play.
+
+**HUERTA:**  Twos. We have a war! Miller's queen wins the battle taking 6 cards. Miller leads 36 to 16. Roy, Jack over three. Roy tops Miller with Nine of Diamonds over Two of Clubs. Roy's four loses to Miller's ten. Roy, Queen over eight. Roy beats Miller with Six of Clubs over Five of Diamonds.
+
+**GARCIA:** Nice play.
+
+**HUERTA:**  Another for Roy with Ten over seven. Miller leads 32 to 20. Miller falls to Roy again, King over six. Aces all around. War!! Miller loses the battle. Roy takes 6 cards. Miller leads 28 to 24.
+
+**GARCIA:** Efficient play.
+
+**HUERTA:**  Roy's hand, Ten over nine.
+
+**GARCIA:** Efficient play.
+
+**HUERTA:**  Miller falls to Roy again, King over four. Roy wins again. Ace over four.
+
+**GARCIA:** Miller is stumbling a little.
+
+**HUERTA:**  Roy keeps going. Jack over six. Roy leads 28 to 24.
+
+**GARCIA:** Miller should nip this run in the bud.
+
+**HUERTA:**  Miller's ace tops Roy's queen.
+
+**GARCIA:** Well played.
+
+**HUERTA:**  Roy beats Miller with Eight of Spades over Three of Spades. Roy, Jack over four. Roy wins again. Three over two.
+
+**GARCIA:** Good job by Roy.
+
+**HUERTA:**  Five over two, Miller. Nines all around. We have a war! Roy's eight wins the battle taking 6 cards. Roy leads 32 to 20. Miller's hand, Seven over six. Roy, Five over three.
+
+**GARCIA:** I bet Miller wishes they had something higher than a three on that play.
+
+**HUERTA:**  Roy beats Miller with Ten of Diamonds over Seven of Diamonds. Roy keeps going. Seven over six.
+
+**GARCIA:** Roy just showed us how its done.
+
+**HUERTA:**  Another for Roy, King over nine.
+
+**GARCIA:** Roy might be making a move.
+
+**HUERTA:**  Another for Roy, Six over five. Roy leads 36 to 16.
+
+**GARCIA:** Roy just showed us how its done.
+
+**HUERTA:**  Roy does it again. Ace over queen.
+
+**GARCIA:** Roy is on fire.
+
+**HUERTA:**  Roy's ten falls to Miller's king. Two eights. War!! Roy defeats Miller with an ace, takes 6 cards. Roy's three beats Miller's two. Roy leads 40 to 12.
+
+**GARCIA:** Nice use of a three by Roy.
+
+**HUERTA:**  Miller, Queen over ten. King over nine, Miller. Ten over four, Miller. Roy, King over four. Roy, Ace over queen.
+
+**GARCIA:** Excellent move.
+
+**HUERTA:**  Miller's hand, Ace over four. Roy's jack tops Miller's two.
+
+**GARCIA:** I hope Roy doesn't need that jack when something bigger comes along.
+
+**HUERTA:**  Roy's hand, Six over five. Roy keeps going. Eight over six. Miller's seven beats Roy's three. Roy's jack falls to Miller's king.
+
+**GARCIA:** Smart move.
+
+**HUERTA:**  Miller continues streak. Ten over four. Miller continues streak. Ten over three. Roy falls to Miller again, Queen over two. Roy leads 36 to 16.
+
+**GARCIA:** Miller might be making a move.
+
+**HUERTA:**  Roy's queen bests Miller's nine. King over eight, Miller. Roy's hand, Seven over four. Miller, Ten over nine.
+
+**GARCIA:** Miller just showed us how its done.
+
+**HUERTA:**  Roy's hand, Five over four. Ace over nine, Miller. Roy's five beats Miller's three.
+
+**GARCIA:** Excellent use of a five by Roy
+
+**HUERTA:**  Miller, Seven over three. Jack over ten, Miller. Miller continues streak. King over seven. Roy's hand, Six over four. Miller with a Ten of Spades over Seven of Hearts. Roy's king beats Miller's three. Roy's nine falls to Miller's ten. Roy, Five over two. Miller with a Queen of Hearts over Six of Hearts. Roy's ace tops Miller's king.
+
+**GARCIA:** Well played by Roy.
+
+**HUERTA:**  Roy, Queen over eight. Another for Roy with Ace over ten. Miller's hand, Nine over two. Roy's jack tops Miller's nine. Roy's jack loses to Miller's ace. Roy's eight tops Miller's three. Roy, Eight over seven. Miller, Jack over three. Ten over two, Miller. Kings all around. War! Miller loses the battle. Roy takes 6 cards. Ace over ten, Roy. Roy leads 40 to 12. Roy wins again. Jack over nine. Miller's hand, Ten over two. Two sixes. It's a war folks! Miller's nine wins the battle taking 6 cards. Miller's two falls to Roy's eight. Miller's hand, Ace over nine. Miller's jack falls to Roy's queen. Roy's hand, Four over three. Miller with a Jack of Hearts over Seven of Spades. Miller beats Roy with Ten of Diamonds over Five of Clubs. Roy beats Miller with Four of Hearts over Two of Hearts.
+
+**GARCIA:** Efficient play.
+
+**HUERTA:**  Roy with a Five of Diamonds over Two of Clubs.
+
+**GARCIA:** These two are really slugging it out.
+
+**HUERTA:**  Miller beats Roy with Ten of Clubs over Three of Spades. Miller with a Nine of Diamonds over Six of Spades. Miller, Six over four. Roy leads 36 to 16.
+
+**GARCIA:** Excellent use of a six by Miller
+
+**HUERTA:**  Miller wins again. Six over three.
+
+**GARCIA:** Is Miller going to take this somewhere?
+
+**HUERTA:**  Roy with a King of Hearts over Five of Hearts. Miller's hand, Queen over five. Roy's two loses to Miller's six. Ace over nine, Roy. Miller's ace bests Roy's king. Roy tops Miller with Eight of Diamonds over Seven of Spades.
+
+**GARCIA:** Excellent use of an eight by Roy
+
+**HUERTA:**  Queen over jack, Roy. Roy keeps going. Ace over ten. Roy again, Ten over five.
+
+**GARCIA:** Miller should nip this run in the bud.
+
+**HUERTA:**  Miller falls to Roy again, Nine over three.
+
+**GARCIA:** Roy might be making a move.
+
+**HUERTA:**  Roy this time with the Jack of Clubs. Roy leads 40 to 12.
+
+**GARCIA:** Someone should tell Miller the match isn't over.
+
+**HUERTA:**  Six over three, Miller. Nine over eight, Miller. Seven over six, Roy.
+
+**GARCIA:** Nice use of a seven by Roy.
+
+**HUERTA:**  Roy with an Eight of Clubs over Four of Spades. Another for Roy with Queen over three.
+
+**GARCIA:** I hope Roy doesn't need that queen when something bigger comes along.
+
+**HUERTA:**  Miller bests Roy with Six of Hearts over Four of Diamonds.
+
+**GARCIA:** Miller just showed us how its done.
+
+**HUERTA:**  Roy's seven tops Miller's five. Roy's hand, King over queen. Roy continues streak. Seven over two. Roy again, King over six. Roy leads 44 to 8. Aces. War!!! Miller loses the battle. Roy takes 6 cards. Roy bests Miller with Jack of Diamonds over Six of Spades. Roy leads 48 to 4.
+
+**GARCIA:** In just a few plays we could have a result.
+
+**HUERTA:**  Roy's two falls to Miller's nine. Two eights. War! Miller loses the battle. Roy takes 6 cards. Miller, Nine over four.
+
+**GARCIA:** In just a few plays we could have a result.
+
+**HUERTA:**  Roy with a Three of Clubs over Two of Spades.
+
+**GARCIA:** Well played by Roy. In just a few plays we could have a result.
+
+**HUERTA:** In 593 hands, Jeremiah Roy has won the match.
+
+**GARCIA:** Juliana Miller never really made a move in that game. The lead switched between Jeremiah Roy and Juliana Miller 75 times. 
+
+**HUERTA:** Jeremiah Roy goes on to Game 2 of the 2nd round where they will face the winner of game 4. 
 
 ## Game 4, Round 1
 
-**MCLAUGHLIN:** What a brainy day for war.
+**GARCIA:** What a black day for war.
 
-**QUINTERO:** Hello, I'm Regina Quintero.
+**HUERTA:** Hello, I'm Daryl Huerta.
 
-**MCLAUGHLIN:** And I am Bentley McLaughlin.
+**GARCIA:** And I am Ray Garcia.
 
-**QUINTERO:** We are here today for Game 4 of the 1st round of the War Championship. We are about to watch Amir Quintero and Max Kline compete. Quintero defeated Kline when these players last battled. What can we expect from them today, Bentley?
+**HUERTA:** We are here today for Game 4 of the 1st round of the War Championship. This game will pit Mila Acosta against Helena Murillo. When these players last competed, Acosta defeated Murillo. What happens today, Ray?
 
-**MCLAUGHLIN:** Kline never really made a move in that game. I'm sure Quintero would love to repeat that game, but there is always a possibility it could go either way, Regina.
+**GARCIA:** Acosta held the lead for most of the game. As you know Daryl, there is no way to know.
 
-**QUINTERO:** The dealer has signaled the start of the match. Kline's hand, Eight over five. Kline's two falls to Quintero's nine. Kline with a Queen of Spades over Three of Spades. Kings. War!! Quintero defeats Kline with an ace, takes 6 cards. Quintero, Six over four. Kline falls to Quintero again, Ten over three. Quintero leads 30 to 22. Kline's king bests Quintero's four.
+**HUERTA:** Acosta and Murillo are ready. Here we go. Acosta's four falls to Murillo's six.
 
-**MCLAUGHLIN:** That king seems wasted on a four.
+**GARCIA:** Nice use of a six by Murillo.
 
-**QUINTERO:**  Jack over five, Kline. Quintero, Ten over eight. Quintero with a Jack of Clubs over Four of Clubs. Two twos. War!! Kline defeats Quintero with a seven, takes 6 cards. Kline, Eight over six. The games tied.
+**HUERTA:**  Murillo's ten beats Acosta's seven. Acosta falls to Murillo again, King over ten. Another for Murillo, Jack over nine. Murillo leads 30 to 22.
 
-**MCLAUGHLIN:** Nice use of an eight by Kline.
+**GARCIA:** Murillo just showed us how its done.
 
-**QUINTERO:**  Nine over six, Quintero. Seven over two, Quintero. Kline beats Quintero with Queen of Clubs over Ten of Spades. Two threes. War! Quintero loses the battle. Kline takes 6 cards.
+**HUERTA:**  Murillo's hand, Five over three.
 
-**MCLAUGHLIN:** Excellent use of a king by Kline These two are really slugging it out.
+**GARCIA:** I think Murillo is going somewhere.
 
-**QUINTERO:**  Kline with a Seven of Clubs over Six of Hearts.
+**HUERTA:**  Another for Murillo with Nine over four.
 
-**MCLAUGHLIN:** Kline just showed us how its done.
+**GARCIA:** Murillo ate their Wheaties today.
 
-**QUINTERO:**  Quintero with an Ace of Clubs over Seven of Spades. Quintero with a Queen of Hearts over Ten of Clubs. Quintero's eight loses to Kline's nine.
+**HUERTA:**  Two aces. War! Acosta defeats Murillo with a jack, takes 6 cards. Acosta's eight tops Murillo's seven. Murillo's king tops Acosta's four. Murillo with a Jack of Diamonds over Six of Hearts. Two threes. War!!! Murillo defeats Acosta with an ace, takes 6 cards. Murillo's ace tops Acosta's jack. Murillo leads 34 to 18. Ten over seven, Murillo. Murillo this time with the Ten of Spades. Murillo again, Six over five.
 
-**MCLAUGHLIN:** Excellent move.
+**GARCIA:** Is Murillo going to take this somewhere?
 
-**QUINTERO:**  Kline's five falls to Quintero's nine. Kline, Eight over two. Quintero's ace tops Kline's three. Kline's queen loses to Quintero's ace.
+**HUERTA:**  Queens. War!!! Murillo loses the battle. Acosta takes 6 cards. Acosta, Queen over five. Acosta does it again. King over two.
 
-**MCLAUGHLIN:** Efficient play by Quintero.
+**GARCIA:** That king got the job done, but was it the most strategic play by Acosta?
 
-**QUINTERO:**  Kline, King over jack.
+**HUERTA:**  Acosta again, Six over two. Another for Acosta, King over eight. Murillo leads 30 to 22. Murillo beats Acosta with Six of Diamonds over Four of Diamonds. Murillo, Four over two. Acosta's ace tops Murillo's ten. Eight over seven, Acosta.
 
-**MCLAUGHLIN:** Excellent use of a king by Kline
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Quintero's king bests Kline's four.
+**HUERTA:**  Acosta again, Jack over ten.
 
-**MCLAUGHLIN:** They are really going toe to toe in this game.
+**GARCIA:** Great use of a jack by Acosta.
 
-**QUINTERO:**  Kline with a Jack of Spades over Five of Clubs. Quintero with a King of Clubs over Five of Spades. Kline beats Quintero with Seven of Hearts over Four of Diamonds. Kline, Queen over six. Quintero with a Ten of Hearts over Five of Hearts. Quintero, Three over two. Quintero keeps going. Eight over two. Ace over ten, Kline. Kline's eight loses to Quintero's jack. Kline's hand, Six over four. Quintero's nine falls to Kline's ten. Kline does it again. Queen over six. Quintero beats Kline with Seven of Diamonds over Four of Hearts. Nine over two, Kline. Quintero's hand, Ace over three.
+**HUERTA:**  Acosta does it again. Ace over king.
 
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Quintero?
+**GARCIA:** Great use of an ace by Acosta.
 
-**QUINTERO:**  Quintero with a Seven of Spades over Three of Diamonds. Quintero's ten loses to Kline's king. Quintero with a Queen of Hearts over Jack of Hearts. Kline with a Seven of Clubs over Five of Diamonds. Quintero's nine beats Kline's six. Nine over three, Kline. Quintero's ace beats Kline's eight. Quintero tops Kline with Queen of Spades over Eight of Diamonds.
+**HUERTA:**  Murillo's hand, Nine over eight. Murillo tops Acosta with Jack of Spades over Seven of Spades. Acosta with a Queen of Hearts over Five of Spades. Murillo's three loses to Acosta's queen.
 
-**MCLAUGHLIN:** Neither player is giving an inch.
+**GARCIA:** That queen got the job done, but was it the most strategic play by Acosta?
 
-**QUINTERO:**  Quintero wins again. Ace over two. Kline's hand, King over four. Quintero's hand, King over jack. Two fives. War!!! Quintero defeats Kline with a ten, takes 6 cards. Quintero leads 31 to 21. Quintero tops Kline with Five of Hearts over Four of Diamonds.
+**HUERTA:**  Acosta does it again. Eight over four. Murillo's nine bests Acosta's five. Murillo's king tops Acosta's nine. Acosta with a Queen of Diamonds over Four of Clubs. Murillo's six tops Acosta's five.
 
-**MCLAUGHLIN:** I bet Kline wishes they had something higher than a four on that play.
+**GARCIA:** Great use of a six by Murillo.
 
-**QUINTERO:**  Kline, Six over two. Kline tops Quintero with Queen of Diamonds over Three of Clubs. Another for Kline with Ace over two. Kline keeps going. Ten over eight.
+**HUERTA:**  Murillo's jack loses to Acosta's queen.
 
-**MCLAUGHLIN:** Nice use of a ten by Kline.
+**GARCIA:** Excellent use of a queen by Acosta
 
-**QUINTERO:**  Kline's six loses to Quintero's jack. Quintero bests Kline with Eight of Clubs over Four of Clubs. Kline bests Quintero with Nine of Diamonds over Four of Hearts. Kline's ten beats Quintero's seven. Kline's six loses to Quintero's ace. Kline beats Quintero with Queen of Clubs over Three of Hearts. Nine over seven, Kline. Quintero leads 27 to 25.
+**HUERTA:**  Ace over two, Murillo. Acosta's king bests Murillo's three. Nine over six, Murillo. Twos. It's a war folks! Acosta defeats Murillo with an eight, takes 6 cards. The games tied. Ace over jack, Acosta.
 
-**MCLAUGHLIN:** Nice use of a nine by Kline.
+**GARCIA:** They are really going toe to toe in this game.
 
-**QUINTERO:**  Three over two, Quintero.
+**HUERTA:**  Acosta's ten falls to Murillo's ace. Murillo bests Acosta with Ten of Diamonds over Seven of Diamonds. Acosta, Eight over seven.
 
-**MCLAUGHLIN:** I bet Kline wishes they had something higher than a two on that play.
+**GARCIA:** Efficient play by Acosta.
 
-**QUINTERO:**  Quintero's jack falls to Kline's king. Quintero's hand, Queen over ten.
+**HUERTA:**  Acosta, Jack over seven. Two tens. It's a war folks! Murillo loses the battle. Acosta takes 6 cards. Acosta leads 30 to 22. Murillo's six beats Acosta's five. Acosta, Queen over four. Murillo's two loses to Acosta's queen. Murillo bests Acosta with Four of Hearts over Three of Hearts.
 
-**MCLAUGHLIN:** I bet Kline wishes they had something higher than a ten on that play.
+**GARCIA:** They are really going toe to toe in this game.
 
-**QUINTERO:**  Nine over seven, Quintero.
+**HUERTA:**  Eights all around. We have a war! Murillo loses the battle. Acosta takes 6 cards. Jack over four, Murillo. Queen over five, Acosta. Acosta with a Jack of Diamonds over Nine of Diamonds. Acosta leads 34 to 18. Murillo's hand, King over three.
 
-**MCLAUGHLIN:** We have some real fighters on our hands.
+**GARCIA:** I hope Murillo doesn't need that king when something bigger comes along.
 
-**QUINTERO:**  Quintero wins again. Six over five. Quintero's eight loses to Kline's nine.
+**HUERTA:**  Acosta's king bests Murillo's nine. Murillo, Five over three. Murillo with a Six of Hearts over Two of Hearts. Twos. War!!! Murillo loses the battle. Acosta takes 6 cards.
 
-**MCLAUGHLIN:** I bet Quintero wishes they had something higher than an eight on that play.
+**GARCIA:** What a fight!
 
-**QUINTERO:**  Quintero, Ace over three.
+**HUERTA:**  Murillo's hand, Six over three. Aces. War!! Sevens. War! Acosta's jack wins the battle taking 10 cards. Acosta leads 39 to 13.
 
-**MCLAUGHLIN:** That ace seems wasted on a three.
+**GARCIA:** A lot of cards in that play.
 
-**QUINTERO:**  Quintero, Eight over four. Quintero leads 31 to 21. King over queen, Kline. Quintero, Ace over two.
+**HUERTA:**  Acosta with a Seven of Hearts over Six of Diamonds.
 
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Quintero?
+**GARCIA:** Nice use of a seven by Acosta.
 
-**QUINTERO:**  Six over two, Kline. Quintero's king bests Kline's queen.
+**HUERTA:**  Acosta does it again. Six over four.
 
-**MCLAUGHLIN:** I bet Kline wishes they had something higher than a queen on that play.
+**GARCIA:** Excellent use of a six by Acosta
 
-**QUINTERO:**  Jack over three, Quintero. Ace over king, Kline. Kline's two loses to Quintero's five. Quintero's five loses to Kline's ten. Quintero's ten tops Kline's eight.
+**HUERTA:**  Acosta's hand, Ten over three. Another for Acosta, Five over four. Acosta leads 43 to 9.
 
-**MCLAUGHLIN:** Excellent use of a ten by Quintero
+**GARCIA:** Efficient play by Acosta.
 
-**QUINTERO:**  Nine over seven, Kline.
+**HUERTA:**  Acosta continues streak. King over jack.
 
-**MCLAUGHLIN:** Good job.
+**GARCIA:** I bet Murillo wishes they had something higher than a jack on that play.
 
-**QUINTERO:**  Jack over four, Quintero. Kline beats Quintero with Seven of Diamonds over Four of Diamonds. Kline with a Ten of Spades over Five of Hearts. Quintero with a Six of Spades over Three of Hearts. Kline's queen tops Quintero's jack. Kline, Seven over four. Kline again, Nine over eight. Kline keeps going. Jack over six. Quintero leads 27 to 25.
+**HUERTA:**  Acosta, Ace over king.
 
-**MCLAUGHLIN:** Is Kline going to take this somewhere?
+**GARCIA:** Someone should tell Murillo the match isn't over.
 
-**QUINTERO:**  Ace over king, Quintero.
+**HUERTA:**  Acosta does it again. Ten over three.
 
-**MCLAUGHLIN:** Efficient play by Quintero.
+**GARCIA:** Acosta is on fire.
 
-**QUINTERO:**  Kline's nine bests Quintero's two. Kline, Eight over three. Queens. War! Quintero's nine wins the battle taking 6 cards. Quintero with a Seven of Clubs over Two of Diamonds. King over six, Kline. Kline beats Quintero with Ace of Hearts over Five of Diamonds.
+**HUERTA:**  Acosta with a Queen of Hearts over Three of Diamonds. Acosta leads 47 to 5.
 
-**MCLAUGHLIN:** That ace seems wasted on a five.
+**GARCIA:** Acosta is on fire. It's getting close folks.
 
-**QUINTERO:**  Kline again, Ten over three. Quintero, Ace over five.
+**HUERTA:**  Five over four, Murillo.
 
-**MCLAUGHLIN:** Quintero probably didn't need to use an ace in that play.
+**GARCIA:** Murillo's back in it. Good job.
 
-**QUINTERO:**  Kline beats Quintero with Seven of Hearts over Four of Spades. Kline with a Nine of Diamonds over Eight of Diamonds.
+**HUERTA:**  Murillo's two loses to Acosta's queen.
 
-**MCLAUGHLIN:** Well played by Kline.
+**GARCIA:** It's getting tight. Acosta must be feeling good.
 
-**QUINTERO:**  Quintero's ace beats Kline's four. Kline with a Seven of Diamonds over Two of Hearts. Kline's ten loses to Quintero's queen. Quintero's king bests Kline's five. Kline, Jack over three. Kline's queen tops Quintero's jack.
+**HUERTA:**  Murillo's hand, Six over two. Murillo's six loses to Acosta's seven.
 
-**MCLAUGHLIN:** Well played by Kline.
+**GARCIA:** In just a few plays we could have a result.
 
-**QUINTERO:**  Kline with a Seven of Spades over Five of Clubs.
+**HUERTA:**  Murillo's three falls to Acosta's nine.
 
-**MCLAUGHLIN:** Excellent use of a seven by Kline
+**GARCIA:** We're almost there.
 
-**QUINTERO:**  Kline again, Four over two. Kline's nine loses to Quintero's ten.
+**HUERTA:**  Two fours. War!! Murillo loses the battle. Acosta takes 6 cards. Acosta leads 51 to 1.
 
-**MCLAUGHLIN:** Quintero just showed us how its done.
+**GARCIA:** It's getting close folks.Acosta almost has it sewed up.
 
-**QUINTERO:**  Eights all around. We have a war! Quintero defeats Kline with a jack, takes 6 cards. Kline's nine beats Quintero's three. Quintero, Six over two. Ace over three, Quintero. Quintero continues streak. King over eight. Two sixes. We have a war! Kline defeats Quintero with an ace, takes 6 cards. Queen over five, Quintero. Quintero with a King of Spades over Ten of Diamonds. Queen over three, Quintero. Two sevens. It's a war folks! Quintero's ace wins the battle taking 6 cards. Quintero leads 33 to 19. Kline, Nine over five. Quintero, Ace over two. Kline bests Quintero with Seven of Diamonds over Four of Diamonds. Kline's jack falls to Quintero's queen. Quintero tops Kline with Ten of Spades over Three of Clubs. Kline beats Quintero with Queen of Clubs over Five of Hearts. Quintero's king bests Kline's jack. Kline's seven falls to Quintero's ten. Quintero again, Nine over five. Quintero does it again. Jack over two. Quintero leads 37 to 15. Quintero again, Eight over four. Quintero's eight falls to Kline's nine.
+**HUERTA:** Again Mila Acosta beats Helena Murillo. Acosta wins in just 86 hands.
 
-**MCLAUGHLIN:** Kline just showed us how its done.
+**GARCIA:** just 86 is quite an accomplishment by Acosta. Despite losing, Helena Murillo lead for more hands than Mila Acosta. 
 
-**QUINTERO:**  Four over three, Quintero.
-
-**MCLAUGHLIN:** Efficient play by Quintero.
-
-**QUINTERO:**  Kline tops Quintero with Nine of Spades over Six of Diamonds. Quintero's jack tops Kline's six. Kline's king beats Quintero's six. Kline, Ten over two. Two aces. War! Kline loses the battle. Quintero takes 6 cards. Kline's nine bests Quintero's eight. Kline tops Quintero with Seven of Diamonds over Five of Diamonds.
-
-**MCLAUGHLIN:** I bet Quintero wishes they had something higher than a five on that play.
-
-**QUINTERO:**  Quintero bests Kline with Queen of Hearts over Four of Diamonds.
-
-**MCLAUGHLIN:** Quintero and Kline are trading punch for punch.
-
-**QUINTERO:**  Quintero's ten falls to Kline's queen.
-
-**MCLAUGHLIN:** Great use of a queen by Kline.
-
-**QUINTERO:**  Quintero's hand, King over five. Kline with a Nine of Hearts over Three of Spades. Quintero bests Kline with Queen of Spades over Eight of Clubs. Quintero with an Ace of Spades over Six of Diamonds. Kline, Nine over two. Seven over six, Quintero.
-
-**MCLAUGHLIN:** Great use of a seven by Quintero.
-
-**QUINTERO:**  Kline bests Quintero with King of Clubs over Four of Spades. Kline tops Quintero with Ten of Clubs over Eight of Diamonds.
-
-**MCLAUGHLIN:** Excellent use of a ten by Kline
-
-**QUINTERO:**  Quintero with a Seven of Clubs over Two of Spades. Kline's eight falls to Quintero's ace. Kline with a Nine of Diamonds over Two of Hearts. Quintero with a Jack of Clubs over Seven of Diamonds. Quintero, Queen over five. Kline with a Queen of Clubs over Ten of Spades. Ten over three, Kline. Quintero, King over nine. Quintero's hand, Jack over three. Quintero does it again. Ten over two. Quintero leads 41 to 11. Kline with a Nine of Spades over Seven of Spades.
-
-**MCLAUGHLIN:** Kline just showed us how its done.
-
-**QUINTERO:**  King over nine, Kline. Quintero, Five over four. Jack over ten, Quintero. Kline's hand, Eight over two. Kline's nine tops Quintero's four. Quintero's hand, Eight over two. Quintero's three falls to Kline's ten. Kline with a Queen of Clubs over Four of Hearts. Quintero with a Jack of Spades over Three of Clubs. Kline, Ten over six.
-
-**MCLAUGHLIN:** Kline and Quintero are trading punch for punch.
-
-**QUINTERO:**  Kline's nine tops Quintero's three. Quintero leads 37 to 15. Quintero, Ace over seven. Kline's nine loses to Quintero's ace. Kings. War!! Quintero defeats Kline with a six, takes 6 cards. Quintero leads 42 to 10. Quintero's hand, Queen over four. Quintero's four loses to Kline's nine. Kline with a Ten of Spades over Five of Hearts. Quintero's king bests Kline's three.
-
-**MCLAUGHLIN:** Quintero over paid for that three.
-
-**QUINTERO:**  Quintero, Queen over four. Kline with a Queen of Clubs over Eight of Clubs. Two sixes. War!!! Kline loses the battle. Quintero takes 6 cards. Kline tops Quintero with Nine of Spades over Six of Spades. Quintero's hand, Seven over four. Quintero's two loses to Kline's nine. Quintero, Ace over ten. Quintero's hand, Eight over five. Quintero leads 46 to 6. Quintero's seven loses to Kline's queen. Quintero's hand, Jack over eight.
-
-**MCLAUGHLIN:** They are really going toe to toe in this game.
-
-**QUINTERO:**  Kline's six loses to Quintero's queen.
-
-**MCLAUGHLIN:** Quintero likes where this is going.
-
-**QUINTERO:**  Kline, Nine over five. Quintero's hand, King over nine. Quintero with a Nine of Hearts over Two of Spades.
-
-**MCLAUGHLIN:** It's getting close folks.
-
-**QUINTERO:**  Queen over jack, Kline. Seven over three, Kline. Ten over nine, Quintero.
-
-**MCLAUGHLIN:** Quintero just showed us how its done.
-
-**QUINTERO:**  Kline's hand, Five over two. Jack over five, Kline. Kline wins again. Queen over four. Quintero's jack tops Kline's seven. Kline's three loses to Quintero's ten. Quintero continues streak. Eight over five.
-
-**MCLAUGHLIN:** It's getting close folks.
-
-**QUINTERO:**  Twos. War!! Quintero loses the battle. Kline takes 6 cards.
-
-**MCLAUGHLIN:** Good job by Kline.
-
-**QUINTERO:**  Ace over queen, Quintero. Quintero with a Seven of Spades over Four of Spades. Quintero wins again. Ace over jack. Kline falls to Quintero again, Nine over five.
-
-**MCLAUGHLIN:** Quintero has got some momentum. It's getting close folks.
-
-**QUINTERO:**  Quintero wins again. Eight over two. Quintero does it again. Five over three. Quintero leads 50 to 2.
-
-**MCLAUGHLIN:** Nice use of a five by Quintero. Quintero ate their Wheaties today. The game could end in this play.
-
-**QUINTERO:**  Quintero this time with the King of Clubs.
-
-**MCLAUGHLIN:** Kline is really taking a beating.
-
-**QUINTERO:**  Kline bests Quintero with Jack of Diamonds over Six of Hearts.
-
-**MCLAUGHLIN:** Kline might still have some fight in them. Quintero likes where this is going.This could be it folks.
-
-**QUINTERO:**  Quintero's king beats Kline's jack.
-
-**MCLAUGHLIN:** Excellent use of a king by Quintero The game could end in this play.
-
-**QUINTERO:**  Kline with a Six of Hearts over Two of Clubs.
-
-**MCLAUGHLIN:** We're almost there.It all rests on this play.
-
-**QUINTERO:**  Quintero with a Four of Clubs over Two of Clubs.
-
-**MCLAUGHLIN:** Nice use of a four by Quintero. It's getting close folks.This could be it.
-
-**QUINTERO:** Quintero has gotten their revenge. In 228 hands, Amir Quintero has won the match.
-
-**MCLAUGHLIN:** Amir Quintero dominated that match. It was a real tug of war with 36 turn overs. 
-
-**QUINTERO:** Amir Quintero will face Vincent Wood in Game 2 of the 2nd round. 
+**HUERTA:** Mila Acosta will face Jeremiah Roy in Game 2 of the 2nd round. 
 
 ## Game 5, Round 1
 
-**MCLAUGHLIN:** What a anxious day for war.
+**GARCIA:** What a calm day for war.
 
-**QUINTERO:** Hello, I'm Regina Quintero.
+**HUERTA:** Hello, I'm Daryl Huerta.
 
-**MCLAUGHLIN:** And I am Bentley McLaughlin.
+**GARCIA:** And I am Ray Garcia.
 
-**QUINTERO:** Welcome to Game 5 of the 1st round of the War Championship. We are about to watch Samantha Hendrix and Bailey Meyer compete. The last time these players competed, Hendrix triumphed over Meyer. Who will win today, Bentley?
+**HUERTA:** This is Game 5 of the 1st round of the War Championship. Either Katherine Dodson or Mackenzie Guzman will emerge from this match a winner. Dodson beat Guzman in the regular season. Can we expect the same, Ray?
 
-**MCLAUGHLIN:** Hendrix held the lead for most of the game. Meyer is definitely ready for a rematch, but its all in the cards, Regina.
+**GARCIA:** Dodson kept the lead for most of the match. I'm sure Dodson would love to repeat that game, but as you know Daryl, things can change in a single hand.
 
-**QUINTERO:** The cards are dealt and the players are seated. Let's begin. Meyer's five falls to Hendrix's queen. Four over two, Hendrix. Meyer's four beats Hendrix's three.
+**HUERTA:** The competitors are ready. Here we go. Guzman's eight falls to Dodson's ace. Three over two, Guzman.
 
-**MCLAUGHLIN:** I bet Hendrix wishes they had something higher than a three on that play.
+**GARCIA:** Nice use of a three by Guzman.
 
-**QUINTERO:**  Meyer's nine loses to Hendrix's king. Two queens. We have a war! Meyer defeats Hendrix with a jack, takes 6 cards. Hendrix's ten loses to Meyer's ace. Hendrix's seven tops Meyer's six.
+**HUERTA:**  Guzman with a King of Diamonds over Ten of Hearts. Ten over six, Guzman. Dodson tops Guzman with Queen of Hearts over Six of Hearts. Queen over four, Guzman. Guzman's hand, King over five. Dodson's ace bests Guzman's three. Dodson with a Jack of Diamonds over Three of Clubs. Guzman, Ten over five. Queen over four, Dodson. Two kings. War!! Dodson loses the battle. Guzman takes 6 cards. Guzman leads 30 to 22. Guzman's hand, Five over two. Queen over two, Dodson.
 
-**MCLAUGHLIN:** Great use of a seven by Hendrix.
+**GARCIA:** We have some real fighters on our hands.
 
-**QUINTERO:**  Two sevens. We have a war! Hendrix loses the battle. Meyer takes 6 cards. Meyer leads 30 to 22.
+**HUERTA:**  Jacks. War! Guzman loses the battle. Dodson takes 6 cards. Dodson bests Guzman with Nine of Clubs over Three of Diamonds. The games tied. Guzman with a Six of Spades over Four of Hearts.
 
-**MCLAUGHLIN:** What a fight!
+**GARCIA:** Guzman just showed us how its done.
 
-**QUINTERO:**  Hendrix tops Meyer with Eight of Hearts over Seven of Hearts.
+**HUERTA:**  Dodson's seven loses to Guzman's jack. Eights all around. War!! Dodson loses the battle. Guzman takes 6 cards. Guzman leads 31 to 21.
 
-**MCLAUGHLIN:** Great use of an eight by Hendrix.
+**GARCIA:** I bet Dodson wishes they had something higher than an eight on that play.
 
-**QUINTERO:**  King over ten, Hendrix. Hendrix's three falls to Meyer's king. Hendrix with a Ten of Clubs over Two of Hearts. Ace over four, Meyer. Meyer beats Hendrix with Ace of Hearts over Nine of Spades. Meyer this time with the Jack of Clubs. Meyer continues streak. Jack over five. Meyer this time with the Eight of Clubs. Nine over two, Hendrix. Meyer's four falls to Hendrix's six.
+**HUERTA:**  Dodson's hand, Nine over seven. Dodson's eight beats Guzman's two. Another for Dodson with Ace over three.
 
-**MCLAUGHLIN:** Nice use of a six by Hendrix.
+**GARCIA:** Dodson over paid for that three.
 
-**QUINTERO:**  Two sixes. War!!! Hendrix's queen wins the battle taking 6 cards. Hendrix's five tops Meyer's four. Hendrix does it again. Queen over three. The games tied.
+**HUERTA:**  Dodson keeps going. Queen over ten. Guzman leads 27 to 25.
 
-**MCLAUGHLIN:** Hendrix probably didn't need to use a queen in that play.
+**GARCIA:** Well played by Dodson. Guzman is stumbling a little.
 
-**QUINTERO:**  Meyer with a Ten of Diamonds over Four of Clubs. Queen over two, Meyer. Kings all around. We have a war! Meyer's jack wins the battle taking 6 cards. Meyer leads 31 to 21. Meyer beats Hendrix with Eight of Spades over Seven of Spades. Meyer keeps going. Ace over seven. Meyer continues streak. Ten over eight. King over nine, Hendrix. Hendrix, Ten over three. Meyer with an Eight of Diamonds over Two of Hearts. Hendrix with a Ten of Clubs over Seven of Clubs. Nine over seven, Hendrix.
+**HUERTA:**  Guzman tops Dodson with King of Diamonds over Six of Hearts. Dodson's three loses to Guzman's six. Dodson, Ace over ten. Guzman's hand, Queen over three.
 
-**MCLAUGHLIN:** Efficient play.
+**GARCIA:** I hope Guzman doesn't need that queen when something bigger comes along.
 
-**QUINTERO:**  Ace over two, Meyer.
+**HUERTA:**  Dodson, Jack over four. Guzman's hand, King over four.
 
-**MCLAUGHLIN:** That ace seems wasted on a two.
+**GARCIA:** That king seems wasted on a four.
 
-**QUINTERO:**  Meyer with a King of Diamonds over Six of Hearts. Hendrix with a Four of Spades over Three of Spades.
+**HUERTA:**  Dodson's queen tops Guzman's five. Ten over two, Guzman. Dodson's queen tops Guzman's five. Guzman with a King of Clubs over Ten of Spades. Guzman's five loses to Dodson's jack.
 
-**MCLAUGHLIN:** Smart move by Hendrix.
+**GARCIA:** Neither player is giving an inch.
 
-**QUINTERO:**  Hendrix's hand, Six over four.
+**HUERTA:**  Guzman beats Dodson with Seven of Spades over Six of Clubs.
 
-**MCLAUGHLIN:** Excellent use of a six by Hendrix
+**GARCIA:** Good job by Guzman.
 
-**QUINTERO:**  Meyer, Ace over six. Meyer with an Ace of Hearts over Five of Clubs.
+**HUERTA:**  Dodson, Ace over seven. Guzman, King over jack. Dodson, Ace over two. Guzman's hand, Five over three. Dodson's hand, Nine over two. Dodson's seven tops Guzman's six. Dodson does it again. Nine over four. Guzman with a Jack of Hearts over Two of Clubs.
 
-**MCLAUGHLIN:** These two are really slugging it out.
+**GARCIA:** I hope Guzman doesn't need that jack when something bigger comes along.
 
-**QUINTERO:**  Meyer's nine loses to Hendrix's queen. Hendrix's jack bests Meyer's three. Meyer's hand, Jack over two. Meyer's hand, Jack over five. Another for Meyer with Five over four. Hendrix falls to Meyer again, Five over three. Meyer leads 35 to 17.
+**HUERTA:**  Dodson's hand, Eight over seven. Guzman, Nine over three. Dodson with an Ace of Hearts over Eight of Hearts. Dodson, Ten over eight.
 
-**MCLAUGHLIN:** Nice play.
+**GARCIA:** Great use of a ten by Dodson.
 
-**QUINTERO:**  Queen over eight, Hendrix. Ten over nine, Meyer. Hendrix with a King of Clubs over Four of Clubs. Ten over two, Hendrix. Meyer, Queen over three. Meyer's king bests Hendrix's seven. Hendrix with a Ten of Clubs over Nine of Hearts.
+**HUERTA:**  Dodson does it again. Queen over four. Dodson this time with the Ace of Diamonds. Dodson leads 29 to 23.
 
-**MCLAUGHLIN:** I bet Meyer wishes they had something higher than a nine on that play.
+**GARCIA:** Is Dodson going to take this somewhere?
 
-**QUINTERO:**  Meyer bests Hendrix with King of Spades over Nine of Clubs. Meyer with a Queen of Clubs over Seven of Diamonds. Hendrix falls to Meyer again, Jack over four. Meyer again, Six over three.
+**HUERTA:**  Dodson does it again. Ten over eight.
 
-**MCLAUGHLIN:** I think Meyer is going somewhere.
+**GARCIA:** Dodson just showed us how its done. I think Dodson is going somewhere.
 
-**QUINTERO:**  Meyer continues streak. Eight over four. Meyer leads 39 to 13. Another for Meyer with Seven over six.
+**HUERTA:**  Dodson's four loses to Guzman's six. Guzman's hand, King over jack.
 
-**MCLAUGHLIN:** Hendrix is really taking a beating.
+**GARCIA:** Great use of a king by Guzman.
 
-**QUINTERO:**  Meyer again, Ace over queen.
+**HUERTA:**  Guzman's six falls to Dodson's queen. Five over three, Dodson.
 
-**MCLAUGHLIN:** Meyer is on fire.
+**GARCIA:** Nice play.
 
-**QUINTERO:**  Nine over seven, Hendrix.
+**HUERTA:**  Dodson again, Five over three.
 
-**MCLAUGHLIN:** What a run for Meyer. Hendrix has some ground to make up.
+**GARCIA:** Excellent use of a five by Dodson
 
-**QUINTERO:**  Hendrix, Jack over eight. Meyer with a Ten of Hearts over Three of Hearts. Eights. War!! Hendrix loses the battle. Meyer takes 6 cards. Meyer leads 43 to 9. Hendrix's king beats Meyer's two. Meyer's hand, Six over two. Meyer's king bests Hendrix's ten. Hendrix's nine bests Meyer's six. Meyer's ace tops Hendrix's ten. Ace over seven, Meyer. Nine over five, Hendrix. Jacks all around. War! Hendrix defeats Meyer with a king, takes 6 cards. Meyer with a Jack of Spades over Two of Clubs.
+**HUERTA:**  Two queens. War! Guzman's king wins the battle taking 6 cards. Seven over two, Dodson. Dodson's hand, Ace over ten. King over two, Guzman. Guzman's ten falls to Dodson's ace. Guzman with a Seven of Spades over Two of Spades. Dodson's nine tops Guzman's six. Dodson's six falls to Guzman's king. Guzman bests Dodson with Jack of Clubs over Seven of Clubs. Nine over three, Dodson. Dodson's four falls to Guzman's five. Guzman, Jack over eight. Guzman's two falls to Dodson's seven. Dodson with an Ace of Hearts over Nine of Spades. Dodson continues streak. Eight over three. Dodson again, Eight over four.
 
-**MCLAUGHLIN:** Meyer probably didn't need to use a jack in that play.
+**GARCIA:** Guzman should nip this run in the bud.
 
-**QUINTERO:**  Hendrix's six bests Meyer's four.
+**HUERTA:**  Dodson wins again. Ten over six. Guzman's hand, King over queen. Guzman's jack beats Dodson's four. Ace over queen, Dodson.
 
-**MCLAUGHLIN:** Hendrix just showed us how its done.
+**GARCIA:** Nice use of an ace by Dodson.
 
-**QUINTERO:**  Hendrix with a Nine of Hearts over Five of Diamonds. Another for Hendrix, Nine over three. Meyer leads 39 to 13. Fives. War!! Hendrix defeats Meyer with a jack, takes 6 cards.
+**HUERTA:**  Guzman tops Dodson with King of Spades over Nine of Hearts. Guzman, Jack over ten.
 
-**MCLAUGHLIN:** Hendrix just showed us how its done.
+**GARCIA:** Good job by Guzman.
 
-**QUINTERO:**  Hendrix's five tops Meyer's three. Meyer leads 35 to 17.
+**HUERTA:**  Eight over four, Dodson. Guzman's five loses to Dodson's six. Queens. War!!! Guzman's king wins the battle taking 6 cards. Guzman's two falls to Dodson's five. Guzman beats Dodson with Seven of Spades over Three of Clubs. Guzman beats Dodson with King of Hearts over Seven of Hearts. Another for Guzman with Six over two. Ace over seven, Dodson. Jack over ten, Guzman.
 
-**MCLAUGHLIN:** Excellent use of a five by Hendrix
+**GARCIA:** Efficient play by Guzman.
 
-**QUINTERO:**  Meyer's hand, Queen over two. Meyer's seven falls to Hendrix's eight. Meyer's hand, King over jack.
+**HUERTA:**  Ace over five, Dodson.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Dodson over paid for that five.
 
-**QUINTERO:**  Meyer's hand, King over four. Another for Meyer with Nine over six. Meyer does it again. Queen over nine. Meyer leads 39 to 13.
+**HUERTA:**  Dodson tops Guzman with Ten of Spades over Four of Hearts. Dodson continues streak. Nine over eight.
 
-**MCLAUGHLIN:** Hendrix is stumbling a little.
+**GARCIA:** Smart move by Dodson.
 
-**QUINTERO:**  Meyer this time with the Seven of Diamonds. Another for Meyer with Jack over three.
+**HUERTA:**  Guzman's jack tops Dodson's six. Guzman's queen bests Dodson's three.
 
-**MCLAUGHLIN:** What a streak for Meyer.
+**GARCIA:** I hope Guzman doesn't need that queen when something bigger comes along.
 
-**QUINTERO:**  Hendrix bests Meyer with Nine of Spades over Four of Spades. King over three, Hendrix. Hendrix's five falls to Meyer's six. Hendrix's jack beats Meyer's eight. Nine over four, Hendrix. Meyer bests Hendrix with Six of Spades over Five of Clubs.
+**HUERTA:**  Guzman wins again. King over nine. Dodson, Seven over four. Guzman, Jack over two. Dodson, Ace over king. Nines. War!!! Guzman defeats Dodson with a ten, takes 6 cards. Guzman leads 28 to 24.
 
-**MCLAUGHLIN:** Great use of a six by Meyer.
+**GARCIA:** Excellent use of a ten by Guzman
 
-**QUINTERO:**  Hendrix, Ten over seven. Meyer's hand, Queen over three.
+**HUERTA:**  Guzman's hand, Queen over eight. Guzman again, Queen over four. Six over three, Dodson. Guzman's two loses to Dodson's ten. Guzman with a King of Clubs over Queen of Spades.
 
-**MCLAUGHLIN:** I hope Meyer doesn't need that queen when something bigger comes along.
+**GARCIA:** Excellent use of a king by Guzman
 
-**QUINTERO:**  Hendrix's five falls to Meyer's ace.
+**HUERTA:**  Dodson, Ace over five.
 
-**MCLAUGHLIN:** I hope Meyer doesn't need that ace when something bigger comes along.
+**GARCIA:** That ace seems wasted on a five.
 
-**QUINTERO:**  Hendrix bests Meyer with Seven of Clubs over Three of Hearts. Meyer with a Ten of Hearts over Eight of Hearts.
+**HUERTA:**  Guzman with a Seven of Spades over Four of Clubs. Dodson's hand, Eight over three. Guzman, King over six. Seven over five, Guzman. Guzman keeps going. Six over five.
 
-**MCLAUGHLIN:** Excellent use of a ten by Meyer
+**GARCIA:** Smart move by Guzman.
 
-**QUINTERO:**  Eight over four, Meyer. Meyer does it again. Ace over nine. Hendrix's king bests Meyer's two. Meyer's hand, Eight over three. Meyer with a Queen of Spades over Jack of Diamonds. Meyer leads 43 to 9. Meyer's four falls to Hendrix's eight. Nine over six, Hendrix. Meyer falls to Hendrix again, Four over two. Meyer bests Hendrix with King of Diamonds over Ten of Diamonds. Hendrix's seven falls to Meyer's ten. Meyer does it again. Ten over seven. Another for Meyer with Ace over three.
+**HUERTA:**  Two twos. War!!! Guzman defeats Dodson with a jack, takes 6 cards. Guzman leads 34 to 18. Dodson tops Guzman with Ace of Spades over Jack of Hearts. Guzman, Six over five.
 
-**MCLAUGHLIN:** Meyer has got some momentum.
+**GARCIA:** Guzman just showed us how its done.
 
-**QUINTERO:**  Meyer with an Ace of Hearts over King of Clubs. Another for Meyer, Seven over two.
+**HUERTA:**  Dodson, Ten over three. Guzman's hand, Queen over four. Guzman with a Nine of Diamonds over Eight of Clubs. Guzman does it again. King over nine. Dodson falls to Guzman again, Jack over four.
 
-**MCLAUGHLIN:** What a streak for Meyer.
+**GARCIA:** Guzman might be making a move.
 
-**QUINTERO:**  Hendrix's hand, Eight over two. Jack over four, Meyer. Meyer, Queen over nine. Meyer leads 47 to 5. Meyer's two falls to Hendrix's six. Meyer's hand, Jack over four. Hendrix's two falls to Meyer's king. Meyer beats Hendrix with Four of Hearts over Two of Clubs.
+**HUERTA:**  Dodson with a Seven of Diamonds over Two of Clubs. Dodson bests Guzman with Ace of Hearts over Jack of Spades. Dodson's hand, King over nine. Guzman falls to Dodson again, Six over three.
 
-**MCLAUGHLIN:** We're almost there.
+**GARCIA:** Guzman should nip this run in the bud.
 
-**QUINTERO:**  Meyer keeps going. King over eight.
+**HUERTA:**  Guzman's hand, Nine over three. Guzman's eight beats Dodson's two. Two tens. It's a war folks! Guzman defeats Dodson with a queen, takes 6 cards. Guzman leads 38 to 14. Queen over three, Guzman. Eight over four, Dodson. Guzman's hand, Queen over jack.
 
-**MCLAUGHLIN:** It's getting tight. Meyer must be feeling good.
+**GARCIA:** Guzman just showed us how its done.
 
-**QUINTERO:**  Another for Meyer with Nine over six. Meyer leads 51 to 1.
+**HUERTA:**  Dodson beats Guzman with Ace of Spades over King of Clubs.
 
-**MCLAUGHLIN:** Hendrix is going to be playing catch up if they don't stop this. It's getting tight. Meyer must be feeling good.Game point folks.
+**GARCIA:** I bet Guzman wishes they had something higher than a king on that play.
 
-**QUINTERO:** In just 127 hands, Bailey Meyer has won the match.
+**HUERTA:**  Guzman's four beats Dodson's three. Dodson, Ten over seven. Guzman, Six over two. Guzman tops Dodson with King of Hearts over Seven of Diamonds. Dodson, Ace over seven. Dodson's hand, Jack over five. Dodson this time with the Nine of Hearts. Dodson does it again. King over five.
 
-**MCLAUGHLIN:** just 127 is quite an accomplishment by Meyer. Samantha Hendrix really couldn't hold on to the lead for very long. 
+**GARCIA:** Guzman is stumbling a little.
 
-**QUINTERO:** Bailey Meyer will face the winner of game 6 in Game 3 of the 2nd round. 
+**HUERTA:**  Dodson this time with the Six of Hearts.
+
+**GARCIA:** Dodson has got some momentum.
+
+**HUERTA:**  Guzman with an Ace of Clubs over Three of Hearts.
+
+**GARCIA:** I hope Guzman doesn't need that ace when something bigger comes along.
+
+**HUERTA:**  Jack over eight, Guzman. Guzman does it again. Seven over four. Dodson, Ace over ten. Dodson's hand, King over two.
+
+**GARCIA:** Dodson over paid for that two.
+
+**HUERTA:**  Dodson keeps going. Ten over five. Dodson again, Seven over six. Guzman leads 34 to 18.
+
+**GARCIA:** I bet Guzman wishes they had something higher than a six on that play. Guzman is stumbling a little.
+
+**HUERTA:**  Another for Dodson with Ace over four.
+
+**GARCIA:** Guzman is going to be playing catch up if they don't stop this.
+
+**HUERTA:**  Guzman's hand, Queen over seven. Dodson tops Guzman with Jack of Spades over Nine of Diamonds.
+
+**GARCIA:** Nice use of a jack by Dodson.
+
+**HUERTA:**  Dodson's five loses to Guzman's eight. Guzman bests Dodson with King of Diamonds over Six of Spades. Nines all around. War!! Dodson's king wins the battle taking 6 cards. Guzman's three beats Dodson's two. Guzman with a Nine of Spades over Six of Hearts. Dodson's hand, Ten over two. Dodson's hand, Ace over eight. Another for Dodson, King over five. Guzman with an Ace of Diamonds over Two of Spades. Dodson bests Guzman with Ten of Spades over Eight of Diamonds.
+
+**GARCIA:** Smart move.
+
+**HUERTA:**  Dodson's five loses to Guzman's queen. Guzman's ten bests Dodson's seven. Guzman wins again. Ten over six. Dodson, Ace over three. Guzman, Queen over four. Guzman, Queen over nine. Jacks all around. War!!! Dodson's nine wins the battle taking 6 cards. Dodson with a Four of Diamonds over Two of Clubs.
+
+**GARCIA:** Great use of a four by Dodson.
+
+**HUERTA:**  Guzman falls to Dodson again, King over six. Guzman leads 30 to 22. Guzman, King over jack.
+
+**GARCIA:** Guzman just showed us how its done.
+
+**HUERTA:**  Nine over seven, Dodson. Guzman with an Ace of Clubs over Two of Hearts. Dodson's ten tops Guzman's three. Guzman with a Jack of Clubs over Eight of Hearts. Ace over eight, Dodson. Five over four, Dodson.
+
+**GARCIA:** Excellent use of a five by Dodson
+
+**HUERTA:**  Dodson again, King over seven. Dodson this time with the Ten of Spades. Guzman beats Dodson with Queen of Hearts over Eight of Diamonds. Eight over three, Guzman. Ace over five, Dodson.
+
+**GARCIA:** Dodson probably didn't need to use an ace in that play.
+
+**HUERTA:**  Guzman, Six over four. King over five, Guzman. Two threes. War! Guzman loses the battle. Dodson takes 6 cards. Nines. War!! Guzman's ace wins the battle taking 6 cards. Dodson's hand, Six over five.
+
+**GARCIA:** Excellent use of a six by Dodson
+
+**HUERTA:**  Dodson, King over queen.
+
+**GARCIA:** Well played by Dodson. We have some real fighters on our hands.
+
+**HUERTA:**  Dodson's nine falls to Guzman's ten. Sevens. It's a war folks! Dodson defeats Guzman with a ten, takes 6 cards. The games tied. Dodson with an Ace of Spades over Four of Hearts.
+
+**GARCIA:** That ace got the job done, but was it the most strategic play by Dodson?
+
+**HUERTA:**  Guzman's hand, Queen over eight. Guzman with a Nine of Diamonds over Five of Diamonds. Guzman again, Queen over four. Kings all around. War!! Dodson defeats Guzman with a ten, takes 6 cards. Dodson's seven falls to Guzman's ace. Guzman's eight falls to Dodson's ace. Jack over five, Guzman. Guzman, Queen over jack.
+
+**GARCIA:** Nice use of a queen by Guzman.
+
+**HUERTA:**  Dodson falls to Guzman again, Eight over two. Two threes. War! Dodson's jack wins the battle taking 6 cards. Sixes. We have a war! Dodson loses the battle. Guzman takes 6 cards. King over nine, Dodson. Dodson's hand, Queen over nine. Dodson this time with the Seven of Spades. Guzman tops Dodson with Ace of Diamonds over Six of Clubs. Dodson's ten tops Guzman's two. Dodson's three loses to Guzman's four.
+
+**GARCIA:** I bet Dodson wishes they had something higher than a three on that play.
+
+**HUERTA:**  Two tens. War! Dodson defeats Guzman with an ace, takes 6 cards. Guzman with a Queen of Diamonds over Four of Hearts. Dodson's king beats Guzman's five. Dodson with a King of Clubs over Nine of Diamonds. Dodson leads 30 to 22. Four over two, Guzman. Guzman's hand, Queen over jack.
+
+**GARCIA:** Guzman just showed us how its done.
+
+**HUERTA:**  Guzman again, Ace over seven. Guzman's seven falls to Dodson's ten. Dodson's hand, Ace over jack. Dodson continues streak. Eight over five. Queen over four, Guzman. Jacks all around. War!!! Guzman defeats Dodson with an eight, takes 6 cards. The games tied. Guzman beats Dodson with Six of Spades over Three of Clubs. King over eight, Guzman. Dodson's king tops Guzman's five. Dodson, Nine over six. Dodson again, Queen over six. Dodson this time with the Nine of Hearts.
+
+**GARCIA:** I think Dodson is going somewhere.
+
+**HUERTA:**  Guzman tops Dodson with Ace of Diamonds over Two of Clubs. Dodson's hand, Seven over six.
+
+**GARCIA:** Good job by Dodson.
+
+**HUERTA:**  Dodson, Ten over three. Guzman tops Dodson with Four of Diamonds over Two of Spades.
+
+**GARCIA:** Guzman just showed us how its done.
+
+**HUERTA:**  Dodson's hand, Ace over four. Guzman, Queen over ten.
+
+**GARCIA:** Excellent use of a queen by Guzman
+
+**HUERTA:**  Ten over two, Dodson. Seven over four, Dodson. Dodson leads 30 to 22. Guzman tops Dodson with Jack of Diamonds over Eight of Spades. Queen over nine, Guzman. Another for Guzman, Ace over king. Another for Guzman, Seven over five. The games tied.
+
+**GARCIA:** Guzman has got some momentum.
+
+**HUERTA:**  Dodson, King over four. Guzman's hand, Queen over nine. Guzman with a Jack of Spades over Ten of Spades.
+
+**GARCIA:** Nice use of a jack by Guzman.
+
+**HUERTA:**  Guzman's two loses to Dodson's seven. Dodson's hand, Ace over jack. Another for Dodson, Jack over eight. Dodson this time with the Eight of Hearts. Dodson keeps going. Five over three. Dodson leads 30 to 22.
+
+**GARCIA:** Excellent use of a five by Dodson Dodson might be making a move.
+
+**HUERTA:**  Guzman's six tops Dodson's five.
+
+**GARCIA:** Good job.
+
+**HUERTA:**  King over three, Dodson. King over nine, Guzman. Guzman's hand, Eight over six. Guzman's two falls to Dodson's queen. Guzman's ace tops Dodson's six. Dodson's hand, Five over four. Dodson, Nine over two. Guzman's hand, Ten over six. Dodson's seven falls to Guzman's queen. Another for Guzman, Eight over three. Guzman does it again. Jack over ten. The games tied. Guzman keeps going. Nine over four.
+
+**GARCIA:** Is Guzman going to take this somewhere?
+
+**HUERTA:**  Dodson beats Guzman with Ace of Spades over Queen of Spades.
+
+**GARCIA:** Smart move.
+
+**HUERTA:**  Guzman, King over ten. Guzman's ace tops Dodson's two. Sevens all around. It's a war folks! Guzman defeats Dodson with a nine, takes 6 cards. Guzman leads 31 to 21. Dodson with a King of Clubs over Queen of Hearts. Guzman's hand, Ten over two. Guzman's jack beats Dodson's seven. Ace over five, Dodson. Dodson, Jack over six. Guzman, King over eight.
+
+**GARCIA:** What a fight!
+
+**HUERTA:**  Dodson with a Jack of Clubs over Nine of Spades.
+
+**GARCIA:** Smart move.
+
+**HUERTA:**  Two eights. War! Dodson loses the battle. Guzman takes 6 cards.
+
+**GARCIA:** Guzman just showed us how its done.
+
+**HUERTA:**  Guzman's ace beats Dodson's three.
+
+**GARCIA:** I hope Guzman doesn't need that ace when something bigger comes along.
+
+**HUERTA:**  Guzman wins again. Six over three. Guzman leads 35 to 17. King over ten, Dodson. Guzman with a Seven of Spades over Two of Clubs. Queens all around. War! Dodson's five wins the battle taking 6 cards. Guzman, Jack over two. Ten over nine, Guzman.
+
+**GARCIA:** I bet Dodson wishes they had something higher than a nine on that play.
+
+**HUERTA:**  Dodson's hand, Queen over four. Guzman's nine falls to Dodson's ace. Dodson's queen loses to Guzman's king.
+
+**GARCIA:** Excellent move.
+
+**HUERTA:**  Dodson beats Guzman with King of Clubs over Ten of Clubs. Two aces. War!! Dodson's jack wins the battle taking 6 cards. Guzman leads 29 to 23.
+
+**GARCIA:** Excellent use of a jack by Dodson
+
+**HUERTA:**  Dodson, Six over four.
+
+**GARCIA:** Nice use of a six by Dodson.
+
+**HUERTA:**  Another for Dodson, Nine over seven.
+
+**GARCIA:** Excellent use of a nine by Dodson
+
+**HUERTA:**  Dodson does it again. Jack over seven. Dodson wins again. Ten over five. Dodson leads 27 to 25.
+
+**GARCIA:** Is Dodson going to take this somewhere?
+
+**HUERTA:**  Dodson wins again. King over four.
+
+**GARCIA:** Is Guzman awake?
+
+**HUERTA:**  Dodson this time with the Queen of Diamonds.
+
+**GARCIA:** What a streak for Dodson.
+
+**HUERTA:**  Guzman with a Ten of Spades over Three of Hearts.
+
+**GARCIA:** Guzman's back in it.
+
+**HUERTA:**  Dodson's eight bests Guzman's seven. Guzman's jack tops Dodson's five. Guzman's hand, King over four. Dodson's queen beats Guzman's eight. Four over three, Dodson. Another for Dodson, Queen over six. Dodson keeps going. Nine over eight. Dodson leads 31 to 21.
+
+**GARCIA:** Nice play.
+
+**HUERTA:**  Dodson, Ace over six.
+
+**GARCIA:** Dodson might be making a move.
+
+**HUERTA:**  Dodson does it again. Ten over eight.
+
+**GARCIA:** I bet Guzman wishes they had something higher than an eight on that play. What a streak for Dodson.
+
+**HUERTA:**  Dodson keeps going. King over five.
+
+**GARCIA:** Someone should tell Guzman the match isn't over.
+
+**HUERTA:**  Dodson's ace tops Guzman's three. Dodson leads 35 to 17.
+
+**GARCIA:** Is Guzman awake?
+
+**HUERTA:**  Dodson's nine falls to Guzman's ace.
+
+**GARCIA:** That's a start for Guzman.
+
+**HUERTA:**  Guzman tops Dodson with Three of Clubs over Two of Hearts.
+
+**GARCIA:** Efficient play by Guzman.
+
+**HUERTA:**  Guzman's six falls to Dodson's jack. Dodson with an Ace of Hearts over Two of Clubs. Guzman, Seven over five. Guzman with a Jack of Diamonds over Four of Spades. Six over two, Dodson. Guzman's hand, Ten over nine. Dodson's seven falls to Guzman's nine.
+
+**GARCIA:** Efficient play.
+
+**HUERTA:**  Guzman does it again. King over seven. Dodson leads 31 to 21. Guzman continues streak. Queen over jack. Dodson's hand, Five over three.
+
+**GARCIA:** Dodson just showed us how its done.
+
+**HUERTA:**  Tens all around. War! Dodson's king wins the battle taking 6 cards. Guzman with a King of Diamonds over Two of Diamonds. Queen over four, Dodson. Guzman with a Nine of Diamonds over Eight of Spades. Guzman with an Ace of Diamonds over Seven of Hearts. Eight over two, Dodson. Queen over three, Dodson.
+
+**GARCIA:** That queen seems wasted on a three.
+
+**HUERTA:**  Guzman, Five over three. Guzman's hand, Seven over four.
+
+**GARCIA:** We have some real fighters on our hands.
+
+**HUERTA:**  Dodson's hand, Six over four.
+
+**GARCIA:** Excellent use of a six by Dodson
+
+**HUERTA:**  Dodson with a Queen of Spades over Jack of Diamonds. Guzman's hand, Ten over eight. Two nines. It's a war folks! Dodson defeats Guzman with an ace, takes 6 cards. Dodson leads 36 to 16. Eight over seven, Dodson. King over ten, Guzman. King over jack, Dodson. Guzman's hand, Queen over five. Dodson's ace beats Guzman's two.
+
+**GARCIA:** What a fight!
+
+**HUERTA:**  Guzman tops Dodson with King of Diamonds over Three of Spades.
+
+**GARCIA:** That king got the job done, but was it the most strategic play by Guzman?
+
+**HUERTA:**  Dodson beats Guzman with Jack of Hearts over Eight of Spades. Guzman with a Nine of Diamonds over Six of Clubs. Guzman with a Seven of Hearts over Two of Clubs. Aces. War!!! Dodson loses the battle. Guzman takes 6 cards. Dodson leads 32 to 20. Guzman's seven beats Dodson's three. Dodson's five tops Guzman's four.
+
+**GARCIA:** Excellent use of a five by Dodson
+
+**HUERTA:**  Jack over ten, Dodson. Guzman's eight bests Dodson's four.
+
+**GARCIA:** Neither player is giving an inch.
+
+**HUERTA:**  Dodson with a King of Spades over Ten of Clubs. King over ten, Guzman. Two fives. War!! Dodson loses the battle. Guzman takes 6 cards. Four over three, Dodson.
+
+**GARCIA:** Great use of a four by Dodson.
+
+**HUERTA:**  Guzman with a Nine of Diamonds over Two of Hearts. Dodson's eight tops Guzman's six. Guzman's hand, Seven over three. Dodson's queen bests Guzman's two. Dodson's four tops Guzman's two.
+
+**GARCIA:** Nice use of a four by Dodson. They are really going toe to toe in this game.
+
+**HUERTA:**  Dodson keeps going. Six over three. Guzman beats Dodson with Ace of Hearts over Jack of Diamonds. Guzman's ace bests Dodson's queen.
+
+**GARCIA:** Well played by Guzman.
+
+**HUERTA:**  Dodson's hand, Ace over five.
+
+**GARCIA:** Dodson probably didn't need to use an ace in that play.
+
+**HUERTA:**  Guzman's six falls to Dodson's nine. Another for Dodson, Seven over three. Another for Dodson with Nine over seven.
+
+**GARCIA:** Is Dodson going to take this somewhere?
+
+**HUERTA:**  Dodson wins again. Nine over four.
+
+**GARCIA:** Dodson has got some momentum.
+
+**HUERTA:**  Eight over six, Guzman.
+
+**GARCIA:** Great use of an eight by Guzman.
+
+**HUERTA:**  Guzman, Ten over seven. Guzman wins again. King over eight. Dodson, King over queen. Queen over jack, Guzman.
+
+**GARCIA:** Excellent use of a queen by Guzman
+
+**HUERTA:**  Five over two, Guzman. Dodson's ace bests Guzman's five. Dodson's jack beats Guzman's ten. Dodson's eight falls to Guzman's king. Guzman, Nine over four. Dodson tops Guzman with Five of Diamonds over Two of Hearts. Guzman's three falls to Dodson's ten. Dodson wins again. Jack over seven. Jack over ten, Guzman. Guzman, Ace over king. Guzman this time with the Queen of Spades. Dodson falls to Guzman again, Ace over three. Two sixes. War! Guzman loses the battle. Dodson takes 6 cards.
+
+**GARCIA:** I bet Guzman wishes they had something higher than a ten on that play.
+
+**HUERTA:**  Guzman with a Seven of Diamonds over Two of Clubs. Guzman tops Dodson with King of Hearts over Two of Spades. Dodson falls to Guzman again, Eight over four. Another for Guzman, Queen over six. Another for Guzman with Jack over three. Dodson leads 28 to 24. Guzman's five falls to Dodson's ace. Five over two, Dodson. King over six, Guzman. Dodson with a Nine of Clubs over Eight of Spades. Dodson's three falls to Guzman's four. Guzman bests Dodson with Nine of Diamonds over Seven of Clubs. Guzman this time with the Ten of Clubs. Guzman keeps going. Jack over nine.
+
+**GARCIA:** Guzman just showed us how its done.
+
+**HUERTA:**  Guzman again, Ace over nine.
+
+**GARCIA:** Dodson should nip this run in the bud.
+
+**HUERTA:**  Another for Guzman with King over four. Guzman leads 28 to 24.
+
+**GARCIA:** Is Dodson awake?
+
+**HUERTA:**  Dodson's hand, King over four. Queens all around. War!!! Two aces. We have a war! Dodson defeats Guzman with a ten, takes 10 cards. Dodson leads 30 to 22.
+
+**GARCIA:** That's a big prize for Dodson.
+
+**HUERTA:**  Guzman's hand, King over five. Twos. It's a war folks! Dodson defeats Guzman with a ten, takes 6 cards.
+
+**GARCIA:** Dodson just showed us how its done.
+
+**HUERTA:**  Guzman's six loses to Dodson's seven. Guzman beats Dodson with Queen of Hearts over Jack of Spades. Guzman with a Jack of Clubs over Ten of Hearts.
+
+**GARCIA:** I bet Dodson wishes they had something higher than a ten on that play.
+
+**HUERTA:**  Dodson, Eight over three. Two sixes. War!!! Dodson's six wins the battle taking 6 cards. Dodson leads 35 to 17.
+
+**GARCIA:** Dodson just showed us how its done.
+
+**HUERTA:**  Dodson, Eight over three. Dodson again, Ace over seven. Nine over five, Guzman. Seven over two, Guzman. Another for Guzman with Ten over five. Guzman wins again. Nine over eight.
+
+**GARCIA:** Nice use of a nine by Guzman. Dodson is stumbling a little.
+
+**HUERTA:**  Guzman wins again. Jack over nine.
+
+**GARCIA:** Excellent move.
+
+**HUERTA:**  Guzman wins again. Ace over four. Dodson leads 31 to 21.
+
+**GARCIA:** Guzman ate their Wheaties today.
+
+**HUERTA:**  Guzman's nine falls to Dodson's king. Guzman, Four over two. Guzman with a King of Spades over Jack of Hearts. Dodson with a Queen of Spades over Five of Diamonds. Guzman, King over ten. Guzman, Queen over three. Another for Guzman with Jack over seven. Dodson with a Queen of Diamonds over Jack of Clubs.
+
+**GARCIA:** Efficient play.
+
+**HUERTA:**  Dodson's hand, Ace over ten. Dodson's five loses to Guzman's nine. Dodson bests Guzman with Ace of Clubs over Five of Clubs. Dodson's ten bests Guzman's two. Guzman with a Seven of Spades over Three of Clubs. Dodson's four loses to Guzman's ten. Guzman this time with the Five of Hearts. Guzman keeps going. Eight over two. Dodson leads 27 to 25. Guzman this time with the Nine of Hearts.
+
+**GARCIA:** Guzman is looking good.
+
+**HUERTA:**  Guzman keeps going. Nine over seven.
+
+**GARCIA:** Is Dodson awake?
+
+**HUERTA:**  Another for Guzman with Jack over six.
+
+**GARCIA:** Guzman is on fire.
+
+**HUERTA:**  Guzman's four beats Dodson's three. Guzman leads 29 to 23.
+
+**GARCIA:** Excellent use of a four by Guzman Guzman is on fire.
+
+**HUERTA:**  Guzman keeps going. Ace over eight.
+
+**GARCIA:** I think Guzman has decided they want this more than Dodson.
+
+**HUERTA:**  Dodson's six beats Guzman's two.
+
+**GARCIA:** That's a start for Dodson.
+
+**HUERTA:**  Dodson beats Guzman with Queen of Clubs over Four of Clubs. Guzman's hand, Jack over four. Guzman with a King of Spades over Six of Hearts. Guzman wins again. Ten over six. Two kings. War! Guzman loses the battle. Dodson takes 6 cards. Guzman's seven falls to Dodson's ace. Dodson's seven falls to Guzman's jack. Dodson's hand, King over nine. Guzman's five falls to Dodson's nine. Guzman falls to Dodson again, Queen over seven. Dodson leads 27 to 25. Dodson with a Five of Diamonds over Three of Clubs.
+
+**GARCIA:** Dodson just showed us how its done. Dodson has got some momentum.
+
+**HUERTA:**  Dodson keeps going. Queen over four.
+
+**GARCIA:** Guzman should nip this run in the bud.
+
+**HUERTA:**  Dodson again, Jack over ten.
+
+**GARCIA:** Dodson ate their Wheaties today.
+
+**HUERTA:**  Dodson wins again. Ten over five. Dodson leads 31 to 21.
+
+**GARCIA:** I think Guzman should try some higher value cards.
+
+**HUERTA:**  Dodson continues streak. Ace over two.
+
+**GARCIA:** Guzman is really taking a beating.
+
+**HUERTA:**  Dodson wins again. Ace over eight.
+
+**GARCIA:** Someone should tell Guzman the match isn't over.
+
+**HUERTA:**  Dodson continues streak. Five over two.
+
+**GARCIA:** Guzman is really taking a beating.
+
+**HUERTA:**  Guzman with an Eight of Hearts over Two of Diamonds.
+
+**GARCIA:** What a run for Dodson. Guzman has some ground to make up.
+
+**HUERTA:**  Dodson's hand, Ten over nine. Guzman's hand, Seven over two. Dodson's six falls to Guzman's nine. Dodson falls to Guzman again, Six over four.
+
+**GARCIA:** Guzman just showed us how its done.
+
+**HUERTA:**  Queen over jack, Dodson. Dodson with a King of Diamonds over Four of Diamonds. Two threes. We have a war! Dodson loses the battle. Guzman takes 6 cards.
+
+**GARCIA:** I bet Dodson wishes they had something higher than a king on that play.
+
+**HUERTA:**  Guzman's jack tops Dodson's three. Dodson with a Queen of Hearts over Four of Hearts. Dodson's seven falls to Guzman's king. Dodson beats Guzman with Ace of Spades over Six of Hearts. Guzman's ten tops Dodson's nine.
+
+**GARCIA:** Guzman just showed us how its done.
+
+**HUERTA:**  Dodson's king beats Guzman's six. Guzman bests Dodson with Jack of Spades over Nine of Spades.
+
+**GARCIA:** Excellent move. Neither player is giving an inch.
+
+**HUERTA:**  Guzman bests Dodson with Seven of Clubs over Five of Spades.
+
+**GARCIA:** I bet Dodson wishes they had something higher than a five on that play.
+
+**HUERTA:**  Guzman's two falls to Dodson's seven. Dodson's hand, Queen over eight. Dodson continues streak. Three over two. Seven over five, Guzman. Guzman's six bests Dodson's four. Dodson's hand, Queen over nine. Dodson's hand, Ten over four. Guzman falls to Dodson again, Jack over six. Dodson again, Five over three. Dodson again, Ten over eight.
+
+**GARCIA:** Great use of a ten by Dodson.
+
+**HUERTA:**  Eight over two, Guzman. Ace over three, Dodson. Guzman tops Dodson with King of Hearts over Eight of Spades. Two aces. War! Guzman defeats Dodson with a jack, takes 6 cards. Guzman's seven falls to Dodson's nine. Guzman's hand, King over ten. Dodson, Queen over nine. Dodson's jack beats Guzman's ten.
+
+**GARCIA:** Well played.
+
+**HUERTA:**  Dodson again, King over jack. Guzman's hand, Nine over four. Guzman's five falls to Dodson's queen. Seven over four, Guzman. Dodson with a Six of Hearts over Five of Diamonds. Dodson's ace bests Guzman's seven. Dodson does it again. Six over four. Dodson leads 35 to 17.
+
+**GARCIA:** Great use of a six by Dodson.
+
+**HUERTA:**  Dodson again, King over six.
+
+**GARCIA:** Is Dodson going to take this somewhere?
+
+**HUERTA:**  Eight over two, Guzman. Dodson's hand, Seven over two. Two eights. We have a war! Guzman's jack wins the battle taking 6 cards. Guzman's hand, Five over three.
+
+**GARCIA:** Nice use of a five by Guzman.
+
+**HUERTA:**  Dodson falls to Guzman again, Ace over queen. Dodson leads 31 to 21.
+
+**GARCIA:** Guzman just showed us how its done.
+
+**HUERTA:**  Dodson tops Guzman with Nine of Clubs over Three of Spades. Ace over four, Guzman.
+
+**GARCIA:** I hope Guzman doesn't need that ace when something bigger comes along.
+
+**HUERTA:**  Dodson's ten beats Guzman's two. Dodson tops Guzman with Jack of Clubs over Ten of Diamonds. Guzman, King over six. Guzman's hand, Four over three.
+
+**GARCIA:** Excellent use of a four by Guzman
+
+**HUERTA:**  Guzman continues streak. Nine over five. Dodson tops Guzman with Eight of Diamonds over Four of Hearts. Ten over seven, Dodson. Another for Dodson with Ace over two.
+
+**GARCIA:** That ace got the job done, but was it the most strategic play by Dodson?
+
+**HUERTA:**  Guzman's hand, Eight over three. Nine over eight, Dodson.
+
+**GARCIA:** Well played.
+
+**HUERTA:**  Jack over seven, Guzman. Guzman's queen bests Dodson's nine. Dodson's hand, Queen over eight. Dodson's ten falls to Guzman's king. Jack over two, Dodson. Dodson's hand, Jack over three. Another for Dodson with King over five. Dodson's five falls to Guzman's queen. Guzman's ace bests Dodson's queen.
+
+**GARCIA:** Excellent use of an ace by Guzman
+
+**HUERTA:**  Guzman wins again. Ace over five.
+
+**GARCIA:** I hope Guzman doesn't need that ace when something bigger comes along.
+
+**HUERTA:**  Dodson's six bests Guzman's four.
+
+**GARCIA:** Smart move.
+
+**HUERTA:**  Dodson's hand, Ace over king.
+
+**GARCIA:** Excellent use of an ace by Dodson
+
+**HUERTA:**  Dodson continues streak. Seven over six.
+
+**GARCIA:** Well played by Dodson.
+
+**HUERTA:**  Another for Dodson with Six over four. Dodson leads 35 to 17.
+
+**GARCIA:** Nice use of a six by Dodson. Guzman is going to be playing catch up if they don't stop this.
+
+**HUERTA:**  Dodson again, Four over three.
+
+**GARCIA:** Dodson is looking good.
+
+**HUERTA:**  Dodson continues streak. King over five.
+
+**GARCIA:** Dodson ate their Wheaties today.
+
+**HUERTA:**  Guzman with a Nine of Spades over Six of Clubs. Guzman bests Dodson with Eight of Clubs over Seven of Spades.
+
+**GARCIA:** Well played by Guzman.
+
+**HUERTA:**  Guzman wins again. Three over two.
+
+**GARCIA:** Guzman just showed us how its done.
+
+**HUERTA:**  Guzman keeps going. Jack over three. Guzman's seven falls to Dodson's nine.
+
+**GARCIA:** Excellent use of a nine by Dodson
+
+**HUERTA:**  Dodson's ten bests Guzman's nine. Queen over two, Guzman.
+
+**GARCIA:** I hope Guzman doesn't need that queen when something bigger comes along.
+
+**HUERTA:**  Guzman's king tops Dodson's jack.
+
+**GARCIA:** Guzman just showed us how its done.
+
+**HUERTA:**  Two tens. We have a war! Guzman defeats Dodson with a queen, takes 6 cards. Dodson leads 30 to 22. Queen over ten, Guzman. Guzman again, Ace over seven. Another for Guzman, Ace over two. Dodson bests Guzman with Ace of Diamonds over Five of Diamonds. Nines all around. War! Dodson's eight wins the battle taking 6 cards.
+
+**GARCIA:** Excellent use of an eight by Dodson
+
+**HUERTA:**  Dodson's queen beats Guzman's eight. Guzman's hand, Three over two. Dodson, Jack over two.
+
+**GARCIA:** Dodson probably didn't need to use a jack in that play.
+
+**HUERTA:**  Guzman's jack tops Dodson's three. Dodson's hand, Jack over three. Dodson's king bests Guzman's two.
+
+**GARCIA:** Dodson probably didn't need to use a king in that play.
+
+**HUERTA:**  Guzman's queen beats Dodson's five. Guzman beats Dodson with Jack of Clubs over Four of Clubs.
+
+**GARCIA:** What a fight!
+
+**HUERTA:**  Guzman again, King over six. Dodson tops Guzman with King of Spades over Queen of Diamonds. Dodson's ace tops Guzman's ten. Guzman with a Ten of Spades over Six of Diamonds. Guzman beats Dodson with Eight of Diamonds over Seven of Hearts.
+
+**GARCIA:** I bet Dodson wishes they had something higher than a seven on that play.
+
+**HUERTA:**  Six over four, Dodson. Guzman bests Dodson with Five of Spades over Four of Diamonds. Queen over three, Guzman.
+
+**GARCIA:** That queen got the job done, but was it the most strategic play by Guzman?
+
+**HUERTA:**  Guzman wins again. Ten over four. Guzman, Ace over king.
+
+**GARCIA:** Excellent use of an ace by Guzman
+
+**HUERTA:**  Dodson falls to Guzman again, Seven over five. The games tied.
+
+**GARCIA:** Nice use of a seven by Guzman.
+
+**HUERTA:**  Dodson's hand, Nine over two. Guzman beats Dodson with Ace of Hearts over Seven of Diamonds. Dodson's hand, Nine over three. Dodson with a Ten of Clubs over Two of Clubs. Dodson this time with the Ace of Diamonds. Dodson continues streak. Five over three. Dodson leads 30 to 22.
+
+**GARCIA:** Excellent move.
+
+**HUERTA:**  Guzman with a Queen of Spades over Eight of Spades. Dodson's seven bests Guzman's five.
+
+**GARCIA:** Nice use of a seven by Dodson.
+
+**HUERTA:**  Dodson with a Nine of Spades over Four of Clubs. Guzman, Jack over nine.
+
+**GARCIA:** Nice use of a jack by Guzman.
+
+**HUERTA:**  Guzman's hand, King over eight. Sixes all around. War!!! Guzman defeats Dodson with a ten, takes 6 cards. The games tied. Guzman's hand, Seven over two. Guzman's eight loses to Dodson's jack. Jack over four, Dodson. Five over three, Guzman.
+
+**GARCIA:** Great use of a five by Guzman. Neither player is giving an inch.
+
+**HUERTA:**  King over queen, Dodson.
+
+**GARCIA:** Efficient play by Dodson.
+
+**HUERTA:**  Guzman, Three over two. Dodson's king bests Guzman's ten. Dodson's queen bests Guzman's four. Dodson's ten falls to Guzman's king. Aces. War!!! Guzman's seven wins the battle taking 6 cards. Dodson, Nine over seven. Guzman's hand, Ace over two.
+
+**GARCIA:** Guzman over paid for that two.
+
+**HUERTA:**  Guzman beats Dodson with Eight of Spades over Three of Hearts. Another for Guzman with Queen over nine. Guzman leads 30 to 22. Guzman's hand, Jack over two.
+
+**GARCIA:** Guzman is looking good.
+
+**HUERTA:**  Ten over nine, Dodson. Guzman's eight falls to Dodson's ace.
+
+**GARCIA:** I can't remember when we started this game, and I don't see when we are going to finish.
+
+**HUERTA:**  Guzman's king beats Dodson's jack.
+
+**GARCIA:** Efficient play by Guzman.
+
+**HUERTA:**  Guzman bests Dodson with Six of Hearts over Three of Clubs. Guzman continues streak. Queen over five. Guzman continues streak. Six over five. Guzman wins again. Ten over seven. Guzman leads 34 to 18.
+
+**GARCIA:** Dodson is stumbling a little.
+
+**HUERTA:**  Another for Guzman with Six over four.
+
+**GARCIA:** Excellent use of a six by Guzman I think Dodson should try some higher value cards.
+
+**HUERTA:**  Dodson with a Nine of Spades over Eight of Clubs.
+
+**GARCIA:** Dodson just showed us how its done.
+
+**HUERTA:**  Dodson, Jack over seven. Dodson again, Eight over two. Dodson keeps going. Four over three.
+
+**GARCIA:** Dodson is looking good.
+
+**HUERTA:**  Dodson again, Jack over five. Guzman leads 30 to 22. Guzman's three loses to Dodson's king.
+
+**GARCIA:** Someone should tell Guzman the match isn't over.
+
+**HUERTA:**  Another for Dodson, Queen over two.
+
+**GARCIA:** What a streak for Dodson.
+
+**HUERTA:**  Guzman tops Dodson with King of Clubs over Ten of Hearts.
+
+**GARCIA:** Guzman decided it is time to fight back.
+
+**HUERTA:**  Dodson, King over ten. Guzman's ace bests Dodson's four.
+
+**GARCIA:** I hope Guzman doesn't need that ace when something bigger comes along.
+
+**HUERTA:**  Dodson beats Guzman with Queen of Diamonds over Four of Hearts. Dodson with a Nine of Clubs over Seven of Clubs. Dodson does it again. Seven over six. The games tied. Guzman beats Dodson with Ace of Clubs over Nine of Hearts. Dodson's hand, Ten over five. Dodson with an Ace of Diamonds over Two of Diamonds. Guzman, Ace over eight. Eights. War! Guzman defeats Dodson with a nine, takes 6 cards.
+
+**GARCIA:** Efficient play.
+
+**HUERTA:**  Dodson's jack falls to Guzman's queen. Guzman leads 30 to 22. Guzman keeps going. Jack over eight. Two twos. It's a war folks! Guzman's king wins the battle taking 6 cards. Guzman leads 34 to 18. Dodson beats Guzman with Jack of Spades over Three of Clubs. Dodson's five loses to Guzman's six. Dodson's hand, King over queen.
+
+**GARCIA:** Great use of a king by Dodson.
+
+**HUERTA:**  Guzman's five beats Dodson's three.
+
+**GARCIA:** Great use of a five by Guzman.
+
+**HUERTA:**  Dodson, Queen over five. Guzman with a Six of Diamonds over Two of Spades. Dodson's hand, Ten over seven. Dodson with a King of Spades over Ten of Spades. Dodson wins again. Queen over six. Fours all around. It's a war folks! Guzman defeats Dodson with a ten, takes 6 cards.
+
+**GARCIA:** Excellent use of a ten by Guzman
+
+**HUERTA:**  Six over four, Dodson. Ace over seven, Guzman. Dodson's ten tops Guzman's nine.
+
+**GARCIA:** Nice play by Dodson.
+
+**HUERTA:**  Ace over five, Guzman.
+
+**GARCIA:** That ace seems wasted on a five.
+
+**HUERTA:**  Two aces. War! Two threes. War! Dodson's queen wins the battle taking 10 cards. Guzman leads 29 to 23.
+
+**GARCIA:** That's a big prize for Dodson. Guzman is probably stinging from that play.
+
+**HUERTA:**  Guzman's nine falls to Dodson's king. Guzman tops Dodson with Eight of Clubs over Five of Clubs. Dodson with a Queen of Hearts over Nine of Spades. Guzman's queen beats Dodson's seven. Guzman, Jack over ten.
+
+**GARCIA:** Excellent use of a jack by Guzman
+
+**HUERTA:**  Dodson with a Ten of Spades over Eight of Diamonds.
+
+**GARCIA:** Great use of a ten by Dodson.
+
+**HUERTA:**  Dodson, King over jack.
+
+**GARCIA:** Great use of a king by Dodson.
+
+**HUERTA:**  Guzman tops Dodson with King of Hearts over Six of Clubs. Dodson's hand, Queen over four. Guzman, Jack over four. Dodson with a Six of Spades over Two of Hearts. Guzman's three loses to Dodson's ten. Guzman's two falls to Dodson's nine. Another for Dodson with Eight over six. Dodson leads 27 to 25.
+
+**GARCIA:** I bet Guzman wishes they had something higher than a six on that play.
+
+**HUERTA:**  Dodson, Ace over five.
+
+**GARCIA:** Guzman is going to be playing catch up if they don't stop this.
+
+**HUERTA:**  Another for Dodson with Jack over three.
+
+**GARCIA:** Someone should tell Guzman the match isn't over.
+
+**HUERTA:**  Dodson keeps going. Ace over five.
+
+**GARCIA:** Dodson is on fire.
+
+**HUERTA:**  Dodson this time with the Seven of Hearts. Dodson leads 31 to 21.
+
+**GARCIA:** Is Guzman awake?
+
+**HUERTA:**  Dodson again, Queen over two. Guzman's hand, Ten over eight.
+
+**GARCIA:** Guzman's back in it.
+
+**HUERTA:**  Guzman with a Nine of Clubs over Three of Clubs. Dodson falls to Guzman again, Four over two. Guzman's hand, Four over three.
+
+**GARCIA:** Nice use of a four by Guzman.
+
+**HUERTA:**  Dodson with a Nine of Diamonds over Seven of Clubs. Two kings. War! Guzman loses the battle. Dodson takes 6 cards.
+
+**GARCIA:** Nice use of a nine by Dodson.
+
+**HUERTA:**  Dodson tops Guzman with Ten of Spades over Five of Hearts. Guzman tops Dodson with Ace of Clubs over Eight of Diamonds. Jack over five, Dodson. Dodson, King over eight. Guzman's hand, Seven over four. Queens all around. War!!! Guzman's jack wins the battle taking 6 cards. Guzman, King over three. Dodson tops Guzman with Ten of Clubs over Six of Clubs. Guzman's jack tops Dodson's two. Guzman's four falls to Dodson's nine. Guzman, Eight over six.
+
+**GARCIA:** Guzman just showed us how its done.
+
+**HUERTA:**  Dodson's eight loses to Guzman's ten. Dodson, Ace over nine. Dodson's five bests Guzman's three. Guzman's hand, Four over three.
+
+**GARCIA:** Nice play.
+
+**HUERTA:**  Dodson's hand, Jack over two. Dodson's hand, Ace over three. Dodson wins again. Five over four. Guzman's ace bests Dodson's seven. Dodson's six falls to Guzman's eight.
+
+**GARCIA:** Excellent use of an eight by Guzman
+
+**HUERTA:**  Another for Guzman, Four over two.
+
+**GARCIA:** Excellent use of a four by Guzman
+
+**HUERTA:**  Dodson with a Queen of Clubs over Seven of Spades. Dodson, Nine over two. Dodson this time with the Seven of Clubs.
+
+**GARCIA:** Excellent use of a seven by Dodson
+
+**HUERTA:**  Dodson this time with the Ace of Spades. Dodson wins again. King over ten.
+
+**GARCIA:** Guzman is stumbling a little.
+
+**HUERTA:**  Dodson does it again. King over queen. Dodson leads 35 to 17. Guzman, Queen over seven. Guzman's three loses to Dodson's nine. King over queen, Guzman. Guzman, Jack over five. Guzman's two loses to Dodson's ten. Dodson's five loses to Guzman's six. Guzman's eight loses to Dodson's jack. Guzman bests Dodson with Ten of Hearts over Eight of Clubs. Guzman's eight loses to Dodson's king. Guzman's three loses to Dodson's ten. Dodson wins again. Six over four. Guzman beats Dodson with Ace of Clubs over Four of Spades. Dodson with a Nine of Hearts over Seven of Hearts. Nine over eight, Dodson. Dodson continues streak. Ace over six. Dodson keeps going. Three over two. Dodson leads 39 to 13.
+
+**GARCIA:** Nice use of a three by Dodson.
+
+**HUERTA:**  Dodson this time with the Five of Spades.
+
+**GARCIA:** Excellent use of a five by Dodson
+
+**HUERTA:**  Dodson's two falls to Guzman's seven. Guzman's queen beats Dodson's jack.
+
+**GARCIA:** Great use of a queen by Guzman.
+
+**HUERTA:**  Guzman's queen loses to Dodson's ace. Guzman's hand, King over three. Dodson's five loses to Guzman's jack. Dodson falls to Guzman again, Five over four. Dodson, Queen over six. Dodson with a Seven of Spades over Five of Clubs.
+
+**GARCIA:** Nice use of a seven by Dodson.
+
+**HUERTA:**  Ten over nine, Guzman. Dodson's two falls to Guzman's eight. Another for Guzman with Ace over seven. Dodson leads 35 to 17. Dodson beats Guzman with Six of Spades over Four of Spades.
+
+**GARCIA:** Nice play by Dodson.
+
+**HUERTA:**  Dodson with an Ace of Spades over Two of Diamonds.
+
+**GARCIA:** Dodson probably didn't need to use an ace in that play.
+
+**HUERTA:**  Dodson again, Jack over seven. Dodson keeps going. King over jack. Dodson leads 39 to 13.
+
+**GARCIA:** Nice use of a king by Dodson. Guzman is going to be playing catch up if they don't stop this.
+
+**HUERTA:**  Guzman's queen beats Dodson's ten. Dodson, King over three. Guzman's king tops Dodson's queen. Nine over five, Dodson. Guzman's hand, Jack over three. Guzman beats Dodson with Five of Hearts over Two of Clubs. Dodson bests Guzman with Ten of Spades over Four of Clubs. Dodson, Jack over nine. Guzman, Ten over eight.
+
+**GARCIA:** Excellent use of a ten by Guzman
+
+**HUERTA:**  Guzman's two falls to Dodson's eight. Guzman's eight falls to Dodson's king. Guzman with an Ace of Clubs over Three of Diamonds. Dodson, Ten over seven. Guzman's hand, Queen over six. Ten over four, Guzman. Guzman again, King over seven. Guzman wins again. Queen over nine. Guzman keeps going. Jack over eight. Dodson leads 35 to 17.
+
+**GARCIA:** Is Guzman going to take this somewhere?
+
+**HUERTA:**  Dodson's nine beats Guzman's three. Ace over five, Dodson.
+
+**GARCIA:** That ace seems wasted on a five.
+
+**HUERTA:**  Another for Dodson, Six over two. Guzman with an Eight of Hearts over Three of Clubs. Guzman's hand, Ten over two. Dodson with a Five of Spades over Three of Diamonds.
+
+**GARCIA:** Dodson just showed us how its done.
+
+**HUERTA:**  Guzman, Ace over four.
+
+**GARCIA:** That ace seems wasted on a four.
+
+**HUERTA:**  Guzman's six loses to Dodson's ace. Queens all around. War! Dodson defeats Guzman with a queen, takes 6 cards. Dodson leads 40 to 12. Guzman with a King of Hearts over Five of Clubs. Two sevens. War!! Guzman defeats Dodson with a nine, takes 6 cards. Dodson leads 36 to 16. Guzman's jack bests Dodson's two.
+
+**GARCIA:** Neither player is giving an inch.
+
+**HUERTA:**  Dodson's ace beats Guzman's eight. Dodson, Jack over three. Guzman beats Dodson with Eight of Hearts over Seven of Diamonds.
+
+**GARCIA:** Guzman just showed us how its done.
+
+**HUERTA:**  Dodson's jack bests Guzman's two. Dodson with a King of Clubs over Ten of Hearts. Another for Dodson with King over four. Guzman with an Ace of Clubs over Three of Hearts. Dodson's nine bests Guzman's five. Guzman, King over five. Dodson bests Guzman with Ten of Spades over Seven of Spades. Seven over four, Guzman. Queen over jack, Guzman.
+
+**GARCIA:** Excellent use of a queen by Guzman
+
+**HUERTA:**  Nines. We have a war! Dodson's eight wins the battle taking 6 cards. Dodson leads 40 to 12. Jack over eight, Guzman. Dodson, King over two. Ten over seven, Dodson. Dodson's seven falls to Guzman's eight. Guzman, Ace over nine. Threes. We have a war! Dodson defeats Guzman with an ace, takes 6 cards.
+
+**GARCIA:** Great use of an ace by Dodson.
+
+**HUERTA:**  Guzman's hand, Seven over two. Six over four, Dodson. Guzman with a Queen of Spades over Three of Diamonds. Dodson's five loses to Guzman's jack. Dodson's hand, Ace over eight. Guzman's hand, Jack over six. Queen over seven, Dodson. Queen over eight, Dodson. Guzman, Ace over six. Guzman beats Dodson with Nine of Clubs over Four of Hearts. Dodson, Ten over seven. Dodson beats Guzman with Queen of Diamonds over Two of Clubs. Dodson again, Eight over three. Dodson does it again. Ace over queen. Dodson leads 44 to 8. Guzman, Jack over three. Dodson's hand, Jack over five. Guzman's six beats Dodson's two. Two jacks. War!! Dodson defeats Guzman with a king, takes 6 cards. Guzman with a Nine of Clubs over Four of Diamonds. Guzman's four falls to Dodson's king. Dodson beats Guzman with Nine of Spades over Three of Clubs.
+
+**GARCIA:** It's getting close folks.
+
+**HUERTA:**  Guzman's jack tops Dodson's five. Dodson's hand, Ten over two. Dodson with a Seven of Spades over Six of Clubs. Dodson leads 48 to 4.
+
+**GARCIA:** Dodson likes where this is going.
+
+**HUERTA:**  Nine over eight, Guzman.
+
+**GARCIA:** Smart move by Guzman.
+
+**HUERTA:**  Dodson with a Nine of Diamonds over Four of Diamonds.
+
+**GARCIA:** In just a few plays we could have a result.
+
+**HUERTA:**  Dodson's six falls to Guzman's jack. Guzman's five falls to Dodson's nine.
+
+**GARCIA:** We're almost there.
+
+**HUERTA:**  Guzman's nine beats Dodson's four.
+
+**GARCIA:** It's getting close folks.
+
+**HUERTA:**  Eight over two, Guzman. Guzman's jack tops Dodson's two.
+
+**GARCIA:** Guzman probably didn't need to use a jack in that play.
+
+**HUERTA:**  Guzman's six falls to Dodson's king. Dodson with a Ten of Clubs over Nine of Clubs.
+
+**GARCIA:** We're almost there.
+
+**HUERTA:**  Dodson with a Seven of Diamonds over Four of Spades.
+
+**GARCIA:** It's getting tight. Dodson must be feeling good.
+
+**HUERTA:**  Dodson this time with the Five of Diamonds.
+
+**GARCIA:** Dodson is looking good.
+
+**HUERTA:**  Dodson does it again. Ace over eight.
+
+**GARCIA:** Dodson likes where this is going.This could be it.
+
+**HUERTA:**  Guzman falls to Dodson again, King over jack.
+
+**GARCIA:** Dodson is on fire. This could be it.
+
+**HUERTA:** Dodson has gotten their revenge. Dodson wins in 841 hands.
+
+**GARCIA:** That was a long one. I need to call home to let them know I'm still alive. Katherine Dodson dominated that match. 
+
+**HUERTA:** Katherine Dodson goes on to Game 3 of the 2nd round where they will face the winner of game 6. 
 
 ## Game 6, Round 1
 
-**MCLAUGHLIN:** What a alive day for war.
+**GARCIA:** What a better day for war.
 
-**QUINTERO:** Hello, I'm Regina Quintero.
+**HUERTA:** Hello, I'm Daryl Huerta.
 
-**MCLAUGHLIN:** And I am Bentley McLaughlin.
+**GARCIA:** And I am Ray Garcia.
 
-**QUINTERO:** This is Game 6 of the 1st round of the War Championship. Our players today: Ryder Small and Melody Fletcher. Small bested Fletcher in their last game. What can we expect from them today, Bentley?
+**HUERTA:** Welcome to Game 6 of the 1st round of the War Championship. Our players today: Marcus Xiong and Natalia Benson. In their last meeting, Xiong defeated Benson. What are we in for today, Ray?
 
-**MCLAUGHLIN:** Fletcher really couldn't hold on to the lead for very long. As you know Regina, its all in the cards.
+**GARCIA:** Despite losing, Benson lead for more hands than Xiong. I'm sure Benson is looking for a change in results, but its all in the cards, Daryl.
 
-**QUINTERO:** The dealer has signaled the start of the match. Fletcher's two loses to Small's queen. Small's seven loses to Fletcher's king. Two fours. War! Small loses the battle. Fletcher takes 6 cards. Small's two falls to Fletcher's queen. Fletcher leads 30 to 22. Fletcher this time with the King of Hearts. Another for Fletcher, Jack over three.
+**HUERTA:** Xiong and Benson are ready. Here we go. Benson's hand, Ace over eight. Xiong bests Benson with Five of Spades over Three of Spades. Jack over ten, Xiong.
 
-**MCLAUGHLIN:** Small is stumbling a little.
+**GARCIA:** Great use of a jack by Xiong.
 
-**QUINTERO:**  Fletcher keeps going. Seven over five.
+**HUERTA:**  Benson falls to Xiong again, Nine over five. Benson, Jack over nine.
 
-**MCLAUGHLIN:** Fletcher just showed us how its done.
+**GARCIA:** Excellent use of a jack by Benson
 
-**QUINTERO:**  Small, Ace over ten. Fletcher's five falls to Small's ace. Sixes. War!! Fletcher loses the battle. Small takes 6 cards. Small bests Fletcher with King of Spades over Eight of Spades. Fletcher with an Ace of Clubs over Ten of Diamonds. Fletcher's five loses to Small's eight. Small's four bests Fletcher's two. The games tied.
+**HUERTA:**  Xiong, Ace over eight. Xiong's hand, Eight over four. Benson, Five over four. Xiong's three falls to Benson's ace. Xiong with a King of Clubs over Three of Hearts. Xiong with a Queen of Hearts over Nine of Clubs. King over nine, Benson. Benson's seven falls to Xiong's jack. Ace over king, Xiong. Xiong leads 30 to 22.
 
-**MCLAUGHLIN:** Great use of a four by Small.
+**GARCIA:** Nice use of an ace by Xiong.
 
-**QUINTERO:**  Small does it again. Seven over three. Another for Small, Nine over four. Small keeps going. Ten over eight.
+**HUERTA:**  Xiong's six falls to Benson's seven. Xiong's hand, King over queen.
 
-**MCLAUGHLIN:** Fletcher is going to be playing catch up if they don't stop this.
+**GARCIA:** Xiong just showed us how its done.
 
-**QUINTERO:**  Fletcher beats Small with Jack of Diamonds over Two of Clubs.
+**HUERTA:**  Two twos. We have a war! Xiong defeats Benson with a ten, takes 6 cards. Xiong's hand, Ten over two. Xiong leads 34 to 18. Benson falls to Xiong again, Ten over seven. Benson falls to Xiong again, Queen over five.
 
-**MCLAUGHLIN:** Fletcher over paid for that two.
+**GARCIA:** Benson is going to be playing catch up if they don't stop this.
 
-**QUINTERO:**  Small with a Nine of Hearts over Three of Spades. Small's hand, Nine over eight. Small leads 30 to 22. Two queens. We have a war! Small defeats Fletcher with a queen, takes 6 cards. Fletcher with a King of Clubs over Two of Hearts.
+**HUERTA:**  Xiong's four falls to Benson's six. Benson's two loses to Xiong's six. Xiong's eight falls to Benson's queen. Xiong's hand, Jack over seven. Benson's hand, Eight over three. Ace over five, Benson. Ten over nine, Xiong. Two jacks. We have a war! Benson loses the battle. Xiong takes 6 cards. Xiong leads 38 to 14. Aces all around. We have a war! Xiong loses the battle. Benson takes 6 cards.
 
-**MCLAUGHLIN:** Fletcher over paid for that two.
+**GARCIA:** What a fight!
 
-**QUINTERO:**  Small's ten beats Fletcher's four. Small beats Fletcher with Ace of Hearts over Four of Hearts. Small leads 34 to 18. Fletcher falls to Small again, Ace over nine. King over five, Fletcher. Six over five, Fletcher.
+**HUERTA:**  Benson, Nine over four. Xiong leads 34 to 18. Xiong's hand, King over seven. Benson with a Six of Spades over Three of Hearts. Benson's six falls to Xiong's nine. Xiong's hand, Queen over four. Benson's eight beats Xiong's seven. Benson's hand, Queen over jack.
 
-**MCLAUGHLIN:** Nice use of a six by Fletcher.
+**GARCIA:** I bet Xiong wishes they had something higher than a jack on that play.
 
-**QUINTERO:**  Ten over seven, Small. Small bests Fletcher with Ace of Spades over Two of Spades. Fletcher, Queen over jack.
+**HUERTA:**  Ace over three, Xiong. Xiong's king beats Benson's eight. Another for Xiong with King over five. Xiong's queen falls to Benson's ace.
 
-**MCLAUGHLIN:** Fletcher just showed us how its done.
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Fletcher tops Small with King of Hearts over Six of Diamonds. Another for Fletcher, Jack over six. Fletcher's three falls to Small's king. Small's eight falls to Fletcher's jack. Small beats Fletcher with Eight of Diamonds over Seven of Hearts. Fives all around. War! Small loses the battle. Fletcher takes 6 cards. Small leads 30 to 22. Small with a Seven of Spades over Two of Clubs. Fletcher's hand, Jack over three. Small's hand, Four over two.
+**HUERTA:**  Benson's ace bests Xiong's two.
 
-**MCLAUGHLIN:** Excellent use of a four by Small
+**GARCIA:** Benson over paid for that two.
 
-**QUINTERO:**  Fletcher beats Small with King of Clubs over Nine of Clubs. Fletcher's hand, King over ten. Small's hand, Eight over five. Fletcher bests Small with Six of Clubs over Three of Spades. Nine over five, Small. Fletcher with a Jack of Clubs over Nine of Spades.
+**HUERTA:**  Another for Benson with King over three. Benson this time with the Eight of Diamonds.
 
-**MCLAUGHLIN:** Well played by Fletcher.
+**GARCIA:** Smart move. Benson has got some momentum.
 
-**QUINTERO:**  Fletcher, Queen over eight. Fletcher tops Small with King of Hearts over Three of Diamonds. Small's seven tops Fletcher's six.
+**HUERTA:**  Another for Benson with Three over two.
 
-**MCLAUGHLIN:** Great use of a seven by Small.
+**GARCIA:** Excellent use of a three by Benson Benson might be making a move.
 
-**QUINTERO:**  Fletcher, Jack over six. Small with a Queen of Hearts over Six of Hearts. Small, Queen over eight. Small keeps going. Queen over jack.
+**HUERTA:**  Benson continues streak. Ace over ten.
 
-**MCLAUGHLIN:** Great use of a queen by Small.
+**GARCIA:** Is Xiong awake?
 
-**QUINTERO:**  Two fours. War! Fletcher loses the battle. Small takes 6 cards. Fletcher's ace tops Small's four.
+**HUERTA:**  Benson wins again. Eight over four. Xiong leads 30 to 22.
 
-**MCLAUGHLIN:** I hope Fletcher doesn't need that ace when something bigger comes along.
+**GARCIA:** Someone should tell Xiong the match isn't over.
 
-**QUINTERO:**  Small's nine beats Fletcher's five. Small with an Ace of Diamonds over Five of Clubs. Small leads 34 to 18.
+**HUERTA:**  Benson continues streak. Four over two.
 
-**MCLAUGHLIN:** I hope Small doesn't need that ace when something bigger comes along.
+**GARCIA:** Well played by Benson. I think Xiong should try some higher value cards.
 
-**QUINTERO:**  Small does it again. Ten over three. Fletcher, Jack over seven. Fletcher's king bests Small's two. Small, Ace over nine. Fletcher with a Ten of Hearts over Three of Hearts. Kings. War!! Small's eight wins the battle taking 6 cards.
+**HUERTA:**  Xiong, Ten over nine.
 
-**MCLAUGHLIN:** Excellent use of an eight by Small
+**GARCIA:** That's a start for Xiong.
 
-**QUINTERO:**  Small's seven falls to Fletcher's jack. Small's two falls to Fletcher's nine. Fletcher's eight tops Small's four. Small falls to Fletcher again, Queen over two.
+**HUERTA:**  Benson's six falls to Xiong's ten. Xiong continues streak. Seven over three. Benson with an Eight of Clubs over Five of Diamonds. Xiong with a Queen of Clubs over Seven of Hearts. Jack over six, Benson. Queen over two, Benson. Benson wins again. Ace over jack. Benson does it again. Queen over seven. Xiong tops Benson with Ten of Spades over Two of Diamonds. Xiong's nine falls to Benson's ace. Xiong's five beats Benson's three.
 
-**MCLAUGHLIN:** Fletcher might be making a move.
+**GARCIA:** I bet Benson wishes they had something higher than a three on that play.
 
-**QUINTERO:**  Small's five beats Fletcher's three.
+**HUERTA:**  Benson, King over jack. Six over four, Benson.
 
-**MCLAUGHLIN:** Great use of a five by Small.
+**GARCIA:** Excellent use of a six by Benson
 
-**QUINTERO:**  Fletcher's hand, King over eight. Small's nine falls to Fletcher's jack. Fletcher wins again. Six over five. Small leads 30 to 22.
+**HUERTA:**  Benson does it again. Eight over five. The games tied. Xiong bests Benson with Nine of Diamonds over Two of Clubs. Benson's three loses to Xiong's jack. Benson's hand, Ace over king. Benson's hand, Ten over seven. Another for Benson, Eight over six.
 
-**MCLAUGHLIN:** Nice use of a six by Fletcher.
+**GARCIA:** Nice use of an eight by Benson.
 
-**QUINTERO:**  Small's seven bests Fletcher's four. Small's six loses to Fletcher's ace. Small's queen beats Fletcher's jack.
+**HUERTA:**  Xiong's hand, Nine over four. Xiong with a Queen of Hearts over Four of Clubs. Another for Xiong, Four over two.
 
-**MCLAUGHLIN:** I bet Fletcher wishes they had something higher than a jack on that play.
+**GARCIA:** Excellent use of a four by Xiong
 
-**QUINTERO:**  Seven over six, Fletcher.
+**HUERTA:**  Benson's five tops Xiong's three.
 
-**MCLAUGHLIN:** Nice use of a seven by Fletcher.
+**GARCIA:** Great use of a five by Benson.
 
-**QUINTERO:**  Fletcher's hand, King over queen.
+**HUERTA:**  Xiong, Ace over eight. Benson's hand, Jack over eight. Xiong tops Benson with King of Hearts over Six of Clubs. King over two, Xiong.
 
-**MCLAUGHLIN:** I bet Small wishes they had something higher than a queen on that play.
+**GARCIA:** Xiong over paid for that two.
 
-**QUINTERO:**  Small, Eight over two. Small bests Fletcher with Queen of Clubs over Three of Hearts. Small does it again. Jack over ten. Small's four loses to Fletcher's seven. Fletcher's hand, Jack over ten.
+**HUERTA:**  Benson's queen tops Xiong's five. Benson's hand, Ace over ten. Another for Benson, Jack over nine.
 
-**MCLAUGHLIN:** Excellent use of a jack by Fletcher
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Two twos. It's a war folks! Small's ace wins the battle taking 6 cards. Small bests Fletcher with Ten of Clubs over Four of Clubs. Small leads 34 to 18. Fletcher with a Queen of Spades over Five of Diamonds. Small's hand, Nine over two. Fletcher beats Small with King of Hearts over Five of Clubs. Small, Ace over eight. Small's hand, Ten over nine.
+**HUERTA:**  Another for Benson, Queen over ten.
 
-**MCLAUGHLIN:** Small just showed us how its done.
+**GARCIA:** Xiong should nip this run in the bud.
 
-**QUINTERO:**  Small's three falls to Fletcher's jack.
+**HUERTA:**  Xiong falls to Benson again, Seven over six.
 
-**MCLAUGHLIN:** Neither player is giving an inch.
+**GARCIA:** Xiong is stumbling a little.
 
-**QUINTERO:**  Nine over five, Small. Small with an Ace of Spades over Six of Spades. Small again, Eight over six.
+**HUERTA:**  Benson this time with the Ace of Clubs.
 
-**MCLAUGHLIN:** Great use of an eight by Small.
+**GARCIA:** Someone should tell Xiong the match isn't over.
 
-**QUINTERO:**  Small's king falls to Fletcher's ace.
+**HUERTA:**  Benson again, Nine over three. Benson leads 30 to 22.
 
-**MCLAUGHLIN:** I bet Small wishes they had something higher than a king on that play.
+**GARCIA:** I think Xiong should try some higher value cards.
 
-**QUINTERO:**  Small, King over seven. Two sixes. It's a war folks! Fletcher's king wins the battle taking 6 cards. Small tops Fletcher with Five of Hearts over Four of Spades.
+**HUERTA:**  Xiong's hand, Queen over jack.
 
-**MCLAUGHLIN:** Great use of a five by Small.
+**GARCIA:** Xiong's back in it.
 
-**QUINTERO:**  Fletcher with a Seven of Spades over Three of Diamonds. Fletcher's hand, Jack over four. Fletcher with a Ten of Diamonds over Seven of Diamonds. Two queens. War!!! Fletcher's king wins the battle taking 6 cards. Small leads 29 to 23. Small's two falls to Fletcher's five. Small's hand, Queen over jack.
+**HUERTA:**  Benson tops Xiong with King of Diamonds over Seven of Hearts. Xiong, Ten over six. Benson's four tops Xiong's two.
 
-**MCLAUGHLIN:** Small just showed us how its done.
+**GARCIA:** I bet Xiong wishes they had something higher than a two on that play.
 
-**QUINTERO:**  Two threes. War! Small loses the battle. Fletcher takes 6 cards. Ace over three, Small. Fletcher tops Small with Six of Hearts over Two of Clubs. Fletcher tops Small with Seven of Hearts over Two of Diamonds. Fletcher leads 27 to 25. Fletcher does it again. Queen over four. Small's eight tops Fletcher's six. Fletcher's king bests Small's nine. Small beats Fletcher with Four of Clubs over Three of Diamonds.
+**HUERTA:**  Five over three, Benson.
 
-**MCLAUGHLIN:** Well played by Small.
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Small bests Fletcher with Ten of Clubs over Seven of Spades. Fletcher, Jack over two. Nine over four, Small. Ace over seven, Small. Fletcher's ten bests Small's eight.
+**HUERTA:**  Benson keeps going. Eight over five. Benson again, King over two.
 
-**MCLAUGHLIN:** Nice play.
+**GARCIA:** Benson is looking good.
 
-**QUINTERO:**  Fletcher, Jack over nine. Fletcher does it again. Queen over ten. Fletcher does it again. King over nine. Another for Fletcher with Eight over five.
+**HUERTA:**  Benson wins again. Ace over nine. Benson leads 34 to 18. Benson with a Ten of Clubs over Three of Diamonds.
 
-**MCLAUGHLIN:** Small is stumbling a little.
+**GARCIA:** I think Xiong should try some higher value cards.
 
-**QUINTERO:**  Small, Ace over queen.
+**HUERTA:**  Benson's seven loses to Xiong's jack. Benson, Eight over four. Xiong's hand, Nine over six. Xiong bests Benson with Queen of Hearts over Five of Diamonds. Xiong again, Four over three.
 
-**MCLAUGHLIN:** Nice use of an ace by Small.
+**GARCIA:** Great use of a four by Xiong.
 
-**QUINTERO:**  Small's six bests Fletcher's five. Another for Small, Six over two. Small continues streak. Eight over five. Fletcher's king beats Small's seven. Small's king tops Fletcher's ten. Fletcher's ace tops Small's five. Small's four bests Fletcher's three. Jacks. War! Fletcher loses the battle. Small takes 6 cards. Small leads 29 to 23. Fletcher's six tops Small's three. Small, Six over two. Small with an Eight of Clubs over Seven of Hearts.
+**HUERTA:**  Benson, Eight over two. Benson's jack beats Xiong's four. Benson does it again. Queen over eight. Ace over five, Xiong. Benson's hand, Ten over six. Ace over king, Benson. Benson wins again. Jack over two.
 
-**MCLAUGHLIN:** Excellent move by Small.
+**GARCIA:** That jack got the job done, but was it the most strategic play by Benson?
 
-**QUINTERO:**  Four over three, Fletcher. Fletcher's queen bests Small's four. Another for Fletcher, King over ten. Fletcher wins again. Nine over seven.
+**HUERTA:**  Xiong beats Benson with King of Spades over Nine of Hearts. Two queens. War!!! Benson loses the battle. Xiong takes 6 cards. Two sixes. War!! Benson defeats Xiong with an ace, takes 6 cards. Xiong's hand, Nine over three. Benson's nine tops Xiong's six. Xiong's five falls to Benson's king. Queen over seven, Xiong. Benson's four tops Xiong's three.
 
-**MCLAUGHLIN:** I think Fletcher is going somewhere.
+**GARCIA:** Nice use of a four by Benson.
 
-**QUINTERO:**  Another for Fletcher, Jack over four. Fletcher leads 27 to 25.
+**HUERTA:**  Xiong's four beats Benson's two.
 
-**MCLAUGHLIN:** Fletcher has got some momentum.
+**GARCIA:** They are really going toe to toe in this game.
 
-**QUINTERO:**  Small's hand, Nine over two. Fletcher's ten beats Small's seven. Small tops Fletcher with Ace of Diamonds over Eight of Hearts. Small's queen beats Fletcher's jack.
+**HUERTA:**  Benson's three falls to Xiong's ace. Two fives. We have a war! Benson loses the battle. Xiong takes 6 cards. Benson's hand, King over queen. Xiong with a Ten of Hearts over Two of Clubs. Queen over nine, Xiong. Xiong's ten falls to Benson's ace. Xiong, Seven over three. Xiong's hand, Jack over ten. Benson leads 30 to 22.
 
-**MCLAUGHLIN:** Smart move.
+**GARCIA:** Nice use of a jack by Xiong.
 
-**QUINTERO:**  Small keeps going. Ace over nine. Fletcher bests Small with Queen of Spades over Five of Diamonds. Fletcher's hand, Ten over six. Another for Fletcher, King over six. Fletcher continues streak. Nine over two. Small with an Eight of Diamonds over Five of Spades. Fletcher, Eight over five. Small, King over seven. Fletcher's hand, King over ten. Fletcher's hand, Ace over three. Fletcher wins again. Five over four.
+**HUERTA:**  Benson, Four over three.
 
-**MCLAUGHLIN:** Nice play.
+**GARCIA:** Benson and Xiong are trading punch for punch.
 
-**QUINTERO:**  Small beats Fletcher with Jack of Hearts over Three of Spades. Small's hand, Jack over six. Two threes. It's a war folks! Fletcher loses the battle. Small takes 6 cards.
+**HUERTA:**  Xiong's hand, Nine over eight. Xiong, Queen over two.
 
-**MCLAUGHLIN:** Excellent use of an ace by Small
+**GARCIA:** Xiong over paid for that two.
 
-**QUINTERO:**  Small's queen bests Fletcher's four. Fletcher bests Small with King of Clubs over Two of Diamonds.
+**HUERTA:**  Benson with an Eight of Spades over Seven of Hearts.
 
-**MCLAUGHLIN:** That king seems wasted on a two.
+**GARCIA:** Excellent use of an eight by Benson
 
-**QUINTERO:**  Fletcher with a Ten of Clubs over Six of Clubs. Fletcher continues streak. Nine over eight. Two sevens. We have a war! Fletcher defeats Small with a jack, takes 6 cards. Fletcher, Ten over eight. Fletcher leads 31 to 21.
+**HUERTA:**  Benson's hand, Jack over four. Benson wins again. Four over two.
 
-**MCLAUGHLIN:** I bet Small wishes they had something higher than an eight on that play.
+**GARCIA:** Excellent use of a four by Benson
 
-**QUINTERO:**  Small with an Ace of Diamonds over Seven of Diamonds. Small's jack falls to Fletcher's queen.
+**HUERTA:**  Another for Benson, Queen over three. Xiong's ace tops Benson's eight. Benson tops Xiong with Ten of Diamonds over Five of Clubs. Benson bests Xiong with Six of Clubs over Five of Hearts. Benson leads 34 to 18.
 
-**MCLAUGHLIN:** Nice use of a queen by Fletcher.
+**GARCIA:** Excellent use of a six by Benson
 
-**QUINTERO:**  Small tops Fletcher with Queen of Hearts over Five of Diamonds. Fletcher's six falls to Small's nine. Another for Small with Ace over ten. Six over five, Fletcher.
+**HUERTA:**  Benson again, King over nine. Benson continues streak. Ace over eight. Another for Benson with Jack over five.
 
-**MCLAUGHLIN:** I bet Small wishes they had something higher than a five on that play.
+**GARCIA:** Is Benson going to take this somewhere?
 
-**QUINTERO:**  King over eight, Fletcher. Fletcher's two loses to Small's king. Nine over seven, Fletcher.
+**HUERTA:**  King over two, Xiong. Ace over ten, Benson. Benson's hand, Six over two. Benson leads 38 to 14. Nine over seven, Xiong. Xiong tops Benson with Queen of Clubs over Seven of Clubs. Benson's hand, Jack over three. Xiong's hand, Seven over six.
 
-**MCLAUGHLIN:** I bet Small wishes they had something higher than a seven on that play.
+**GARCIA:** Good job.
 
-**QUINTERO:**  Fletcher's hand, Five over three. Jack over eight, Small. Small's jack loses to Fletcher's king. Ten over six, Fletcher. Fletcher does it again. Three over two. Fletcher again, Ace over four. Small's hand, Queen over four. Small's three loses to Fletcher's five.
+**HUERTA:**  Xiong with a Ten of Clubs over Nine of Spades. Another for Xiong with Jack over six. Benson leads 34 to 18. Benson beats Xiong with King of Diamonds over Nine of Clubs. Xiong's hand, Eight over five. Queen over four, Xiong. Benson with a Three of Spades over Two of Spades.
 
-**MCLAUGHLIN:** Good job by Fletcher.
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Fletcher, King over three. Fletcher leads 35 to 17. Ace over two, Small. Small's queen beats Fletcher's six. Fletcher's ten bests Small's four. Fletcher with a Nine of Spades over Seven of Diamonds.
+**HUERTA:**  Benson bests Xiong with King of Clubs over Eight of Clubs. Xiong's hand, Ace over queen. Xiong's two loses to Benson's ace.
 
-**MCLAUGHLIN:** Nice use of a nine by Fletcher.
+**GARCIA:** Benson probably didn't need to use an ace in that play.
 
-**QUINTERO:**  Fletcher's eight loses to Small's ace. Small, Queen over four. Fletcher's hand, Nine over five. Fletcher's jack bests Small's six. Small's nine beats Fletcher's seven.
+**HUERTA:**  Benson's ten falls to Xiong's king. Seven over three, Xiong. Another for Xiong with Nine over four. Eight over seven, Benson.
 
-**MCLAUGHLIN:** I bet Fletcher wishes they had something higher than a seven on that play.
+**GARCIA:** Great use of an eight by Benson.
 
-**QUINTERO:**  Small, Ten over two. Another for Small with Ace over seven. Fletcher's hand, Ten over two. Small's hand, King over eight. Small's eight falls to Fletcher's jack. Fletcher bests Small with Queen of Spades over Jack of Hearts.
+**HUERTA:**  Xiong with a Queen of Clubs over Seven of Hearts. Xiong, Six over four.
 
-**MCLAUGHLIN:** I bet Small wishes they had something higher than a jack on that play.
+**GARCIA:** Xiong just showed us how its done.
 
-**QUINTERO:**  Another for Fletcher with Five over four. Small's queen beats Fletcher's six. Fletcher's hand, Eight over two. Small's hand, Ace over king. Small, Queen over seven. Fletcher, Nine over six. Small, Ace over five. Eight over three, Small. Small's queen falls to Fletcher's king. Fletcher's jack beats Small's four. Small's hand, Seven over six. Ten over nine, Fletcher.
+**HUERTA:**  Benson, Jack over seven. Xiong's hand, Ten over two. Xiong bests Benson with Nine of Spades over Four of Spades. Benson leads 30 to 22. Benson's three falls to Xiong's six. Benson, Queen over jack.
 
-**MCLAUGHLIN:** Fletcher just showed us how its done.
+**GARCIA:** I bet Xiong wishes they had something higher than a jack on that play.
 
-**QUINTERO:**  Ten over two, Small. Fletcher's three beats Small's two. Two aces. War!! Small defeats Fletcher with a king, takes 6 cards. Fletcher leads 31 to 21. Small tops Fletcher with Eight of Hearts over Five of Hearts. Small's six loses to Fletcher's king. Small's hand, Queen over three. Small with an Ace of Hearts over Four of Clubs.
+**HUERTA:**  Eight over five, Xiong. Benson, Ten over five. Benson's hand, Six over four.
 
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Small?
+**GARCIA:** Great use of a six by Benson.
 
-**QUINTERO:**  Another for Small with King over ten. Small this time with the Queen of Clubs. Fletcher leads 27 to 25. Fletcher, Nine over seven. Fletcher's nine beats Small's five. Fletcher's five loses to Small's ace. Fletcher's jack bests Small's three. Small beats Fletcher with Eight of Clubs over Six of Spades. Fletcher's hand, Ten over seven. Small with a Six of Hearts over Two of Spades. Small's two falls to Fletcher's jack.
+**HUERTA:**  Xiong with a Queen of Hearts over Five of Hearts. Queen over nine, Xiong. Xiong this time with the Ace of Diamonds. Benson's ace tops Xiong's king.
 
-**MCLAUGHLIN:** That jack seems wasted on a two.
+**GARCIA:** Great use of an ace by Benson.
 
-**QUINTERO:**  Small, Ten over eight.
+**HUERTA:**  Xiong, Ten over eight.
 
-**MCLAUGHLIN:** Excellent use of a ten by Small
+**GARCIA:** Nice use of a ten by Xiong.
 
-**QUINTERO:**  Fletcher, Jack over seven. Small's three loses to Fletcher's queen.
+**HUERTA:**  Jack over seven, Benson. Benson's five beats Xiong's three.
 
-**MCLAUGHLIN:** We have some real fighters on our hands.
+**GARCIA:** Well played.
 
-**QUINTERO:**  Small's ace bests Fletcher's four.
+**HUERTA:**  Benson keeps going. Ten over four. Benson does it again. Ace over nine. Xiong beats Benson with Queen of Clubs over Six of Spades. Xiong's seven tops Benson's two. Four over three, Xiong.
 
-**MCLAUGHLIN:** Small over paid for that four.
+**GARCIA:** Good job by Xiong.
 
-**QUINTERO:**  Fletcher's five loses to Small's king. Fletcher with an Eight of Diamonds over Four of Diamonds. Ace over two, Small. Fletcher's hand, Nine over eight.
+**HUERTA:**  Benson's hand, Jack over six. Benson tops Xiong with King of Diamonds over Ten of Clubs. Benson this time with the Nine of Clubs. Xiong bests Benson with Nine of Spades over Two of Spades. Xiong with a Four of Spades over Three of Spades. Benson's king bests Xiong's six. Benson's hand, Eight over three. Xiong, Eight over two. Xiong's five falls to Benson's ace. Benson's seven bests Xiong's five.
 
-**MCLAUGHLIN:** Fletcher just showed us how its done.
+**GARCIA:** Great use of a seven by Benson.
 
-**QUINTERO:**  Fletcher, Six over five. Two queens. We have a war! Fletcher's jack wins the battle taking 6 cards. Fletcher leads 33 to 19. Small, Ace over four. Small's hand, King over ten. Another for Small with Ten over nine.
+**HUERTA:**  Queen over eight, Xiong. Xiong beats Benson with Queen of Diamonds over Jack of Clubs. Another for Xiong with Nine over seven. Xiong continues streak. King over queen.
 
-**MCLAUGHLIN:** Nice play by Small.
+**GARCIA:** Nice use of a king by Xiong. Benson is stumbling a little.
 
-**QUINTERO:**  Fletcher falls to Small again, Queen over two. Fletcher leads 29 to 23.
+**HUERTA:**  Xiong this time with the Ace of Diamonds.
 
-**MCLAUGHLIN:** I think Small is going somewhere.
+**GARCIA:** Benson is going to be playing catch up if they don't stop this.
 
-**QUINTERO:**  Small keeps going. Seven over three.
+**HUERTA:**  Ten over eight, Benson.
 
-**MCLAUGHLIN:** Fletcher is going to be playing catch up if they don't stop this.
+**GARCIA:** Nice play by Benson.
 
-**QUINTERO:**  Small keeps going. Ace over six.
+**HUERTA:**  Xiong with a Ten of Spades over Five of Diamonds. Sixes. We have a war! Xiong loses the battle. Benson takes 6 cards. Benson tops Xiong with Ace of Hearts over Seven of Hearts. Xiong falls to Benson again, Jack over three. Benson again, Seven over four. Benson leads 34 to 18.
 
-**MCLAUGHLIN:** Small is on fire.
+**GARCIA:** Benson has got some momentum.
 
-**QUINTERO:**  Fletcher's hand, King over five. Fletcher tops Small with Nine of Spades over Eight of Clubs.
+**HUERTA:**  Benson's three beats Xiong's two.
 
-**MCLAUGHLIN:** Good job by Fletcher.
+**GARCIA:** Benson might be making a move.
 
-**QUINTERO:**  Fletcher again, Seven over six.
+**HUERTA:**  Xiong, Nine over five. Benson's ten beats Xiong's three. Fours. It's a war folks! Benson's ace wins the battle taking 6 cards. Benson leads 38 to 14. Benson's six loses to Xiong's eight. Xiong's hand, Queen over jack.
 
-**MCLAUGHLIN:** Fletcher just showed us how its done.
+**GARCIA:** Well played by Xiong.
 
-**QUINTERO:**  Fletcher again, Nine over six. Small falls to Fletcher again, Five over two.
+**HUERTA:**  Xiong's queen loses to Benson's king. Xiong's hand, Jack over ten.
 
-**MCLAUGHLIN:** Fletcher is looking good.
+**GARCIA:** I bet Benson wishes they had something higher than a ten on that play.
 
-**QUINTERO:**  Fletcher again, Jack over eight. Fletcher leads 33 to 19.
+**HUERTA:**  Xiong's seven beats Benson's two. Two nines. We have a war! Benson defeats Xiong with a king, takes 6 cards.
 
-**MCLAUGHLIN:** Is Small awake?
+**GARCIA:** Benson and Xiong are trading punch for punch.
 
-**QUINTERO:**  Small's hand, Ten over three. Ten over four, Fletcher. Small, Ace over seven. Fletcher beats Small with Jack of Diamonds over Five of Spades. Fletcher's two falls to Small's king. Fletcher with a Jack of Hearts over Two of Diamonds. Fletcher's seven loses to Small's ace. Fletcher's three falls to Small's ace. Fletcher's queen tops Small's four. Small's ten bests Fletcher's four. Small's hand, King over eight.
+**HUERTA:**  Jack over three, Xiong. Xiong, Ace over eight. Benson with an Ace of Spades over Five of Diamonds.
 
-**MCLAUGHLIN:** Small and Fletcher are trading punch for punch.
+**GARCIA:** I hope Benson doesn't need that ace when something bigger comes along.
 
-**QUINTERO:**  Small continues streak. Ten over nine. Fletcher leads 29 to 23.
+**HUERTA:**  Ten over five, Xiong. Xiong, Nine over five. Benson's hand, Seven over five.
 
-**MCLAUGHLIN:** I bet Fletcher wishes they had something higher than a nine on that play.
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Another for Small with Nine over eight. Fletcher with a Six of Clubs over Two of Hearts. Small's queen beats Fletcher's five. Fletcher, King over seven. Fletcher's jack bests Small's three. Fletcher this time with the Queen of Hearts. Fletcher's three loses to Small's ace.
+**HUERTA:**  Benson's ten beats Xiong's six. Eights all around. War! Xiong's queen wins the battle taking 6 cards. Benson leads 34 to 18. Xiong with a Ten of Clubs over Six of Clubs. Xiong this time with the Jack of Clubs. Xiong wins again. Seven over two. Benson's king tops Xiong's two.
 
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Small?
+**GARCIA:** That king got the job done, but was it the most strategic play by Benson?
 
-**QUINTERO:**  Fletcher's queen bests Small's three. Small's ten beats Fletcher's four. Small with an Ace of Spades over King of Clubs.
+**HUERTA:**  Ace over three, Benson. Xiong's jack tops Benson's seven. Xiong's hand, Eight over three. Benson falls to Xiong again, Ace over jack. Benson leads 30 to 22. Xiong's five falls to Benson's seven.
 
-**MCLAUGHLIN:** Excellent use of an ace by Small
+**GARCIA:** Excellent use of a seven by Benson
 
-**QUINTERO:**  Small again, Seven over five.
+**HUERTA:**  Benson's four loses to Xiong's ten. Xiong, Five over two. Xiong keeps going. Nine over three. Benson's ten tops Xiong's eight. Benson's three loses to Xiong's six. Xiong tops Benson with Jack of Hearts over Nine of Diamonds.
 
-**MCLAUGHLIN:** Well played.
+**GARCIA:** Nice use of a jack by Xiong.
 
-**QUINTERO:**  Fletcher's nine bests Small's two. Fletcher's eight falls to Small's king. Sevens. It's a war folks! Fletcher loses the battle. Small takes 6 cards. Small leads 27 to 25. Fletcher's nine tops Small's three. Small's ten tops Fletcher's five. Small beats Fletcher with Four of Diamonds over Two of Spades. Another for Small, King over eight. Fletcher with a Jack of Clubs over Eight of Diamonds. Fletcher bests Small with Ten of Diamonds over Nine of Clubs. Fletcher's four falls to Small's ten. Fletcher with a Jack of Diamonds over Nine of Hearts.
+**HUERTA:**  Xiong again, Queen over eight. The games tied. Benson's ace bests Xiong's queen. Xiong's hand, Eight over four. Ten over four, Xiong. Xiong keeps going. Six over two. Benson with a Queen of Diamonds over Four of Hearts. King over jack, Benson. Benson again, Nine over seven. Another for Benson, Six over two.
 
-**MCLAUGHLIN:** I bet Small wishes they had something higher than a nine on that play.
+**GARCIA:** Is Benson going to take this somewhere?
 
-**QUINTERO:**  Small's hand, Eight over five. Small tops Fletcher with Five of Hearts over Two of Diamonds. Small wins again. Queen over jack.
+**HUERTA:**  Benson keeps going. King over jack.
 
-**MCLAUGHLIN:** Nice use of a queen by Small.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Four over three, Fletcher. Small's ace beats Fletcher's queen. Fletcher with a Six of Clubs over Four of Clubs.
+**HUERTA:**  Xiong falls to Benson again, Nine over seven. Benson leads 30 to 22.
 
-**MCLAUGHLIN:** Excellent use of a six by Fletcher
+**GARCIA:** Benson ate their Wheaties today.
 
-**QUINTERO:**  Fletcher's two loses to Small's ten. Small, Ace over king. Small leads 31 to 21.
+**HUERTA:**  Another for Benson with King over three.
 
-**MCLAUGHLIN:** Efficient play.
+**GARCIA:** Benson ate their Wheaties today.
 
-**QUINTERO:**  Small again, King over seven. Small this time with the Five of Diamonds.
+**HUERTA:**  Benson wins again. Queen over eight. Xiong's ace tops Benson's five.
 
-**MCLAUGHLIN:** Small just showed us how its done.
+**GARCIA:** Xiong finally get's a punch in.
 
-**QUINTERO:**  Small's seven falls to Fletcher's jack. Small with a King of Spades over Queen of Hearts.
+**HUERTA:**  Benson bests Xiong with Ace of Spades over Jack of Spades. Benson's hand, Five over four.
 
-**MCLAUGHLIN:** I bet Fletcher wishes they had something higher than a queen on that play.
+**GARCIA:** Great use of a five by Benson.
 
-**QUINTERO:**  Small's eight tops Fletcher's six.
+**HUERTA:**  Ten over seven, Xiong. Benson bests Xiong with Ten of Diamonds over Two of Spades. Benson's six beats Xiong's five. Benson leads 34 to 18. Benson does it again. King over three.
 
-**MCLAUGHLIN:** Excellent use of an eight by Small
+**GARCIA:** Benson probably didn't need to use a king in that play.
 
-**QUINTERO:**  Small again, Seven over three. Small leads 35 to 17. Fletcher's hand, Queen over six. Small beats Fletcher with Ace of Clubs over Nine of Spades. Six over two, Small. Small continues streak. Ace over nine. Another for Small, Seven over three.
+**HUERTA:**  Xiong with a Nine of Spades over Two of Diamonds. Benson's hand, Ace over six. Two threes. It's a war folks! Xiong defeats Benson with a jack, takes 6 cards. Benson, Ten over eight.
 
-**MCLAUGHLIN:** Fletcher is stumbling a little.
+**GARCIA:** Nice use of a ten by Benson.
 
-**QUINTERO:**  Fletcher bests Small with Jack of Clubs over Ten of Hearts.
+**HUERTA:**  Benson's eight falls to Xiong's queen. Benson with an Ace of Clubs over Eight of Spades. Benson's hand, Queen over four. Xiong with a Ten of Clubs over Four of Hearts. Benson with a Queen of Diamonds over Four of Spades. Benson beats Xiong with Jack of Clubs over Two of Hearts.
 
-**MCLAUGHLIN:** Great use of a jack by Fletcher.
+**GARCIA:** We have some real fighters on our hands.
 
-**QUINTERO:**  Small's five falls to Fletcher's eight. Fletcher does it again. Nine over two. Fletcher's hand, Ten over four. Small's hand, King over jack. Nine over eight, Fletcher. Fours all around. War! Small's eight wins the battle taking 6 cards.
+**HUERTA:**  Another for Benson, King over six. Benson continues streak. Nine over five.
 
-**MCLAUGHLIN:** Excellent move.
+**GARCIA:** Xiong is stumbling a little.
 
-**QUINTERO:**  Small's five tops Fletcher's four.
+**HUERTA:**  Xiong with an Ace of Diamonds over Seven of Spades. Xiong with a Seven of Clubs over Six of Diamonds. Xiong continues streak. Ten over two. Benson bests Xiong with King of Clubs over Nine of Spades. Jack over two, Benson.
 
-**MCLAUGHLIN:** Small just showed us how its done.
+**GARCIA:** That jack seems wasted on a two.
 
-**QUINTERO:**  Fletcher's seven tops Small's two. Fletcher with a Jack of Spades over Five of Hearts. Queens. War!!! Small defeats Fletcher with an ace, takes 6 cards. Small leads 39 to 13. Fletcher's jack loses to Small's queen.
+**HUERTA:**  Nines all around. War! Benson loses the battle. Xiong takes 6 cards. Benson with a King of Hearts over Three of Clubs. Benson, Eight over three. Benson wins again. Queen over jack.
 
-**MCLAUGHLIN:** Great use of a queen by Small.
+**GARCIA:** I bet Xiong wishes they had something higher than a jack on that play.
 
-**QUINTERO:**  Fletcher with an Eight of Diamonds over Two of Hearts.
+**HUERTA:**  Xiong falls to Benson again, Ace over queen.
 
-**MCLAUGHLIN:** They are really going toe to toe in this game.
+**GARCIA:** I bet Xiong wishes they had something higher than a queen on that play. Is Benson going to take this somewhere?
 
-**QUINTERO:**  Small's ten bests Fletcher's five. Small's hand, Ace over two.
+**HUERTA:**  Another for Benson, Jack over eight. Benson leads 38 to 14.
 
-**MCLAUGHLIN:** Small over paid for that two.
+**GARCIA:** Xiong is going to be playing catch up if they don't stop this.
 
-**QUINTERO:**  Small again, King over nine. Another for Small with King over ten. Small leads 43 to 9. Small continues streak. Seven over four.
+**HUERTA:**  Benson wins again. Five over four.
 
-**MCLAUGHLIN:** Fletcher should nip this run in the bud.
+**GARCIA:** I think Xiong should try some higher value cards.
 
-**QUINTERO:**  Fletcher with a Nine of Hearts over Three of Hearts. Fletcher's hand, Eight over five. Fletcher's two falls to Small's king. Small's hand, Queen over seven. Small this time with the Six of Diamonds.
+**HUERTA:**  Xiong, Ten over four. Xiong's ace bests Benson's ten. Benson falls to Xiong again, Seven over two. Xiong with a Seven of Clubs over Five of Hearts. Sixes. War!!! Benson loses the battle. Xiong takes 6 cards. Benson leads 32 to 20. Benson beats Xiong with Six of Spades over Three of Diamonds. Benson with an Ace of Hearts over Seven of Hearts. Xiong's hand, Nine over eight.
 
-**MCLAUGHLIN:** Well played.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Jack over eight, Fletcher. Small's seven beats Fletcher's two. Fletcher's hand, Eight over three. Small tops Fletcher with Ace of Clubs over Nine of Hearts. Fletcher's three falls to Small's nine. Fletcher beats Small with Five of Diamonds over Two of Clubs. Fletcher, Eight over six. Nine over eight, Small. Small tops Fletcher with Ace of Hearts over Jack of Spades. Small continues streak. Seven over three. Small leads 47 to 5.
+**HUERTA:**  Benson, Ten over nine. Ace over seven, Benson. Benson wins again. Eight over five. Benson leads 36 to 16. Another for Benson, Queen over four.
 
-**MCLAUGHLIN:** Small likes where this is going.
+**GARCIA:** Benson might be making a move.
 
-**QUINTERO:**  Eight over three, Fletcher. Small with a Jack of Diamonds over Five of Diamonds. Small's king bests Fletcher's two.
+**HUERTA:**  Xiong with a Ten of Clubs over Four of Diamonds. Xiong with an Ace of Diamonds over Four of Spades. Benson's queen beats Xiong's ten. Two twos. War!!! Benson's king wins the battle taking 6 cards. Xiong's seven tops Benson's six. Benson with a Nine of Hearts over Six of Diamonds. Xiong, Six over five.
 
-**MCLAUGHLIN:** Small likes where this is going.
+**GARCIA:** Great use of a six by Xiong.
 
-**QUINTERO:**  Fletcher bests Small with Eight of Spades over Three of Clubs. Small's four loses to Fletcher's six.
+**HUERTA:**  Kings. It's a war folks! Benson defeats Xiong with a jack, takes 6 cards. Benson leads 41 to 11. Two twos. It's a war folks! Xiong loses the battle. Benson takes 6 cards.
 
-**MCLAUGHLIN:** Nice use of a six by Fletcher.
+**GARCIA:** What a fight!
 
-**QUINTERO:**  Fletcher again, Eight over six. Small with an Eight of Hearts over Three of Diamonds. Small with a Four of Hearts over Three of Clubs.
+**HUERTA:**  Benson's three loses to Xiong's four. Xiong's hand, Ten over eight.
 
-**MCLAUGHLIN:** Nice play. We're almost there.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Small does it again. Ten over eight.
+**HUERTA:**  Benson's hand, Queen over four. Xiong's hand, Ace over jack. Benson with a Queen of Hearts over Six of Clubs. Benson's ace tops Xiong's seven. Benson does it again. Eight over six. Benson leads 45 to 7. Benson does it again. Jack over five. Two fours. We have a war! Benson loses the battle. Xiong takes 6 cards. Xiong's ten bests Benson's six. Benson falls to Xiong again, Ace over seven. Benson leads 41 to 11. Xiong's jack falls to Benson's ace. Xiong's five falls to Benson's nine. Benson's hand, Ten over three. Xiong falls to Benson again, Ace over four. Benson leads 45 to 7.
 
-**MCLAUGHLIN:** Nice use of a ten by Small.
+**GARCIA:** Is Benson going to take this somewhere?
 
-**QUINTERO:**  Six over five, Fletcher. Fours. War! Small defeats Fletcher with a queen, takes 6 cards.
+**HUERTA:**  Benson's seven falls to Xiong's eight. Benson, Five over four. Benson's eight beats Xiong's three. Benson continues streak. Queen over ten.
 
-**MCLAUGHLIN:** The game could end in this play.
+**GARCIA:** Excellent move by Benson.
 
-**QUINTERO:** In 361 hands, Ryder Small has won the match.
+**HUERTA:**  Xiong, Six over four. Ten over seven, Benson. Xiong with an Ace of Diamonds over Queen of Diamonds. Xiong tops Benson with Seven of Diamonds over Five of Hearts. Xiong wins again. Eight over seven. Xiong this time with the Six of Spades.
 
-**MCLAUGHLIN:** That game was a pretty even match. 
+**GARCIA:** Xiong is looking good.
 
-**QUINTERO:** Ryder Small goes on to Game 3 of the 2nd round where they will face Bailey Meyer. 
+**HUERTA:**  Xiong wins again. Four over two.
+
+**GARCIA:** I bet Benson wishes they had something higher than a two on that play.
+
+**HUERTA:**  Benson falls to Xiong again, Queen over jack. Benson leads 41 to 11.
+
+**GARCIA:** Excellent move.
+
+**HUERTA:**  Xiong continues streak. Ace over king.
+
+**GARCIA:** I think Xiong has decided they want this more than Benson.
+
+**HUERTA:**  Another for Xiong, Seven over six.
+
+**GARCIA:** Good job by Xiong. Xiong is on fire.
+
+**HUERTA:**  Nine over five, Benson.
+
+**GARCIA:** What a run for Xiong. Benson has some ground to make up.
+
+**HUERTA:**  King over seven, Benson. Xiong falls to Benson again, Jack over eight. Another for Benson with King over two.
+
+**GARCIA:** I think Benson is going somewhere.
+
+**HUERTA:**  Benson continues streak. Ten over six. Xiong, Four over three. Benson with a Nine of Spades over Two of Hearts. Xiong with a Jack of Clubs over Three of Clubs. Xiong with a Queen of Diamonds over Two of Clubs. Xiong again, Ace over two. Xiong again, King over eight.
+
+**GARCIA:** Benson should nip this run in the bud.
+
+**HUERTA:**  Benson's nine tops Xiong's seven. Xiong's six loses to Benson's king. Benson does it again. Queen over four. Benson this time with the Four of Spades. Benson continues streak. Queen over three. Benson leads 45 to 7.
+
+**GARCIA:** Benson has got some momentum.
+
+**HUERTA:**  Xiong, Jack over six. Xiong's hand, Queen over seven. Xiong's two falls to Benson's ace. Benson's six loses to Xiong's ace. Benson's eight beats Xiong's two. Xiong's eight tops Benson's five. Xiong's hand, King over jack.
+
+**GARCIA:** Nice use of a king by Xiong.
+
+**HUERTA:**  Xiong's six falls to Benson's jack. Benson, Ace over jack. Xiong bests Benson with Queen of Diamonds over Nine of Clubs. Xiong beats Benson with Seven of Clubs over Five of Spades.
+
+**GARCIA:** Xiong just showed us how its done.
+
+**HUERTA:**  Benson's hand, Ten over six. Ace over three, Xiong.
+
+**GARCIA:** Xiong over paid for that three.
+
+**HUERTA:**  Benson, Ace over eight. Five over four, Xiong.
+
+**GARCIA:** Nice use of a five by Xiong.
+
+**HUERTA:**  Xiong's king beats Benson's five. Benson leads 41 to 11. Benson falls to Xiong again, Jack over four. Another for Xiong, Nine over three. Xiong again, Queen over eight. Benson bests Xiong with Ten of Clubs over Five of Spades. Benson, Queen over seven. Benson keeps going. Seven over three. Xiong's hand, Ace over ten. Two fives. War! Benson loses the battle. Xiong takes 6 cards. Benson leads 37 to 15. Benson's king bests Xiong's five. Benson, Eight over four. Two jacks. War! Xiong defeats Benson with a nine, takes 6 cards. Benson beats Xiong with Ten of Spades over Eight of Spades. Xiong's queen tops Benson's six. Xiong beats Benson with Ace of Diamonds over Nine of Spades. Another for Xiong with Ten over two. Xiong's four loses to Benson's nine. Xiong's nine beats Benson's seven. Benson's hand, King over seven. Benson's six tops Xiong's five. Another for Benson, Queen over five. Xiong tops Benson with King of Diamonds over Four of Clubs. Benson's hand, Three over two. Xiong beats Benson with Jack of Spades over Four of Spades. Xiong's hand, King over queen.
+
+**GARCIA:** Nice use of a king by Xiong.
+
+**HUERTA:**  Xiong again, Nine over three. Benson falls to Xiong again, Three over two. Benson leads 33 to 19.
+
+**GARCIA:** Excellent use of a three by Xiong Benson is stumbling a little.
+
+**HUERTA:**  Benson's ace bests Xiong's jack. Xiong's queen tops Benson's two.
+
+**GARCIA:** Xiong over paid for that two.
+
+**HUERTA:**  Benson's hand, Eight over six.
+
+**GARCIA:** Benson just showed us how its done.
+
+**HUERTA:**  Xiong with an Ace of Diamonds over Jack of Hearts. Nine over six, Xiong. Benson, Ace over ten. Benson with a Jack of Clubs over Two of Hearts. Xiong's seven tops Benson's six. Benson bests Xiong with Ten of Hearts over Nine of Hearts. Ace over four, Benson. Xiong with a King of Diamonds over Eight of Hearts.
+
+**GARCIA:** Xiong and Benson are trading punch for punch.
+
+**HUERTA:**  Benson's five loses to Xiong's jack. Benson, Ten over four. Xiong's queen bests Benson's seven. King over queen, Xiong.
+
+**GARCIA:** Nice use of a king by Xiong.
+
+**HUERTA:**  Seven over three, Benson. Nine over three, Xiong. Benson bests Xiong with King of Spades over Two of Clubs. Benson bests Xiong with Five of Clubs over Three of Diamonds.
+
+**GARCIA:** Excellent use of a five by Benson
+
+**HUERTA:**  Xiong with a Queen of Diamonds over Four of Diamonds. Benson's eight beats Xiong's two.
+
+**GARCIA:** They are really going toe to toe in this game.
+
+**HUERTA:**  Xiong with an Ace of Diamonds over Ten of Spades. Jack over eight, Xiong. Nines all around. War! Benson's king wins the battle taking 6 cards. Two sevens. We have a war! Benson loses the battle. Xiong takes 6 cards. Xiong's jack loses to Benson's queen. Two fives. War! Benson loses the battle. Xiong takes 6 cards. Xiong with a Queen of Clubs over Jack of Diamonds. Benson leads 29 to 23.
+
+**GARCIA:** Efficient play. Neither player is giving an inch.
+
+**HUERTA:**  Benson with an Ace of Spades over King of Clubs. Xiong's nine tops Benson's six. Eight over three, Benson. Benson with a Ten of Diamonds over Four of Diamonds. Benson again, Ace over queen. Xiong's ten bests Benson's two. Xiong beats Benson with Ace of Diamonds over Jack of Clubs. Xiong's hand, Jack over ten. Benson beats Xiong with Nine of Hearts over Eight of Spades.
+
+**GARCIA:** Nice play.
+
+**HUERTA:**  Benson beats Xiong with Ace of Clubs over Five of Hearts.
+
+**GARCIA:** Benson probably didn't need to use an ace in that play.
+
+**HUERTA:**  Benson's four loses to Xiong's eight. Xiong with a Seven of Spades over Four of Spades. Benson beats Xiong with Ten of Clubs over Seven of Diamonds. Xiong's six loses to Benson's seven. King over three, Xiong. Benson's two falls to Xiong's seven. Benson beats Xiong with King of Spades over Three of Hearts.
+
+**GARCIA:** That king seems wasted on a three.
+
+**HUERTA:**  Fives. War!! Two twos. We have a war! Xiong defeats Benson with a queen, takes 10 cards. Xiong leads 27 to 25.
+
+**GARCIA:** What a fight! That's a big prize for Xiong.
+
+**HUERTA:**  Xiong, Jack over nine. Nines all around. It's a war folks! Xiong defeats Benson with a ten, takes 6 cards. Xiong leads 31 to 21. Xiong's two loses to Benson's king. Ace over queen, Xiong. Jacks. War! Benson's king wins the battle taking 6 cards. Xiong with an Eight of Hearts over Three of Spades. Benson's eight bests Xiong's four. Xiong's hand, Seven over four. Xiong's four loses to Benson's ten. Xiong's three falls to Benson's queen. Xiong leads 27 to 25. Another for Benson, Ace over king. Another for Benson, Eight over seven.
+
+**GARCIA:** Great use of an eight by Benson. Xiong is stumbling a little.
+
+**HUERTA:**  Another for Benson with Nine over two.
+
+**GARCIA:** Xiong should nip this run in the bud.
+
+**HUERTA:**  Benson continues streak. Ace over five. Benson leads 29 to 23.
+
+**GARCIA:** Someone should tell Xiong the match isn't over.
+
+**HUERTA:**  Two fives. It's a war folks! Benson's ten wins the battle taking 6 cards. Xiong with a Queen of Hearts over Seven of Hearts. Benson's hand, Six over two. Xiong's hand, Eight over three. Benson's hand, King over five. Benson's hand, King over two. Benson leads 33 to 19. Xiong bests Benson with Queen of Clubs over Two of Hearts.
+
+**GARCIA:** That queen got the job done, but was it the most strategic play by Xiong?
+
+**HUERTA:**  Two jacks. War!!! Benson defeats Xiong with a jack, takes 6 cards. Ten over nine, Benson.
+
+**GARCIA:** Smart move. Neither player is giving an inch.
+
+**HUERTA:**  Benson this time with the Jack of Clubs. Benson leads 37 to 15.
+
+**GARCIA:** Efficient play by Benson.
+
+**HUERTA:**  Benson keeps going. King over six.
+
+**GARCIA:** Xiong should nip this run in the bud.
+
+**HUERTA:**  Benson keeps going. Eight over four.
+
+**GARCIA:** Benson is looking good.
+
+**HUERTA:**  Xiong tops Benson with Nine of Diamonds over Four of Clubs. Queen over ten, Xiong.
+
+**GARCIA:** Smart move by Xiong.
+
+**HUERTA:**  Xiong does it again. Ace over four. Two threes. War!! Benson defeats Xiong with an ace, takes 6 cards. Xiong's four loses to Benson's king. Two sevens. We have a war! Benson defeats Xiong with a nine, takes 6 cards. Benson leads 43 to 9.
+
+**GARCIA:** Benson just showed us how its done.
+
+**HUERTA:**  Xiong's three bests Benson's two.
+
+**GARCIA:** I bet Benson wishes they had something higher than a two on that play.
+
+**HUERTA:**  Xiong tops Benson with Queen of Clubs over Five of Diamonds. Benson beats Xiong with Ace of Clubs over Two of Hearts.
+
+**GARCIA:** I hope Benson doesn't need that ace when something bigger comes along.
+
+**HUERTA:**  Xiong's hand, Nine over five. Benson, Six over four. Xiong beats Benson with Queen of Spades over Seven of Diamonds.
+
+**GARCIA:** We have some real fighters on our hands.
+
+**HUERTA:**  Xiong with a Ten of Diamonds over Three of Diamonds. Benson falls to Xiong again, Ace over five. Benson leads 39 to 13. Benson with a Ten of Clubs over Four of Spades. Xiong with a Three of Hearts over Two of Spades.
+
+**GARCIA:** Excellent use of a three by Xiong
+
+**HUERTA:**  Six over two, Benson. Benson with a King of Spades over Queen of Clubs. Fives all around. War! Benson loses the battle. Xiong takes 6 cards. Benson's hand, Jack over seven. Xiong beats Benson with Queen of Spades over Jack of Spades. Xiong's three loses to Benson's jack. Ace over ten, Benson. Benson this time with the Nine of Spades. Xiong's hand, Ace over six. Xiong's three falls to Benson's nine. Xiong's two loses to Benson's ten. Benson keeps going. Jack over nine. Benson leads 43 to 9.
+
+**GARCIA:** I bet Xiong wishes they had something higher than a nine on that play.
+
+**HUERTA:**  Xiong's hand, King over ten. King over five, Benson. Benson with a Six of Spades over Five of Hearts.
+
+**GARCIA:** Excellent use of a six by Benson
+
+**HUERTA:**  Benson again, Eight over two. Five over four, Xiong.
+
+**GARCIA:** Xiong just showed us how its done.
+
+**HUERTA:**  Xiong, Jack over seven. Xiong keeps going. Queen over three.
+
+**GARCIA:** That queen got the job done, but was it the most strategic play by Xiong?
+
+**HUERTA:**  Another for Xiong, Ace over three. Benson's queen beats Xiong's six. Xiong with a Ten of Spades over Eight of Hearts.
+
+**GARCIA:** Excellent use of a ten by Xiong
+
+**HUERTA:**  Xiong's king loses to Benson's ace. Benson with a King of Diamonds over Four of Hearts.
+
+**GARCIA:** I hope Benson doesn't need that king when something bigger comes along.
+
+**HUERTA:**  Xiong's hand, Five over four.
+
+**GARCIA:** Xiong just showed us how its done.
+
+**HUERTA:**  Benson bests Xiong with Eight of Clubs over Seven of Spades.
+
+**GARCIA:** Benson just showed us how its done.
+
+**HUERTA:**  Xiong, Jack over eight. Xiong, Queen over seven. Benson's hand, Queen over three. Xiong beats Benson with Ace of Diamonds over Nine of Hearts. Benson's hand, Seven over three. Xiong's hand, Ten over two. Xiong's eight falls to Benson's ace. Two fours. War!!! Xiong loses the battle. Benson takes 6 cards. Jack over four, Xiong. Xiong with a Queen of Spades over Six of Diamonds. Xiong again, Seven over two. Benson, King over nine. Xiong, Ace over queen. Benson, Jack over two. Ten over seven, Xiong. Xiong, Four over three. Jacks all around. War!!! Benson defeats Xiong with a ten, takes 6 cards. Xiong's two falls to Benson's five. Benson continues streak. Nine over seven.
+
+**GARCIA:** Benson just showed us how its done.
+
+**HUERTA:**  Xiong with an Ace of Diamonds over Nine of Clubs. Xiong tops Benson with Queen of Clubs over Three of Hearts. Xiong's seven loses to Benson's ten. Xiong's hand, Ten over two. Benson's jack beats Xiong's three. Benson, Nine over four. Xiong's hand, Nine over five. Xiong with an Ace of Diamonds over King of Clubs.
+
+**GARCIA:** Well played.
+
+**HUERTA:**  Another for Xiong with Queen over six. Five over three, Benson.
+
+**GARCIA:** Benson just showed us how its done.
+
+**HUERTA:**  Xiong with a Ten of Spades over Two of Diamonds. Xiong's two falls to Benson's eight. Xiong with a Nine of Clubs over Six of Clubs. Benson, Queen over five. Kings all around. War!! Xiong's queen wins the battle taking 6 cards. Benson's hand, King over six. Benson's eight tops Xiong's two. Xiong beats Benson with Ten of Spades over Seven of Spades. Queen over six, Benson.
+
+**GARCIA:** They are really going toe to toe in this game.
+
+**HUERTA:**  Xiong's hand, Nine over three. Xiong bests Benson with King of Clubs over Three of Spades.
+
+**GARCIA:** Xiong over paid for that three.
+
+**HUERTA:**  Benson with a Seven of Clubs over Four of Hearts. Xiong's king bests Benson's eight. Two aces. It's a war folks! Xiong's ace wins the battle taking 6 cards. Benson leads 38 to 14. Seven over six, Xiong. Another for Xiong with Ten over four. Benson with a Ten of Clubs over Nine of Clubs. Benson's hand, Four over three.
+
+**GARCIA:** Excellent use of a four by Benson
+
+**HUERTA:**  Another for Benson with Nine over three. Two kings. We have a war! Xiong loses the battle. Benson takes 6 cards. Benson leads 42 to 10. Queens all around. It's a war folks! Two aces. War!! Xiong loses the battle. Benson takes 10 cards. Benson leads 47 to 5.
+
+**GARCIA:** A lot of cards in that play. Xiong is going to regret that one.
+
+**HUERTA:**  Ace over ten, Xiong. Xiong's seven beats Benson's two. Benson falls to Xiong again, Six over five.
+
+**GARCIA:** Nice use of a six by Xiong.
+
+**HUERTA:**  Benson tops Xiong with Nine of Spades over Four of Diamonds. Ten over seven, Xiong. Tens. War!!! Xiong loses the battle. Benson takes 6 cards. Benson's three loses to Xiong's seven. Benson's hand, Nine over five. Six over four, Xiong. Xiong's seven bests Benson's three. Xiong keeps going. Ten over five. Xiong's hand, Seven over two. Benson leads 43 to 9.
+
+**GARCIA:** Xiong is looking good.
+
+**HUERTA:**  Benson's eight tops Xiong's three. Benson, Queen over six. Benson keeps going. Five over four. Xiong with a Seven of Hearts over Six of Spades. Xiong's three loses to Benson's king.
+
+**GARCIA:** Benson over paid for that three.
+
+**HUERTA:**  Benson's two loses to Xiong's ten. Eight over five, Benson. Benson's hand, Queen over seven. Benson leads 47 to 5. Benson keeps going. Six over two. Sevens. War! Xiong loses the battle. Benson takes 6 cards. Benson leads 51 to 1.
+
+**GARCIA:** It's getting tight. Benson must be feeling good.
+
+**HUERTA:**  Xiong with a Ten of Spades over Nine of Clubs.
+
+**GARCIA:** I bet Benson wishes they had something higher than a nine on that play. It's getting tight. Benson must be feeling good.
+
+**HUERTA:**  Xiong with a Ten of Spades over Four of Clubs.
+
+**GARCIA:** We're almost there.
+
+**HUERTA:**  Xiong this time with the Nine of Clubs.
+
+**GARCIA:** It's getting close folks.
+
+**HUERTA:**  Benson falls to Xiong again, Ten over three. Benson leads 47 to 5. Benson with a Nine of Hearts over Four of Clubs.
+
+**GARCIA:** It's getting close folks.
+
+**HUERTA:**  Xiong with a Nine of Clubs over Two of Hearts. Benson's hand, Jack over three.
+
+**GARCIA:** Benson likes where this is going.
+
+**HUERTA:**  Benson with a King of Clubs over Ten of Spades.
+
+**GARCIA:** We're almost there.
+
+**HUERTA:**  Benson wins again. King over three. Benson keeps going. King over two. Benson leads 51 to 1.
+
+**GARCIA:** Xiong should nip this run in the bud. Game point folks.
+
+**HUERTA:**  Xiong, Nine over eight.
+
+**GARCIA:** I bet Benson wishes they had something higher than an eight on that play. It's getting tight. Benson must be feeling good.
+
+**HUERTA:**  Benson bests Xiong with Queen of Clubs over Eight of Hearts.
+
+**GARCIA:** It's getting close folks.
+
+**HUERTA:** In 620 hands, Natalia Benson has won the match.
+
+**GARCIA:** Natalia Benson held the lead for most of the game. 
+
+**HUERTA:** Natalia Benson goes on to Game 3 of the 2nd round where they will face Katherine Dodson. 
 
 ## Game 7, Round 1
 
-**MCLAUGHLIN:** What a difficult day for war.
+**GARCIA:** What a dull day for war.
 
-**QUINTERO:** Hello, I'm Regina Quintero.
+**HUERTA:** Hello, I'm Daryl Huerta.
 
-**MCLAUGHLIN:** And I am Bentley McLaughlin.
+**GARCIA:** And I am Ray Garcia.
 
-**QUINTERO:** Welcome to Game 7 of the 1st round of the War Championship. This game will pit Logan Johnston against Manuel Norman. Johnston defeated Norman in their last match. What can we expect from them today, Bentley?
+**HUERTA:** This is Game 7 of the 1st round of the War Championship. Our players today: Jesus Hurley and Jose Nash. In their match in the regular season, Hurley triumphed over Nash. What happens today, Ray?
 
-**MCLAUGHLIN:** Johnston dominated that match. I'm sure Norman is looking for a change in results, but things can change in a single hand, Regina.
+**GARCIA:** Hurley lead for most of the game. It could go either way, Daryl.
 
-**QUINTERO:** the players are ready to play the first hand. Johnston's six loses to Norman's king. Norman, Ace over nine. Queen over two, Johnston. Norman's six falls to Johnston's jack. Johnston does it again. Eight over four. Norman falls to Johnston again, Ace over ten.
+**HUERTA:** Hurley and Nash are ready to play the first hand. Fours. War! Nash's ace wins the battle taking 6 cards. Nash, Queen over eight. Nash leads 30 to 22. Hurley's hand, Four over three. Hurley's seven falls to Nash's queen. Jack over nine, Nash. Nash again, Jack over ten.
 
-**MCLAUGHLIN:** Norman is stumbling a little.
+**GARCIA:** Great use of a jack by Nash.
 
-**QUINTERO:**  Norman with a Nine of Spades over Four of Diamonds. Norman's nine falls to Johnston's queen. Norman tops Johnston with Eight of Clubs over Five of Diamonds. Johnston's jack bests Norman's four. Norman's two loses to Johnston's five. Johnston this time with the Six of Clubs. Johnston leads 30 to 22. Norman's ten beats Johnston's nine. Norman's seven falls to Johnston's eight.
+**HUERTA:**  Nash this time with the Nine of Spades. Nash keeps going. Eight over two. Nash leads 34 to 18. Nash continues streak. Ten over eight.
 
-**MCLAUGHLIN:** Excellent move.
+**GARCIA:** I think Nash has decided they want this more than Hurley.
 
-**QUINTERO:**  Norman with a Seven of Spades over Three of Clubs. Norman's ace tops Johnston's ten. Jack over three, Johnston. Norman's seven beats Johnston's three. Kings. War! Johnston loses the battle. Norman takes 6 cards. Norman leads 27 to 25. Norman bests Johnston with Queen of Clubs over Three of Hearts. Johnston falls to Norman again, Four over two. Another for Norman with King over queen.
+**HUERTA:**  Hurley beats Nash with Queen of Hearts over Five of Hearts. Nash's hand, Ace over king.
 
-**MCLAUGHLIN:** Smart move by Norman.
+**GARCIA:** Well played by Nash.
 
-**QUINTERO:**  Norman continues streak. Ace over six. Norman leads 31 to 21.
+**HUERTA:**  King over six, Hurley. Hurley, Nine over seven. Hurley again, Ace over two. Another for Hurley with Ace over queen.
 
-**MCLAUGHLIN:** Johnston should nip this run in the bud.
+**GARCIA:** Hurley just showed us how its done.
 
-**QUINTERO:**  Norman's five falls to Johnston's eight. Norman's hand, Six over two. Norman's king bests Johnston's queen.
+**HUERTA:**  Nash's hand, Jack over ten.
 
-**MCLAUGHLIN:** I bet Johnston wishes they had something higher than a queen on that play.
+**GARCIA:** Nice use of a jack by Nash.
 
-**QUINTERO:**  Norman keeps going. Nine over six. Another for Norman with Ace over jack. Johnston's eight beats Norman's four. Norman tops Johnston with Nine of Spades over Four of Hearts. Norman's five falls to Johnston's ace. Johnston with a Ten of Hearts over Eight of Clubs.
+**HUERTA:**  Nash's ten beats Hurley's seven. Hurley's six beats Nash's three. Nash's three falls to Hurley's jack. Fives. We have a war! Nash loses the battle. Hurley takes 6 cards. Nash leads 28 to 24. Nash's king bests Hurley's five. Nash's king bests Hurley's six. Hurley with a Four of Diamonds over Two of Spades.
 
-**MCLAUGHLIN:** Great use of a ten by Johnston.
+**GARCIA:** Hurley just showed us how its done.
 
-**QUINTERO:**  Norman falls to Johnston again, Queen over nine. Norman tops Johnston with Ten of Diamonds over Nine of Clubs.
+**HUERTA:**  Hurley's three loses to Nash's four. Hurley with a Queen of Hearts over Three of Clubs. Nash's eight tops Hurley's five. Hurley tops Nash with Six of Spades over Four of Spades.
 
-**MCLAUGHLIN:** Nice use of a ten by Norman.
+**GARCIA:** Great use of a six by Hurley.
 
-**QUINTERO:**  Johnston's hand, Four over three.
+**HUERTA:**  Nash's hand, Ace over king.
 
-**MCLAUGHLIN:** Well played.
+**GARCIA:** Excellent use of an ace by Nash
 
-**QUINTERO:**  Johnston bests Norman with Jack of Clubs over Seven of Spades. Norman with an Ace of Diamonds over Five of Clubs. Norman's ten tops Johnston's two. Johnston, Six over three. Seven over two, Norman. Norman with a Jack of Hearts over Eight of Hearts. Sevens. War! Norman's king wins the battle taking 6 cards. Norman leads 36 to 16. Johnston beats Norman with Eight of Spades over Five of Spades.
+**HUERTA:**  Nash, Eight over seven.
 
-**MCLAUGHLIN:** Johnston and Norman are trading punch for punch.
+**GARCIA:** Nice use of an eight by Nash.
 
-**QUINTERO:**  Norman with a Ten of Clubs over Five of Hearts. Norman's hand, Queen over eight. Johnston with a Four of Diamonds over Three of Hearts.
+**HUERTA:**  Nash does it again. Queen over nine. Nash leads 32 to 20. Nash continues streak. Queen over two. Hurley's hand, Ace over seven. Hurley bests Nash with Queen of Spades over Nine of Clubs. Another for Hurley with Ace over jack. Nash's hand, Jack over six. Nash, Ten over three. Nash again, Nine over three. Hurley's jack beats Nash's six. Nash with an Eight of Clubs over Five of Diamonds. Nine over two, Hurley. Nash bests Hurley with Eight of Diamonds over Four of Clubs. Nash beats Hurley with Ten of Hearts over Two of Clubs. Nash does it again. Ace over five. Nash again, King over seven. Nash leads 36 to 16.
 
-**MCLAUGHLIN:** Excellent use of a four by Johnston
+**GARCIA:** Is Nash going to take this somewhere?
 
-**QUINTERO:**  Johnston, Ace over two.
+**HUERTA:**  Nash this time with the Jack of Hearts.
 
-**MCLAUGHLIN:** I hope Johnston doesn't need that ace when something bigger comes along.
+**GARCIA:** Hurley is stumbling a little.
 
-**QUINTERO:**  Johnston keeps going. Five over four. Norman's queen beats Johnston's ten.
+**HUERTA:**  Hurley falls to Nash again, Ten over four.
 
-**MCLAUGHLIN:** Excellent use of a queen by Norman
+**GARCIA:** What a streak for Nash.
 
-**QUINTERO:**  King over eight, Norman. Another for Norman, Ace over queen. Nine over six, Johnston. Johnston, Three over two.
+**HUERTA:**  Hurley beats Nash with Queen of Hearts over Seven of Hearts. Ten over three, Nash. Hurley's six falls to Nash's king. Nash again, Five over four. Nash leads 40 to 12. Hurley with an Ace of Diamonds over Six of Clubs. King over seven, Nash. Nine over four, Hurley. Hurley beats Nash with Queen of Spades over Three of Diamonds.
 
-**MCLAUGHLIN:** Johnston just showed us how its done.
+**GARCIA:** That queen got the job done, but was it the most strategic play by Hurley?
 
-**QUINTERO:**  Norman's six beats Johnston's four.
+**HUERTA:**  Another for Hurley, Jack over five. Hurley continues streak. Ace over eight. Nash leads 36 to 16.
 
-**MCLAUGHLIN:** I bet Johnston wishes they had something higher than a four on that play.
+**GARCIA:** Hurley might be making a move.
 
-**QUINTERO:**  Norman with a King of Clubs over Seven of Spades. Norman this time with the Queen of Hearts.
+**HUERTA:**  Nash beats Hurley with King of Diamonds over Jack of Diamonds. Nash, Ace over six. Nine over eight, Hurley.
 
-**MCLAUGHLIN:** I bet Johnston wishes they had something higher than a jack on that play.
+**GARCIA:** Excellent use of a nine by Hurley
 
-**QUINTERO:**  Norman keeps going. Six over three. Another for Norman, Nine over six. Norman leads 40 to 12.
+**HUERTA:**  Nash tops Hurley with Seven of Spades over Two of Diamonds. Hurley's seven falls to Nash's nine. Two queens. War!! Nash's queen wins the battle taking 6 cards. Nash leads 42 to 10. Nash beats Hurley with Jack of Clubs over Four of Hearts. Hurley, Nine over six. Hurley's queen tops Nash's three.
 
-**MCLAUGHLIN:** Johnston is going to be playing catch up if they don't stop this.
+**GARCIA:** Hurley over paid for that three.
 
-**QUINTERO:**  Norman wins again. Ace over five.
+**HUERTA:**  Nash's hand, Ten over three.
 
-**MCLAUGHLIN:** Is Johnston awake?
+**GARCIA:** They are really going toe to toe in this game.
 
-**QUINTERO:**  Another for Norman, Jack over eight.
+**HUERTA:**  Jack over three, Hurley. Hurley's five falls to Nash's nine. Two eights. War! Hurley defeats Nash with an eight, takes 6 cards. Nash's eight loses to Hurley's nine. Nash leads 38 to 14.
 
-**MCLAUGHLIN:** What a streak for Norman.
+**GARCIA:** Hurley just showed us how its done.
 
-**QUINTERO:**  Norman with a Nine of Spades over Three of Hearts. Fours all around. War! Norman defeats Johnston with a nine, takes 6 cards. Norman leads 46 to 6. Norman, Ace over four. Fives. We have a war! Norman defeats Johnston with a ten, takes 6 cards. Norman leads 50 to 2.
+**HUERTA:**  Nash, Ten over nine.
 
-**MCLAUGHLIN:** It's getting tight. Norman must be feeling good.
+**GARCIA:** Smart move by Nash.
 
-**QUINTERO:**  Norman's seven beats Johnston's two.
+**HUERTA:**  Six over two, Hurley. Nash, Ace over three. Hurley's queen tops Nash's five. Hurley's jack loses to Nash's king.
 
-**MCLAUGHLIN:** Norman likes where this is going.
+**GARCIA:** Efficient play by Nash.
 
-**QUINTERO:**  Johnston's hand, Three over two.
+**HUERTA:**  Nash's seven tops Hurley's three. Nash does it again. Jack over eight. Nash's two falls to Hurley's eight. Hurley, Ace over four. Hurley's four falls to Nash's ten. Nash, Ten over eight. Hurley with a Five of Diamonds over Three of Clubs. Nash's king beats Hurley's eight. Nash's six falls to Hurley's nine. Hurley's six beats Nash's four. Nash, Five over two. King over five, Nash. Queen over seven, Hurley. Nash, Jack over two. Nash, King over eight. Nash leads 42 to 10. Two aces. We have a war! Nash loses the battle. Hurley takes 6 cards.
 
-**MCLAUGHLIN:** It's getting tight. Norman must be feeling good.
+**GARCIA:** Efficient play by Hurley.
 
-**QUINTERO:**  Johnston's two falls to Norman's jack.
+**HUERTA:**  Seven over five, Nash. Hurley with a Nine of Hearts over Seven of Hearts. Nash's hand, Nine over six. Queen over six, Nash. Nash keeps going. Six over four.
 
-**MCLAUGHLIN:** Norman probably didn't need to use a jack in that play. This could be it.
+**GARCIA:** Nice play.
 
-**QUINTERO:** Manuel Norman has done it again. Norman wins in just 72 hands.
+**HUERTA:**  Two queens. It's a war folks! Hurley loses the battle. Nash takes 6 cards. Hurley's four tops Nash's two.
 
-**MCLAUGHLIN:** Norman saw where they wanted to go and got there as quickly as possible. Manuel Norman dominated that match. 
+**GARCIA:** Good job.
 
-**QUINTERO:** Manuel Norman meets the winner of game 8 in Game 4 of the 2nd round. 
+**HUERTA:**  Four over two, Nash. Hurley's ace bests Nash's jack. Hurley's hand, Ace over ten. Hurley does it again. Six over three. Hurley, Nine over five.
+
+**GARCIA:** Hurley has got some momentum.
+
+**HUERTA:**  Nash's nine tops Hurley's seven.
+
+**GARCIA:** Excellent use of a nine by Nash
+
+**HUERTA:**  Nash with a Ten of Hearts over Two of Hearts. Another for Nash with Nine over four. Nash keeps going. Ace over jack.
+
+**GARCIA:** Hurley is stumbling a little.
+
+**HUERTA:**  Ace over three, Hurley. Hurley with an Ace of Spades over Jack of Spades. Nash with a King of Spades over Ten of Spades. Hurley's six loses to Nash's seven. Two threes. War!!! Hurley's nine wins the battle taking 6 cards.
+
+**GARCIA:** Excellent use of a nine by Hurley
+
+**HUERTA:**  Hurley, Ace over four.
+
+**GARCIA:** I hope Hurley doesn't need that ace when something bigger comes along.
+
+**HUERTA:**  Ten over three, Nash. Hurley with an Ace of Spades over Eight of Hearts. Jack over ten, Hurley.
+
+**GARCIA:** Hurley just showed us how its done.
+
+**HUERTA:**  Hurley's three falls to Nash's king. Eights. We have a war! Hurley's five wins the battle taking 6 cards. Nash leads 38 to 14. Hurley beats Nash with Jack of Hearts over Five of Clubs. King over three, Nash.
+
+**GARCIA:** That king got the job done, but was it the most strategic play by Nash?
+
+**HUERTA:**  Nash's jack falls to Hurley's ace. Hurley bests Nash with Four of Clubs over Two of Spades.
+
+**GARCIA:** I bet Nash wishes they had something higher than a two on that play.
+
+**HUERTA:**  Nash falls to Hurley again, Ace over eight. King over eight, Nash. Jack over seven, Hurley. Hurley with a Ten of Diamonds over Five of Diamonds. Nash leads 34 to 18. Nash with a Six of Spades over Two of Clubs. Hurley's eight loses to Nash's nine. Another for Nash, Queen over five. Eight over six, Hurley.
+
+**GARCIA:** Nice use of an eight by Hurley.
+
+**HUERTA:**  Nash's four falls to Hurley's nine. Nash bests Hurley with Six of Clubs over Five of Hearts. Queen over five, Nash. Another for Nash with Ace over jack. Nash leads 38 to 14. Hurley, Ace over seven. Nash, Queen over jack.
+
+**GARCIA:** Great use of a queen by Nash.
+
+**HUERTA:**  Nash's queen tops Hurley's four. Another for Nash, Three over two.
+
+**GARCIA:** Nice use of a three by Nash.
+
+**HUERTA:**  Hurley's eight beats Nash's two. Hurley with an Ace of Spades over Four of Hearts.
+
+**GARCIA:** I hope Hurley doesn't need that ace when something bigger comes along.
+
+**HUERTA:**  Hurley continues streak. Jack over nine.
+
+**GARCIA:** Good job by Hurley.
+
+**HUERTA:**  Sevens all around. War! Hurley's five wins the battle taking 6 cards. Nash leads 34 to 18. Hurley's hand, Six over four.
+
+**GARCIA:** Great use of a six by Hurley.
+
+**HUERTA:**  Nash, Nine over eight.
+
+**GARCIA:** I bet Hurley wishes they had something higher than an eight on that play.
+
+**HUERTA:**  Nash, Ace over nine. Nash continues streak. Jack over four. Nash wins again. Ten over seven.
+
+**GARCIA:** Hurley should nip this run in the bud.
+
+**HUERTA:**  Hurley's ace tops Nash's king.
+
+**GARCIA:** Nice use of an ace by Hurley.
+
+**HUERTA:**  Hurley's two loses to Nash's seven. Hurley's eight bests Nash's six.
+
+**GARCIA:** Nice use of an eight by Hurley.
+
+**HUERTA:**  Nash with a Ten of Clubs over Four of Hearts. Hurley's ace bests Nash's three. Nash's king bests Hurley's nine. Hurley's jack bests Nash's three. Nash beats Hurley with King of Hearts over Two of Hearts. Hurley, Seven over three. Nash with a King of Diamonds over Ten of Hearts. Hurley's hand, Ten over eight.
+
+**GARCIA:** Efficient play by Hurley.
+
+**HUERTA:**  Nash's hand, Six over five. Hurley's seven tops Nash's two. Hurley's four loses to Nash's eight. Nine over six, Nash. Nash leads 38 to 14. Hurley, King over queen.
+
+**GARCIA:** Great use of a king by Hurley.
+
+**HUERTA:**  Ace over five, Hurley.
+
+**GARCIA:** That ace got the job done, but was it the most strategic play by Hurley?
+
+**HUERTA:**  Nash falls to Hurley again, Six over five. Another for Hurley, Eight over six. Nash leads 34 to 18.
+
+**GARCIA:** Great use of an eight by Hurley. Nash is going to be playing catch up if they don't stop this.
+
+**HUERTA:**  Another for Hurley with Ace over five.
+
+**GARCIA:** Nash should nip this run in the bud.
+
+**HUERTA:**  Nash's hand, Queen over three.
+
+**GARCIA:** I hope Nash doesn't need that queen when something bigger comes along.
+
+**HUERTA:**  Nash's hand, Jack over three. Another for Nash, Ace over jack. Nash wins again. Queen over three. Another for Nash, Jack over seven. Nash leads 38 to 14.
+
+**GARCIA:** I think Nash is going somewhere.
+
+**HUERTA:**  Another for Nash, Queen over eight.
+
+**GARCIA:** Nash ate their Wheaties today.
+
+**HUERTA:**  Ten over four, Hurley. Nash's two loses to Hurley's seven. Nash with a Three of Clubs over Two of Clubs.
+
+**GARCIA:** Smart move.
+
+**HUERTA:**  Hurley's queen beats Nash's eight. Hurley with a King of Spades over Nine of Clubs. Hurley does it again. Ace over nine. Ace over five, Nash. Nash's jack beats Hurley's six. Hurley tops Nash with Five of Hearts over Four of Spades. Nash bests Hurley with Seven of Diamonds over Six of Clubs.
+
+**GARCIA:** Good job by Nash.
+
+**HUERTA:**  Nash's hand, Ten over eight.
+
+**GARCIA:** Nice use of a ten by Nash.
+
+**HUERTA:**  Another for Nash, Seven over five. Hurley's ace beats Nash's two. Two tens. It's a war folks! Hurley loses the battle. Nash takes 6 cards. Nash's king beats Hurley's seven. Nash leads 42 to 10. Nash wins again. King over queen.
+
+**GARCIA:** Well played.
+
+**HUERTA:**  Hurley, Eight over two. Kings. War! Hurley defeats Nash with an ace, takes 6 cards. Hurley with a Nine of Hearts over Five of Diamonds. Nash leads 38 to 14. Nash's eight tops Hurley's five. Two fours. We have a war! Nash's six wins the battle taking 6 cards. Nash leads 42 to 10. Nash with a Queen of Diamonds over Two of Hearts. Hurley, Eight over three. Nash's three falls to Hurley's ace. Nash with a Jack of Hearts over Nine of Clubs.
+
+**GARCIA:** We have some real fighters on our hands.
+
+**HUERTA:**  King over jack, Hurley.
+
+**GARCIA:** Smart move.
+
+**HUERTA:**  Nash's hand, Ace over ten. Hurley with a Six of Spades over Three of Hearts. Hurley with a King of Diamonds over Queen of Spades. Seven over five, Nash. Jack over nine, Nash. Hurley falls to Nash again, Eight over three. Nash tops Hurley with Queen of Clubs over Eight of Diamonds.
+
+**GARCIA:** Nash is looking good.
+
+**HUERTA:**  Threes. It's a war folks! Nash defeats Hurley with an ace, takes 6 cards. Nash leads 47 to 5. King over five, Hurley. Two sixes. War!!! Hurley defeats Nash with a queen, takes 6 cards. Nash leads 43 to 9. Hurley with a King of Diamonds over Six of Clubs. Nash's eight bests Hurley's five. Hurley's hand, King over ten. Hurley's three falls to Nash's seven. Hurley beats Nash with Jack of Clubs over Five of Clubs. Hurley's seven tops Nash's four.
+
+**GARCIA:** We have some real fighters on our hands.
+
+**HUERTA:**  Nash falls to Hurley again, Queen over nine. Ten over six, Nash. Hurley with a Six of Spades over Four of Hearts. Hurley, King over ten. Nash leads 39 to 13. Another for Hurley with Six over two. Nash falls to Hurley again, Ten over seven.
+
+**GARCIA:** Nash is stumbling a little.
+
+**HUERTA:**  Two kings. It's a war folks! Nash defeats Hurley with a king, takes 6 cards. Nash with a Five of Hearts over Four of Clubs.
+
+**GARCIA:** Nash just showed us how its done.
+
+**HUERTA:**  Nash wins again. Eight over seven.
+
+**GARCIA:** Nash just showed us how its done.
+
+**HUERTA:**  Nash's six loses to Hurley's nine. Hurley, Queen over four. Nash's hand, Nine over six. Fours. We have a war! Nash defeats Hurley with an ace, takes 6 cards. Nash leads 44 to 8. Twos all around. War!!! Hurley loses the battle. Nash takes 6 cards.
+
+**GARCIA:** Smart move.
+
+**HUERTA:**  Nash, Nine over seven. Nash leads 48 to 4.
+
+**GARCIA:** Nash just showed us how its done. It's getting close folks.
+
+**HUERTA:**  Hurley falls to Nash again, Ace over six. Nash wins again. Ten over nine. Hurley with a Queen of Spades over Five of Diamonds. Nash, Seven over four.
+
+**GARCIA:** It's getting tight. Nash must be feeling good.
+
+**HUERTA:**  Nash, Nine over five.
+
+**GARCIA:** It's getting tight. Nash must be feeling good.This could be it.
+
+**HUERTA:**  Queen over jack, Hurley. Hurley beats Nash with Queen of Spades over Three of Spades. Hurley continues streak. Jack over eight.
+
+**GARCIA:** We're almost there.
+
+**HUERTA:**  Nash's eight beats Hurley's three. Queens. War!! Hurley defeats Nash with an eight, takes 6 cards. Nash's ace beats Hurley's eight. Hurley, Queen over two. Hurley, Ace over three. Jacks all around. We have a war! Nash loses the battle. Hurley takes 6 cards. Nash leads 42 to 10. Nash's seven falls to Hurley's queen. Hurley's two loses to Nash's three. Nash's ten falls to Hurley's ace. Nash's six tops Hurley's three. Nash, King over jack. Hurley, Queen over jack.
+
+**GARCIA:** Smart move.
+
+**HUERTA:**  Nash, King over eight. Nash's king bests Hurley's jack. Nash again, Queen over three. Fives all around. We have a war! Nash loses the battle. Hurley takes 6 cards. Hurley, Ace over seven. Hurley does it again. Ten over eight.
+
+**GARCIA:** I bet Nash wishes they had something higher than an eight on that play.
+
+**HUERTA:**  Nash's six loses to Hurley's jack. Hurley, Queen over nine. Nash leads 38 to 14.
+
+**GARCIA:** Hurley is looking good.
+
+**HUERTA:**  King over five, Nash. Hurley tops Nash with Five of Hearts over Four of Diamonds.
+
+**GARCIA:** Excellent use of a five by Hurley
+
+**HUERTA:**  Seven over two, Hurley. Hurley again, Five over four.
+
+**GARCIA:** Nice play.
+
+**HUERTA:**  Nash tops Hurley with Ten of Diamonds over Four of Clubs. Nash tops Hurley with Ace of Spades over Queen of Clubs.
+
+**GARCIA:** Excellent move.
+
+**HUERTA:**  Nash's six loses to Hurley's seven.
+
+**GARCIA:** Great use of a seven by Hurley.
+
+**HUERTA:**  Hurley with an Ace of Clubs over Two of Hearts. Nash with a Queen of Diamonds over Eight of Spades. Two tens. We have a war! Hurley's jack wins the battle taking 6 cards. Nash leads 34 to 18. Nine over seven, Hurley.
+
+**GARCIA:** Nice use of a nine by Hurley.
+
+**HUERTA:**  Hurley does it again. Queen over nine. Hurley's five loses to Nash's ace. Nash's six bests Hurley's four. Nash this time with the Ten of Hearts. Another for Nash, Nine over two. Nash's four loses to Hurley's five. Nash, Seven over four. Seven over five, Hurley.
+
+**GARCIA:** Hurley just showed us how its done.
+
+**HUERTA:**  Nash's hand, Nine over six. Nash's eight loses to Hurley's ace. Nash, Three over two.
+
+**GARCIA:** Smart move.
+
+**HUERTA:**  Nash's hand, Ace over jack. Nash's eight beats Hurley's six. Nash leads 38 to 14.
+
+**GARCIA:** Great use of an eight by Nash.
+
+**HUERTA:**  Hurley's ten beats Nash's three. Nash's two loses to Hurley's ten. Six over two, Nash. Hurley's hand, Jack over three. Nash's jack bests Hurley's nine.
+
+**GARCIA:** Nash just showed us how its done.
+
+**HUERTA:**  King over seven, Nash. Another for Nash with King over queen. Hurley's nine bests Nash's eight.
+
+**GARCIA:** Excellent use of a nine by Hurley
+
+**HUERTA:**  Hurley's five falls to Nash's jack. Nash bests Hurley with King of Spades over Four of Spades. Hurley, Seven over three. Nash's queen beats Hurley's five. Hurley's ace tops Nash's king.
+
+**GARCIA:** I bet Nash wishes they had something higher than a king on that play.
+
+**HUERTA:**  Nash's five falls to Hurley's eight. Two tens. War! Nash defeats Hurley with an ace, takes 6 cards. Hurley's ten falls to Nash's queen. Nash leads 42 to 10. Jack over eight, Hurley. Nash's hand, Queen over three.
+
+**GARCIA:** Nash probably didn't need to use a queen in that play.
+
+**HUERTA:**  Nash, Ace over eight. Nine over five, Hurley. Nash, Six over three. Seven over four, Hurley. Nash's ten falls to Hurley's king. Hurley this time with the Ace of Clubs. Another for Hurley, Eight over two.
+
+**GARCIA:** Is Hurley going to take this somewhere?
+
+**HUERTA:**  Nash beats Hurley with Nine of Spades over Five of Spades. Hurley, Jack over four. Hurley tops Nash with Eight of Spades over Seven of Spades. Nash leads 38 to 14.
+
+**GARCIA:** Great use of an eight by Hurley.
+
+**HUERTA:**  Nash falls to Hurley again, Nine over six. Nash's nine bests Hurley's five. Hurley with a Seven of Diamonds over Three of Spades. Nash's two loses to Hurley's four. Another for Hurley, King over jack.
+
+**GARCIA:** Excellent use of a king by Hurley
+
+**HUERTA:**  Nash's hand, Ace over ten. Hurley, Ace over six. Nash with an Eight of Hearts over Seven of Clubs. Twos all around. War!!! Nash defeats Hurley with a jack, takes 6 cards. Jack over nine, Hurley. Hurley tops Nash with Eight of Spades over Seven of Hearts.
+
+**GARCIA:** Hurley just showed us how its done.
+
+**HUERTA:**  Nash beats Hurley with King of Clubs over Seven of Spades. Hurley's six falls to Nash's queen. Hurley falls to Nash again, King over nine. Nash again, Five over three.
+
+**GARCIA:** Nash might be making a move.
+
+**HUERTA:**  Another for Nash with Jack over seven. Nash leads 42 to 10.
+
+**GARCIA:** Hurley is going to be playing catch up if they don't stop this.
+
+**HUERTA:**  Nash this time with the Four of Spades.
+
+**GARCIA:** Nash just showed us how its done. I think Hurley should try some higher value cards.
+
+**HUERTA:**  Nash does it again. King over four.
+
+**GARCIA:** I think Hurley should try some higher value cards.
+
+**HUERTA:**  Hurley tops Nash with King of Diamonds over Five of Diamonds.
+
+**GARCIA:** Hurley might have stopped the bleeding.
+
+**HUERTA:**  Nash beats Hurley with Queen of Hearts over Jack of Hearts.
+
+**GARCIA:** Great use of a queen by Nash.
+
+**HUERTA:**  Ace over four, Hurley.
+
+**GARCIA:** I hope Hurley doesn't need that ace when something bigger comes along.
+
+**HUERTA:**  Nash's hand, Ten over six. Nine over two, Hurley. Hurley's jack falls to Nash's ace. Nash with a Ten of Clubs over Eight of Spades.
+
+**GARCIA:** Smart move by Nash.
+
+**HUERTA:**  Hurley's seven bests Nash's three. Hurley's hand, King over queen. Nash's hand, Ten over five. Hurley's four beats Nash's three.
+
+**GARCIA:** Smart move by Hurley. Neither player is giving an inch.
+
+**HUERTA:**  Hurley with an Ace of Clubs over Queen of Diamonds.
+
+**GARCIA:** Nice use of an ace by Hurley.
+
+**HUERTA:**  Nash's ace tops Hurley's two.
+
+**GARCIA:** I hope Nash doesn't need that ace when something bigger comes along.
+
+**HUERTA:**  Hurley's nine bests Nash's eight.
+
+**GARCIA:** Nice use of a nine by Hurley.
+
+**HUERTA:**  Seven over three, Hurley. Nash with a Six of Hearts over Three of Hearts. Hurley's queen bests Nash's nine. Hurley's king beats Nash's five. Nash's hand, Nine over four. Nash's hand, Five over three.
+
+**GARCIA:** I bet Hurley wishes they had something higher than a three on that play.
+
+**HUERTA:**  Aces. War! Hurley's eight wins the battle taking 6 cards.
+
+**GARCIA:** They are really going toe to toe in this game.
+
+**HUERTA:**  Hurley, Nine over eight. Nash leads 38 to 14.
+
+**GARCIA:** Excellent use of a nine by Hurley
+
+**HUERTA:**  Nash's hand, Four over three. Hurley bests Nash with Seven of Hearts over Two of Diamonds. Queen over jack, Hurley. Hurley keeps going. Nine over two. Hurley's five falls to Nash's six. Hurley's king bests Nash's eight. Hurley tops Nash with Ace of Hearts over Seven of Spades. Nash, King over eight. Nash beats Hurley with Queen of Spades over Seven of Clubs. Hurley beats Nash with Queen of Diamonds over Six of Clubs. Nash with a King of Hearts over Ten of Hearts. Hurley with an Ace of Clubs over Nine of Clubs. Hurley with a Nine of Diamonds over Three of Spades. Hurley keeps going. Eight over five. Nash leads 34 to 18. Nash tops Hurley with Jack of Diamonds over Seven of Hearts. Nash with a Seven of Diamonds over Two of Diamonds. Hurley's jack bests Nash's two.
+
+**GARCIA:** That jack seems wasted on a two.
+
+**HUERTA:**  Queen over four, Hurley. Another for Hurley, Nine over four. Nash, King over two. Hurley's eight loses to Nash's queen. Hurley's hand, King over jack.
+
+**GARCIA:** Excellent use of a king by Hurley
+
+**HUERTA:**  Seven over six, Hurley.
+
+**GARCIA:** I bet Nash wishes they had something higher than a six on that play.
+
+**HUERTA:**  Hurley does it again. Ace over ten. Ace over queen, Nash. Nash with a Jack of Clubs over Six of Clubs. Hurley, Ace over ten. Hurley's hand, Nine over eight.
+
+**GARCIA:** Nice use of a nine by Hurley.
+
+**HUERTA:**  Nash beats Hurley with Ten of Spades over Nine of Diamonds. Nash with a Five of Diamonds over Three of Spades.
+
+**GARCIA:** Great use of a five by Nash.
+
+**HUERTA:**  Nash's two falls to Hurley's eight. Nash's ace beats Hurley's five. Hurley's hand, Jack over six. Three over two, Nash. Fours all around. War! Hurley's nine wins the battle taking 6 cards. Hurley with a Four of Diamonds over Three of Diamonds. Nash leads 30 to 22.
+
+**GARCIA:** Good job by Hurley.
+
+**HUERTA:**  Hurley this time with the King of Diamonds.
+
+**GARCIA:** That king seems wasted on a four.
+
+**HUERTA:**  Hurley wins again. Jack over three.
+
+**GARCIA:** I think Hurley is going somewhere.
+
+**HUERTA:**  Hurley again, Seven over five.
+
+**GARCIA:** I bet Nash wishes they had something higher than a five on that play.
+
+**HUERTA:**  Sixes. We have a war! Nash loses the battle. Hurley takes 6 cards. Hurley leads 28 to 24. Queen over ten, Nash. Nash's seven loses to Hurley's ace. Hurley's eight loses to Nash's king. Nash, Ten over nine.
+
+**GARCIA:** Excellent move by Nash.
+
+**HUERTA:**  Nash keeps going. Seven over two. Nash again, Jack over eight. Nash leads 28 to 24.
+
+**GARCIA:** Nash might be making a move.
+
+**HUERTA:**  Nash again, Seven over six.
+
+**GARCIA:** Great use of a seven by Nash. Is Nash going to take this somewhere?
+
+**HUERTA:**  Hurley's hand, Jack over two. Hurley, Nine over two. Nash bests Hurley with King of Spades over Four of Spades. Nash, Queen over four. Nash's eight falls to Hurley's queen. Hurley's nine loses to Nash's queen. Nash, Ace over five.
+
+**GARCIA:** That ace got the job done, but was it the most strategic play by Nash?
+
+**HUERTA:**  Another for Nash, Jack over four. Nash continues streak. Six over three. Nash leads 32 to 20.
+
+**GARCIA:** Hurley should nip this run in the bud.
+
+**HUERTA:**  Nash wins again. Ten over four.
+
+**GARCIA:** Is Nash going to take this somewhere?
+
+**HUERTA:**  King over nine, Hurley. Two threes. War!!! Hurley defeats Nash with a seven, takes 6 cards.
+
+**GARCIA:** Great use of a seven by Hurley.
+
+**HUERTA:**  Nash, Ace over five.
+
+**GARCIA:** Nash probably didn't need to use an ace in that play.
+
+**HUERTA:**  Six over three, Hurley. Hurley tops Nash with King of Clubs over Two of Hearts. Nash leads 28 to 24.
+
+**GARCIA:** I hope Hurley doesn't need that king when something bigger comes along.
+
+**HUERTA:**  Hurley this time with the Ace of Hearts. Nash's hand, Queen over eight. Nash bests Hurley with King of Hearts over Ten of Diamonds. Hurley falls to Nash again, Eight over six.
+
+**GARCIA:** Excellent use of an eight by Nash
+
+**HUERTA:**  Nash this time with the Ten of Hearts.
+
+**GARCIA:** I think Nash is going somewhere.
+
+**HUERTA:**  Ace over nine, Hurley. Hurley's jack beats Nash's seven. Two twos. War!!! Hurley loses the battle. Nash takes 6 cards. Nash leads 32 to 20. Queen over seven, Hurley. Hurley's hand, Eight over six.
+
+**GARCIA:** Nice play by Hurley.
+
+**HUERTA:**  Hurley does it again. King over four. Nash, King over nine. Nash with a Queen of Hearts over Three of Clubs. Hurley's seven beats Nash's four. Nash bests Hurley with Nine of Spades over Three of Spades. Hurley's five falls to Nash's queen. Nash this time with the Ace of Spades. Fives. War!!! Nash's jack wins the battle taking 6 cards. Nash leads 36 to 16. Hurley with a King of Clubs over Six of Clubs. Nash's three beats Hurley's two.
+
+**GARCIA:** Excellent use of a three by Nash
+
+**HUERTA:**  Hurley, Ten over four. Hurley's hand, Ace over ten. Nash with an Ace of Diamonds over Nine of Clubs. Hurley's hand, Ace over five. Hurley's jack loses to Nash's queen.
+
+**GARCIA:** Nice use of a queen by Nash.
+
+**HUERTA:**  Eight over seven, Nash.
+
+**GARCIA:** Efficient play.
+
+**HUERTA:**  Nash's hand, King over seven. Hurley with a Queen of Clubs over Ten of Diamonds. Two eights. War!!! Hurley's king wins the battle taking 6 cards. Hurley's four loses to Nash's ten. Nine over seven, Nash. Hurley's hand, Four over two.
+
+**GARCIA:** Excellent use of a four by Hurley
+
+**HUERTA:**  Hurley's six bests Nash's two. Hurley keeps going. King over jack. Nash leads 32 to 20.
+
+**GARCIA:** Hurley just showed us how its done.
+
+**HUERTA:**  Hurley does it again. Four over two.
+
+**GARCIA:** Hurley might be making a move.
+
+**HUERTA:**  Hurley keeps going. Ten over eight.
+
+**GARCIA:** Hurley just showed us how its done.
+
+**HUERTA:**  King over ten, Nash. Ace over nine, Hurley. Hurley beats Nash with Ace of Clubs over Queen of Hearts.
+
+**GARCIA:** Great use of an ace by Hurley.
+
+**HUERTA:**  Another for Hurley, Five over three. Nash leads 28 to 24.
+
+**GARCIA:** Great use of a five by Hurley.
+
+**HUERTA:**  Hurley continues streak. Queen over three.
+
+**GARCIA:** Hurley has got some momentum.
+
+**HUERTA:**  Hurley keeps going. Ten over nine. Hurley's hand, King over queen.
+
+**GARCIA:** What a streak for Hurley.
+
+**HUERTA:**  Nash falls to Hurley again, Seven over five. Hurley leads 28 to 24.
+
+**GARCIA:** I bet Nash wishes they had something higher than a five on that play.
+
+**HUERTA:**  Nash with an Ace of Spades over Eight of Spades.
+
+**GARCIA:** Nash might have stopped the bleeding.
+
+**HUERTA:**  Hurley's six falls to Nash's jack. Hurley's hand, Eight over five. Hurley, Six over four.
+
+**GARCIA:** Hurley just showed us how its done.
+
+**HUERTA:**  Hurley's four falls to Nash's five.
+
+**GARCIA:** Smart move.
+
+**HUERTA:**  Nash bests Hurley with Three of Hearts over Two of Clubs.
+
+**GARCIA:** Great use of a three by Nash.
+
+**HUERTA:**  Hurley falls to Nash again, Jack over two.
+
+**GARCIA:** I hope Nash doesn't need that jack when something bigger comes along.
+
+**HUERTA:**  Sixes all around. We have a war! Hurley defeats Nash with a jack, takes 6 cards. Nash's hand, Ace over four.
+
+**GARCIA:** Nash over paid for that four.
+
+**HUERTA:**  Nash beats Hurley with Nine of Clubs over Two of Spades. Another for Nash, Queen over ten. Nash wins again. Jack over eight. Nash leads 28 to 24.
+
+**GARCIA:** Hurley should nip this run in the bud.
+
+**HUERTA:**  Hurley's ace bests Nash's seven. Nash's eight falls to Hurley's nine. King over queen, Nash.
+
+**GARCIA:** Great use of a king by Nash.
+
+**HUERTA:**  Hurley's ace beats Nash's seven. Nash with a Ten of Hearts over Five of Spades. Nash's four tops Hurley's three.
+
+**GARCIA:** Well played by Nash.
+
+**HUERTA:**  Hurley's hand, Queen over seven. Nash's nine beats Hurley's three. King over nine, Nash. Tens all around. War! Hurley defeats Nash with a king, takes 6 cards.
+
+**GARCIA:** These two are really slugging it out.
+
+**HUERTA:**  Nash tops Hurley with Jack of Hearts over Five of Clubs. Hurley's seven beats Nash's six. Hurley, Eight over four. Two fives. It's a war folks! Hurley defeats Nash with a four, takes 6 cards. Hurley leads 30 to 22. Hurley, Six over two. Two jacks. War! Nash defeats Hurley with an ace, takes 6 cards. King over two, Hurley. Hurley's two falls to Nash's nine.
+
+**GARCIA:** What a fight!
+
+**HUERTA:**  Nash beats Hurley with Ten of Clubs over Seven of Hearts. Hurley, Ace over queen.
+
+**GARCIA:** Great use of an ace by Hurley.
+
+**HUERTA:**  Hurley's nine loses to Nash's jack.
+
+**GARCIA:** Nice play.
+
+**HUERTA:**  Two eights. We have a war! Hurley loses the battle. Nash takes 6 cards. Nash leads 28 to 24. Ten over seven, Nash. Hurley's hand, Queen over five. Hurley with a Queen of Diamonds over Four of Spades. Nash falls to Hurley again, Ten over three. Hurley this time with the King of Diamonds. Hurley this time with the Ace of Spades. Hurley leads 28 to 24.
+
+**GARCIA:** Is Hurley going to take this somewhere?
+
+**HUERTA:**  Nash's king bests Hurley's ten. Nash's hand, Nine over eight.
+
+**GARCIA:** Excellent use of a nine by Nash
+
+**HUERTA:**  Another for Nash with Jack over seven. Six over five, Hurley.
+
+**GARCIA:** I bet Nash wishes they had something higher than a five on that play.
+
+**HUERTA:**  Hurley bests Nash with Eight of Diamonds over Six of Clubs.
+
+**GARCIA:** Excellent use of an eight by Hurley
+
+**HUERTA:**  Nash bests Hurley with Ace of Diamonds over Four of Clubs. Hurley, Four over three. Jack over six, Nash. Nash's hand, Jack over five. Nash wins again. Four over three. Nash leads 28 to 24.
+
+**GARCIA:** Nice use of a four by Nash.
+
+**HUERTA:**  Nash's two falls to Hurley's five. Nash's hand, Nine over two. Nash's hand, Ten over two. Hurley falls to Nash again, Seven over six.
+
+**GARCIA:** Nice use of a seven by Nash.
+
+**HUERTA:**  Hurley beats Nash with King of Clubs over Jack of Spades.
+
+**GARCIA:** Great use of a king by Hurley.
+
+**HUERTA:**  Nash, Nine over two. Hurley beats Nash with Ace of Hearts over Seven of Diamonds. Nash's hand, King over queen.
+
+**GARCIA:** I bet Hurley wishes they had something higher than a queen on that play.
+
+**HUERTA:**  Nash's eight beats Hurley's five. Two queens. It's a war folks! Nash's ace wins the battle taking 6 cards. Nash leads 34 to 18. Tens. We have a war! Hurley's king wins the battle taking 6 cards. Nash's king beats Hurley's three. Two nines. We have a war! Hurley loses the battle. Nash takes 6 cards.
+
+**GARCIA:** We have some real fighters on our hands.
+
+**HUERTA:**  Nash, Seven over six.
+
+**GARCIA:** Nice use of a seven by Nash.
+
+**HUERTA:**  Nash this time with the Ace of Diamonds. Hurley's hand, Eight over four. Nash's six beats Hurley's three. Nash, Jack over four. Nash leads 38 to 14. Nash continues streak. Jack over two.
+
+**GARCIA:** I hope Nash doesn't need that jack when something bigger comes along.
+
+**HUERTA:**  Fives all around. We have a war! Nash loses the battle. Hurley takes 6 cards. Nash's nine falls to Hurley's ace. Hurley with a Seven of Diamonds over Two of Clubs. Nash leads 34 to 18. Hurley's three bests Nash's two.
+
+**GARCIA:** Hurley is looking good.
+
+**HUERTA:**  Two tens. War! Hurley's ten wins the battle taking 6 cards. Nash leads 30 to 22. Hurley bests Nash with Ten of Spades over Nine of Diamonds. Hurley does it again. Seven over two. Nash with a Queen of Spades over Four of Clubs. Hurley's eight falls to Nash's king. Hurley beats Nash with Jack of Spades over Five of Spades. Nash's hand, Eight over five. Fours all around. War!!! Nash's queen wins the battle taking 6 cards. Nash, Ace over king. Nash leads 34 to 18. Hurley's ace beats Nash's queen. Hurley's nine bests Nash's eight.
+
+**GARCIA:** Well played.
+
+**HUERTA:**  Another for Hurley with Seven over three. Nash, King over two. Nash, Nine over three. Nash this time with the Five of Clubs. Hurley with a King of Diamonds over Nine of Hearts. Nash's ace tops Hurley's ten. Hurley bests Nash with Ten of Diamonds over Eight of Spades. Nash's jack bests Hurley's ten.
+
+**GARCIA:** Great use of a jack by Nash.
+
+**HUERTA:**  Hurley, Seven over six.
+
+**GARCIA:** I bet Nash wishes they had something higher than a six on that play.
+
+**HUERTA:**  Seven over six, Nash.
+
+**GARCIA:** Great use of a seven by Nash.
+
+**HUERTA:**  Hurley beats Nash with Nine of Diamonds over Six of Clubs. Hurley's ten falls to Nash's ace. Hurley tops Nash with Seven of Spades over Three of Diamonds. Six over two, Nash. Jacks all around. War!! Nash loses the battle. Hurley takes 6 cards. Hurley beats Nash with Queen of Diamonds over Two of Hearts. Nash leads 30 to 22. Nash tops Hurley with Queen of Spades over Nine of Clubs. Hurley, Eight over four. Hurley's seven falls to Nash's king. Nash's eight beats Hurley's three. Hurley's hand, Nine over five. King over eight, Hurley. Hurley keeps going. Eight over three. Hurley continues streak. Ten over five.
+
+**GARCIA:** Hurley is looking good.
+
+**HUERTA:**  Nash bests Hurley with Queen of Clubs over Seven of Hearts. Nash's four falls to Hurley's six.
+
+**GARCIA:** Hurley just showed us how its done.
+
+**HUERTA:**  Nash's hand, Queen over nine. Hurley beats Nash with Six of Clubs over Four of Spades. Nash's hand, Ace over three.
+
+**GARCIA:** That ace seems wasted on a three.
+
+**HUERTA:**  Nash's king beats Hurley's seven. Hurley bests Nash with Ace of Hearts over Two of Clubs.
+
+**GARCIA:** Hurley probably didn't need to use an ace in that play.
+
+**HUERTA:**  King over jack, Nash.
+
+**GARCIA:** Excellent use of a king by Nash
+
+**HUERTA:**  Hurley bests Nash with Jack of Diamonds over Three of Clubs. Nash, Nine over five. Nash's five loses to Hurley's jack. Hurley, Four over two.
+
+**GARCIA:** Hurley just showed us how its done.
+
+**HUERTA:**  Nash's ten tops Hurley's two. Nash tops Hurley with Ace of Spades over Queen of Diamonds. Hurley falls to Nash again, Ten over eight. Nash keeps going. Jack over four. Another for Nash, Six over five.
+
+**GARCIA:** I think Nash is going somewhere.
+
+**HUERTA:**  Hurley's nine beats Nash's seven.
+
+**GARCIA:** Hurley just showed us how its done.
+
+**HUERTA:**  Nash beats Hurley with Ten of Spades over Eight of Hearts.
+
+**GARCIA:** I bet Hurley wishes they had something higher than an eight on that play.
+
+**HUERTA:**  Nash with an Ace of Diamonds over King of Diamonds. Nash leads 34 to 18. Another for Nash, Six over three. Hurley's eight bests Nash's two. Hurley's hand, Ten over nine.
+
+**GARCIA:** Well played.
+
+**HUERTA:**  Queen over five, Nash. Nash's king tops Hurley's four.
+
+**GARCIA:** I hope Nash doesn't need that king when something bigger comes along.
+
+**HUERTA:**  Nash wins again. Seven over six. Hurley with a Four of Spades over Three of Spades.
+
+**GARCIA:** Hurley just showed us how its done.
+
+**HUERTA:**  Nash's hand, Eight over six.
+
+**GARCIA:** Smart move by Nash.
+
+**HUERTA:**  Hurley's hand, Ace over seven. Nash's hand, Queen over two. Nash's hand, Queen over three. Nash's nine loses to Hurley's jack. Nash bests Hurley with Ace of Clubs over Jack of Clubs. Hurley tops Nash with Five of Clubs over Three of Diamonds.
+
+**GARCIA:** Hurley just showed us how its done.
+
+**HUERTA:**  Hurley's four loses to Nash's seven. King over two, Nash. Nash leads 38 to 14. Hurley falls to Nash again, King over nine. Nash this time with the Jack of Spades. Nash bests Hurley with Nine of Spades over Two of Spades.
+
+**GARCIA:** I think Nash is going somewhere.
+
+**HUERTA:**  Hurley with an Eight of Spades over Five of Spades. Nash's two loses to Hurley's ten. Nash, Ten over nine.
+
+**GARCIA:** Well played by Nash.
+
+**HUERTA:**  Nash's hand, Ace over three.
+
+**GARCIA:** That ace seems wasted on a three.
+
+**HUERTA:**  Another for Nash, Queen over four. Nash leads 42 to 10. Nash's ten falls to Hurley's ace. Nash with an Eight of Clubs over Seven of Hearts.
+
+**GARCIA:** Nash just showed us how its done.
+
+**HUERTA:**  Two jacks. It's a war folks! Nash defeats Hurley with a six, takes 6 cards.
+
+**GARCIA:** Excellent use of a six by Nash
+
+**HUERTA:**  Five over three, Nash. Nash leads 46 to 6.
+
+**GARCIA:** Excellent use of a five by Nash
+
+**HUERTA:**  Nash does it again. Eight over five. Nash this time with the Ten of Spades.
+
+**GARCIA:** Well played by Nash. Hurley should nip this run in the bud. It's getting close folks.
+
+**HUERTA:**  Another for Nash with Ace over two.
+
+**GARCIA:** Nash has got some momentum. We're almost there.
+
+**HUERTA:**  Nash this time with the King of Diamonds. Nash leads 50 to 2.
+
+**GARCIA:** What a streak for Nash. Nash likes where this is going.
+
+**HUERTA:**  Nash's six falls to Hurley's ace.
+
+**GARCIA:** Nash likes where this is going.
+
+**HUERTA:**  Ten over three, Hurley. Nash falls to Hurley again, Ace over five. Hurley's six loses to Nash's queen.
+
+**GARCIA:** Nash likes where this is going.
+
+**HUERTA:**  King over three, Nash.
+
+**GARCIA:** I hope Nash doesn't need that king when something bigger comes along.
+
+**HUERTA:**  Nash's four falls to Hurley's ten.
+
+**GARCIA:** In just a few plays we could have a result.
+
+**HUERTA:**  Hurley tops Nash with Ace of Hearts over Seven of Diamonds. Hurley's five loses to Nash's six.
+
+**GARCIA:** Nash just showed us how its done.
+
+**HUERTA:**  Nash tops Hurley with Six of Clubs over Four of Hearts. Ten over eight, Hurley.
+
+**GARCIA:** Great use of a ten by Hurley.
+
+**HUERTA:**  Hurley's hand, Ace over two.
+
+**GARCIA:** That ace seems wasted on a two.
+
+**HUERTA:**  Nash, Queen over seven. Nash with a Queen of Hearts over Ten of Hearts.
+
+**GARCIA:** Excellent move. It's getting tight. Nash must be feeling good.
+
+**HUERTA:**  Hurley with an Eight of Diamonds over Three of Clubs.
+
+**GARCIA:** We're almost there.
+
+**HUERTA:**  Nash, Jack over two.
+
+**GARCIA:** Nash over paid for that two. It's getting tight. Nash must be feeling good.
+
+**HUERTA:**  Aces. We have a war! Hurley's eight wins the battle taking 6 cards. Nash leads 46 to 6. Nash bests Hurley with King of Clubs over Three of Clubs. Eight over two, Hurley. Nash with a Nine of Hearts over Seven of Spades.
+
+**GARCIA:** Nice use of a nine by Nash.
+
+**HUERTA:**  Hurley tops Nash with Ace of Clubs over King of Spades.
+
+**GARCIA:** Hurley just showed us how its done.
+
+**HUERTA:**  Hurley's four falls to Nash's seven. Ace over jack, Hurley. Hurley's hand, Eight over two.
+
+**GARCIA:** These two are really slugging it out.
+
+**HUERTA:**  Nash's nine bests Hurley's two. Nash's ten loses to Hurley's king. Hurley's ace bests Nash's nine. Two aces. War! Hurley loses the battle. Nash takes 6 cards. Nash with a Four of Spades over Two of Spades.
+
+**GARCIA:** Nice use of a four by Nash. It's getting close folks.
+
+**HUERTA:**  Hurley beats Nash with Ten of Clubs over Eight of Clubs.
+
+**GARCIA:** Efficient play.
+
+**HUERTA:**  Hurley with a King of Spades over Seven of Hearts. Nash, Jack over nine. Hurley tops Nash with Ace of Clubs over Five of Clubs. Nash bests Hurley with Jack of Diamonds over Eight of Clubs. Hurley with a Ten of Clubs over Four of Clubs. Nash tops Hurley with Nine of Diamonds over Seven of Hearts. Hurley, King over six. Fives all around. War!! Hurley defeats Nash with a ten, takes 6 cards. Nash with an Eight of Hearts over Four of Clubs. King over eight, Hurley. Nash's ten bests Hurley's six. Hurley's hand, Three over two.
+
+**GARCIA:** Great use of a three by Hurley. They are really going toe to toe in this game.
+
+**HUERTA:**  Ace over ten, Nash. King over five, Nash. Hurley beats Nash with Ace of Clubs over Ten of Diamonds. Nash, Six over five. Nash's hand, Queen over five. Two kings. War! Hurley loses the battle. Nash takes 6 cards. Hurley's three falls to Nash's five. Nash leads 50 to 2. Nash's four falls to Hurley's ace.
+
+**GARCIA:** That ace got the job done, but was it the most strategic play by Hurley? It's getting close folks.
+
+**HUERTA:**  Hurley's ten beats Nash's six.
+
+**GARCIA:** It's getting close folks.
+
+**HUERTA:**  Another for Hurley, Ace over seven. Nash with a Queen of Clubs over Four of Hearts.
+
+**GARCIA:** We're almost there.
+
+**HUERTA:**  Nash with a Queen of Hearts over Six of Clubs.
+
+**GARCIA:** In just a few plays we could have a result.
+
+**HUERTA:**  Two tens. War! Hurley defeats Nash with an ace, takes 6 cards. Nash leads 46 to 6. Nash's hand, King over seven. Hurley tops Nash with Ace of Clubs over Three of Clubs. Ten over seven, Hurley. Jack over nine, Hurley. Hurley keeps going. Ten over four.
+
+**GARCIA:** I think Hurley is going somewhere.
+
+**HUERTA:**  Nash's hand, Seven over two. Hurley's ace beats Nash's two. Nash, Nine over three. Nash's three loses to Hurley's ten. Nash's ace bests Hurley's seven. Hurley, Jack over eight. Hurley's nine loses to Nash's ace. Nash's jack bests Hurley's ten. Nash this time with the Queen of Diamonds. Nash again, Four over two.
+
+**GARCIA:** Nash has got some momentum.
+
+**HUERTA:**  Ace over two, Hurley.
+
+**GARCIA:** That ace seems wasted on a two.
+
+**HUERTA:**  Nash's jack beats Hurley's ten. Nash's nine tops Hurley's three.
+
+**GARCIA:** In just a few plays we could have a result.
+
+**HUERTA:**  Another for Nash with Jack over eight. Hurley tops Nash with Jack of Clubs over Eight of Clubs. Nash's hand, Seven over two.
+
+**GARCIA:** We're almost there.
+
+**HUERTA:**  Hurley's hand, Ace over nine.
+
+**GARCIA:** Nash likes where this is going.
+
+**HUERTA:**  Eight over four, Hurley. Hurley does it again. Jack over eight. Hurley wins again. Nine over six. Hurley wins again. Ace over ten. Nash beats Hurley with Ace of Diamonds over Four of Clubs. Hurley's eight loses to Nash's ten.
+
+**GARCIA:** Excellent move.
+
+**HUERTA:**  Hurley with a Jack of Clubs over Five of Spades. Nash, King over eight. Two sixes. It's a war folks! Nash loses the battle. Hurley takes 6 cards. Hurley with an Ace of Clubs over Queen of Spades. Nash leads 42 to 10.
+
+**GARCIA:** I bet Nash wishes they had something higher than a queen on that play.
+
+**HUERTA:**  Hurley again, Five over three. Nash's hand, King over jack. Nash with an Eight of Spades over Six of Spades.
+
+**GARCIA:** Efficient play.
+
+**HUERTA:**  Nash does it again. King over five. Nash does it again. Six over five. Nash's two loses to Hurley's nine. Hurley with a Ten of Spades over Three of Diamonds. Another for Hurley, Six over five.
+
+**GARCIA:** Excellent use of a six by Hurley
+
+**HUERTA:**  Queens. War!!! Nash's six wins the battle taking 6 cards. Nash, Queen over three. Nash leads 46 to 6.
+
+**GARCIA:** I hope Nash doesn't need that queen when something bigger comes along.
+
+**HUERTA:**  Another for Nash, King over nine. Nash does it again. Seven over two.
+
+**GARCIA:** We're almost there.
+
+**HUERTA:**  Hurley with a Ten of Spades over Seven of Clubs. Three over two, Hurley. Nash with a Nine of Spades over Six of Hearts. Five over three, Hurley.
+
+**GARCIA:** Smart move by Hurley.
+
+**HUERTA:**  Nash with an Ace of Hearts over Ten of Spades. Sevens. War! Nash's nine wins the battle taking 6 cards. Nash leads 50 to 2.
+
+**GARCIA:** Nash likes where this is going.
+
+**HUERTA:**  Nash with a Ten of Diamonds over Three of Clubs.
+
+**GARCIA:** We're almost there.It all rests on this play.
+
+**HUERTA:** In 773 hands, Jose Nash has won the match.
+
+**GARCIA:** 773 hands! What a battle! Jesus Hurley really couldn't hold on to the lead for very long. 
+
+**HUERTA:** Jose Nash meets the winner of game 8 in Game 4 of the 2nd round. 
 
 ## Game 8, Round 1
 
-**MCLAUGHLIN:** What a busy day for war.
+**GARCIA:** What a brave day for war.
 
-**QUINTERO:** Hello, I'm Regina Quintero.
+**HUERTA:** Hello, I'm Daryl Huerta.
 
-**MCLAUGHLIN:** And I am Bentley McLaughlin.
+**GARCIA:** And I am Ray Garcia.
 
-**QUINTERO:** We are here today for Game 8 of the 1st round of the War Championship. At the table today, Bernie Hahn and Ayden Cuevas. Hahn triumphed over Cuevas when these players last battled. Will they repeat that performance again today, Bentley?
+**HUERTA:** Welcome to Game 8 of the 1st round of the War Championship. We are about to watch Jacky Owen and Benjamin Weiss compete. Owen bested Weiss the last time these players competed. What's next, Ray?
 
-**MCLAUGHLIN:** Cuevas really dominated in that game, but couldn't turn it into a win. I'm sure Hahn would love to repeat that game, but as you know Regina, its really anyone's game.
+**GARCIA:** That game was a shutout. Owen maintained the lead the whole game. I'm sure Weiss is looking for a change in results, but there is always a possibility it could go either way, Daryl.
 
-**QUINTERO:** Hahn and Cuevas are ready to play the first hand. Hahn, Five over two. Hahn's six tops Cuevas's four.
+**HUERTA:** The dealer has signaled the start of the match. Owen, Queen over two. Weiss, Ace over queen. Owen's nine tops Weiss's seven.
 
-**MCLAUGHLIN:** Nice use of a six by Hahn.
+**GARCIA:** Owen just showed us how its done.
 
-**QUINTERO:**  Another for Hahn with Jack over seven. Cuevas, Ten over three. Cuevas with a Jack of Spades over Six of Clubs. Cuevas keeps going. Ace over seven. Two fives. It's a war folks! Hahn loses the battle. Cuevas takes 6 cards. Cuevas's nine beats Hahn's four. Cuevas leads 30 to 22. Another for Cuevas, Queen over jack. Two kings. We have a war! Hahn defeats Cuevas with a jack, takes 6 cards. Hahn's king tops Cuevas's three.
+**HUERTA:**  Weiss's five falls to Owen's six. Owen this time with the Eight of Diamonds.
 
-**MCLAUGHLIN:** That king got the job done, but was it the most strategic play by Hahn?
+**GARCIA:** Great use of an eight by Owen.
 
-**QUINTERO:**  Hahn does it again. Ten over nine. The games tied. Cuevas's king beats Hahn's six. Hahn, Six over five.
+**HUERTA:**  Tens. War! Weiss's king wins the battle taking 6 cards. Ten over three, Weiss. Another for Weiss with King over five. Owen beats Weiss with Ace of Diamonds over Two of Diamonds.
 
-**MCLAUGHLIN:** Nice play.
+**GARCIA:** That ace seems wasted on a two.
 
-**QUINTERO:**  Ten over seven, Hahn. Cuevas tops Hahn with Nine of Clubs over Eight of Spades.
+**HUERTA:**  Weiss's jack falls to Owen's king. Owen wins again. Ace over seven. Weiss's hand, Queen over three. Weiss's hand, Six over five. Weiss again, King over seven. Weiss's eight loses to Owen's ace. Owen's queen beats Weiss's three. Weiss with a Four of Hearts over Two of Clubs. Weiss's seven loses to Owen's ten. Owen, Nine over five. Weiss tops Owen with Six of Spades over Four of Diamonds.
 
-**MCLAUGHLIN:** Cuevas just showed us how its done.
+**GARCIA:** Good job by Weiss.
 
-**QUINTERO:**  Cuevas, Eight over four. Queen over two, Hahn. Cuevas's hand, Queen over three.
+**HUERTA:**  Jack over nine, Weiss.
 
-**MCLAUGHLIN:** That queen seems wasted on a three.
+**GARCIA:** Nice use of a jack by Weiss.
 
-**QUINTERO:**  Ace over seven, Cuevas. Hahn with an Ace of Spades over Four of Spades. Hahn's ten beats Cuevas's nine.
+**HUERTA:**  Weiss continues streak. Nine over eight. Weiss this time with the Jack of Hearts.
 
-**MCLAUGHLIN:** Hahn just showed us how its done.
+**GARCIA:** Owen is stumbling a little.
 
-**QUINTERO:**  Cuevas, Ten over five.
+**HUERTA:**  Owen with an Eight of Hearts over Four of Clubs. Two queens. It's a war folks! Owen loses the battle. Weiss takes 6 cards. Weiss leads 31 to 21. Owen bests Weiss with Nine of Diamonds over Two of Hearts. Weiss with a Ten of Diamonds over Five of Spades. King over six, Weiss. Another for Weiss, Ten over six. Owen with an Eight of Diamonds over Four of Spades. Owen with an Ace of Diamonds over Ten of Hearts. Weiss with a Three of Spades over Two of Diamonds. Weiss's five loses to Owen's jack. Kings. It's a war folks! Weiss loses the battle. Owen takes 6 cards. Owen's ace bests Weiss's five. Weiss leads 27 to 25. Another for Owen, Eight over six.
 
-**MCLAUGHLIN:** We have some real fighters on our hands.
+**GARCIA:** Nice use of an eight by Owen.
 
-**QUINTERO:**  Three over two, Cuevas. Cuevas keeps going. Jack over six. Cuevas this time with the Six of Clubs. Cuevas leads 30 to 22.
+**HUERTA:**  King over queen, Weiss.
 
-**MCLAUGHLIN:** I bet Hahn wishes they had something higher than a four on that play.
+**GARCIA:** Good job.
 
-**QUINTERO:**  Hahn, Jack over seven. Cuevas with an Ace of Clubs over Seven of Clubs. Cuevas with an Ace of Hearts over Jack of Hearts. Cuevas's five loses to Hahn's king. Hahn bests Cuevas with Three of Diamonds over Two of Diamonds. Cuevas's hand, Queen over eight. Cuevas with an Eight of Diamonds over Two of Clubs. Hahn tops Cuevas with King of Diamonds over Five of Hearts. Cuevas with a Nine of Diamonds over Three of Clubs. Hahn's hand, King over four.
+**HUERTA:**  Weiss with a Seven of Clubs over Three of Hearts. Seven over four, Owen. Owen's ten tops Weiss's two. Owen again, Five over four.
 
-**MCLAUGHLIN:** I hope Hahn doesn't need that king when something bigger comes along.
+**GARCIA:** Efficient play by Owen.
 
-**QUINTERO:**  Cuevas with a Jack of Clubs over Nine of Hearts.
+**HUERTA:**  Another for Owen with Nine over six.
 
-**MCLAUGHLIN:** Good job by Cuevas. What a fight!
+**GARCIA:** Weiss is stumbling a little.
 
-**QUINTERO:**  Cuevas, Queen over ten. Cuevas continues streak. King over six. Cuevas this time with the Six of Spades. Cuevas leads 34 to 18.
+**HUERTA:**  Weiss's nine bests Owen's four. Weiss, Jack over eight. Nines all around. War! Weiss defeats Owen with a jack, takes 6 cards. Owen, Eight over three. Owen with a Ten of Hearts over Two of Spades. Aces. War! Weiss defeats Owen with a queen, takes 6 cards. Owen beats Weiss with King of Clubs over Seven of Spades. Queen over three, Weiss. Weiss's five loses to Owen's ace. Ten over seven, Weiss. Two kings. It's a war folks! Weiss's ten wins the battle taking 6 cards. Weiss leads 33 to 19. Ace over six, Owen. Owen tops Weiss with Six of Clubs over Three of Spades. Owen again, Eight over two. Weiss's queen tops Owen's seven. Weiss beats Owen with King of Diamonds over Four of Hearts. Owen falls to Weiss again, Seven over two. Owen's hand, Ten over three. Weiss's hand, Nine over four. Owen, Five over four. Weiss's hand, Jack over nine.
 
-**MCLAUGHLIN:** Excellent use of a six by Cuevas Hahn should nip this run in the bud.
+**GARCIA:** I bet Owen wishes they had something higher than a nine on that play.
 
-**QUINTERO:**  Hahn bests Cuevas with Ten of Spades over Eight of Spades.
+**HUERTA:**  Weiss, Eight over six. Weiss this time with the Nine of Clubs. Owen with an Eight of Diamonds over Four of Spades. Nine over two, Weiss. Owen's hand, Ten over two. King over jack, Owen. Weiss with an Eight of Clubs over Seven of Spades. Two aces. War!!! Weiss defeats Owen with a jack, takes 6 cards. Weiss leads 37 to 15. Aces. War!!! Owen loses the battle. Weiss takes 6 cards. Owen with an Eight of Spades over Three of Diamonds. Weiss with a Queen of Spades over Two of Diamonds.
 
-**MCLAUGHLIN:** Nice use of a ten by Hahn.
+**GARCIA:** Weiss and Owen are trading punch for punch.
 
-**QUINTERO:**  Nine over seven, Cuevas.
+**HUERTA:**  Seven over three, Weiss. Weiss leads 41 to 11. Tens. It's a war folks! Owen loses the battle. Weiss takes 6 cards. Weiss beats Owen with Ten of Spades over Eight of Diamonds. Weiss leads 45 to 7.
 
-**MCLAUGHLIN:** Great use of a nine by Cuevas.
+**GARCIA:** Great use of a ten by Weiss.
 
-**QUINTERO:**  Cuevas's hand, Four over two.
+**HUERTA:**  Weiss again, Six over four. Owen falls to Weiss again, Queen over two.
 
-**MCLAUGHLIN:** Smart move.
+**GARCIA:** I think Weiss is going somewhere.
 
-**QUINTERO:**  Hahn's queen bests Cuevas's eight. Hahn's four tops Cuevas's three. Another for Hahn, Ace over queen.
+**HUERTA:**  Weiss's five falls to Owen's ten. King over queen, Owen.
 
-**MCLAUGHLIN:** Excellent use of an ace by Hahn
+**GARCIA:** Great use of a king by Owen.
 
-**QUINTERO:**  Hahn does it again. Ten over seven.
+**HUERTA:**  Another for Owen with Jack over seven. Owen continues streak. Eight over four.
 
-**MCLAUGHLIN:** Hahn is looking good.
+**GARCIA:** Weiss is going to be playing catch up if they don't stop this.
 
-**QUINTERO:**  Cuevas with an Ace of Diamonds over Nine of Spades. Cuevas's hand, Ten over seven. Cuevas's five falls to Hahn's jack. Hahn bests Cuevas with Five of Diamonds over Three of Spades.
+**HUERTA:**  Owen's three falls to Weiss's king. Owen's ten tops Weiss's seven. Weiss's two falls to Owen's five. Owen continues streak. Queen over nine. Weiss leads 41 to 11. Owen wins again. King over four. Weiss falls to Owen again, Jack over nine. Weiss's hand, Jack over seven. Owen with an Eight of Spades over Six of Spades. Weiss bests Owen with Eight of Hearts over Four of Hearts. Weiss's hand, Nine over seven. Owen's hand, Ten over three. Owen tops Weiss with Five of Diamonds over Two of Spades. Weiss's nine bests Owen's two. Owen's hand, Queen over seven. Owen's nine beats Weiss's eight. Ace over king, Weiss.
 
-**MCLAUGHLIN:** Hahn just showed us how its done.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Hahn does it again. King over two. Cuevas leads 30 to 22. Hahn's two falls to Cuevas's jack. Six over three, Cuevas. Hahn, King over six. Cuevas's four falls to Hahn's five. Cuevas with an Ace of Clubs over King of Spades.
+**HUERTA:**  Weiss, Six over four.
 
-**MCLAUGHLIN:** Great use of an ace by Cuevas.
+**GARCIA:** They are really going toe to toe in this game.
 
-**QUINTERO:**  Cuevas with a Seven of Clubs over Four of Clubs. Another for Cuevas, Ace over ten. Another for Cuevas with Jack over eight. Cuevas leads 34 to 18. Two eights. War!!! Hahn loses the battle. Cuevas takes 6 cards. Cuevas's two falls to Hahn's three. Hahn beats Cuevas with Ace of Spades over Nine of Diamonds. Hahn wins again. Queen over three. Jack over ten, Cuevas.
+**HUERTA:**  Another for Weiss with Jack over nine.
 
-**MCLAUGHLIN:** Great use of a jack by Cuevas.
+**GARCIA:** I bet Owen wishes they had something higher than a nine on that play.
 
-**QUINTERO:**  Cuevas's hand, Nine over seven.
+**HUERTA:**  Ace over jack, Weiss. Owen with an Eight of Spades over Five of Spades. Weiss's jack bests Owen's six. Weiss, Five over three.
 
-**MCLAUGHLIN:** Cuevas just showed us how its done.
+**GARCIA:** I bet Owen wishes they had something higher than a three on that play.
 
-**QUINTERO:**  Cuevas again, Queen over jack. Cuevas again, Ten over five. Cuevas leads 38 to 14.
+**HUERTA:**  Weiss continues streak. Ace over ten. Owen, Five over three.
 
-**MCLAUGHLIN:** Cuevas is looking good.
+**GARCIA:** Good job.
 
-**QUINTERO:**  Cuevas, King over three. Cuevas wins again. Six over five.
+**HUERTA:**  Weiss's hand, Six over two. Two queens. We have a war! Weiss defeats Owen with a queen, takes 6 cards. Weiss leads 47 to 5. Owen's eight bests Weiss's two. Weiss with a Seven of Hearts over Five of Spades. Owen, Eight over three. Weiss tops Owen with King of Hearts over Five of Diamonds. Weiss's hand, Four over three.
 
-**MCLAUGHLIN:** What a streak for Cuevas.
+**GARCIA:** Nice use of a four by Weiss. Weiss likes where this is going.
 
-**QUINTERO:**  Hahn beats Cuevas with King of Hearts over Six of Spades. Cuevas with a Five of Clubs over Two of Hearts. King over nine, Hahn. Seven over six, Cuevas.
+**HUERTA:**  Owen with an Eight of Clubs over Five of Hearts. Weiss's hand, King over two. Weiss with a Ten of Diamonds over Three of Hearts. Weiss beats Owen with Ten of Clubs over Eight of Spades.
 
-**MCLAUGHLIN:** Excellent use of a seven by Cuevas
+**GARCIA:** Weiss just showed us how its done.
 
-**QUINTERO:**  Hahn bests Cuevas with Five of Hearts over Four of Hearts.
+**HUERTA:**  Weiss again, Ten over five. Weiss leads 51 to 1.
 
-**MCLAUGHLIN:** Nice use of a five by Hahn.
+**GARCIA:** Owen should nip this run in the bud. Weiss almost has it sewed up.
 
-**QUINTERO:**  Hahn's four tops Cuevas's two. Nine over two, Cuevas. Ace over three, Cuevas. Hahn with an Ace of Spades over Seven of Diamonds. Ten over nine, Cuevas.
+**HUERTA:** Again Benjamin Weiss beats Jacky Owen. In just 131 hands, Benjamin Weiss has won the match.
 
-**MCLAUGHLIN:** Nice use of a ten by Cuevas.
+**GARCIA:** Weiss saw where they wanted to go and got there as quickly as possible. Benjamin Weiss held the lead for most of the game. The lead switched between Benjamin Weiss and Jacky Owen 21 times. 
 
-**QUINTERO:**  Hahn with a Queen of Hearts over Two of Diamonds.
-
-**MCLAUGHLIN:** What a fight!
-
-**QUINTERO:**  Cuevas with a Jack of Spades over Three of Clubs. Hahn with a King of Hearts over Three of Diamonds. Two sixes. We have a war! Hahn loses the battle. Cuevas takes 6 cards. Cuevas leads 42 to 10.
-
-**MCLAUGHLIN:** I bet Hahn wishes they had something higher than a king on that play.
-
-**QUINTERO:**  Cuevas with a Seven of Clubs over Five of Hearts. Fours. War!! Cuevas defeats Hahn with an ace, takes 6 cards. Cuevas leads 46 to 6. Cuevas bests Hahn with Eight of Spades over Seven of Diamonds. Hahn, Ace over jack. Hahn's queen bests Cuevas's eight.
-
-**MCLAUGHLIN:** We have some real fighters on our hands.
-
-**QUINTERO:**  Cuevas's hand, Queen over two.
-
-**MCLAUGHLIN:** Cuevas over paid for that two.
-
-**QUINTERO:**  Cuevas bests Hahn with Eight of Clubs over Three of Diamonds. Cuevas's queen loses to Hahn's king. Hahn's hand, Jack over four. Hahn again, Ace over eight. Ten over eight, Cuevas.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Hahn's queen bests Cuevas's jack.
-
-**MCLAUGHLIN:** Great use of a queen by Hahn.
-
-**QUINTERO:**  Hahn with a Queen of Clubs over Nine of Hearts. Hahn's hand, King over seven. Cuevas leads 42 to 10. Jacks all around. We have a war! Cuevas loses the battle. Hahn takes 6 cards. Cuevas's hand, Ten over eight. Cuevas's hand, King over queen.
-
-**MCLAUGHLIN:** Nice use of a king by Cuevas.
-
-**QUINTERO:**  Jack over three, Hahn. Hahn, Nine over six. Hahn continues streak. Queen over five. Cuevas leads 38 to 14. Another for Hahn, King over five. Hahn again, Seven over two.
-
-**MCLAUGHLIN:** Cuevas is going to be playing catch up if they don't stop this.
-
-**QUINTERO:**  Another for Hahn, Jack over six.
-
-**MCLAUGHLIN:** Someone should tell Cuevas the match isn't over.
-
-**QUINTERO:**  Cuevas tops Hahn with Seven of Spades over Five of Spades.
-
-**MCLAUGHLIN:** I bet Hahn wishes they had something higher than a five on that play.
-
-**QUINTERO:**  Hahn tops Cuevas with Queen of Diamonds over Nine of Spades. Hahn's four bests Cuevas's two. Cuevas leads 34 to 18.
-
-**MCLAUGHLIN:** Great use of a four by Hahn.
-
-**QUINTERO:**  Aces all around. We have a war! Hahn loses the battle. Cuevas takes 6 cards. Cuevas's nine loses to Hahn's jack.
-
-**MCLAUGHLIN:** Excellent move by Hahn.
-
-**QUINTERO:**  Hahn, Nine over three. Hahn's six falls to Cuevas's jack. Hahn's queen loses to Cuevas's ace.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Cuevas this time with the King of Diamonds. Cuevas leads 38 to 14. Cuevas this time with the Nine of Clubs.
-
-**MCLAUGHLIN:** Hahn is stumbling a little.
-
-**QUINTERO:**  Hahn tops Cuevas with King of Hearts over Six of Spades. Hahn's seven bests Cuevas's six.
-
-**MCLAUGHLIN:** Great use of a seven by Hahn.
-
-**QUINTERO:**  Cuevas's hand, King over two. Hahn's jack beats Cuevas's seven. Hahn tops Cuevas with Six of Clubs over Five of Hearts. Another for Hahn, Nine over four. Hahn keeps going. Queen over two. Cuevas leads 34 to 18.
-
-**MCLAUGHLIN:** Cuevas is stumbling a little.
-
-**QUINTERO:**  Cuevas's hand, Ten over four. Cuevas's hand, Four over two.
-
-**MCLAUGHLIN:** Smart move by Cuevas.
-
-**QUINTERO:**  Hahn, Jack over four. Cuevas tops Hahn with Ace of Hearts over Nine of Diamonds. Nine over eight, Hahn. Cuevas, Seven over three. Hahn bests Cuevas with King of Hearts over Queen of Spades. Hahn, Six over two. Hahn wins again. Seven over three. Cuevas with an Eight of Clubs over Six of Hearts.
-
-**MCLAUGHLIN:** Smart move by Cuevas.
-
-**QUINTERO:**  Hahn's seven loses to Cuevas's ten. Hahn with a Jack of Hearts over Eight of Diamonds. Cuevas's ten tops Hahn's five. Cuevas's hand, Eight over six.
-
-**MCLAUGHLIN:** Nice use of an eight by Cuevas.
-
-**QUINTERO:**  Cuevas wins again. King over four.
-
-**MCLAUGHLIN:** That king seems wasted on a four.
-
-**QUINTERO:**  Cuevas keeps going. Queen over nine. Cuevas leads 38 to 14.
-
-**MCLAUGHLIN:** Hahn is going to be playing catch up if they don't stop this.
-
-**QUINTERO:**  Cuevas's seven loses to Hahn's queen. Cuevas's five tops Hahn's two. Cuevas's ace bests Hahn's jack. Another for Cuevas, Ace over four.
-
-**MCLAUGHLIN:** That ace seems wasted on a four.
-
-**QUINTERO:**  Cuevas wins again. Ten over nine.
-
-**MCLAUGHLIN:** I think Cuevas is going somewhere.
-
-**QUINTERO:**  Hahn beats Cuevas with Eight of Spades over Three of Hearts. Cuevas's jack falls to Hahn's queen.
-
-**MCLAUGHLIN:** Nice play.
-
-**QUINTERO:**  Cuevas falls to Hahn again, King over three.
-
-**MCLAUGHLIN:** Hahn probably didn't need to use a king in that play.
-
-**QUINTERO:**  Cuevas's hand, Jack over two.
-
-**MCLAUGHLIN:** I hope Cuevas doesn't need that jack when something bigger comes along.
-
-**QUINTERO:**  Two sixes. It's a war folks! Cuevas's ace wins the battle taking 6 cards. Cuevas leads 42 to 10. Cuevas, King over eight. Jack over five, Hahn. Hahn with a Queen of Diamonds over Five of Clubs. Cuevas with a Nine of Clubs over Seven of Spades. Eight over two, Hahn. Cuevas, King over three. Hahn, Jack over ten. Hahn beats Cuevas with Queen of Spades over Four of Spades.
-
-**MCLAUGHLIN:** What a fight!
-
-**QUINTERO:**  Another for Hahn with King over two.
-
-**MCLAUGHLIN:** Hahn over paid for that two.
-
-**QUINTERO:**  Cuevas's four bests Hahn's three.
-
-**MCLAUGHLIN:** I bet Hahn wishes they had something higher than a three on that play.
-
-**QUINTERO:**  Cuevas's nine beats Hahn's five. Cuevas keeps going. Ace over jack. Hahn with a Queen of Diamonds over Seven of Diamonds. Hahn with a Five of Clubs over Three of Clubs. Hahn's two loses to Cuevas's eight. Hahn's eight bests Cuevas's six.
-
-**MCLAUGHLIN:** Hahn just showed us how its done.
-
-**QUINTERO:**  Cuevas's seven falls to Hahn's ten. Hahn wins again. Jack over ten. Cuevas leads 38 to 14.
-
-**MCLAUGHLIN:** Excellent use of a jack by Hahn
-
-**QUINTERO:**  Cuevas, Five over four.
-
-**MCLAUGHLIN:** I bet Hahn wishes they had something higher than a four on that play.
-
-**QUINTERO:**  Hahn with a Queen of Spades over Ten of Clubs.
-
-**MCLAUGHLIN:** Nice use of a queen by Hahn.
-
-**QUINTERO:**  Hahn's two falls to Cuevas's eight. Hahn's hand, King over six. Hahn, Queen over four. Cuevas with a King of Clubs over Seven of Diamonds. Cuevas with a Queen of Hearts over Three of Clubs.
-
-**MCLAUGHLIN:** I hope Cuevas doesn't need that queen when something bigger comes along.
-
-**QUINTERO:**  Cuevas keeps going. Nine over five. Hahn's hand, Six over two. Hahn, Eight over five. Cuevas's jack tops Hahn's ten.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Cuevas's ace bests Hahn's seven. Cuevas again, Ace over jack. Hahn's hand, Ten over four. Queen over ten, Hahn.
-
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a ten on that play.
-
-**QUINTERO:**  Cuevas's nine falls to Hahn's ten.
-
-**MCLAUGHLIN:** Hahn just showed us how its done.
-
-**QUINTERO:**  Hahn this time with the King of Hearts.
-
-**MCLAUGHLIN:** Nice use of a king by Hahn. Hahn has got some momentum.
-
-**QUINTERO:**  Hahn keeps going. Six over two. Cuevas with a Queen of Clubs over Four of Diamonds. Hahn, Queen over three. Sixes. War!!! Cuevas's ace wins the battle taking 6 cards. Cuevas, Seven over five.
-
-**MCLAUGHLIN:** Great use of a seven by Cuevas.
-
-**QUINTERO:**  Hahn beats Cuevas with Ten of Diamonds over Eight of Diamonds. Cuevas's king tops Hahn's four. Cuevas's nine falls to Hahn's queen. Hahn beats Cuevas with Ten of Hearts over Seven of Spades. Hahn this time with the Ten of Clubs. Cuevas's hand, King over nine. Hahn tops Cuevas with Jack of Spades over Three of Spades. Hahn's hand, King over four. Cuevas's hand, Nine over six. Cuevas beats Hahn with Five of Diamonds over Two of Diamonds. Another for Cuevas, Ace over three. Hahn, Queen over jack. Cuevas's two loses to Hahn's ten. Two eights. War!! Hahn's nine wins the battle taking 6 cards. Cuevas leads 34 to 18. Hahn, Ten over two. Cuevas's hand, Eight over seven. Hahn's three falls to Cuevas's king. Hahn with a Ten of Clubs over Seven of Diamonds. Cuevas's queen tops Hahn's jack.
-
-**MCLAUGHLIN:** Efficient play by Cuevas.
-
-**QUINTERO:**  Threes. It's a war folks! Hahn loses the battle. Cuevas takes 6 cards. Cuevas leads 38 to 14.
-
-**MCLAUGHLIN:** Neither player is giving an inch.
-
-**QUINTERO:**  Hahn's hand, Queen over jack.
-
-**MCLAUGHLIN:** Excellent use of a queen by Hahn
-
-**QUINTERO:**  Jack over ten, Hahn. Cuevas falls to Hahn again, Ten over seven. Cuevas's ace beats Hahn's two.
-
-**MCLAUGHLIN:** Cuevas probably didn't need to use an ace in that play.
-
-**QUINTERO:**  Hahn's eight falls to Cuevas's jack. Cuevas continues streak. Ace over queen.
-
-**MCLAUGHLIN:** Good job.
-
-**QUINTERO:**  Five over four, Hahn.
-
-**MCLAUGHLIN:** Excellent move.
-
-**QUINTERO:**  Hahn's four loses to Cuevas's queen. Hahn with a Nine of Clubs over Six of Spades. Two eights. War!!! Cuevas loses the battle. Hahn takes 6 cards. Cuevas leads 34 to 18. Hahn with a Ten of Clubs over Six of Diamonds. Hahn keeps going. Seven over two. Another for Hahn with Jack over seven.
-
-**MCLAUGHLIN:** Is Hahn going to take this somewhere?
-
-**QUINTERO:**  Hahn this time with the Queen of Diamonds. Cuevas leads 30 to 22.
-
-**MCLAUGHLIN:** Hahn is looking good.
-
-**QUINTERO:**  Hahn keeps going. Ten over four.
-
-**MCLAUGHLIN:** I think Hahn has decided they want this more than Cuevas.
-
-**QUINTERO:**  King over jack, Cuevas. Hahn's seven loses to Cuevas's nine. Cuevas again, King over ten. Cuevas does it again. Nine over five.
-
-**MCLAUGHLIN:** Hahn should nip this run in the bud.
-
-**QUINTERO:**  Cuevas this time with the Six of Clubs. Cuevas leads 34 to 18.
-
-**MCLAUGHLIN:** Great use of a six by Cuevas.
-
-**QUINTERO:**  Hahn's nine bests Cuevas's five. Hahn with a Six of Spades over Two of Diamonds. Cuevas's ace bests Hahn's eight. Cuevas's three bests Hahn's two. Hahn with an Ace of Clubs over Seven of Spades. Two eights. We have a war! Hahn's ten wins the battle taking 6 cards. Cuevas leads 30 to 22. Cuevas with a Queen of Hearts over Six of Diamonds. Cuevas bests Hahn with Jack of Spades over Ten of Clubs. Cuevas keeps going. King over two. Hahn falls to Cuevas again, Nine over seven. Cuevas leads 34 to 18.
-
-**MCLAUGHLIN:** Hahn is going to be playing catch up if they don't stop this.
-
-**QUINTERO:**  Hahn beats Cuevas with Jack of Clubs over Three of Spades. Seven over four, Hahn. Hahn does it again. Queen over three. Two fives. It's a war folks! Hahn defeats Cuevas with a four, takes 6 cards. Cuevas leads 28 to 24. Hahn's nine tops Cuevas's eight.
-
-**MCLAUGHLIN:** Great use of a nine by Hahn.
-
-**QUINTERO:**  Cuevas with a Jack of Diamonds over Five of Diamonds. Cuevas with an Ace of Spades over Two of Diamonds. Another for Cuevas, Queen over six. Hahn's hand, Ace over four.
-
-**MCLAUGHLIN:** That ace seems wasted on a four.
-
-**QUINTERO:**  Cuevas's hand, Queen over seven. Cuevas's hand, King over eight. Cuevas, Jack over eight. Cuevas leads 32 to 20. Hahn's ten bests Cuevas's nine. Hahn's three falls to Cuevas's seven. Hahn's six falls to Cuevas's king. Hahn tops Cuevas with King of Clubs over Ten of Diamonds. Hahn with a Jack of Clubs over Five of Hearts. Cuevas's nine tops Hahn's three. Hahn, Seven over four. Cuevas's hand, Six over four.
-
-**MCLAUGHLIN:** I bet Hahn wishes they had something higher than a four on that play.
-
-**QUINTERO:**  Ace over three, Cuevas.
-
-**MCLAUGHLIN:** That ace seems wasted on a three.
-
-**QUINTERO:**  Hahn with a Queen of Diamonds over Eight of Clubs. Ten over three, Hahn. Twos. War! Cuevas's six wins the battle taking 6 cards.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Cuevas's jack loses to Hahn's ace. Cuevas's hand, Ten over five. Cuevas, King over eight. Hahn's hand, Nine over two. Cuevas's hand, Nine over four. Hahn tops Cuevas with Ace of Clubs over Seven of Diamonds. Hahn's ten falls to Cuevas's jack.
-
-**MCLAUGHLIN:** Excellent use of a jack by Cuevas
-
-**QUINTERO:**  Hahn with a Nine of Hearts over Five of Diamonds. Hahn's ten loses to Cuevas's ace. Hahn beats Cuevas with King of Clubs over Two of Diamonds. Cuevas tops Hahn with Queen of Spades over Five of Hearts. Hahn's jack tops Cuevas's six. Cuevas's queen beats Hahn's four. Sevens. War! Two eights. War!! Cuevas's jack wins the battle taking 10 cards. Cuevas leads 40 to 12.
-
-**MCLAUGHLIN:** Efficient play. That's a big prize for Cuevas.
-
-**QUINTERO:**  Hahn's hand, Ace over seven. Jack over three, Hahn. Cuevas's hand, King over nine. Cuevas, Six over two. Cuevas continues streak. Nine over seven. Ace over three, Hahn.
-
-**MCLAUGHLIN:** I hope Hahn doesn't need that ace when something bigger comes along.
-
-**QUINTERO:**  Hahn, Nine over six. Hahn wins again. Five over four. Cuevas tops Hahn with Ace of Hearts over Two of Diamonds. Hahn's hand, King over three. Hahn's jack loses to Cuevas's queen.
-
-**MCLAUGHLIN:** I bet Hahn wishes they had something higher than a jack on that play.
-
-**QUINTERO:**  Hahn's hand, Six over two. Ace over five, Hahn. Hahn continues streak. Seven over six. Cuevas leads 36 to 16. Cuevas's hand, Four over three.
-
-**MCLAUGHLIN:** Nice use of a four by Cuevas.
-
-**QUINTERO:**  Hahn tops Cuevas with Jack of Spades over Two of Hearts.
-
-**MCLAUGHLIN:** Hahn over paid for that two.
-
-**QUINTERO:**  Cuevas's ten loses to Hahn's ace. Cuevas with a Five of Spades over Three of Spades. Cuevas's eight falls to Hahn's nine. King over six, Cuevas. Cuevas tops Hahn with Nine of Spades over Four of Hearts. Five over four, Hahn. Hahn bests Cuevas with King of Clubs over Jack of Diamonds.
-
-**MCLAUGHLIN:** Good job.
-
-**QUINTERO:**  Cuevas with a Ten of Hearts over Three of Clubs. Cuevas, Ten over six.
-
-**MCLAUGHLIN:** Neither player is giving an inch.
-
-**QUINTERO:**  Cuevas this time with the Ace of Spades.
-
-**MCLAUGHLIN:** I hope Cuevas doesn't need that ace when something bigger comes along.
-
-**QUINTERO:**  Two fives. War!!! Cuevas loses the battle. Hahn takes 6 cards. Cuevas's hand, Queen over six. Cuevas's hand, Queen over jack.
-
-**MCLAUGHLIN:** I bet Hahn wishes they had something higher than a jack on that play.
-
-**QUINTERO:**  Cuevas's hand, Eight over two. Two tens. War!!! Hahn loses the battle. Cuevas takes 6 cards. Cuevas leads 41 to 11. Hahn's eight loses to Cuevas's jack. Another for Cuevas with Eight over five. Cuevas this time with the Seven of Spades. Hahn with a King of Clubs over Eight of Hearts. Hahn, Jack over seven. Cuevas's hand, King over five. Hahn, Ace over nine. Cuevas's six falls to Hahn's seven.
-
-**MCLAUGHLIN:** Great use of a seven by Hahn.
-
-**QUINTERO:**  Another for Hahn with Five over two. Cuevas's seven beats Hahn's four. Queen over nine, Hahn. Hahn's eight loses to Cuevas's ace. Hahn's hand, King over two.
-
-**MCLAUGHLIN:** Hahn over paid for that two.
-
-**QUINTERO:**  Cuevas, Queen over seven. Two jacks. War!!! Hahn's nine wins the battle taking 6 cards. Hahn beats Cuevas with Seven of Clubs over Five of Spades. Cuevas leads 37 to 15.
-
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a five on that play.
-
-**QUINTERO:**  Hahn keeps going. Six over three. Six over two, Cuevas. Hahn's five falls to Cuevas's king. Cuevas's four falls to Hahn's nine. Hahn tops Cuevas with Queen of Spades over Nine of Spades. Hahn continues streak. King over three.
-
-**MCLAUGHLIN:** That king seems wasted on a three.
-
-**QUINTERO:**  Cuevas's hand, Ten over two. Hahn's four loses to Cuevas's six.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Jack over ten, Hahn.
-
-**MCLAUGHLIN:** Excellent move by Hahn.
-
-**QUINTERO:**  Aces. War! Hahn loses the battle. Cuevas takes 6 cards. Hahn's hand, Nine over six. Hahn's five falls to Cuevas's queen. Cuevas tops Hahn with Jack of Spades over Seven of Clubs. Cuevas again, Eight over three. Cuevas leads 41 to 11. Hahn with a Six of Hearts over Two of Hearts. Cuevas's ten beats Hahn's four. Two nines. War!! Cuevas loses the battle. Hahn takes 6 cards. Cuevas's hand, King over three. Ace over king, Cuevas. Cuevas's eight falls to Hahn's ten.
-
-**MCLAUGHLIN:** Excellent move by Hahn.
-
-**QUINTERO:**  Jacks all around. It's a war folks! Hahn's nine wins the battle taking 6 cards. Cuevas leads 36 to 16.
-
-**MCLAUGHLIN:** Nice play by Hahn.
-
-**QUINTERO:**  Hahn's six tops Cuevas's four. Cuevas bests Hahn with Seven of Spades over Two of Hearts. Nine over five, Hahn. King over nine, Cuevas. Cuevas with a Four of Diamonds over Three of Diamonds.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Hahn, Queen over seven. Nine over eight, Hahn.
-
-**MCLAUGHLIN:** Nice use of a nine by Hahn.
-
-**QUINTERO:**  Ace over ten, Cuevas. Cuevas beats Hahn with Queen of Hearts over Eight of Diamonds. Hahn bests Cuevas with Ten of Diamonds over Seven of Hearts. Cuevas's two falls to Hahn's five. Hahn, Jack over six. Cuevas's hand, King over six. Cuevas's five loses to Hahn's jack. Ten over nine, Cuevas. Hahn, Eight over two. Hahn with a Six of Hearts over Four of Clubs.
-
-**MCLAUGHLIN:** Smart move by Hahn.
-
-**QUINTERO:**  Hahn's four loses to Cuevas's six. Nine over two, Hahn. Hahn's hand, Five over three. Cuevas leads 32 to 20.
-
-**MCLAUGHLIN:** Hahn just showed us how its done.
-
-**QUINTERO:**  Cuevas, Ace over seven. Two queens. War! Cuevas defeats Hahn with an ace, takes 6 cards. Cuevas leads 36 to 16.
-
-**MCLAUGHLIN:** They are really going toe to toe in this game.
-
-**QUINTERO:**  Cuevas's hand, Queen over seven. Ten over five, Hahn. Cuevas with a Seven of Clubs over Five of Diamonds.
-
-**MCLAUGHLIN:** Great use of a seven by Cuevas.
-
-**QUINTERO:**  Cuevas tops Hahn with Jack of Spades over Two of Spades.
-
-**MCLAUGHLIN:** That jack got the job done, but was it the most strategic play by Cuevas?
-
-**QUINTERO:**  Hahn's hand, Jack over eight. Hahn's six beats Cuevas's three. Cuevas, Ten over five. Cuevas's four falls to Hahn's jack. Hahn's two falls to Cuevas's king. Cuevas's three falls to Hahn's eight.
-
-**MCLAUGHLIN:** Hahn and Cuevas are trading punch for punch.
-
-**QUINTERO:**  Cuevas, Ace over four. Cuevas with a King of Clubs over Six of Hearts. Two twos. War!! Cuevas's king wins the battle taking 6 cards. Cuevas leads 41 to 11. Hahn's three falls to Cuevas's nine. Hahn's five bests Cuevas's three.
-
-**MCLAUGHLIN:** Well played.
-
-**QUINTERO:**  Hahn's hand, Ten over four. Cuevas tops Hahn with Ten of Clubs over Eight of Clubs.
-
-**MCLAUGHLIN:** Nice play by Cuevas.
-
-**QUINTERO:**  Cuevas's ace tops Hahn's jack. Another for Cuevas, Eight over three. Hahn's six loses to Cuevas's queen.
-
-**MCLAUGHLIN:** Cuevas has got some momentum.
-
-**QUINTERO:**  Another for Cuevas, Six over four. Cuevas leads 45 to 7.
-
-**MCLAUGHLIN:** Nice use of a six by Cuevas. Hahn is stumbling a little.
-
-**QUINTERO:**  Another for Cuevas, King over jack.
-
-**MCLAUGHLIN:** Is Hahn awake?
-
-**QUINTERO:**  Cuevas keeps going. Nine over three.
-
-**MCLAUGHLIN:** Is Hahn awake?
-
-**QUINTERO:**  Cuevas does it again. Ten over eight.
-
-**MCLAUGHLIN:** Is Hahn awake? It's getting close folks.
-
-**QUINTERO:**  Cuevas continues streak. Four over three. Cuevas leads 49 to 3.
-
-**MCLAUGHLIN:** Nice play by Cuevas. Someone should tell Hahn the match isn't over. It's getting tight. Cuevas must be feeling good.
-
-**QUINTERO:**  Cuevas keeps going. Six over five.
-
-**MCLAUGHLIN:** Great use of a six by Cuevas. Is Hahn awake? It's getting tight. Cuevas must be feeling good.
-
-**QUINTERO:**  Hahn falls to Cuevas again, Ace over four.
-
-**MCLAUGHLIN:** Someone should tell Hahn the match isn't over. Cuevas likes where this is going.It all rests on this play.
-
-**QUINTERO:**  Hahn's ten bests Cuevas's seven.
-
-**MCLAUGHLIN:** What a run for Cuevas. Hahn has some ground to make up.
-
-**QUINTERO:**  Hahn's hand, Ten over eight. Cuevas's queen tops Hahn's seven.
-
-**MCLAUGHLIN:** In just a few plays we could have a result.
-
-**QUINTERO:**  Cuevas with a Nine of Diamonds over Eight of Hearts.
-
-**MCLAUGHLIN:** Nice use of a nine by Cuevas. It's getting tight. Cuevas must be feeling good.Cuevas almost has it sewed up.
-
-**QUINTERO:** In 425 hands, Ayden Cuevas has won the match.
-
-**MCLAUGHLIN:** Bernie Hahn really couldn't hold on to the lead for very long. 
-
-**QUINTERO:** Ayden Cuevas will face Manuel Norman in Game 4 of the 2nd round. 
+**HUERTA:** Benjamin Weiss meets Jose Nash in Game 4 of the 2nd round. 
 
 ## Game 1, Round 2
 
-**MCLAUGHLIN:** What a busy day for war.
+**GARCIA:** What a dizzy day for war.
 
-**QUINTERO:** Hello, I'm Regina Quintero.
+**HUERTA:** Hello, I'm Daryl Huerta.
 
-**MCLAUGHLIN:** And I am Bentley McLaughlin.
+**GARCIA:** And I am Ray Garcia.
 
-**QUINTERO:** Welcome to Game 1 of the 2nd round of the War Championship. On one side of the table today, Val Beil. On the other, Ayden Cuevas. Beil defeated Cuevas in their match in the regular season. Will they repeat that performance again today, Bentley?
+**HUERTA:** Welcome to Game 1 of the 2nd round of the War Championship. Either Bennett Hayden or Benjamin Weiss will emerge from this match a winner. In their last match, Hayden triumphed over Weiss. What's next, Ray?
 
-**MCLAUGHLIN:** Beil lead for most of the game. I'm sure Cuevas is looking for a change in results, but as you know Regina, there is always a possibility it could go either way.
+**GARCIA:** Weiss really couldn't hold on to the lead for very long. I'm sure Hayden would love to repeat that game, but as you know Daryl, you never know what to expect.
 
-**QUINTERO:** Beil and Cuevas are ready to play the first hand. Cuevas with a King of Hearts over Six of Clubs. Beil with a Ten of Spades over Six of Spades. Nine over four, Cuevas. Beil's five loses to Cuevas's eight. Beil, Seven over two. Beil's jack loses to Cuevas's queen.
+**HUERTA:** The competitors are ready. Here we go. Hayden's ten beats Weiss's six. Hayden with a Five of Clubs over Three of Diamonds. King over seven, Weiss. Hayden with a Six of Spades over Two of Diamonds. Two fives. War!! Weiss loses the battle. Hayden takes 6 cards. Hayden leads 31 to 21. Hayden, Eight over seven.
 
-**MCLAUGHLIN:** Nice use of a queen by Cuevas.
+**GARCIA:** Excellent use of an eight by Hayden
 
-**QUINTERO:**  Seven over three, Cuevas. Cuevas again, Queen over two. Cuevas leads 30 to 22. Cuevas's three loses to Beil's ace. Jack over six, Cuevas. Beil's hand, Queen over seven. Cuevas's ten falls to Beil's ace. Beil tops Cuevas with King of Clubs over Nine of Diamonds. Cuevas beats Beil with Ace of Clubs over Jack of Clubs. Seven over five, Cuevas.
+**HUERTA:**  Two aces. War!! Hayden loses the battle. Weiss takes 6 cards. Hayden, Jack over four. Hayden's ten loses to Weiss's ace. Weiss, Five over three. Kings. We have a war! Hayden loses the battle. Weiss takes 6 cards. Weiss leads 27 to 25. Weiss, Queen over jack. Hayden tops Weiss with Eight of Spades over Six of Clubs. Weiss's ace beats Hayden's eight. Weiss's hand, Ten over nine. Weiss wins again. Jack over ten. Weiss wins again. Queen over three. Weiss leads 31 to 21.
 
-**MCLAUGHLIN:** Smart move.
+**GARCIA:** I think Weiss is going somewhere.
 
-**QUINTERO:**  Cuevas again, Nine over six. Beil, Four over two.
+**HUERTA:**  Two twos. It's a war folks! Hayden's jack wins the battle taking 6 cards. Weiss with a King of Hearts over Ten of Diamonds. Weiss tops Hayden with Seven of Hearts over Six of Hearts. Five over four, Hayden.
 
-**MCLAUGHLIN:** Excellent use of a four by Beil
+**GARCIA:** Great use of a five by Hayden.
 
-**QUINTERO:**  Beil's two loses to Cuevas's eight. Beil's four tops Cuevas's three. Beil's five loses to Cuevas's queen. King over eight, Cuevas. Cuevas's ten tops Beil's four. Cuevas this time with the Jack of Diamonds. Another for Cuevas with Ten over three. Cuevas leads 34 to 18. Cuevas with an Ace of Diamonds over Eight of Hearts. Cuevas keeps going. King over nine.
+**HUERTA:**  Weiss's hand, Ace over three. Weiss, Ace over two. Weiss keeps going. King over six. Another for Weiss with Nine over five.
 
-**MCLAUGHLIN:** Cuevas is on fire.
+**GARCIA:** Weiss is looking good.
 
-**QUINTERO:**  Cuevas's six falls to Beil's ten.
+**HUERTA:**  Nine over four, Hayden. Ace over seven, Weiss. Weiss with a Ten of Clubs over Five of Hearts. Weiss again, Five over two. Weiss leads 35 to 17. Hayden's hand, Nine over three. Queen over seven, Weiss. Queen over eight, Weiss. Weiss continues streak. Seven over four. Weiss keeps going. King over jack. Weiss's king bests Hayden's six. Weiss leads 39 to 13. Hayden's eight tops Weiss's four. Weiss with a Jack of Hearts over Six of Diamonds. Queen over two, Weiss. Weiss continues streak. Ace over jack. Two eights. War!!! Weiss's ten wins the battle taking 6 cards. Weiss leads 44 to 8. Weiss's hand, Ten over four. Weiss continues streak. Jack over five. Another for Weiss, Queen over four. Hayden's hand, Nine over three. Weiss's hand, Ten over nine. Hayden's three loses to Weiss's king. Weiss leads 48 to 4.
 
-**MCLAUGHLIN:** Beil decided it is time to fight back.
+**GARCIA:** Weiss likes where this is going.
 
-**QUINTERO:**  Cuevas's hand, King over six. Seven over four, Beil. Cuevas, Nine over two. Beil's hand, Ace over eight. Cuevas's five beats Beil's three.
+**HUERTA:**  Weiss's six falls to Hayden's eight.
 
-**MCLAUGHLIN:** Excellent move by Cuevas.
+**GARCIA:** Nice use of an eight by Hayden.
 
-**QUINTERO:**  Cuevas with a Jack of Spades over Seven of Clubs. Two queens. War! Beil defeats Cuevas with a ten, takes 6 cards. Cuevas, Queen over nine. Beil's hand, King over two. Beil's four falls to Cuevas's jack. Six over two, Cuevas. Cuevas keeps going. Jack over four. Cuevas this time with the Ace of Clubs. Cuevas leads 38 to 14. Ten over five, Beil. Cuevas with a Seven of Spades over Six of Clubs.
+**HUERTA:**  Hayden's four loses to Weiss's seven. Threes. We have a war! Weiss loses the battle. Hayden takes 6 cards. Weiss, Ace over eight. Sixes all around. War!! Weiss's five wins the battle taking 6 cards.
 
-**MCLAUGHLIN:** Nice use of a seven by Cuevas.
+**GARCIA:** Weiss just showed us how its done.
 
-**QUINTERO:**  Beil tops Cuevas with Seven of Hearts over Six of Diamonds.
+**HUERTA:**  Hayden, Ace over nine.
 
-**MCLAUGHLIN:** Good job.
+**GARCIA:** What a fight!
 
-**QUINTERO:**  Nine over four, Cuevas. Cuevas's two falls to Beil's ace. Eights all around. War!!! Cuevas defeats Beil with a queen, takes 6 cards. Cuevas, Eight over three. Cuevas continues streak. King over queen. Cuevas leads 42 to 10.
+**HUERTA:**  Weiss tops Hayden with Seven of Clubs over Three of Diamonds. Weiss beats Hayden with Ace of Spades over Nine of Hearts.
 
-**MCLAUGHLIN:** Cuevas just showed us how its done.
+**GARCIA:** It's getting tight. Weiss must be feeling good.
 
-**QUINTERO:**  Tens all around. War! Beil loses the battle. Cuevas takes 6 cards. Beil, King over jack.
+**HUERTA:**  Weiss this time with the Ten of Clubs.
 
-**MCLAUGHLIN:** Smart move by Beil.
+**GARCIA:** Weiss almost has it sewed up.
 
-**QUINTERO:**  Two tens. War! Cuevas defeats Beil with an ace, takes 6 cards. Cuevas leads 47 to 5. Beil's six loses to Cuevas's eight.
+**HUERTA:**  Weiss's five loses to Hayden's ace.
 
-**MCLAUGHLIN:** Cuevas likes where this is going.
+**GARCIA:** Hayden over paid for that five. Weiss likes where this is going.
 
-**QUINTERO:**  Beil's ace beats Cuevas's nine. Beil's two falls to Cuevas's king. Kings. War!! Beil's nine wins the battle taking 6 cards. Cuevas's nine falls to Beil's ace.
+**HUERTA:** In just 65 hands, Benjamin Weiss has won the match.
 
-**MCLAUGHLIN:** Neither player is giving an inch.
+**GARCIA:** Weiss wasted no time in finishing Bennett Hayden. Bennett Hayden really couldn't hold on to the lead for very long. 
 
-**QUINTERO:**  Cuevas falls to Beil again, Six over five. Cuevas leads 43 to 9. Another for Beil with Nine over three.
-
-**MCLAUGHLIN:** Beil might be making a move.
-
-**QUINTERO:**  Cuevas beats Beil with Seven of Clubs over Two of Clubs. Beil, King over jack. Beil tops Cuevas with King of Clubs over Queen of Hearts.
-
-**MCLAUGHLIN:** Excellent move by Beil.
-
-**QUINTERO:**  Beil keeps going. Jack over nine. Cuevas with a Jack of Hearts over Nine of Clubs. Beil with an Ace of Hearts over Four of Spades.
-
-**MCLAUGHLIN:** I hope Beil doesn't need that ace when something bigger comes along.
-
-**QUINTERO:**  Sixes. War!! Cuevas's four wins the battle taking 6 cards.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Cuevas's hand, Jack over nine.
-
-**MCLAUGHLIN:** Nice use of a jack by Cuevas.
-
-**QUINTERO:**  Cuevas keeps going. Ace over jack. Cuevas's three falls to Beil's king.
-
-**MCLAUGHLIN:** I hope Beil doesn't need that king when something bigger comes along.
-
-**QUINTERO:**  Queen over seven, Beil. Cuevas falls to Beil again, King over six. Beil this time with the Jack of Diamonds. Two nines. War!! Beil loses the battle. Cuevas takes 6 cards. Cuevas's hand, Queen over three.
-
-**MCLAUGHLIN:** I hope Cuevas doesn't need that queen when something bigger comes along.
-
-**QUINTERO:**  Cuevas's seven loses to Beil's king. Cuevas's hand, Ace over seven. Beil, Queen over eight. Cuevas with an Eight of Clubs over Six of Clubs. Cuevas's three loses to Beil's king.
-
-**MCLAUGHLIN:** That king got the job done, but was it the most strategic play by Beil?
-
-**QUINTERO:**  Queen over jack, Cuevas.
-
-**MCLAUGHLIN:** Good job.
-
-**QUINTERO:**  King over four, Cuevas.
-
-**MCLAUGHLIN:** That king got the job done, but was it the most strategic play by Cuevas?
-
-**QUINTERO:**  Beil, Seven over four.
-
-**MCLAUGHLIN:** We have some real fighters on our hands.
-
-**QUINTERO:**  Beil's hand, King over two. Cuevas's hand, Ten over eight. Beil's queen beats Cuevas's ten.
-
-**MCLAUGHLIN:** Well played.
-
-**QUINTERO:**  Beil, King over queen.
-
-**MCLAUGHLIN:** Excellent use of a king by Beil
-
-**QUINTERO:**  Five over three, Cuevas.
-
-**MCLAUGHLIN:** Smart move.
-
-**QUINTERO:**  Beil tops Cuevas with Seven of Diamonds over Five of Hearts. Cuevas's hand, Seven over four. Cuevas's ten tops Beil's two. Beil beats Cuevas with King of Hearts over Three of Clubs. Beil with a Queen of Hearts over Ten of Hearts.
-
-**MCLAUGHLIN:** Excellent use of a queen by Beil They are really going toe to toe in this game.
-
-**QUINTERO:**  Cuevas, Ace over ten. Beil's king tops Cuevas's eight. Beil tops Cuevas with Queen of Diamonds over Six of Diamonds. Cuevas falls to Beil again, Five over two. King over seven, Cuevas. Cuevas's hand, Seven over three. Beil, King over two. Cuevas's jack loses to Beil's queen.
-
-**MCLAUGHLIN:** Smart move by Beil.
-
-**QUINTERO:**  Beil this time with the Ten of Hearts.
-
-**MCLAUGHLIN:** Beil just showed us how its done.
-
-**QUINTERO:**  Beil wins again. Eight over two. Cuevas leads 39 to 13.
-
-**MCLAUGHLIN:** I think Beil is going somewhere.
-
-**QUINTERO:**  Beil keeps going. King over four. Beil this time with the Six of Diamonds.
-
-**MCLAUGHLIN:** Beil is on fire.
-
-**QUINTERO:**  Another for Beil, Queen over six. Another for Beil, Five over three. Cuevas leads 35 to 17.
-
-**MCLAUGHLIN:** Nice use of a five by Beil. Is Cuevas awake?
-
-**QUINTERO:**  Cuevas's six beats Beil's two.
-
-**MCLAUGHLIN:** Cuevas might still have some fight in them.
-
-**QUINTERO:**  Beil's two loses to Cuevas's nine. Beil with a King of Hearts over Jack of Clubs. Cuevas with an Ace of Clubs over Queen of Hearts.
-
-**MCLAUGHLIN:** Great use of an ace by Cuevas.
-
-**QUINTERO:**  Two jacks. We have a war! Beil's ten wins the battle taking 6 cards. Beil's two falls to Cuevas's ace. Cuevas with a Nine of Diamonds over Eight of Hearts.
-
-**MCLAUGHLIN:** Smart move by Cuevas.
-
-**QUINTERO:**  Cuevas's eight falls to Beil's king. Cuevas bests Beil with Nine of Spades over Four of Diamonds. Beil with a Five of Spades over Three of Spades.
-
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a three on that play. Beil and Cuevas are trading punch for punch.
-
-**QUINTERO:**  Cuevas, Queen over six. Beil's six loses to Cuevas's ace. Beil tops Cuevas with Queen of Diamonds over Seven of Spades. Cuevas, Eight over five. Beil's three falls to Cuevas's six. Beil bests Cuevas with King of Hearts over Queen of Spades. Jacks. War! Beil defeats Cuevas with a jack, takes 6 cards. Cuevas bests Beil with Ten of Diamonds over Four of Spades. Jack over eight, Beil. Cuevas's three falls to Beil's ten. Cuevas's five falls to Beil's nine. Beil does it again. Eight over seven. Cuevas leads 31 to 21.
-
-**MCLAUGHLIN:** Excellent use of an eight by Beil Beil is looking good.
-
-**QUINTERO:**  Another for Beil, King over four.
-
-**MCLAUGHLIN:** Cuevas should nip this run in the bud.
-
-**QUINTERO:**  Beil this time with the Five of Spades.
-
-**MCLAUGHLIN:** What a streak for Beil.
-
-**QUINTERO:**  Cuevas, Ten over three. Cuevas's ten bests Beil's seven. Cuevas does it again. Ace over queen.
-
-**MCLAUGHLIN:** Efficient play by Cuevas.
-
-**QUINTERO:**  Cuevas's seven loses to Beil's queen. Two kings. War!! Beil's four wins the battle taking 6 cards.
-
-**MCLAUGHLIN:** Great use of a four by Beil.
-
-**QUINTERO:**  Beil beats Cuevas with Jack of Clubs over Two of Hearts. Cuevas leads 27 to 25.
-
-**MCLAUGHLIN:** That jack seems wasted on a two.
-
-**QUINTERO:**  Beil keeps going. Jack over six. Beil keeps going. Jack over nine.
-
-**MCLAUGHLIN:** Excellent use of a jack by Beil Cuevas is stumbling a little.
-
-**QUINTERO:**  Beil wins again. Five over two.
-
-**MCLAUGHLIN:** Cuevas is going to be playing catch up if they don't stop this.
-
-**QUINTERO:**  Cuevas, Ace over eight. Cuevas's queen bests Beil's jack.
-
-**MCLAUGHLIN:** I bet Beil wishes they had something higher than a jack on that play.
-
-**QUINTERO:**  Cuevas this time with the Ace of Hearts. Beil bests Cuevas with Three of Hearts over Two of Diamonds.
-
-**MCLAUGHLIN:** Great use of a three by Beil.
-
-**QUINTERO:**  Two nines. War!!! Cuevas's nine wins the battle taking 6 cards.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Beil's hand, Seven over four. Beil, King over six. Cuevas with a Queen of Clubs over Four of Hearts. Beil's five falls to Cuevas's six.
-
-**MCLAUGHLIN:** Well played by Cuevas.
-
-**QUINTERO:**  Cuevas wins again. Ace over two. Beil, Queen over five. Cuevas's hand, Eight over seven. Cuevas's three falls to Beil's king.
-
-**MCLAUGHLIN:** I hope Beil doesn't need that king when something bigger comes along.
-
-**QUINTERO:**  Six over three, Cuevas. Beil, Seven over four. Beil's hand, King over ten. Beil keeps going. King over ten. Beil's hand, Four over three.
-
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a three on that play.
-
-**QUINTERO:**  Beil keeps going. Jack over seven.
-
-**MCLAUGHLIN:** I think Beil is going somewhere.
-
-**QUINTERO:**  Cuevas's ten tops Beil's two. Cuevas bests Beil with Ace of Diamonds over Six of Spades. Another for Cuevas with Queen over jack. Beil, Jack over eight. Beil's nine loses to Cuevas's ace. Cuevas's hand, Jack over five. Cuevas keeps going. Queen over two.
-
-**MCLAUGHLIN:** Cuevas probably didn't need to use a queen in that play.
-
-**QUINTERO:**  Another for Cuevas, Ace over two. Cuevas leads 31 to 21.
-
-**MCLAUGHLIN:** Cuevas is looking good.
-
-**QUINTERO:**  Beil falls to Cuevas again, Ten over three.
-
-**MCLAUGHLIN:** Cuevas is looking good.
-
-**QUINTERO:**  Beil falls to Cuevas again, Nine over seven.
-
-**MCLAUGHLIN:** Is Beil awake?
-
-**QUINTERO:**  Cuevas again, Eight over four.
-
-**MCLAUGHLIN:** Cuevas ate their Wheaties today.
-
-**QUINTERO:**  Cuevas keeps going. Nine over six. Cuevas leads 35 to 17.
-
-**MCLAUGHLIN:** Someone should tell Beil the match isn't over.
-
-**QUINTERO:**  Beil, King over five.
-
-**MCLAUGHLIN:** Beil might still have some fight in them.
-
-**QUINTERO:**  Beil, Queen over nine. Cuevas's hand, Eight over five. Cuevas bests Beil with Queen of Clubs over Three of Diamonds. Beil with a King of Diamonds over Four of Hearts. Cuevas's five bests Beil's four.
-
-**MCLAUGHLIN:** Nice use of a five by Cuevas.
-
-**QUINTERO:**  Beil's seven bests Cuevas's six. Beil's king loses to Cuevas's ace.
-
-**MCLAUGHLIN:** Excellent use of an ace by Cuevas
-
-**QUINTERO:**  Beil, Ten over two. Cuevas's eight loses to Beil's ten. Beil again, King over seven. Six over three, Cuevas. Beil's hand, Four over three.
-
-**MCLAUGHLIN:** Beil just showed us how its done.
-
-**QUINTERO:**  Beil with a Jack of Clubs over Two of Hearts. Cuevas leads 31 to 21. Cuevas's ten bests Beil's seven. Cuevas, Ace over eight. Jack over six, Beil. Cuevas's hand, Jack over five. Beil's hand, King over queen.
-
-**MCLAUGHLIN:** Beil just showed us how its done.
-
-**QUINTERO:**  Ace over queen, Cuevas. Nines all around. War! Beil loses the battle. Cuevas takes 6 cards. Cuevas leads 36 to 16.
-
-**MCLAUGHLIN:** Nice use of a five by Cuevas.
-
-**QUINTERO:**  Queen over seven, Cuevas. Beil bests Cuevas with Six of Hearts over Two of Clubs. Twos all around. War! Beil's eight wins the battle taking 6 cards. Tens all around. War!!! Cuevas's nine wins the battle taking 6 cards. Two fours. It's a war folks! Cuevas's nine wins the battle taking 6 cards. Cuevas's six falls to Beil's jack. Beil, Jack over eight.
-
-**MCLAUGHLIN:** Neither player is giving an inch.
-
-**QUINTERO:**  Cuevas falls to Beil again, Six over five.
-
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a five on that play.
-
-**QUINTERO:**  Beil wins again. King over three. Queens. We have a war! Beil defeats Cuevas with a six, takes 6 cards. Cuevas leads 32 to 20. Cuevas with a King of Spades over Ten of Diamonds. Cuevas tops Beil with Ace of Spades over Two of Diamonds.
-
-**MCLAUGHLIN:** That ace seems wasted on a two.
-
-**QUINTERO:**  Another for Cuevas, Six over three. Beil's eight bests Cuevas's three. Beil's hand, Ace over ten. Cuevas's hand, Seven over two. Cuevas, Ace over jack. Cuevas again, Eight over six. Cuevas leads 36 to 16. Cuevas continues streak. Jack over eight.
-
-**MCLAUGHLIN:** Beil should nip this run in the bud.
-
-**QUINTERO:**  Jack over five, Beil. Cuevas bests Beil with Ace of Clubs over Six of Spades. Cuevas's queen bests Beil's five. Beil's king tops Cuevas's five. Jack over three, Cuevas. Cuevas with a Nine of Hearts over Five of Spades. Cuevas continues streak. King over queen. Cuevas leads 40 to 12.
-
-**MCLAUGHLIN:** Excellent use of a king by Cuevas
-
-**QUINTERO:**  Beil's queen tops Cuevas's nine. Two fours. We have a war! Cuevas defeats Beil with a seven, takes 6 cards. Beil's three falls to Cuevas's seven. Cuevas this time with the Ten of Spades. Cuevas leads 44 to 8. Ten over seven, Beil. Ace over king, Beil. Another for Beil with Jack over nine.
-
-**MCLAUGHLIN:** Beil just showed us how its done.
-
-**QUINTERO:**  Ten over five, Cuevas. Beil, King over four.
-
-**MCLAUGHLIN:** Beil over paid for that four.
-
-**QUINTERO:**  Beil with a Five of Clubs over Two of Hearts. Cuevas leads 40 to 12. Cuevas falls to Beil again, Nine over three. Cuevas falls to Beil again, Queen over nine.
-
-**MCLAUGHLIN:** Beil might be making a move.
-
-**QUINTERO:**  Another for Beil, Ten over four.
-
-**MCLAUGHLIN:** I think Beil is going somewhere.
-
-**QUINTERO:**  Cuevas, Eight over seven. Beil beats Cuevas with Ace of Hearts over Ten of Diamonds. Kings all around. War!!! Cuevas's ace wins the battle taking 6 cards. Beil's four falls to Cuevas's six.
-
-**MCLAUGHLIN:** Excellent use of a six by Cuevas
-
-**QUINTERO:**  King over three, Beil. Twos. War! Beil loses the battle. Cuevas takes 6 cards. Jack over three, Cuevas. Cuevas leads 44 to 8. Beil, Queen over six. Beil, Nine over eight.
-
-**MCLAUGHLIN:** They are really going toe to toe in this game.
-
-**QUINTERO:**  Cuevas with a Jack of Hearts over Four of Clubs. Beil's ten beats Cuevas's eight. Two aces. War! Beil defeats Cuevas with a king, takes 6 cards. Cuevas leads 39 to 13. Cuevas beats Beil with Queen of Spades over Three of Hearts.
-
-**MCLAUGHLIN:** That queen seems wasted on a three.
-
-**QUINTERO:**  Cuevas beats Beil with Jack of Spades over Six of Diamonds. Beil bests Cuevas with Queen of Diamonds over Three of Diamonds. Cuevas's nine bests Beil's eight. Beil's hand, Nine over five. Cuevas beats Beil with King of Diamonds over Ten of Clubs. Cuevas bests Beil with Queen of Clubs over Eight of Diamonds. Beil with a King of Clubs over Two of Clubs. Beil beats Cuevas with Ten of Diamonds over Six of Hearts. Beil this time with the Ace of Clubs.
-
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a queen on that play.
-
-**QUINTERO:**  Beil wins again. Six over four. Beil continues streak. Five over four.
-
-**MCLAUGHLIN:** Excellent use of a five by Beil
-
-**QUINTERO:**  Cuevas falls to Beil again, Ace over seven.
-
-**MCLAUGHLIN:** Cuevas is really taking a beating.
-
-**QUINTERO:**  Beil again, Queen over three. Cuevas leads 35 to 17.
-
-**MCLAUGHLIN:** Beil ate their Wheaties today.
-
-**QUINTERO:**  Seven over three, Cuevas.
-
-**MCLAUGHLIN:** Cuevas might still have some fight in them.
-
-**QUINTERO:**  Cuevas tops Beil with Ten of Spades over Nine of Spades.
-
-**MCLAUGHLIN:** Smart move by Cuevas.
-
-**QUINTERO:**  Cuevas continues streak. Eight over five. Another for Cuevas, Ten over two. Cuevas leads 39 to 13. King over five, Beil. Cuevas bests Beil with Seven of Diamonds over Six of Hearts. Beil's ten bests Cuevas's eight. Beil bests Cuevas with Queen of Hearts over Nine of Diamonds. Beil this time with the Ace of Clubs. Cuevas with a Jack of Diamonds over Four of Hearts. Beil's hand, Six over two. Cuevas, Ace over four. Cuevas beats Beil with King of Spades over Five of Hearts. Beil's ace beats Cuevas's four. Beil bests Cuevas with Seven of Clubs over Six of Clubs.
-
-**MCLAUGHLIN:** Excellent use of a seven by Beil
-
-**QUINTERO:**  Cuevas's hand, Five over three.
-
-**MCLAUGHLIN:** Excellent use of a five by Cuevas
-
-**QUINTERO:**  Cuevas's two falls to Beil's queen.
-
-**MCLAUGHLIN:** That queen seems wasted on a two.
-
-**QUINTERO:**  Beil with a Five of Diamonds over Two of Spades. Cuevas leads 35 to 17. Cuevas, Ace over king.
-
-**MCLAUGHLIN:** Excellent use of an ace by Cuevas
-
-**QUINTERO:**  Beil, Ten over nine.
-
-**MCLAUGHLIN:** Excellent use of a ten by Beil We have some real fighters on our hands.
-
-**QUINTERO:**  Beil with an Eight of Hearts over Seven of Spades. Beil keeps going. Queen over jack. Beil keeps going. Nine over three.
-
-**MCLAUGHLIN:** I think Beil is going somewhere.
-
-**QUINTERO:**  Cuevas falls to Beil again, Ace over four. Cuevas leads 31 to 21. Beil keeps going. King over jack. Cuevas tops Beil with Three of Hearts over Two of Diamonds.
-
-**MCLAUGHLIN:** Great use of a three by Cuevas.
-
-**QUINTERO:**  Cuevas's queen beats Beil's six. Beil beats Cuevas with Ace of Hearts over Jack of Spades. Cuevas's six beats Beil's four. Cuevas's eight tops Beil's six. Cuevas again, Nine over seven. Beil with a Queen of Diamonds over Ten of Clubs.
-
-**MCLAUGHLIN:** Nice use of a queen by Beil.
-
-**QUINTERO:**  Cuevas beats Beil with King of Diamonds over Two of Hearts.
-
-**MCLAUGHLIN:** That king got the job done, but was it the most strategic play by Cuevas?
-
-**QUINTERO:**  Queen over five, Cuevas. Cuevas leads 35 to 17. Another for Cuevas with Eight over two. Beil, Nine over three. Ten over seven, Beil. Cuevas, Ten over eight.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Beil's seven loses to Cuevas's nine.
-
-**MCLAUGHLIN:** Nice use of a nine by Cuevas.
-
-**QUINTERO:**  Beil's jack bests Cuevas's five. Beil, Queen over eight. Beil keeps going. Nine over two. Ten over three, Cuevas. Cuevas's hand, Seven over four. Beil tops Cuevas with Ace of Clubs over Six of Hearts. Beil's hand, Jack over four. Beil's hand, King over jack. Beil's jack loses to Cuevas's ace. Beil with an Ace of Hearts over Four of Spades.
-
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Beil?
-
-**QUINTERO:**  Beil's hand, Queen over five. Cuevas leads 31 to 21. King over ten, Cuevas. Cuevas, Five over three.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Beil, Nine over three. Cuevas's king tops Beil's seven. Cuevas's ace bests Beil's ten. Beil with a Jack of Clubs over Two of Diamonds. Beil's hand, Five over three.
-
-**MCLAUGHLIN:** Nice play.
-
-**QUINTERO:**  Two queens. War! Cuevas defeats Beil with a four, takes 6 cards. Cuevas leads 35 to 17.
-
-**MCLAUGHLIN:** I bet Beil wishes they had something higher than a two on that play. Neither player is giving an inch.
-
-**QUINTERO:**  Cuevas's six falls to Beil's nine. Beil beats Cuevas with Ace of Clubs over Six of Clubs. Cuevas, Eight over six.
-
-**MCLAUGHLIN:** Great use of an eight by Cuevas.
-
-**QUINTERO:**  Beil, Jack over seven. Beil's four falls to Cuevas's nine. Cuevas's two falls to Beil's jack. Two kings. War!!! Beil defeats Cuevas with an ace, takes 6 cards. Cuevas leads 30 to 22. Beil beats Cuevas with Five of Hearts over Two of Spades. Another for Beil, Queen over eight. Cuevas with a Ten of Spades over Three of Spades. Beil's hand, Nine over eight.
-
-**MCLAUGHLIN:** Great use of a nine by Beil.
-
-**QUINTERO:**  Nine over two, Cuevas. Jack over seven, Beil. Beil's five loses to Cuevas's ten. Threes all around. War! Cuevas's seven wins the battle taking 6 cards.
-
-**MCLAUGHLIN:** Nice use of a seven by Cuevas.
-
-**QUINTERO:**  Jack over six, Cuevas. Aces all around. War! Cuevas defeats Beil with a ten, takes 6 cards. Cuevas leads 36 to 16. Cuevas, Five over two. Beil tops Cuevas with Jack of Diamonds over Three of Diamonds. Queen over seven, Beil. Kings all around. War! Two aces. War!!! Beil loses the battle. Cuevas takes 10 cards. Cuevas leads 40 to 12.
-
-**MCLAUGHLIN:** A lot of cards in that play. I bet Beil wishes they played that differently.
-
-**QUINTERO:**  Twos. War! Queens. War! Beil defeats Cuevas with an eight, takes 10 cards. Cuevas leads 35 to 17.
-
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a six on that play. A lot of cards in that play.
-
-**QUINTERO:**  Beil's nine tops Cuevas's eight.
-
-**MCLAUGHLIN:** Great use of a nine by Beil.
-
-**QUINTERO:**  Cuevas, Nine over seven. Beil's jack bests Cuevas's four. Beil with a Jack of Diamonds over Three of Spades. Cuevas's ten bests Beil's three. Cuevas bests Beil with Nine of Spades over Seven of Hearts.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Beil's hand, Queen over two. Beil's hand, Queen over ten. Another for Beil, Eight over five. Cuevas's three loses to Beil's five. Cuevas leads 31 to 21.
-
-**MCLAUGHLIN:** Nice use of a five by Beil.
-
-**QUINTERO:**  Cuevas falls to Beil again, Queen over seven.
-
-**MCLAUGHLIN:** Cuevas is stumbling a little.
-
-**QUINTERO:**  Beil's eight falls to Cuevas's nine. Sixes. We have a war! Beil loses the battle. Cuevas takes 6 cards. Cuevas's jack tops Beil's four. Cuevas leads 35 to 17. Cuevas keeps going. Six over two. Another for Cuevas, Jack over nine.
-
-**MCLAUGHLIN:** Nice use of a jack by Cuevas.
-
-**QUINTERO:**  Cuevas continues streak. King over eight.
-
-**MCLAUGHLIN:** Cuevas might be making a move.
-
-**QUINTERO:**  Jack over seven, Beil. Ace over four, Cuevas. Cuevas with a Ten of Clubs over Three of Spades. Cuevas leads 39 to 13. Beil falls to Cuevas again, Ace over jack. Twos. War! Beil loses the battle. Cuevas takes 6 cards. Cuevas leads 43 to 9. Two tens. War!!! Beil loses the battle. Cuevas takes 6 cards. Two fives. War!!! Beil's queen wins the battle taking 6 cards. Cuevas's ace beats Beil's seven. Beil's seven falls to Cuevas's ace. Cuevas does it again. King over jack.
-
-**MCLAUGHLIN:** Great use of a king by Cuevas.
-
-**QUINTERO:**  Cuevas keeps going. Nine over five. Cuevas leads 47 to 5.
-
-**MCLAUGHLIN:** Beil is stumbling a little.
-
-**QUINTERO:**  Beil, Queen over seven. Cuevas beats Beil with Ten of Spades over Five of Diamonds. Threes. War! Cuevas loses the battle. Beil takes 6 cards. Nine over seven, Cuevas.
-
-**MCLAUGHLIN:** I bet Beil wishes they had something higher than a seven on that play.
-
-**QUINTERO:**  Beil's hand, Queen over eight. Cuevas bests Beil with Four of Clubs over Three of Hearts.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Seven over two, Beil. Cuevas's queen bests Beil's three. Sixes. War!!! Cuevas loses the battle. Beil takes 6 cards. Cuevas leads 42 to 10.
-
-**MCLAUGHLIN:** We have some real fighters on our hands.
-
-**QUINTERO:**  Beil with an Eight of Diamonds over Four of Diamonds. Cuevas falls to Beil again, Queen over jack.
-
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a jack on that play.
-
-**QUINTERO:**  Cuevas with a Six of Clubs over Two of Spades. Beil, Seven over two. Beil's six loses to Cuevas's nine. Cuevas with a Jack of Hearts over Eight of Clubs. Cuevas wins again. King over nine. Cuevas wins again. Eight over six.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Beil's six bests Cuevas's four.
-
-**MCLAUGHLIN:** Great use of a six by Beil.
-
-**QUINTERO:**  Cuevas, Ace over three. Beil's four tops Cuevas's three.
-
-**MCLAUGHLIN:** Great use of a four by Beil.
-
-**QUINTERO:**  Ten over eight, Cuevas.
-
-**MCLAUGHLIN:** Efficient play.
-
-**QUINTERO:**  Ace over jack, Cuevas. Beil's hand, Queen over jack. Two twos. War! Cuevas defeats Beil with a queen, takes 6 cards. Cuevas leads 47 to 5. Cuevas with a Queen of Clubs over Six of Hearts. Cuevas this time with the Five of Clubs.
-
-**MCLAUGHLIN:** We're almost there.
-
-**QUINTERO:**  Cuevas keeps going. King over three.
-
-**MCLAUGHLIN:** Is Cuevas going to take this somewhere? It's getting tight. Cuevas must be feeling good.
-
-**QUINTERO:**  Beil bests Cuevas with Jack of Diamonds over Ten of Diamonds.
-
-**MCLAUGHLIN:** Excellent use of a jack by Beil It's getting close folks.
-
-**QUINTERO:**  Cuevas's five loses to Beil's queen.
-
-**MCLAUGHLIN:** It's getting tight. Cuevas must be feeling good.
-
-**QUINTERO:**  Cuevas's hand, King over ten.
-
-**MCLAUGHLIN:** We're almost there.
-
-**QUINTERO:**  Beil with a Jack of Diamonds over Eight of Hearts. Beil's hand, Five over four. Beil does it again. Queen over ten. Cuevas, Ace over jack. Beil's eight bests Cuevas's seven. Cuevas, Ace over five. Seven over four, Cuevas.
-
-**MCLAUGHLIN:** In just a few plays we could have a result.
-
-**QUINTERO:**  Cuevas continues streak. King over ten. Queen over jack, Beil.
-
-**MCLAUGHLIN:** Nice play. It's getting close folks.
-
-**QUINTERO:**  Beil's hand, Eight over five. Beil's seven loses to Cuevas's nine.
-
-**MCLAUGHLIN:** Great use of a nine by Cuevas. In just a few plays we could have a result.
-
-**QUINTERO:**  Beil bests Cuevas with Jack of Clubs over Five of Diamonds. Beil's queen beats Cuevas's ten.
-
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a ten on that play.
-
-**QUINTERO:**  Cuevas's seven tops Beil's five.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Cuevas, Nine over eight.
-
-**MCLAUGHLIN:** Cuevas likes where this is going.
-
-**QUINTERO:**  Beil with a Jack of Clubs over Four of Clubs. Beil tops Cuevas with Five of Diamonds over Three of Hearts. Another for Beil, Ten over three. Two queens. War! Beil's four wins the battle taking 6 cards. Cuevas leads 42 to 10.
-
-**MCLAUGHLIN:** Beil just showed us how its done.
-
-**QUINTERO:**  Cuevas with a Nine of Clubs over Five of Diamonds. Cuevas with a Six of Diamonds over Three of Hearts. Beil falls to Cuevas again, Eight over three. Cuevas continues streak. Jack over ten. Cuevas leads 46 to 6.
-
-**MCLAUGHLIN:** Great use of a jack by Cuevas. Beil should nip this run in the bud.
-
-**QUINTERO:**  Cuevas keeps going. King over queen.
-
-**MCLAUGHLIN:** Smart move by Cuevas. Beil should nip this run in the bud.
-
-**QUINTERO:**  Cuevas again, Nine over two.
-
-**MCLAUGHLIN:** I think Cuevas has decided they want this more than Beil. It's getting close folks.
-
-**QUINTERO:**  Cuevas keeps going. Eight over six.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done. I think Beil should try some higher value cards. In just a few plays we could have a result.
-
-**QUINTERO:**  Cuevas's six loses to Beil's queen.
-
-**MCLAUGHLIN:** Beil might have stopped the bleeding. It's getting tight. Cuevas must be feeling good.
-
-**QUINTERO:**  Cuevas with an Ace of Spades over Four of Clubs.
-
-**MCLAUGHLIN:** Cuevas probably didn't need to use an ace in that play.
-
-**QUINTERO:**  Beil, Jack over three. Beil's six loses to Cuevas's ten.
-
-**MCLAUGHLIN:** In just a few plays we could have a result.
-
-**QUINTERO:**  Beil tops Cuevas with Queen of Hearts over Eight of Diamonds.
-
-**MCLAUGHLIN:** We're almost there.
-
-**QUINTERO:**  Cuevas's jack beats Beil's three.
-
-**MCLAUGHLIN:** Cuevas likes where this is going.
-
-**QUINTERO:**  Ace over jack, Cuevas. Cuevas leads 50 to 2.
-
-**MCLAUGHLIN:** We're almost there.
-
-**QUINTERO:**  Beil's hand, Queen over two. Beil tops Cuevas with Eight of Diamonds over Two of Diamonds. Four over two, Cuevas.
-
-**MCLAUGHLIN:** Excellent use of a four by Cuevas
-
-**QUINTERO:**  Beil, Queen over seven.
-
-**MCLAUGHLIN:** We're almost there.
-
-**QUINTERO:**  Beil's eight tops Cuevas's two. Cuevas with a Queen of Diamonds over Two of Diamonds.
-
-**MCLAUGHLIN:** Cuevas likes where this is going.
-
-**QUINTERO:**  Queens all around. War!! Cuevas's five wins the battle taking 6 cards. Beil bests Cuevas with Eight of Diamonds over Four of Diamonds.
-
-**MCLAUGHLIN:** It's getting close folks.
-
-**QUINTERO:**  Cuevas beats Beil with King of Diamonds over Eight of Diamonds.
-
-**MCLAUGHLIN:** In just a few plays we could have a result.The game could end in this play.
-
-**QUINTERO:**  Cuevas's three falls to Beil's four.
-
-**MCLAUGHLIN:** It's getting close folks.
-
-**QUINTERO:**  Cuevas's hand, Ten over four.
-
-**MCLAUGHLIN:** In just a few plays we could have a result.It all rests on this play.
-
-**QUINTERO:** Ayden Cuevas has done it again. Cuevas wins in 475 hands.
-
-**MCLAUGHLIN:** Ayden Cuevas held the lead for most of the game. 
-
-**QUINTERO:** Ayden Cuevas will face the winner of game 2 in Game 1 of the Semi-Finals. 
+**HUERTA:** Benjamin Weiss will face the winner of game 2 in Game 1 of the Semi-Finals. 
 
 ## Game 2, Round 2
 
-**MCLAUGHLIN:** What a awful day for war.
+**GARCIA:** What a arrogant day for war.
 
-**QUINTERO:** Hello, I'm Regina Quintero.
+**HUERTA:** Hello, I'm Daryl Huerta.
 
-**MCLAUGHLIN:** And I am Bentley McLaughlin.
+**GARCIA:** And I am Ray Garcia.
 
-**QUINTERO:** We are here today for Game 2 of the 2nd round of the War Championship. Today's competitors are Abd Mendoza and Manuel Norman. Mendoza beat Norman in their last match. What's next, Bentley?
+**HUERTA:** This is Game 2 of the 2nd round of the War Championship. On one side of the table today, Juan Weber. On the other, Jose Nash. Weber defeated Nash in their last match. Will they repeat that performance again today, Ray?
 
-**MCLAUGHLIN:** Neither Mendoza or Norman really dominated in that game. I'm sure Norman is looking for a change in results, but as you know Regina, it could go either way.
+**GARCIA:** That game was a shutout. Weber maintained the lead the whole game. Nash is definitely ready for a rematch, but they're both strong players, Daryl.
 
-**QUINTERO:** The cards are dealt and the players are seated. Let's begin. Norman tops Mendoza with Eight of Hearts over Four of Hearts. Norman with a Four of Diamonds over Two of Spades.
+**HUERTA:** The cards are dealt and the competitors are seated. Let's begin. Weber with a Queen of Diamonds over Five of Diamonds. Nash's eight falls to Weber's jack. Weber does it again. Nine over four. Nash with an Ace of Diamonds over Nine of Clubs. Weber bests Nash with Jack of Clubs over Two of Hearts. Nash's eight beats Weber's four. Weber's hand, Three over two. Weber, King over two. Weber leads 30 to 22. Queens. War! Nash's eight wins the battle taking 6 cards. Weber's king bests Nash's three. Weber, Ace over queen. Fives all around. We have a war! Weber loses the battle. Nash takes 6 cards. The games tied. Weber with a Ten of Hearts over Two of Spades. Weber's hand, Ten over six. Nash's hand, Nine over seven. Nash, Ace over seven. Another for Nash with Ace over seven. Another for Nash with Five over four.
 
-**MCLAUGHLIN:** Great use of a four by Norman.
+**GARCIA:** Weber should nip this run in the bud.
 
-**QUINTERO:**  Mendoza falls to Norman again, Seven over three. Mendoza falls to Norman again, King over four. Norman leads 30 to 22.
+**HUERTA:**  Nash continues streak. Ten over six.
 
-**MCLAUGHLIN:** Norman is looking good.
+**GARCIA:** Nash might be making a move.
 
-**QUINTERO:**  Norman continues streak. Six over five.
+**HUERTA:**  Weber with a King of Clubs over Seven of Spades. Weber's hand, King over ten. Weber keeps going. Jack over nine. Nash falls to Weber again, Queen over nine. Nash with an Ace of Diamonds over Five of Diamonds.
 
-**MCLAUGHLIN:** Mendoza is going to be playing catch up if they don't stop this.
+**GARCIA:** Nash over paid for that five.
 
-**QUINTERO:**  Mendoza falls to Norman again, Ace over three.
+**HUERTA:**  Nash's four falls to Weber's jack. Eights all around. War!!! Nash's six wins the battle taking 6 cards.
 
-**MCLAUGHLIN:** I think Mendoza should try some higher value cards.
+**GARCIA:** Excellent use of a six by Nash
 
-**QUINTERO:**  Norman keeps going. Ace over queen.
+**HUERTA:**  Weber's two falls to Nash's queen. Nash's eight loses to Weber's jack. Weber's two loses to Nash's queen.
 
-**MCLAUGHLIN:** I think Norman has decided they want this more than Mendoza.
+**GARCIA:** I hope Nash doesn't need that queen when something bigger comes along.
 
-**QUINTERO:**  Another for Norman with Jack over ten. Norman leads 34 to 18.
+**HUERTA:**  Two threes. War!!! Nash loses the battle. Weber takes 6 cards. Jack over three, Nash. Weber's hand, King over five. Weber, Ace over eight. Weber again, Queen over five. Nash's nine bests Weber's two. Weber's ten tops Nash's seven. Weber beats Nash with Ten of Diamonds over Seven of Hearts. Nash, Ace over six. Sevens. War!!! Weber defeats Nash with a king, takes 6 cards. Weber leads 31 to 21. Weber bests Nash with Ten of Clubs over Four of Diamonds. Weber does it again. Jack over ten. Nash falls to Weber again, Nine over six. Nash, Ace over nine. Weber, Queen over five. Weber bests Nash with Jack of Spades over Nine of Spades. Weber leads 35 to 17. Fours. War!! Eights all around. It's a war folks! Weber loses the battle. Nash takes 10 cards. Weber leads 30 to 22.
 
-**MCLAUGHLIN:** Is Mendoza awake?
+**GARCIA:** That's a big prize for Nash.
 
-**QUINTERO:**  Mendoza falls to Norman again, Jack over ten.
+**HUERTA:**  Nash's two falls to Weber's three.
 
-**MCLAUGHLIN:** Excellent use of a jack by Norman Norman is on fire.
+**GARCIA:** Weber just showed us how its done.
 
-**QUINTERO:**  Mendoza with a Seven of Hearts over Three of Hearts.
+**HUERTA:**  Nash with a Queen of Spades over Six of Clubs. Weber, Three over two.
 
-**MCLAUGHLIN:** Mendoza decided it is time to fight back.
+**GARCIA:** I bet Nash wishes they had something higher than a two on that play.
 
-**QUINTERO:**  Norman's hand, Queen over six. Ace over seven, Norman. Norman keeps going. Nine over eight. Jack over three, Mendoza. Mendoza beats Norman with Jack of Hearts over Five of Spades. Mendoza this time with the King of Spades. Mendoza continues streak. Ten over four. Norman's eight bests Mendoza's five. Norman's six falls to Mendoza's nine. Norman's ten loses to Mendoza's ace. Two queens. War! Norman loses the battle. Mendoza takes 6 cards. Norman leads 29 to 23. Mendoza's hand, King over six. Mendoza wins again. Nine over two. Mendoza this time with the King of Clubs.
+**HUERTA:**  Weber tops Nash with King of Spades over Queen of Hearts.
 
-**MCLAUGHLIN:** I think Mendoza is going somewhere.
+**GARCIA:** Great use of a king by Weber.
 
-**QUINTERO:**  Four over three, Norman. Mendoza's seven falls to Norman's eight. Norman's four falls to Mendoza's jack. Mendoza tops Norman with Three of Spades over Two of Spades.
+**HUERTA:**  Nash falls to Weber again, King over three. Jack over five, Nash. Nash's nine falls to Weber's ace. Nash's two falls to Weber's eight. Weber leads 34 to 18. Nash falls to Weber again, Queen over six. Nash, Ace over five.
 
-**MCLAUGHLIN:** Smart move by Mendoza.
+**GARCIA:** Nash probably didn't need to use an ace in that play.
 
-**QUINTERO:**  Norman's hand, Seven over five.
+**HUERTA:**  Nash's nine loses to Weber's ten.
 
-**MCLAUGHLIN:** Smart move by Norman.
+**GARCIA:** Weber just showed us how its done.
 
-**QUINTERO:**  Mendoza tops Norman with Jack of Hearts over Three of Diamonds. Kings all around. We have a war! Norman defeats Mendoza with a five, takes 6 cards. Norman's six falls to Mendoza's ten. Norman tops Mendoza with Ace of Diamonds over Nine of Spades. Six over three, Mendoza. Norman, Ace over ten. Ace over queen, Mendoza.
+**HUERTA:**  Nash, Ace over seven. Weber with a Ten of Diamonds over Eight of Clubs.
 
-**MCLAUGHLIN:** Nice use of an ace by Mendoza.
+**GARCIA:** Nice play.
 
-**QUINTERO:**  Mendoza with a Queen of Clubs over Ten of Spades. Mendoza continues streak. Queen over jack.
+**HUERTA:**  Seven over four, Weber. Weber again, Ace over four. Nash's hand, Jack over five. Nash tops Weber with Eight of Hearts over Seven of Spades.
 
-**MCLAUGHLIN:** Excellent move.
+**GARCIA:** I bet Weber wishes they had something higher than a seven on that play.
 
-**QUINTERO:**  Norman beats Mendoza with Ten of Hearts over Two of Diamonds. Norman tops Mendoza with Jack of Spades over Five of Clubs. Norman's six loses to Mendoza's eight. Norman's queen bests Mendoza's two.
+**HUERTA:**  Weber's king tops Nash's four. Weber with a Seven of Diamonds over Six of Diamonds.
 
-**MCLAUGHLIN:** I hope Norman doesn't need that queen when something bigger comes along.
+**GARCIA:** Nice play by Weber.
 
-**QUINTERO:**  Norman with a Seven of Spades over Six of Spades. Norman's hand, Ace over king. Another for Norman with Eight over two.
+**HUERTA:**  Another for Weber, King over two. Weber leads 38 to 14.
 
-**MCLAUGHLIN:** Norman is looking good.
+**GARCIA:** That king seems wasted on a two.
 
-**QUINTERO:**  Nines all around. We have a war! Mendoza's king wins the battle taking 6 cards. Jack over four, Mendoza. Mendoza wins again. Four over three. Norman's hand, Seven over two. Mendoza's three loses to Norman's eight. Norman's five falls to Mendoza's jack. Norman bests Mendoza with Seven of Clubs over Three of Diamonds. Mendoza's ten bests Norman's four. Norman's hand, King over six. Mendoza's three falls to Norman's seven. Six over four, Mendoza. Mendoza, Queen over five. Mendoza this time with the Ace of Clubs.
+**HUERTA:**  Weber continues streak. Four over three.
 
-**MCLAUGHLIN:** I bet Norman wishes they had something higher than a king on that play.
+**GARCIA:** I bet Nash wishes they had something higher than a three on that play. Weber has got some momentum.
 
-**QUINTERO:**  Norman with an Ace of Diamonds over Ten of Spades. Queen over nine, Mendoza. Norman, Ace over jack. Mendoza's hand, Queen over ten.
+**HUERTA:**  Weber, Ten over eight.
 
-**MCLAUGHLIN:** Great use of a queen by Mendoza.
+**GARCIA:** Excellent use of a ten by Weber
 
-**QUINTERO:**  Norman's two falls to Mendoza's eight. Mendoza leads 27 to 25. Ten over six, Norman. Norman, Jack over nine.
+**HUERTA:**  Weber does it again. Jack over six.
 
-**MCLAUGHLIN:** I bet Mendoza wishes they had something higher than a nine on that play.
+**GARCIA:** Someone should tell Nash the match isn't over.
 
-**QUINTERO:**  King over five, Mendoza. Norman's two loses to Mendoza's nine. Queen over nine, Norman. Mendoza, Eight over six.
+**HUERTA:**  Weber's ten falls to Nash's queen.
 
-**MCLAUGHLIN:** They are really going toe to toe in this game.
+**GARCIA:** Nice play by Nash.
 
-**QUINTERO:**  Seven over five, Norman.
+**HUERTA:**  Weber's nine loses to Nash's jack.
 
-**MCLAUGHLIN:** Well played.
+**GARCIA:** Excellent use of a jack by Nash
 
-**QUINTERO:**  Norman, King over four. Norman does it again. Ace over jack. Norman's hand, Eight over three. Norman leads 29 to 23.
+**HUERTA:**  Weber beats Nash with Six of Hearts over Five of Spades.
 
-**MCLAUGHLIN:** Mendoza should nip this run in the bud.
+**GARCIA:** Smart move by Weber.
 
-**QUINTERO:**  Norman's two falls to Mendoza's four.
+**HUERTA:**  Two fives. War! Weber's nine wins the battle taking 6 cards. Weber leads 43 to 9.
 
-**MCLAUGHLIN:** Great use of a four by Mendoza.
+**GARCIA:** Nice play by Weber.
 
-**QUINTERO:**  Five over two, Mendoza. Mendoza with a Jack of Hearts over Seven of Hearts. Mendoza's ten beats Norman's eight. Mendoza leads 27 to 25.
+**HUERTA:**  Nash, Ace over jack. Nash with a Five of Hearts over Two of Hearts. Nash continues streak. Jack over three. Nash wins again. Seven over three. Weber leads 39 to 13.
 
-**MCLAUGHLIN:** Mendoza just showed us how its done. Norman is going to be playing catch up if they don't stop this.
+**GARCIA:** Nash might be making a move.
 
-**QUINTERO:**  Norman falls to Mendoza again, Four over three.
+**HUERTA:**  Weber's two loses to Nash's eight.
 
-**MCLAUGHLIN:** Nice use of a four by Mendoza. Mendoza is looking good.
+**GARCIA:** Is Nash going to take this somewhere?
 
-**QUINTERO:**  Norman falls to Mendoza again, Four over three.
+**HUERTA:**  King over ten, Weber. Two queens. War!! Weber loses the battle. Nash takes 6 cards. Aces all around. It's a war folks! Nash's five wins the battle taking 6 cards. Weber leads 33 to 19. Nash's two loses to Weber's eight. Weber, Queen over three. Nash, Jack over six. Weber's ten tops Nash's seven. Weber tops Nash with Nine of Clubs over Three of Spades. Eights all around. It's a war folks! Nash's jack wins the battle taking 6 cards.
 
-**MCLAUGHLIN:** Is Norman awake?
+**GARCIA:** We have some real fighters on our hands.
 
-**QUINTERO:**  Norman with a Seven of Clubs over Six of Diamonds.
+**HUERTA:**  King over four, Nash. Weber's ace tops Nash's nine. Queen over four, Nash. Weber's hand, Four over three.
 
-**MCLAUGHLIN:** Nice use of a seven by Norman.
+**GARCIA:** Excellent use of a four by Weber
 
-**QUINTERO:**  Norman beats Mendoza with Six of Hearts over Five of Diamonds.
+**HUERTA:**  Weber's hand, King over queen.
 
-**MCLAUGHLIN:** Excellent use of a six by Norman
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Norman wins again. King over queen. Mendoza tops Norman with King of Hearts over Three of Clubs. Norman's seven loses to Mendoza's ace. Ten over nine, Norman.
+**HUERTA:**  Ace over six, Nash. Nash's ace bests Weber's seven. Another for Nash, Jack over two. Weber, King over nine. Nash, Five over four. Nash's two falls to Weber's three.
 
-**MCLAUGHLIN:** Nice use of a ten by Norman.
+**GARCIA:** Good job.
 
-**QUINTERO:**  Mendoza's queen loses to Norman's ace.
+**HUERTA:**  Nash bests Weber with Jack of Clubs over Ten of Clubs.
 
-**MCLAUGHLIN:** I bet Mendoza wishes they had something higher than a queen on that play.
+**GARCIA:** Nice play.
 
-**QUINTERO:**  Mendoza's hand, Queen over jack.
+**HUERTA:**  Weber's hand, Eight over six.
 
-**MCLAUGHLIN:** Great use of a queen by Mendoza.
+**GARCIA:** Nice use of an eight by Weber.
 
-**QUINTERO:**  Norman's ace bests Mendoza's ten. Norman bests Mendoza with Six of Clubs over Two of Diamonds. Norman does it again. Ten over eight. Norman does it again. Jack over five. Norman leads 29 to 23. Mendoza's king tops Norman's nine. Mendoza's two loses to Norman's nine. Mendoza's nine falls to Norman's queen. Mendoza with an Eight of Clubs over Seven of Spades.
+**HUERTA:**  Nash with a Ten of Diamonds over Six of Clubs. Weber's jack beats Nash's eight. Nash's two falls to Weber's six. Weber's five falls to Nash's jack. Weber's hand, Queen over eight. Nash tops Weber with Seven of Hearts over Five of Diamonds. Weber's ace beats Nash's king.
 
-**MCLAUGHLIN:** Great use of an eight by Mendoza.
+**GARCIA:** Nice use of an ace by Weber.
 
-**QUINTERO:**  Mendoza with a Six of Spades over Five of Hearts.
+**HUERTA:**  Weber, Nine over four. Nash, Queen over seven. Weber with a Five of Clubs over Four of Clubs.
 
-**MCLAUGHLIN:** Well played by Mendoza.
+**GARCIA:** Excellent use of a five by Weber
 
-**QUINTERO:**  Fours. War! Mendoza loses the battle. Norman takes 6 cards. Norman's ace beats Mendoza's two. Norman this time with the Eight of Diamonds. Norman leads 33 to 19.
+**HUERTA:**  Weber's king tops Nash's six. Nash bests Weber with Ace of Hearts over Ten of Spades. Nash tops Weber with Ace of Diamonds over Two of Hearts. Weber's hand, Eight over seven. Queen over two, Weber. Nash's hand, Jack over three.
 
-**MCLAUGHLIN:** Great use of an eight by Norman.
+**GARCIA:** These two are really slugging it out.
 
-**QUINTERO:**  Mendoza with a Jack of Hearts over Three of Hearts. Mendoza tops Norman with Ten of Diamonds over Six of Diamonds. Another for Mendoza with Eight over seven.
+**HUERTA:**  Weber's seven bests Nash's five.
 
-**MCLAUGHLIN:** Mendoza just showed us how its done.
+**GARCIA:** Great use of a seven by Weber.
 
-**QUINTERO:**  Norman's five bests Mendoza's four. Norman's hand, Six over three. Norman this time with the King of Spades.
+**HUERTA:**  Ten over four, Weber. Nash bests Weber with Ten of Clubs over Three of Spades. Nash's hand, Jack over nine.
 
-**MCLAUGHLIN:** That king got the job done, but was it the most strategic play by Norman?
+**GARCIA:** Great use of a jack by Nash.
 
-**QUINTERO:**  Norman keeps going. Queen over three.
+**HUERTA:**  Ace over six, Weber. Nash's ten beats Weber's nine. Nash's hand, Jack over three. Nash's hand, Five over four.
 
-**MCLAUGHLIN:** Mendoza should nip this run in the bud.
+**GARCIA:** Nash just showed us how its done.
 
-**QUINTERO:**  Norman this time with the Nine of Spades. Mendoza's hand, King over ten. Norman's hand, Queen over seven. Two aces. War! Mendoza defeats Norman with a queen, takes 6 cards. Mendoza's hand, King over two. Mendoza keeps going. Nine over six. Norman's hand, Eight over seven. Norman's ten tops Mendoza's eight. Another for Norman, Jack over six. Fives all around. War! Mendoza defeats Norman with a jack, takes 6 cards. Norman beats Mendoza with Queen of Diamonds over Six of Diamonds. Ten over nine, Mendoza.
+**HUERTA:**  Weber with a King of Diamonds over Five of Diamonds. Weber with a Queen of Spades over Seven of Hearts. Weber continues streak. King over seven. Nash bests Weber with Queen of Hearts over Nine of Hearts. Ten over three, Nash. Another for Nash, Ace over two. Nash does it again. Ace over six. Weber with an Eight of Diamonds over Two of Hearts. Nash, Jack over eight. Weber, Jack over three. Nash's ten beats Weber's six. Nash, Three over two.
 
-**MCLAUGHLIN:** Nice use of a ten by Mendoza.
+**GARCIA:** Great use of a three by Nash.
 
-**QUINTERO:**  Mendoza with a Seven of Clubs over Four of Hearts. Norman leads 29 to 23. Norman's jack tops Mendoza's eight. Kings all around. War!! Norman loses the battle. Mendoza takes 6 cards. Norman's two loses to Mendoza's ten. Aces all around. It's a war folks! Norman loses the battle. Mendoza takes 6 cards. Mendoza leads 29 to 23. Mendoza tops Norman with Jack of Diamonds over Eight of Diamonds. Norman falls to Mendoza again, King over four. Norman's five tops Mendoza's two. Norman's three loses to Mendoza's six. Norman's six loses to Mendoza's nine. Norman, King over two. Mendoza's nine tops Norman's four. Norman's queen bests Mendoza's three.
+**HUERTA:**  Another for Nash with Jack over eight. Weber leads 29 to 23. Weber, Queen over nine. King over nine, Weber. Ace over ten, Weber. Another for Weber with Nine over three. Weber leads 33 to 19.
 
-**MCLAUGHLIN:** That queen seems wasted on a three.
+**GARCIA:** Nash should nip this run in the bud.
 
-**QUINTERO:**  Mendoza, Five over three. Norman with a Nine of Spades over Five of Clubs. Jack over three, Mendoza. Ten over seven, Mendoza. Mendoza leads 33 to 19. Norman bests Mendoza with Queen of Clubs over Nine of Diamonds. Norman bests Mendoza with Eight of Spades over Four of Hearts. Two sevens. We have a war! Mendoza's ace wins the battle taking 6 cards. King over six, Mendoza. Mendoza's four falls to Norman's jack. Norman's queen loses to Mendoza's king.
+**HUERTA:**  Jack over four, Nash. Two fives. We have a war! Nash loses the battle. Weber takes 6 cards. Nash's nine bests Weber's six. Nash beats Weber with Ten of Spades over Seven of Diamonds. Nash's three falls to Weber's eight. Nash, Ace over two. Weber with a Queen of Clubs over Two of Spades. Weber's five loses to Nash's six.
 
-**MCLAUGHLIN:** Mendoza just showed us how its done.
+**GARCIA:** Good job by Nash.
 
-**QUINTERO:**  Norman's hand, Six over five. Norman's jack tops Mendoza's ten.
+**HUERTA:**  Ace over seven, Nash. Nash again, Jack over four. Weber, Ten over eight. Weber beats Nash with Ace of Spades over Six of Hearts. Nash with a Ten of Clubs over Six of Clubs. Weber's five beats Nash's two. Weber's hand, King over three. Another for Weber, Queen over eight. Weber's seven loses to Nash's jack. King over jack, Weber.
 
-**MCLAUGHLIN:** Excellent use of a jack by Norman
+**GARCIA:** Excellent use of a king by Weber
 
-**QUINTERO:**  Norman with an Eight of Hearts over Two of Clubs. Mendoza with a Queen of Hearts over Two of Diamonds. Norman with a Five of Diamonds over Two of Spades. Mendoza's hand, Seven over two. Ace over king, Mendoza.
+**HUERTA:**  Weber's seven bests Nash's four. Nash, Nine over two. Weber tops Nash with Eight of Diamonds over Six of Diamonds. Weber, Jack over seven. Weber leads 37 to 15. Nash bests Weber with Ten of Spades over Three of Clubs. Weber's hand, Nine over two. Nash with an Ace of Hearts over Queen of Diamonds.
 
-**MCLAUGHLIN:** Excellent move.
+**GARCIA:** Nice use of an ace by Nash.
 
-**QUINTERO:**  Mendoza continues streak. Ace over three. Norman falls to Mendoza again, Ace over queen. Mendoza wins again. Eight over five. Mendoza leads 37 to 15.
+**HUERTA:**  Weber bests Nash with King of Hearts over Five of Hearts. Weber tops Nash with Nine of Diamonds over Six of Spades. Nash falls to Weber again, Ace over seven. Nash's ace tops Weber's ten. Nash with a Four of Diamonds over Three of Hearts.
 
-**MCLAUGHLIN:** Mendoza is looking good.
+**GARCIA:** I bet Weber wishes they had something higher than a three on that play.
 
-**QUINTERO:**  Mendoza does it again. Jack over nine.
+**HUERTA:**  Weber falls to Nash again, Jack over nine. Weber, King over ten. Nash, Six over five.
 
-**MCLAUGHLIN:** Good job. Someone should tell Norman the match isn't over.
+**GARCIA:** Nash just showed us how its done.
 
-**QUINTERO:**  Norman with a Nine of Diamonds over Four of Spades. Mendoza's king beats Norman's queen. Eight over three, Norman. Mendoza bests Norman with Six of Clubs over Four of Hearts. Mendoza's six beats Norman's four.
+**HUERTA:**  Nash's jack tops Weber's four. Weber beats Nash with Queen of Hearts over Seven of Hearts. Nash's two loses to Weber's five. Nine over four, Nash. Nash's three falls to Weber's eight. Nash with a Ten of Spades over Three of Diamonds. Nash tops Weber with Ace of Hearts over Two of Spades. Queens all around. War!!! Nash's ace wins the battle taking 6 cards. Weber leads 32 to 20. Weber's six tops Nash's three. Weber beats Nash with Ace of Spades over Four of Diamonds. Nash, Nine over five. Nash's jack tops Weber's two. Weber's hand, King over five. Nash's hand, Six over three. Weber, Queen over four. Nash, Jack over eight. Weber's king beats Nash's four. Jack over nine, Weber.
 
-**MCLAUGHLIN:** Excellent use of a six by Mendoza
+**GARCIA:** We have some real fighters on our hands.
 
-**QUINTERO:**  Norman with a Jack of Spades over Nine of Clubs. Norman bests Mendoza with Six of Diamonds over Four of Clubs. Nine over five, Mendoza. Norman's hand, Jack over five. Mendoza's three falls to Norman's ten. Mendoza with a Three of Clubs over Two of Clubs. Mendoza's hand, Jack over eight. Mendoza continues streak. Seven over two. Mendoza wins again. Ten over five.
+**HUERTA:**  Another for Weber, Seven over three. Nash tops Weber with Ten of Spades over Four of Spades. Weber, Six over two. Ace over eight, Nash. Weber's jack bests Nash's ten. Weber's seven falls to Nash's queen. Weber's nine bests Nash's eight.
 
-**MCLAUGHLIN:** Mendoza might be making a move.
+**GARCIA:** Good job by Weber.
 
-**QUINTERO:**  Mendoza wins again. Ten over nine. Mendoza leads 41 to 11.
+**HUERTA:**  Nash, Queen over two.
 
-**MCLAUGHLIN:** Smart move by Mendoza.
+**GARCIA:** I hope Nash doesn't need that queen when something bigger comes along.
 
-**QUINTERO:**  Mendoza keeps going. Ace over four.
+**HUERTA:**  Nash's hand, Ten over five. Nash wins again. Ace over king. Nine over five, Weber. Nash, Nine over six. Weber's ace beats Nash's two. Nash, Jack over seven. Weber's ten tops Nash's three. Weber, King over six. Weber continues streak. Queen over eight. Nash's hand, Jack over seven. Nash's four falls to Weber's five. Nash's hand, Ten over two. Eights. It's a war folks! Nash's queen wins the battle taking 6 cards. Weber's three loses to Nash's seven. Weber with an Ace of Spades over Two of Clubs. Queen over four, Nash. Weber's hand, King over five. Weber's five loses to Nash's ten. Nash's ace tops Weber's four.
 
-**MCLAUGHLIN:** Norman is really taking a beating.
+**GARCIA:** These two are really slugging it out.
 
-**QUINTERO:**  Mendoza keeps going. Ten over three. Norman with an Eight of Spades over Seven of Spades.
+**HUERTA:**  Nash again, King over queen. Weber leads 28 to 24.
 
-**MCLAUGHLIN:** Norman might still have some fight in them. Great use of an eight by Norman.
+**GARCIA:** I bet Weber wishes they had something higher than a queen on that play.
 
-**QUINTERO:**  Norman beats Mendoza with Jack of Spades over Eight of Clubs. Norman keeps going. Nine over seven.
+**HUERTA:**  Nash this time with the Six of Spades.
 
-**MCLAUGHLIN:** Excellent use of a nine by Norman
+**GARCIA:** Nice use of a six by Nash.
 
-**QUINTERO:**  Mendoza's hand, King over six. Mendoza with a Six of Spades over Four of Clubs.
+**HUERTA:**  Weber, King over nine. Weber's nine tops Nash's seven. Two jacks. War!!! Nash's jack wins the battle taking 6 cards. Two twos. War!!! Weber's ten wins the battle taking 6 cards. Jack over eight, Weber. Weber's nine falls to Nash's queen. Nash's hand, Ace over eight. Nash's eight falls to Weber's nine.
 
-**MCLAUGHLIN:** Excellent move by Mendoza.
+**GARCIA:** Excellent use of a nine by Weber
 
-**QUINTERO:**  Mendoza continues streak. Queen over jack. Mendoza again, King over five.
+**HUERTA:**  Weber's five falls to Nash's six.
 
-**MCLAUGHLIN:** Mendoza might be making a move.
+**GARCIA:** Excellent use of a six by Nash These two are really slugging it out.
 
-**QUINTERO:**  Mendoza again, Queen over ten. Mendoza leads 45 to 7.
+**HUERTA:**  Nash with a Three of Hearts over Two of Diamonds. Weber with an Ace of Clubs over Seven of Diamonds. Nash bests Weber with Queen of Clubs over Ten of Clubs. Nash's four beats Weber's three.
 
-**MCLAUGHLIN:** Is Mendoza going to take this somewhere?
+**GARCIA:** Great use of a four by Nash.
 
-**QUINTERO:**  Three over two, Norman.
+**HUERTA:**  Another for Nash, Ten over six. Weber's king tops Nash's five. Queen over four, Weber. Nash with an Ace of Diamonds over Eight of Clubs. Nash beats Weber with King of Hearts over Five of Clubs. Nash again, Queen over four. Nash leads 28 to 24. Weber, Ace over six. Nash's hand, Four over two. Weber's king tops Nash's jack. Jack over five, Nash. Nash's three loses to Weber's nine. Weber with a King of Clubs over Jack of Clubs. Another for Weber, Nine over seven.
 
-**MCLAUGHLIN:** I bet Mendoza wishes they had something higher than a two on that play.
+**GARCIA:** Nice use of a nine by Weber.
 
-**QUINTERO:**  Norman, Seven over two. Another for Norman, Eight over seven.
+**HUERTA:**  Two sevens. We have a war! Weber's ten wins the battle taking 6 cards. Weber leads 30 to 22.
 
-**MCLAUGHLIN:** Excellent move by Norman.
+**GARCIA:** I bet Nash wishes they had something higher than a nine on that play.
 
-**QUINTERO:**  Mendoza beats Norman with King of Spades over Jack of Spades. Mendoza's hand, Ace over eight. Norman, Nine over three. Mendoza's hand, Ace over seven. Norman's three loses to Mendoza's queen. Mendoza does it again. Ace over two.
+**HUERTA:**  Nash, Eight over two. Nash with an Ace of Hearts over Six of Diamonds. Nash does it again. Five over three.
 
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Mendoza?
+**GARCIA:** Nice use of a five by Nash.
 
-**QUINTERO:**  Mendoza continues streak. Eight over seven.
+**HUERTA:**  Weber, Ten over six. Weber, Eight over three. Another for Weber with Jack over two.
 
-**MCLAUGHLIN:** Mendoza likes where this is going.
+**GARCIA:** Weber probably didn't need to use a jack in that play.
 
-**QUINTERO:**  Norman falls to Mendoza again, Five over two.
+**HUERTA:**  Weber's eight loses to Nash's queen. Nash bests Weber with Ten of Clubs over Nine of Diamonds.
 
-**MCLAUGHLIN:** Mendoza has got some momentum. In just a few plays we could have a result.
+**GARCIA:** Nash just showed us how its done.
 
-**QUINTERO:**  Mendoza wins again. Jack over eight. Mendoza leads 49 to 3.
+**HUERTA:**  Weber's hand, Ace over four.
 
-**MCLAUGHLIN:** We're almost there.
+**GARCIA:** I hope Weber doesn't need that ace when something bigger comes along.
 
-**QUINTERO:**  Mendoza continues streak. Nine over seven.
+**HUERTA:**  Weber's seven tops Nash's three. Weber wins again. King over six. Nash's hand, Ten over five. Nash's hand, Ace over queen.
 
-**MCLAUGHLIN:** Someone should tell Norman the match isn't over. Mendoza could end it here.
+**GARCIA:** I bet Weber wishes they had something higher than a queen on that play.
 
-**QUINTERO:**  Mendoza bests Norman with King of Clubs over Three of Hearts.
+**HUERTA:**  Weber falls to Nash again, Eight over four. Ace over five, Weber.
 
-**MCLAUGHLIN:** Mendoza is on fire. This could be it.
+**GARCIA:** Weber probably didn't need to use an ace in that play.
 
-**QUINTERO:** Abd Mendoza has done it again. In 201 hands, Abd Mendoza has won the match.
+**HUERTA:**  Nash's hand, King over six. Weber with a King of Diamonds over Four of Spades. Nash beats Weber with Queen of Spades over Jack of Spades.
 
-**MCLAUGHLIN:** Despite losing, Manuel Norman lead for more hands than Abd Mendoza. It was not an easy battle however, Mendoza and Norman traded the lead 35 times. 
+**GARCIA:** Great use of a queen by Nash.
 
-**QUINTERO:** Abd Mendoza will face Ayden Cuevas in Game 1 of the Semi-Finals. 
+**HUERTA:**  Weber's three loses to Nash's four.
+
+**GARCIA:** Great use of a four by Nash.
+
+**HUERTA:**  Weber, Nine over two. Weber with a King of Clubs over Jack of Hearts.
+
+**GARCIA:** Efficient play by Weber.
+
+**HUERTA:**  Another for Weber with Jack over five. Nash's hand, Eight over seven.
+
+**GARCIA:** Nice play by Nash.
+
+**HUERTA:**  Weber, Nine over two. Nine over six, Weber. Weber's ten loses to Nash's ace. Weber with a Seven of Spades over Three of Clubs. Weber, Seven over five.
+
+**GARCIA:** Nice use of a seven by Weber.
+
+**HUERTA:**  Two queens. War!! Two tens. War! Weber's eight wins the battle taking 10 cards. Weber leads 37 to 15.
+
+**GARCIA:** That's a big prize for Weber.
+
+**HUERTA:**  Nash with a Ten of Hearts over Three of Hearts. Nash, Queen over two. Weber falls to Nash again, Ace over jack. Weber, Ace over four. Nash's hand, Eight over four. Nash's hand, King over seven. Weber leads 33 to 19. Another for Nash with Six over three. Nash continues streak. Jack over six.
+
+**GARCIA:** Nash has got some momentum.
+
+**HUERTA:**  Weber with a King of Spades over Queen of Spades.
+
+**GARCIA:** Nice use of a king by Weber.
+
+**HUERTA:**  Five over four, Weber. Another for Weber with Ace over three. Nash's hand, Seven over four. Weber, King over eight. Nash's ten bests Weber's nine.
+
+**GARCIA:** Excellent use of a ten by Nash
+
+**HUERTA:**  Nash's ace tops Weber's two. Weber, Jack over three. Nash's ten loses to Weber's king. Queen over five, Nash. Weber with a Jack of Clubs over Two of Diamonds. Nash with a Jack of Diamonds over Nine of Hearts.
+
+**GARCIA:** Efficient play by Nash.
+
+**HUERTA:**  Nash, Ace over two. Weber with a Six of Diamonds over Four of Diamonds.
+
+**GARCIA:** Excellent use of a six by Weber Neither player is giving an inch.
+
+**HUERTA:**  Weber, Nine over eight.
+
+**GARCIA:** I bet Nash wishes they had something higher than an eight on that play.
+
+**HUERTA:**  Nash bests Weber with King of Hearts over Seven of Spades. Nash with a Seven of Diamonds over Three of Clubs. Weber's seven beats Nash's six.
+
+**GARCIA:** Great use of a seven by Weber.
+
+**HUERTA:**  Five over three, Weber. Weber keeps going. Queen over six. Nash, Jack over nine.
+
+**GARCIA:** Nash just showed us how its done.
+
+**HUERTA:**  Nash's four loses to Weber's six.
+
+**GARCIA:** I bet Nash wishes they had something higher than a four on that play.
+
+**HUERTA:**  Weber, Eight over seven. Weber's eight loses to Nash's nine.
+
+**GARCIA:** Nash just showed us how its done.
+
+**HUERTA:**  Weber's queen beats Nash's ten.
+
+**GARCIA:** Nice use of a queen by Weber.
+
+**HUERTA:**  Nash's hand, Ace over ten. Twos. War! Weber loses the battle. Nash takes 6 cards. Weber's four loses to Nash's jack. Nash's nine loses to Weber's ace. Weber's queen tops Nash's two. Nash, Ace over king. Seven over four, Nash. Nash again, King over five. Weber, Ace over seven. Two threes. War! Weber's king wins the battle taking 6 cards.
+
+**GARCIA:** Nice use of a king by Weber.
+
+**HUERTA:**  Weber's hand, Jack over nine. Nash's eight beats Weber's three. Nash, Ace over ten. Weber, King over ten. Nash with a Five of Hearts over Two of Diamonds. Nash, Queen over jack.
+
+**GARCIA:** Excellent use of a queen by Nash
+
+**HUERTA:**  Another for Nash with Ten over six. Weber with a Four of Diamonds over Two of Hearts.
+
+**GARCIA:** Excellent use of a four by Weber
+
+**HUERTA:**  Weber's hand, Eight over two. Nash falls to Weber again, Nine over five. Nash, Jack over seven. Weber tops Nash with Six of Spades over Four of Hearts.
+
+**GARCIA:** Great use of a six by Weber.
+
+**HUERTA:**  Nash bests Weber with Ace of Diamonds over Three of Spades. King over five, Nash. Weber with a Queen of Diamonds over Seven of Spades. Six over four, Weber.
+
+**GARCIA:** Weber just showed us how its done.
+
+**HUERTA:**  Weber again, Six over five. Nash's king bests Weber's four. Eight over three, Weber. Nash's eight tops Weber's seven. Tens. War! Weber defeats Nash with an ace, takes 6 cards. Weber leads 37 to 15. Weber's hand, Nine over five. Two queens. We have a war! Nash's ten wins the battle taking 6 cards. Weber beats Nash with Ace of Spades over Six of Diamonds. Weber beats Nash with Nine of Diamonds over Seven of Clubs.
+
+**GARCIA:** I bet Nash wishes they had something higher than a seven on that play.
+
+**HUERTA:**  Another for Weber, King over jack. Threes. War!!! Weber's eight wins the battle taking 6 cards. Weber leads 41 to 11. Nash, King over three. Weber tops Nash with Nine of Spades over Four of Spades. Nash bests Weber with King of Hearts over Jack of Hearts. Ten over seven, Weber. King over eight, Weber. Two twos. It's a war folks! Weber loses the battle. Nash takes 6 cards. Nash with a Jack of Clubs over Two of Clubs.
+
+**GARCIA:** That jack seems wasted on a two.
+
+**HUERTA:**  Nash this time with the Queen of Spades. Weber leads 37 to 15. Weber's hand, Nine over seven.
+
+**GARCIA:** Great use of a nine by Weber.
+
+**HUERTA:**  Weber's four tops Nash's three. Nash's king tops Weber's six. Nash's hand, King over queen.
+
+**GARCIA:** Nice use of a king by Nash.
+
+**HUERTA:**  Nash does it again. Jack over seven. Nash does it again. Queen over four. Weber's six tops Nash's four.
+
+**GARCIA:** Weber just showed us how its done.
+
+**HUERTA:**  Weber with a Six of Hearts over Two of Spades. Nash's hand, Eight over five. Nash's two falls to Weber's eight. Nash's hand, Ten over three. Ten over two, Weber. Jack over two, Nash. Weber, Ace over queen. Weber, Queen over five. Another for Weber, Ace over six. Nash bests Weber with King of Spades over Ten of Spades. Nash, King over five. Nash this time with the Queen of Diamonds. Nash's seven falls to Weber's ace. Weber's six loses to Nash's jack. Weber's seven loses to Nash's queen. Nash's four falls to Weber's nine. Weber with a Jack of Diamonds over Five of Clubs. Weber this time with the King of Diamonds. Another for Weber with Eight over three. Nash tops Weber with Ten of Diamonds over Three of Spades. Ace over jack, Weber. Weber with a Five of Diamonds over Two of Diamonds. Nash beats Weber with King of Spades over Jack of Spades.
+
+**GARCIA:** Excellent use of a king by Nash
+
+**HUERTA:**  Nash, Ten over three. Weber beats Nash with Nine of Spades over Five of Hearts. Nash with a King of Hearts over Four of Spades. Nash, Queen over seven. Weber's hand, Ten over nine. Eight over six, Weber.
+
+**GARCIA:** Nice use of an eight by Weber.
+
+**HUERTA:**  Weber again, King over jack.
+
+**GARCIA:** Efficient play.
+
+**HUERTA:**  Nash's hand, Queen over nine. Sevens all around. We have a war! Nash loses the battle. Weber takes 6 cards. Weber leads 42 to 10.
+
+**GARCIA:** Nice use of a four by Weber.
+
+**HUERTA:**  Nash, Jack over four. Weber's six loses to Nash's king. Nash again, Three over two.
+
+**GARCIA:** Nash just showed us how its done.
+
+**HUERTA:**  Nash continues streak. Ten over six. Weber leads 38 to 14. Weber falls to Nash again, King over eight. Nash this time with the Four of Spades. Weber falls to Nash again, Queen over ten.
+
+**GARCIA:** Excellent move. Is Weber awake?
+
+**HUERTA:**  Nash, Seven over two. Weber leads 34 to 18.
+
+**GARCIA:** Someone should tell Weber the match isn't over.
+
+**HUERTA:**  Ace over nine, Weber.
+
+**GARCIA:** Weber's back in it.
+
+**HUERTA:**  Queens. It's a war folks! Weber defeats Nash with a queen, takes 6 cards. Weber leads 38 to 14.
+
+**GARCIA:** Excellent use of a queen by Weber
+
+**HUERTA:**  Weber's ace beats Nash's king.
+
+**GARCIA:** Great use of an ace by Weber.
+
+**HUERTA:**  Sixes all around. War!! Weber defeats Nash with a seven, takes 6 cards. Weber leads 42 to 10. Weber's four loses to Nash's six. Nash's ten bests Weber's nine. Nash does it again. Eight over five. Nash again, King over jack. Weber leads 38 to 14.
+
+**GARCIA:** Nash is looking good.
+
+**HUERTA:**  Weber with a King of Diamonds over Four of Spades. Weber with an Eight of Clubs over Two of Hearts. Nash's queen tops Weber's three.
+
+**GARCIA:** Nash probably didn't need to use a queen in that play.
+
+**HUERTA:**  Ten over eight, Nash.
+
+**GARCIA:** Nash just showed us how its done.
+
+**HUERTA:**  Ace over seven, Weber. Weber's jack bests Nash's two. Nash's hand, Six over five. Weber's two falls to Nash's four.
+
+**GARCIA:** Great use of a four by Nash.
+
+**HUERTA:**  Another for Nash with Ten over nine. Weber falls to Nash again, Nine over five.
+
+**GARCIA:** Nash is looking good.
+
+**HUERTA:**  Weber, Nine over five. Ten over eight, Weber.
+
+**GARCIA:** Weber just showed us how its done.
+
+**HUERTA:**  Nash with a King of Hearts over Six of Diamonds. Nash, Jack over eight. Weber beats Nash with Jack of Hearts over Three of Hearts. King over queen, Weber.
+
+**GARCIA:** Great use of a king by Weber.
+
+**HUERTA:**  Nash beats Weber with Eight of Hearts over Three of Spades. Two tens. It's a war folks! Nash defeats Weber with a six, takes 6 cards. Weber leads 34 to 18. Four over two, Weber.
+
+**GARCIA:** Well played.
+
+**HUERTA:**  Weber's seven beats Nash's four. Nash with a Ten of Spades over Nine of Clubs.
+
+**GARCIA:** Excellent use of a ten by Nash
+
+**HUERTA:**  Nash's nine falls to Weber's ace. Weber, Jack over five. Nash falls to Weber again, Queen over nine. Weber leads 38 to 14. Nash, Six over five.
+
+**GARCIA:** Smart move.
+
+**HUERTA:**  Nash, King over queen. Nash does it again. Eight over four. Weber's queen bests Nash's jack.
+
+**GARCIA:** Smart move by Weber.
+
+**HUERTA:**  Weber's hand, King over three. Another for Weber with Ace over eight. Weber keeps going. Seven over three.
+
+**GARCIA:** Weber might be making a move.
+
+**HUERTA:**  Nash's hand, Seven over two. Weber's three loses to Nash's five.
+
+**GARCIA:** Nice play by Nash.
+
+**HUERTA:**  Weber tops Nash with Ace of Spades over Ten of Diamonds. Weber's six falls to Nash's ten. Two sixes. We have a war! Weber defeats Nash with a king, takes 6 cards. Eight over six, Weber. Weber's two loses to Nash's five. Weber, Ace over queen. Nash bests Weber with King of Hearts over Seven of Hearts. Nash's hand, Eight over two.
+
+**GARCIA:** Neither player is giving an inch.
+
+**HUERTA:**  Weber's hand, Jack over four. Five over two, Weber. Another for Weber, Nine over seven. Weber leads 42 to 10.
+
+**GARCIA:** Weber just showed us how its done.
+
+**HUERTA:**  Eight over five, Weber. Nash falls to Weber again, Ten over three. Weber this time with the Jack of Hearts.
+
+**GARCIA:** Nash is really taking a beating.
+
+**HUERTA:**  Nash tops Weber with Ten of Hearts over Three of Hearts. King over five, Weber. Weber beats Nash with Queen of Diamonds over Two of Hearts. Weber leads 46 to 6. Nash, King over two. Weber's four loses to Nash's seven. Nash this time with the Eight of Spades. Weber's four tops Nash's two.
+
+**GARCIA:** Nice use of a four by Weber.
+
+**HUERTA:**  Weber with an Ace of Clubs over Ten of Hearts. Weber this time with the Nine of Spades. Nash falls to Weber again, Five over two.
+
+**GARCIA:** Nash is going to be playing catch up if they don't stop this. We're almost there.
+
+**HUERTA:**  Nash's king tops Weber's jack.
+
+**GARCIA:** Great use of a king by Nash.
+
+**HUERTA:**  Weber with a Nine of Diamonds over Four of Hearts. Queen over seven, Weber.
+
+**GARCIA:** Weber likes where this is going.
+
+**HUERTA:**  Weber continues streak. Jack over seven. Weber does it again. Queen over eight. Weber leads 50 to 2.
+
+**GARCIA:** Weber almost has it sewed up.
+
+**HUERTA:** Weber wins in 504 hands.
+
+**GARCIA:** Jose Nash really couldn't hold on to the lead for very long. 
+
+**HUERTA:** Juan Weber will face Benjamin Weiss in Game 1 of the Semi-Finals. 
 
 ## Game 3, Round 2
 
-**MCLAUGHLIN:** What a disgusted day for war.
+**GARCIA:** What a cruel day for war.
 
-**QUINTERO:** Hello, I'm Regina Quintero.
+**HUERTA:** Hello, I'm Daryl Huerta.
 
-**MCLAUGHLIN:** And I am Bentley McLaughlin.
+**GARCIA:** And I am Ray Garcia.
 
-**QUINTERO:** Welcome to Game 3 of the 2nd round of the War Championship. Today's competitors are Vincent Wood and Ryder Small. Wood defeated Small in the regular season. What can we expect from them today, Bentley?
+**HUERTA:** This is Game 3 of the 2nd round of the War Championship. This game will pit Jeremiah Roy against Natalia Benson. Roy beat Benson when these players last played. What can we expect from them today, Ray?
 
-**MCLAUGHLIN:** Wood dominated that match. I'm sure Small is looking for a change in results, but as you know Regina, its really anyone's game.
+**GARCIA:** Roy kept the lead for most of the match. They're both strong players, Daryl.
 
-**QUINTERO:** The dealer has signaled the start of the match. Small, King over eight. Wood with an Eight of Clubs over Two of Diamonds. Small's hand, Ace over jack. Wood tops Small with Queen of Clubs over Five of Clubs. Wood's hand, Ace over ten. Jack over four, Small. Two jacks. War!!! Small defeats Wood with a six, takes 6 cards.
+**HUERTA:** The cards are dealt and Roy and Benson are seated. Let's begin. Roy's nine bests Benson's five. Benson bests Roy with Ten of Hearts over Seven of Spades. Roy with a Jack of Hearts over Ten of Diamonds.
 
-**MCLAUGHLIN:** Small just showed us how its done.
+**GARCIA:** Nice play by Roy.
 
-**QUINTERO:**  Small with a Three of Diamonds over Two of Spades. Small leads 30 to 22.
+**HUERTA:**  Benson's hand, Jack over six. Roy, King over eight. Benson's queen bests Roy's five. Benson with a Three of Clubs over Two of Clubs.
 
-**MCLAUGHLIN:** Good job.
+**GARCIA:** Great use of a three by Benson.
 
-**QUINTERO:**  Wood, Queen over six.
+**HUERTA:**  Roy falls to Benson again, Queen over two.
 
-**MCLAUGHLIN:** They are really going toe to toe in this game.
+**GARCIA:** That queen got the job done, but was it the most strategic play by Benson?
 
-**QUINTERO:**  Wood's hand, Eight over three. Wood continues streak. Nine over five. Small's hand, Ace over two. Small's four loses to Wood's eight. Small with a Nine of Spades over Six of Diamonds. Small, Ten over two. Nine over seven, Small.
+**HUERTA:**  Roy's queen beats Benson's seven. Roy, Nine over three. Two eights. War! Benson defeats Roy with a king, takes 6 cards. Roy's hand, Ace over queen.
 
-**MCLAUGHLIN:** Great use of a nine by Small.
+**GARCIA:** Excellent use of an ace by Roy
 
-**QUINTERO:**  Sevens. We have a war! Wood's ten wins the battle taking 6 cards. Wood, Ace over ten. The games tied. Fours. It's a war folks! Wood's seven wins the battle taking 6 cards. Two queens. It's a war folks! Small defeats Wood with a king, takes 6 cards. Ace over five, Small.
+**HUERTA:**  Benson bests Roy with King of Diamonds over Two of Hearts. Roy, Nine over six. Benson's nine falls to Roy's ten.
 
-**MCLAUGHLIN:** Small over paid for that five.
+**GARCIA:** Roy just showed us how its done.
 
-**QUINTERO:**  Wood tops Small with Queen of Clubs over Jack of Clubs. Wood tops Small with Ace of Hearts over Jack of Diamonds. Wood this time with the Ten of Diamonds. Small's hand, Jack over six. Wood with a Queen of Spades over Five of Spades. Small, Five over three.
+**HUERTA:**  Roy does it again. Five over three.
 
-**MCLAUGHLIN:** Small just showed us how its done.
+**GARCIA:** Roy just showed us how its done.
 
-**QUINTERO:**  King over eight, Small. Small does it again. Jack over nine.
+**HUERTA:**  Another for Roy with Eight over four. Roy's seven loses to Benson's jack. Roy with an Ace of Clubs over Five of Diamonds.
 
-**MCLAUGHLIN:** Nice use of a jack by Small.
+**GARCIA:** That ace seems wasted on a five.
 
-**QUINTERO:**  Another for Small with Six over five.
+**HUERTA:**  Roy bests Benson with Ace of Spades over Four of Spades.
 
-**MCLAUGHLIN:** Is Small going to take this somewhere?
+**GARCIA:** That ace got the job done, but was it the most strategic play by Roy?
 
-**QUINTERO:**  Wood with a Four of Hearts over Three of Diamonds. Small's two loses to Wood's eight. Wood does it again. Nine over two. Small's ace bests Wood's ten. Two sixes. War!!! Wood loses the battle. Small takes 6 cards. Wood with a Seven of Spades over Two of Hearts. Wood's hand, Ten over nine.
+**HUERTA:**  Ace over four, Benson. King over ten, Roy. Roy's six beats Benson's two. Roy continues streak. Jack over three. Roy leads 30 to 22. Roy's nine falls to Benson's ten.
 
-**MCLAUGHLIN:** Efficient play.
+**GARCIA:** Smart move by Benson.
 
-**QUINTERO:**  Wood does it again. Ace over seven. Wood keeps going. Three over two.
+**HUERTA:**  Benson, Seven over five.
 
-**MCLAUGHLIN:** I bet Small wishes they had something higher than a two on that play.
+**GARCIA:** Good job.
 
-**QUINTERO:**  Queen over four, Small. Small tops Wood with King of Spades over Three of Hearts.
+**HUERTA:**  Jack over six, Roy. Benson's hand, Jack over ten.
 
-**MCLAUGHLIN:** Small probably didn't need to use a king in that play.
+**GARCIA:** Great use of a jack by Benson.
 
-**QUINTERO:**  Another for Small, Queen over four. Wood's hand, King over eight. Eight over seven, Small.
+**HUERTA:**  Benson with a Queen of Diamonds over Eight of Clubs. Roy beats Benson with King of Spades over Five of Hearts. Roy with a Seven of Clubs over Two of Clubs. Roy again, Queen over three. Benson with a Queen of Clubs over Nine of Diamonds. Three over two, Roy. Roy beats Benson with Queen of Spades over Eight of Spades. Benson falls to Roy again, Ace over six. Benson with a Seven of Diamonds over Six of Diamonds.
 
-**MCLAUGHLIN:** Well played by Small.
+**GARCIA:** I bet Roy wishes they had something higher than a six on that play.
 
-**QUINTERO:**  Small's ace bests Wood's queen. Jack over five, Wood. Wood, Ace over jack. Another for Wood with Jack over six. Wood continues streak. Four over three. Small falls to Wood again, Ten over five. Small, King over queen.
+**HUERTA:**  Benson, King over nine. Roy with a Nine of Clubs over Eight of Diamonds.
 
-**MCLAUGHLIN:** Nice use of a king by Small.
+**GARCIA:** Nice use of a nine by Roy.
 
-**QUINTERO:**  Eight over five, Small. Another for Small with Jack over three. Small does it again. Nine over four.
+**HUERTA:**  Roy, Ten over four. Roy wins again. Three over two.
 
-**MCLAUGHLIN:** I think Small is going somewhere.
+**GARCIA:** Roy just showed us how its done.
 
-**QUINTERO:**  Wood bests Small with Eight of Diamonds over Six of Hearts. Wood's two loses to Small's five. Small's ace tops Wood's nine. Small continues streak. Ten over two. Small leads 30 to 22. Small beats Wood with Seven of Hearts over Two of Hearts.
+**HUERTA:**  King over five, Benson. Roy's four falls to Benson's jack. Roy's hand, Eight over seven. Benson's hand, Ace over five. Roy's hand, Ace over four.
 
-**MCLAUGHLIN:** I think Small is going somewhere.
+**GARCIA:** That ace got the job done, but was it the most strategic play by Roy?
 
-**QUINTERO:**  Wood with a Seven of Spades over Six of Diamonds. Wood's hand, Nine over six. Tens all around. We have a war! Small loses the battle. Wood takes 6 cards. The games tied.
+**HUERTA:**  Ace over nine, Roy. Benson with a Ten of Hearts over Four of Spades. Roy with a Ten of Clubs over Seven of Spades. Benson's five falls to Roy's king. Roy leads 34 to 18. Benson, Ten over six. Benson's hand, Jack over two.
 
-**MCLAUGHLIN:** Excellent move by Wood.
+**GARCIA:** They are really going toe to toe in this game.
 
-**QUINTERO:**  Small, Four over two.
+**HUERTA:**  Roy falls to Benson again, Queen over three.
 
-**MCLAUGHLIN:** Good job by Small.
+**GARCIA:** I hope Benson doesn't need that queen when something bigger comes along.
 
-**QUINTERO:**  Small, Queen over three.
+**HUERTA:**  Roy's jack tops Benson's eight. Queen over six, Benson. Roy beats Benson with Jack of Hearts over Nine of Diamonds.
 
-**MCLAUGHLIN:** Small probably didn't need to use a queen in that play.
+**GARCIA:** Great use of a jack by Roy.
 
-**QUINTERO:**  Another for Small, King over eight. Wood's hand, King over three. Small's four loses to Wood's five. Small's hand, Queen over jack.
+**HUERTA:**  Roy's king bests Benson's seven. Benson with a Six of Diamonds over Five of Hearts.
 
-**MCLAUGHLIN:** Nice use of a queen by Small.
+**GARCIA:** Smart move.
 
-**QUINTERO:**  Wood beats Small with Jack of Hearts over Seven of Clubs. Wood, Ace over eight. Small's hand, Queen over jack.
+**HUERTA:**  Benson tops Roy with Nine of Hearts over Seven of Clubs. Benson continues streak. King over two. Roy leads 30 to 22.
 
-**MCLAUGHLIN:** Small just showed us how its done.
+**GARCIA:** That king seems wasted on a two.
 
-**QUINTERO:**  Small's hand, Ace over six. Small continues streak. King over four. Small bests Wood with Queen of Spades over Three of Spades. Small leads 30 to 22. Wood with a Ten of Diamonds over Five of Spades. Small, Eight over five. Wood's eight falls to Small's jack. Six over three, Wood. Wood's six tops Small's four.
+**HUERTA:**  Benson wins again. Five over three. Benson wins again. King over queen.
 
-**MCLAUGHLIN:** Great use of a six by Wood.
+**GARCIA:** Benson is looking good.
 
-**QUINTERO:**  Small, Nine over seven.
+**HUERTA:**  Benson again, Four over two.
 
-**MCLAUGHLIN:** Small just showed us how its done.
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Small's two falls to Wood's nine. Wood bests Small with Six of Clubs over Five of Diamonds.
+**HUERTA:**  Benson with a Jack of Spades over Three of Spades. The games tied.
 
-**MCLAUGHLIN:** Nice use of a six by Wood.
+**GARCIA:** I think Roy should try some higher value cards.
 
-**QUINTERO:**  Small, Ace over ten. Wood, Ten over nine.
+**HUERTA:**  Benson's five falls to Roy's eight.
 
-**MCLAUGHLIN:** I bet Small wishes they had something higher than a nine on that play.
+**GARCIA:** Roy might have stopped the bleeding.
 
-**QUINTERO:**  Small's ten bests Wood's nine. Wood, King over two. Two sevens. War!! Wood's king wins the battle taking 6 cards. Wood leads 27 to 25. Wood's three tops Small's two.
+**HUERTA:**  Ace over queen, Benson.
 
-**MCLAUGHLIN:** Excellent use of a three by Wood
+**GARCIA:** Nice play by Benson.
 
-**QUINTERO:**  Wood this time with the Four of Spades.
+**HUERTA:**  Roy tops Benson with Six of Clubs over Four of Spades. Roy's ace beats Benson's ten. Roy's eight loses to Benson's ten. Roy with a Nine of Clubs over Six of Spades. Benson's jack beats Roy's four. Roy beats Benson with Ten of Spades over Two of Spades. Threes all around. We have a war! Benson loses the battle. Roy takes 6 cards. Roy leads 31 to 21.
 
-**MCLAUGHLIN:** Nice use of a four by Wood.
+**GARCIA:** Excellent use of an eight by Roy
 
-**QUINTERO:**  Queen over five, Small. Small's eight falls to Wood's jack. Small, King over seven. Small's jack tops Wood's eight. Wood's hand, Ace over queen.
+**HUERTA:**  Roy's seven loses to Benson's queen.
 
-**MCLAUGHLIN:** Great use of an ace by Wood.
+**GARCIA:** We have some real fighters on our hands.
 
-**QUINTERO:**  Small's hand, Jack over ten. Small's queen tops Wood's five. Small continues streak. Ace over six. Small with a Six of Spades over Three of Diamonds.
+**HUERTA:**  Roy's four loses to Benson's six.
 
-**MCLAUGHLIN:** Wood is stumbling a little.
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Small does it again. King over six. Small leads 29 to 23. Fours all around. War! Wood loses the battle. Small takes 6 cards. Fives. War!!! Wood defeats Small with a nine, takes 6 cards.
+**HUERTA:**  Roy, Ace over five. Roy's hand, Ace over nine. Roy keeps going. Nine over seven.
 
-**MCLAUGHLIN:** Nice use of a nine by Wood.
+**GARCIA:** Smart move by Roy.
 
-**QUINTERO:**  Jack over ten, Small.
+**HUERTA:**  Benson, King over ten. Roy bests Benson with Seven of Spades over Two of Clubs. Fives. War!! Benson's queen wins the battle taking 6 cards.
 
-**MCLAUGHLIN:** I bet Wood wishes they had something higher than a ten on that play.
+**GARCIA:** Great use of a queen by Benson.
 
-**QUINTERO:**  King over seven, Wood. Nine over two, Small. Wood's ace tops Small's ten. Small, Ace over seven. Small's hand, Nine over two. Wood with a King of Clubs over Ten of Hearts. Small with a Queen of Diamonds over Seven of Hearts. Small tops Wood with Five of Clubs over Four of Clubs.
+**HUERTA:**  Benson with a King of Diamonds over Eight of Clubs. Roy, Nine over four. Roy's hand, Jack over two. Benson with a Jack of Spades over Seven of Diamonds. Roy, King over three. Ace over five, Benson. Benson's queen beats Roy's eight.
 
-**MCLAUGHLIN:** Great use of a five by Small.
+**GARCIA:** Neither player is giving an inch.
 
-**QUINTERO:**  Wood falls to Small again, King over two. Small leads 33 to 19.
+**HUERTA:**  Benson does it again. Ten over six. Roy leads 27 to 25. Benson, Eight over four.
 
-**MCLAUGHLIN:** I hope Small doesn't need that king when something bigger comes along.
+**GARCIA:** Is Benson going to take this somewhere?
 
-**QUINTERO:**  Small with a Seven of Clubs over Three of Hearts.
+**HUERTA:**  Ace over jack, Roy. Roy, Ten over four. Another for Roy with Nine over seven.
 
-**MCLAUGHLIN:** Is Small going to take this somewhere?
+**GARCIA:** Roy just showed us how its done.
 
-**QUINTERO:**  Small does it again. Eight over four.
+**HUERTA:**  Benson beats Roy with Queen of Clubs over Six of Spades. Benson's hand, Four over two.
 
-**MCLAUGHLIN:** Small is looking good.
+**GARCIA:** Great use of a four by Benson.
 
-**QUINTERO:**  Small does it again. Jack over three.
+**HUERTA:**  Roy with a Ten of Spades over Six of Diamonds. Ten over eight, Benson. Roy's queen loses to Benson's king. Benson this time with the Queen of Hearts. Roy tops Benson with Six of Hearts over Three of Clubs. Benson's five beats Roy's three.
 
-**MCLAUGHLIN:** I think Small has decided they want this more than Wood.
+**GARCIA:** Nice use of a five by Benson.
 
-**QUINTERO:**  Another for Small, Ten over eight. Small leads 37 to 15.
+**HUERTA:**  Benson tops Roy with King of Clubs over Three of Diamonds. Fives. We have a war! Roy's nine wins the battle taking 6 cards.
 
-**MCLAUGHLIN:** Efficient play by Small. Is Wood awake?
+**GARCIA:** Well played by Roy.
 
-**QUINTERO:**  Two jacks. We have a war! Queens. It's a war folks! Wood loses the battle. Small takes 10 cards. Small leads 42 to 10.
+**HUERTA:**  Roy's hand, Ace over king.
 
-**MCLAUGHLIN:** 10 cards is nothing to sneeze at.
+**GARCIA:** Great use of an ace by Roy.
 
-**QUINTERO:**  Small's six bests Wood's five.
+**HUERTA:**  Benson tops Roy with Jack of Spades over Seven of Clubs. Roy's nine beats Benson's seven.
 
-**MCLAUGHLIN:** Smart move by Small.
+**GARCIA:** Nice use of a nine by Roy.
 
-**QUINTERO:**  Wood with a Six of Clubs over Three of Diamonds. Small's six falls to Wood's eight.
+**HUERTA:**  Benson bests Roy with Five of Diamonds over Two of Clubs. Benson with an Ace of Diamonds over Seven of Spades. Benson continues streak. Queen over four. Nine over eight, Roy. Roy's jack bests Benson's ten.
 
-**MCLAUGHLIN:** Efficient play.
+**GARCIA:** Nice play by Roy.
 
-**QUINTERO:**  Small beats Wood with King of Diamonds over Nine of Hearts. Wood, Seven over four. Small's four falls to Wood's king. Small's queen falls to Wood's ace.
+**HUERTA:**  Benson with a Six of Clubs over Two of Diamonds. Roy's king beats Benson's eight. Roy's three loses to Benson's four.
 
-**MCLAUGHLIN:** Wood just showed us how its done.
+**GARCIA:** Efficient play.
 
-**QUINTERO:**  Another for Wood with Ten over nine. Small leads 38 to 14.
+**HUERTA:**  Roy's hand, Jack over six. Benson's queen loses to Roy's ace. Fours. We have a war! Roy's nine wins the battle taking 6 cards. Roy leads 31 to 21.
 
-**MCLAUGHLIN:** Nice play. Small is going to be playing catch up if they don't stop this.
+**GARCIA:** Excellent use of a nine by Roy
 
-**QUINTERO:**  Wood this time with the King of Clubs. Wood keeps going. Ten over two. Small's hand, Ten over three. Wood's six falls to Small's jack. Small's two falls to Wood's eight. Small with a Nine of Diamonds over Six of Diamonds. Small's hand, Seven over four. Small again, Ace over seven. Small's two loses to Wood's four. Wood with a King of Hearts over Nine of Spades. Another for Wood, Queen over seven. Wood does it again. Ace over queen.
+**HUERTA:**  Benson tops Roy with Ten of Clubs over Seven of Hearts. Benson beats Roy with Queen of Diamonds over Six of Diamonds.
 
-**MCLAUGHLIN:** Great use of an ace by Wood.
+**GARCIA:** Neither player is giving an inch.
 
-**QUINTERO:**  Another for Wood, Ten over five. Wood this time with the Nine of Clubs. Small leads 34 to 18.
+**HUERTA:**  Roy falls to Benson again, King over ten. Benson this time with the Queen of Hearts. Roy leads 27 to 25. Benson's two loses to Roy's six. Fives. It's a war folks! Roy loses the battle. Benson takes 6 cards. Roy's hand, Ace over three. Eight over seven, Roy. Jacks. It's a war folks! Benson loses the battle. Roy takes 6 cards. Two sevens. War!! Benson's queen wins the battle taking 6 cards. Roy's hand, Nine over four. Roy's hand, Ten over six.
 
-**MCLAUGHLIN:** Someone should tell Small the match isn't over.
+**GARCIA:** Neither player is giving an inch.
 
-**QUINTERO:**  Small bests Wood with King of Spades over Three of Spades.
+**HUERTA:**  Roy again, Jack over two.
 
-**MCLAUGHLIN:** I hope Small doesn't need that king when something bigger comes along.
+**GARCIA:** Roy over paid for that two.
 
-**QUINTERO:**  Wood's hand, King over two. Wood's ten beats Small's seven. Three over two, Small.
+**HUERTA:**  Roy keeps going. King over three. Roy leads 31 to 21.
 
-**MCLAUGHLIN:** Small just showed us how its done.
+**GARCIA:** Benson is stumbling a little.
 
-**QUINTERO:**  Two eights. It's a war folks! Wood loses the battle. Small takes 6 cards. Four over three, Wood. Small's hand, Ten over nine. Wood's king tops Small's eight. Two queens. War! Small loses the battle. Wood takes 6 cards.
+**HUERTA:**  Roy, Eight over four.
 
-**MCLAUGHLIN:** What a fight!
+**GARCIA:** Benson should nip this run in the bud.
 
-**QUINTERO:**  Aces. War! Small defeats Wood with a queen, takes 6 cards. Small's jack tops Wood's nine.
+**HUERTA:**  Roy wins again. Jack over ten.
 
-**MCLAUGHLIN:** Great use of a jack by Small.
+**GARCIA:** Is Benson awake?
 
-**QUINTERO:**  Small keeps going. Ace over four. Small leads 38 to 14.
+**HUERTA:**  Benson's seven tops Roy's six. Roy beats Benson with Queen of Clubs over Six of Diamonds. Roy's hand, Ace over queen. Benson with a King of Hearts over Four of Diamonds. Benson's ten bests Roy's two. Roy's four bests Benson's three. Benson with a Queen of Hearts over Eight of Hearts. Roy with a Ten of Hearts over Nine of Hearts. Roy's hand, Nine over five. Benson with a Five of Spades over Two of Hearts. Benson with a King of Clubs over Six of Hearts.
 
-**MCLAUGHLIN:** That ace seems wasted on a four.
+**GARCIA:** We have some real fighters on our hands.
 
-**QUINTERO:**  Small again, Jack over two.
+**HUERTA:**  Roy with an Ace of Clubs over Three of Hearts. Five over three, Benson.
 
-**MCLAUGHLIN:** Wood is going to be playing catch up if they don't stop this.
+**GARCIA:** I bet Roy wishes they had something higher than a three on that play.
 
-**QUINTERO:**  Wood's king beats Small's six. Small's six loses to Wood's ten. Wood keeps going. Seven over five. Small's king beats Wood's four. Wood's three falls to Small's nine. Wood, King over ten. Wood bests Small with Eight of Spades over Three of Diamonds. Wood keeps going. Seven over six.
+**HUERTA:**  Queen over seven, Benson. Roy's eight falls to Benson's ace. Roy tops Benson with Jack of Diamonds over Eight of Spades. Benson, Seven over five.
 
-**MCLAUGHLIN:** Excellent use of a seven by Wood
+**GARCIA:** Great use of a seven by Benson.
 
-**QUINTERO:**  Wood keeps going. Queen over jack. Small leads 34 to 18.
+**HUERTA:**  Roy's king beats Benson's seven. Roy bests Benson with Ace of Spades over Nine of Spades. Benson with a Seven of Hearts over Two of Clubs. Jack over six, Roy. Benson with a King of Hearts over Nine of Diamonds. Fours all around. War! Benson loses the battle. Roy takes 6 cards. Benson's eight loses to Roy's jack. Roy leads 35 to 17. Benson's queen tops Roy's two.
 
-**MCLAUGHLIN:** Wood just showed us how its done. I think Wood is going somewhere.
+**GARCIA:** We have some real fighters on our hands.
 
-**QUINTERO:**  Wood does it again. Queen over six.
+**HUERTA:**  Roy's king tops Benson's two. Benson, Five over three.
 
-**MCLAUGHLIN:** Is Wood going to take this somewhere?
+**GARCIA:** I bet Roy wishes they had something higher than a three on that play.
 
-**QUINTERO:**  Wood's five falls to Small's nine. Small's four falls to Wood's five.
+**HUERTA:**  Roy's four loses to Benson's king.
 
-**MCLAUGHLIN:** Excellent move by Wood.
+**GARCIA:** That king got the job done, but was it the most strategic play by Benson?
 
-**QUINTERO:**  Small's seven loses to Wood's queen. Small's hand, Seven over six.
+**HUERTA:**  Roy's eight tops Benson's six.
 
-**MCLAUGHLIN:** Great use of a seven by Small.
+**GARCIA:** Excellent use of an eight by Roy
 
-**QUINTERO:**  Small's hand, Ace over king.
+**HUERTA:**  Roy with a Jack of Clubs over Three of Diamonds. Roy wins again. Ten over five. Benson's hand, Queen over six. Roy's hand, Queen over seven. Queen over eight, Roy. Aces all around. War!! Roy loses the battle. Benson takes 6 cards.
 
-**MCLAUGHLIN:** Nice play.
+**GARCIA:** Nice use of a five by Benson.
 
-**QUINTERO:**  Small, King over ten. Wood's hand, Six over three. Wood's seven tops Small's two. Wood keeps going. Five over three.
+**HUERTA:**  Roy's nine beats Benson's seven.
 
-**MCLAUGHLIN:** Smart move by Wood.
+**GARCIA:** Excellent move by Roy.
 
-**QUINTERO:**  Wood continues streak. King over eight.
+**HUERTA:**  Roy with a Ten of Hearts over Two of Clubs. Benson with a Nine of Diamonds over Five of Hearts. Roy's nine loses to Benson's king. Ace over two, Roy.
 
-**MCLAUGHLIN:** Wood has got some momentum.
+**GARCIA:** I hope Roy doesn't need that ace when something bigger comes along.
 
-**QUINTERO:**  Wood again, Ten over two. Small leads 30 to 22. Small beats Wood with Jack of Clubs over Three of Diamonds. Wood's hand, Eight over four. Wood's six bests Small's two. Small, Eight over seven. Queen over nine, Wood. Wood tops Small with Jack of Spades over Ten of Diamonds.
+**HUERTA:**  Benson, Queen over three.
 
-**MCLAUGHLIN:** Well played.
+**GARCIA:** We have some real fighters on our hands.
 
-**QUINTERO:**  Small's ace bests Wood's six. Small with an Ace of Clubs over Queen of Spades. Small this time with the Ten of Spades. Small's hand, Queen over five. Another for Small with Eight over seven.
+**HUERTA:**  Eight over five, Roy. Benson's three loses to Roy's jack. Benson falls to Roy again, Seven over four. Two kings. War! Benson loses the battle. Roy takes 6 cards. Roy leads 40 to 12. Benson's hand, Ace over jack. Benson bests Roy with Seven of Spades over Six of Spades.
 
-**MCLAUGHLIN:** Wood is going to be playing catch up if they don't stop this.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Wood's hand, Queen over five. Small with a Nine of Clubs over Six of Spades. Small's hand, Jack over three. Small leads 34 to 18. Small continues streak. Ace over two. Wood's hand, Seven over four. Wood, Five over two. Jack over three, Small. King over eight, Small. Wood's king tops Small's four. Wood, Ten over three. Small's nine bests Wood's two. Small's hand, Nine over four. Wood with an Eight of Spades over Five of Hearts. Two sixes. It's a war folks! Small's ace wins the battle taking 6 cards. Small with a King of Clubs over Queen of Clubs. Small leads 38 to 14.
+**HUERTA:**  Benson tops Roy with Ace of Diamonds over Ten of Diamonds. Benson's hand, Five over four. Roy leads 36 to 16.
 
-**MCLAUGHLIN:** Excellent use of a king by Small
+**GARCIA:** Good job. Is Benson going to take this somewhere?
 
-**QUINTERO:**  Small again, King over jack.
+**HUERTA:**  Roy falls to Benson again, Three over two.
 
-**MCLAUGHLIN:** Great use of a king by Small.
+**GARCIA:** Great use of a three by Benson. Benson has got some momentum.
 
-**QUINTERO:**  Tens all around. War! Wood defeats Small with a queen, takes 6 cards. Two sevens. War!!! Wood loses the battle. Small takes 6 cards. Small's six bests Wood's two. Wood, King over queen. Small, Ace over four. Two tens. It's a war folks! Small loses the battle. Wood takes 6 cards. Small tops Wood with Queen of Hearts over Five of Hearts. Small's hand, Eight over five.
+**HUERTA:**  Roy beats Benson with Ten of Spades over Four of Clubs. Roy, Six over five.
 
-**MCLAUGHLIN:** Neither player is giving an inch.
+**GARCIA:** Efficient play.
 
-**QUINTERO:**  Small's seven falls to Wood's queen. Wood with a Ten of Diamonds over Nine of Clubs. Wood wins again. Jack over six. Small bests Wood with Jack of Diamonds over Ten of Hearts. Threes. War! Small defeats Wood with an ace, takes 6 cards.
+**HUERTA:**  Benson's nine tops Roy's four. Benson's hand, King over eight. Jack over nine, Roy.
 
-**MCLAUGHLIN:** Excellent use of an ace by Small
+**GARCIA:** Nice use of a jack by Roy.
 
-**QUINTERO:**  Two threes. War!! Small's king wins the battle taking 6 cards. Small leads 43 to 9. Wood's ten bests Small's eight.
+**HUERTA:**  Roy, King over queen.
 
-**MCLAUGHLIN:** Excellent move.
+**GARCIA:** Excellent move by Roy.
 
-**QUINTERO:**  Ten over nine, Wood.
+**HUERTA:**  Benson, Three over two.
 
-**MCLAUGHLIN:** Smart move.
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Wood continues streak. Four over two. Small bests Wood with Nine of Diamonds over Seven of Diamonds. Wood's queen tops Small's four. Wood's nine bests Small's two. Small leads 39 to 13. Wood keeps going. Ten over nine. Small bests Wood with Ace of Spades over Jack of Clubs. Small, Seven over six.
+**HUERTA:**  Benson's hand, Ace over eight. Benson this time with the Jack of Spades. Benson does it again. Seven over three. Roy's jack beats Benson's six. Benson's hand, Ace over five.
 
-**MCLAUGHLIN:** I bet Wood wishes they had something higher than a six on that play.
+**GARCIA:** Benson over paid for that five.
 
-**QUINTERO:**  Wood's hand, Ten over six. Wood's eight bests Small's six. Small with a King of Clubs over Ten of Spades. Small tops Wood with Queen of Clubs over Nine of Hearts. Small does it again. Jack over four. Another for Small, King over two.
+**HUERTA:**  Tens all around. War! Roy defeats Benson with a queen, takes 6 cards. Roy's hand, Eight over three. Roy this time with the Queen of Diamonds.
 
-**MCLAUGHLIN:** Is Small going to take this somewhere?
+**GARCIA:** That queen seems wasted on a two.
 
-**QUINTERO:**  Wood, Queen over five. Small, Seven over four. Nine over eight, Wood. Small's hand, Four over two.
+**HUERTA:**  Roy wins again. Nine over four. Benson with a Nine of Diamonds over Seven of Hearts. Benson's hand, King over two. Roy with a Ten of Hearts over Eight of Hearts. Two twos. War! Eights all around. War! Benson defeats Roy with a jack, takes 10 cards.
 
-**MCLAUGHLIN:** Great use of a four by Small.
+**GARCIA:** A lot of cards in that play. I suspect Roy's kicking themselves over that one.
 
-**QUINTERO:**  Wood's hand, Nine over seven.
+**HUERTA:**  Jack over six, Roy. Benson with a Seven of Spades over Four of Spades. Roy with a Seven of Diamonds over Three of Diamonds. Aces. War!!! Roy loses the battle. Benson takes 6 cards. Roy leads 31 to 21.
 
-**MCLAUGHLIN:** Efficient play.
+**GARCIA:** I bet Roy wishes they had something higher than a six on that play. These two are really slugging it out.
 
-**QUINTERO:**  Wood's ten falls to Small's ace. Wood's hand, Ten over six. Wood tops Small with Six of Hearts over Two of Diamonds. Wood with an Eight of Clubs over Four of Diamonds. Wood's six loses to Small's ace. Small with a Queen of Hearts over Five of Diamonds. Wood's queen beats Small's five. Eights. We have a war! Small's ten wins the battle taking 6 cards. Small leads 43 to 9. Small beats Wood with Jack of Diamonds over Nine of Spades.
+**HUERTA:**  Roy with a King of Diamonds over Nine of Diamonds. Two kings. War! Roy loses the battle. Benson takes 6 cards.
 
-**MCLAUGHLIN:** Excellent use of a jack by Small
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Small continues streak. Queen over six. Small keeps going. Ace over ten.
+**HUERTA:**  Ten over three, Roy. Benson with an Ace of Hearts over Six of Clubs. Benson's two loses to Roy's five. Nine over eight, Roy.
 
-**MCLAUGHLIN:** Is Small going to take this somewhere?
+**GARCIA:** Roy just showed us how its done.
 
-**QUINTERO:**  Six over two, Wood. Small bests Wood with King of Hearts over Two of Diamonds.
+**HUERTA:**  Roy wins again. Jack over two. Roy keeps going. Queen over three.
 
-**MCLAUGHLIN:** That king got the job done, but was it the most strategic play by Small?
+**GARCIA:** I think Roy is going somewhere.
 
-**QUINTERO:**  Wood tops Small with Four of Diamonds over Three of Diamonds.
+**HUERTA:**  Another for Roy with King over eight.
 
-**MCLAUGHLIN:** Great use of a four by Wood.
+**GARCIA:** Benson is stumbling a little.
 
-**QUINTERO:**  Wood, Eight over three. Two fives. War!!! Small's eight wins the battle taking 6 cards. Small leads 47 to 5. Small tops Wood with King of Diamonds over Two of Spades.
+**HUERTA:**  Benson with an Ace of Clubs over Six of Spades. Two jacks. War!!! Roy loses the battle. Benson takes 6 cards. Ten over five, Roy. Benson with a Queen of Spades over Four of Hearts. Ace over ten, Benson. Benson does it again. Ace over seven. Roy with an Eight of Clubs over Seven of Hearts.
 
-**MCLAUGHLIN:** It's getting tight. Small must be feeling good.
+**GARCIA:** I bet Benson wishes they had something higher than a seven on that play.
 
-**QUINTERO:**  Small again, Jack over four.
+**HUERTA:**  Roy's three loses to Benson's six. Roy with a Queen of Diamonds over Four of Clubs. King over two, Benson. Benson beats Roy with King of Hearts over Four of Diamonds. Roy leads 27 to 25. Nines. War!! Roy's ten wins the battle taking 6 cards. Benson, Ace over jack. Sixes. War! Roy loses the battle. Benson takes 6 cards. Roy tops Benson with King of Diamonds over Seven of Spades.
 
-**MCLAUGHLIN:** In just a few plays we could have a result.
+**GARCIA:** They are really going toe to toe in this game.
 
-**QUINTERO:** Small wins in 275 hands.
+**HUERTA:**  Roy with a Nine of Diamonds over Four of Spades. Roy's ten loses to Benson's jack.
 
-**MCLAUGHLIN:** Ryder Small held the lead for most of the game. Small and Wood really slugged it out. 
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:** Ryder Small meets the winner of game 4 in Game 2 of the Semi-Finals. 
+**HUERTA:**  Benson's hand, Jack over three. Benson continues streak. Queen over two. Fives all around. War!! Benson defeats Roy with a queen, takes 6 cards. Benson leads 30 to 22. Benson's ten tops Roy's two. Benson continues streak. Ace over jack. Benson again, Ace over three.
+
+**GARCIA:** Benson is looking good.
+
+**HUERTA:**  Roy, Queen over seven. Roy, Eight over six. Another for Roy, King over three. Roy again, Five over two. Benson with a King of Clubs over Ten of Diamonds. Roy's eight loses to Benson's king. Roy's seven beats Benson's four. Benson with a Jack of Diamonds over Four of Clubs. Benson's hand, Ace over queen. Benson beats Roy with Ace of Clubs over Nine of Spades. Roy tops Benson with Ten of Hearts over Six of Hearts. Benson's hand, Six over five. Eight over three, Roy. Benson's hand, Six over two. Roy, Nine over seven.
+
+**GARCIA:** I bet Benson wishes they had something higher than a seven on that play.
+
+**HUERTA:**  King over jack, Roy.
+
+**GARCIA:** Nice use of a king by Roy.
+
+**HUERTA:**  Benson, Ten over seven. Roy's nine falls to Benson's jack.
+
+**GARCIA:** Excellent use of a jack by Benson
+
+**HUERTA:**  Roy, Four over three.
+
+**GARCIA:** Nice use of a four by Roy.
+
+**HUERTA:**  Roy's seven beats Benson's two. Two queens. War! Two eights. It's a war folks! Roy defeats Benson with a king, takes 10 cards. The games tied.
+
+**GARCIA:** We have some real fighters on our hands. A lot of cards in that play.
+
+**HUERTA:**  Benson's nine tops Roy's two. Fives. War!! Benson defeats Roy with a ten, takes 6 cards. Benson leads 30 to 22. Roy's six loses to Benson's ace. Another for Benson with Jack over ten. Another for Benson with Ace over eight.
+
+**GARCIA:** Benson is looking good.
+
+**HUERTA:**  Two threes. War! Benson's king wins the battle taking 6 cards. Benson leads 36 to 16. Roy tops Benson with King of Diamonds over Eight of Clubs. Benson, King over jack.
+
+**GARCIA:** Nice play.
+
+**HUERTA:**  Benson bests Roy with Four of Clubs over Three of Spades.
+
+**GARCIA:** Benson just showed us how its done.
+
+**HUERTA:**  Benson tops Roy with Jack of Diamonds over Four of Spades. Benson keeps going. Queen over seven. Benson, Ace over two. Benson leads 40 to 12.
+
+**GARCIA:** Is Benson going to take this somewhere?
+
+**HUERTA:**  Roy's queen bests Benson's nine. Benson's ace tops Roy's queen.
+
+**GARCIA:** Well played by Benson.
+
+**HUERTA:**  Roy's hand, Eight over six. Benson with a Five of Spades over Three of Clubs.
+
+**GARCIA:** I bet Roy wishes they had something higher than a three on that play.
+
+**HUERTA:**  Roy's hand, Five over two. Roy with a King of Spades over Six of Clubs. Roy's six loses to Benson's seven.
+
+**GARCIA:** Excellent use of a seven by Benson
+
+**HUERTA:**  Queen over ten, Roy. Benson with a Nine of Diamonds over Eight of Diamonds.
+
+**GARCIA:** Excellent use of a nine by Benson
+
+**HUERTA:**  Benson's hand, Jack over four. Benson again, Nine over eight.
+
+**GARCIA:** Excellent use of a nine by Benson
+
+**HUERTA:**  Roy, King over two.
+
+**GARCIA:** Roy over paid for that two.
+
+**HUERTA:**  Roy's hand, Queen over seven. Roy wins again. Nine over four. Roy's eight falls to Benson's ten.
+
+**GARCIA:** Nice use of a ten by Benson.
+
+**HUERTA:**  Roy beats Benson with Six of Spades over Five of Diamonds.
+
+**GARCIA:** Roy just showed us how its done.
+
+**HUERTA:**  Two twos. We have a war! Benson defeats Roy with an ace, takes 6 cards.
+
+**GARCIA:** I bet Roy wishes they had something higher than a king on that play.
+
+**HUERTA:**  Sixes. It's a war folks! Tens all around. It's a war folks! Benson defeats Roy with an eight, takes 10 cards. Benson leads 46 to 6.
+
+**GARCIA:** Hope he doesn't spend those all in one place!
+
+**HUERTA:**  Sevens. It's a war folks! Benson defeats Roy with a king, takes 6 cards.
+
+**GARCIA:** It's getting close folks.
+
+**HUERTA:**  Roy beats Benson with Four of Diamonds over Three of Diamonds.
+
+**GARCIA:** Great use of a four by Roy. We're almost there.
+
+**HUERTA:**  Roy's five falls to Benson's nine.
+
+**GARCIA:** What a fight!
+
+**HUERTA:**  Benson's ten tops Roy's six. Benson leads 50 to 2.
+
+**GARCIA:** Benson likes where this is going.
+
+**HUERTA:**  Benson again, Jack over four.
+
+**GARCIA:** This could be it folks.
+
+**HUERTA:** Jeremiah Roy couldn't repeat their last performance against Natalia Benson. Benson wins in 324 hands.
+
+**GARCIA:** Jeremiah Roy really dominated in that game, but couldn't turn it into a win. It was a real tug of war with 41 turn overs. 
+
+**HUERTA:** Natalia Benson will face the winner of game 4 in Game 2 of the Semi-Finals. 
 
 ## Game 4, Round 2
 
-**MCLAUGHLIN:** What a defeated day for war.
+**GARCIA:** What a blushing day for war.
 
-**QUINTERO:** Hello, I'm Regina Quintero.
+**HUERTA:** Hello, I'm Daryl Huerta.
 
-**MCLAUGHLIN:** And I am Bentley McLaughlin.
+**GARCIA:** And I am Ray Garcia.
 
-**QUINTERO:** This is Game 4 of the 2nd round of the War Championship. Today's competitors are Amir Quintero and Bailey Meyer. The last time these players sat at the table together, Quintero bested Meyer. Will they repeat that performance again today, Bentley?
+**HUERTA:** This is Game 4 of the 2nd round of the War Championship. Our competitors today: Mila Acosta and Katherine Dodson. In the regular season, Acosta bested Dodson. Who will win today, Ray?
 
-**MCLAUGHLIN:** Meyer really couldn't hold on to the lead for very long. I'm sure Quintero would love to repeat that game, but as you know Regina, there is always a possibility it could go either way.
+**GARCIA:** Acosta lead for most of the game. I'm sure Acosta would love to repeat that game, but as you know Daryl, there is no way to know.
 
-**QUINTERO:** The cards are dealt and the competitors are seated. Let's begin. King over five, Meyer. Meyer's two loses to Quintero's seven. Meyer beats Quintero with Eight of Hearts over Five of Hearts. Six over three, Quintero. Quintero, King over jack. Quintero wins again. King over seven. Meyer's nine beats Quintero's seven.
+**HUERTA:** The dealer has signaled the start of the match. Acosta with a Queen of Spades over Jack of Clubs.
 
-**MCLAUGHLIN:** Smart move by Meyer.
+**GARCIA:** Smart move.
 
-**QUINTERO:**  Quintero, Queen over jack.
+**HUERTA:**  Acosta's nine bests Dodson's five. Acosta again, Six over three. Acosta keeps going. Seven over five. Acosta leads 30 to 22.
 
-**MCLAUGHLIN:** Efficient play by Quintero.
+**GARCIA:** Great use of a seven by Acosta. I think Acosta is going somewhere.
 
-**QUINTERO:**  Meyer's king beats Quintero's ten. Meyer beats Quintero with Eight of Spades over Six of Diamonds.
+**HUERTA:**  Dodson, Nine over five. Acosta bests Dodson with Eight of Spades over Seven of Diamonds. Dodson, Ace over queen. Acosta tops Dodson with Jack of Diamonds over Ten of Diamonds. Four over three, Acosta. Acosta does it again. Four over three. Dodson's hand, Ace over king. Dodson's hand, Ten over eight. Jack over eight, Acosta. Dodson with a Ten of Hearts over Two of Diamonds. Acosta with a King of Spades over Six of Diamonds. Acosta's two falls to Dodson's six. Acosta, King over ten. Twos. War!! Dodson loses the battle. Acosta takes 6 cards. Acosta leads 34 to 18. Dodson's four falls to Acosta's nine. Acosta wins again. Ace over three. Dodson falls to Acosta again, Queen over nine.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Dodson should nip this run in the bud.
 
-**QUINTERO:**  Another for Meyer with Seven over four. Quintero, Ace over jack. Quintero with a Four of Spades over Three of Hearts.
+**HUERTA:**  Acosta again, Seven over four. Acosta leads 38 to 14.
 
-**MCLAUGHLIN:** Nice use of a four by Quintero.
+**GARCIA:** Acosta might be making a move.
 
-**QUINTERO:**  Meyer with a Jack of Hearts over Eight of Diamonds. Quintero with a Ten of Spades over Three of Spades. Meyer, Ace over three. Meyer with a Five of Spades over Two of Clubs. Ten over two, Quintero. Ten over nine, Quintero. Meyer, Nine over six. Meyer, Eight over two. Quintero, Six over five.
+**HUERTA:**  Dodson, Jack over eight. Dodson with an Ace of Hearts over King of Diamonds.
 
-**MCLAUGHLIN:** Quintero just showed us how its done. We have some real fighters on our hands.
+**GARCIA:** Dodson just showed us how its done.
 
-**QUINTERO:**  Quintero's nine falls to Meyer's queen. Meyer beats Quintero with Ace of Clubs over Queen of Clubs.
+**HUERTA:**  Acosta with a Queen of Spades over Five of Spades. Acosta's hand, Jack over nine. Dodson with an Ace of Clubs over Five of Diamonds.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Dodson over paid for that five.
 
-**QUINTERO:**  Fours. War! Meyer's king wins the battle taking 6 cards. Meyer leads 31 to 21. Quintero's two falls to Meyer's five. Quintero's six falls to Meyer's eight.
+**HUERTA:**  Acosta's nine loses to Dodson's queen. Another for Dodson, Ace over six. Dodson continues streak. King over three. Acosta leads 34 to 18. Another for Dodson, Ten over seven.
 
-**MCLAUGHLIN:** I bet Quintero wishes they had something higher than a six on that play.
+**GARCIA:** Dodson has got some momentum.
 
-**QUINTERO:**  Quintero falls to Meyer again, Five over three.
+**HUERTA:**  Dodson this time with the Eight of Clubs.
 
-**MCLAUGHLIN:** Efficient play by Meyer. Quintero should nip this run in the bud.
+**GARCIA:** I think Dodson has decided they want this more than Acosta.
 
-**QUINTERO:**  Quintero, King over seven. Quintero, Jack over nine. Quintero does it again. King over ten. Quintero's seven loses to Meyer's king. Quintero's jack bests Meyer's eight. Quintero's hand, Queen over six. Another for Quintero with Jack over seven. Quintero again, Ace over four.
+**HUERTA:**  Dodson wins again. Ten over seven.
 
-**MCLAUGHLIN:** Is Quintero going to take this somewhere?
+**GARCIA:** Is Acosta awake?
 
-**QUINTERO:**  Jack over three, Meyer. Meyer, Eight over four. Quintero falls to Meyer again, Ace over ten. Threes. War!!! Twos all around. War!! Quintero's nine wins the battle taking 10 cards. The games tied.
+**HUERTA:**  Eight over two, Acosta.
 
-**MCLAUGHLIN:** What a haul for Quintero.
+**GARCIA:** Acosta might still have some fight in them.
 
-**QUINTERO:**  Meyer with an Eight of Clubs over Five of Diamonds. Meyer's two loses to Quintero's six. Meyer's queen falls to Quintero's king.
+**HUERTA:**  Acosta beats Dodson with Jack of Diamonds over Six of Spades. Acosta's hand, Ten over two. Dodson with a Jack of Spades over Four of Clubs. Acosta's three loses to Dodson's eight. Dodson does it again. King over three.
 
-**MCLAUGHLIN:** Excellent move by Quintero.
+**GARCIA:** That king seems wasted on a three.
 
-**QUINTERO:**  Meyer with a Nine of Diamonds over Seven of Hearts.
+**HUERTA:**  Another for Dodson, Ace over four. Acosta leads 30 to 22.
 
-**MCLAUGHLIN:** Excellent use of a nine by Meyer
+**GARCIA:** Acosta should nip this run in the bud.
 
-**QUINTERO:**  Meyer's ace tops Quintero's jack. Another for Meyer, Queen over nine. Quintero's king bests Meyer's four. Quintero's ten loses to Meyer's king. Meyer's four falls to Quintero's jack. Meyer's hand, Queen over eight. Meyer's ace tops Quintero's six. Quintero beats Meyer with Queen of Diamonds over Seven of Diamonds. Quintero's hand, Seven over five. Quintero keeps going. Jack over two. Meyer, Eight over four. Meyer's six loses to Quintero's ace. Two fives. We have a war! Quintero loses the battle. Meyer takes 6 cards.
+**HUERTA:**  Acosta with an Eight of Hearts over Five of Diamonds. Dodson with an Ace of Clubs over Jack of Hearts. Acosta with a King of Spades over Queen of Hearts. Dodson with a Nine of Clubs over Six of Diamonds. King over six, Acosta. Dodson's ace beats Acosta's ten. Dodson's king tops Acosta's two. Dodson again, Three over two. Dodson does it again. Ten over seven.
 
-**MCLAUGHLIN:** Nice play.
+**GARCIA:** Dodson might be making a move.
 
-**QUINTERO:**  Meyer's hand, King over nine. Meyer leads 30 to 22. Another for Meyer, Jack over two. Threes. War! Quintero defeats Meyer with a ten, takes 6 cards. Meyer bests Quintero with Ace of Spades over Three of Spades. Meyer's ten tops Quintero's nine.
+**HUERTA:**  Queen over seven, Acosta. Acosta's hand, Six over five.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Acosta just showed us how its done.
 
-**QUINTERO:**  Meyer keeps going. Eight over two. Quintero, Six over five. Quintero with a King of Clubs over Seven of Hearts. Another for Quintero with Queen over nine. Another for Quintero, King over jack.
+**HUERTA:**  Dodson's hand, Eight over five. Acosta's hand, Nine over seven.
 
-**MCLAUGHLIN:** Great use of a king by Quintero. Meyer should nip this run in the bud.
+**GARCIA:** Great use of a nine by Acosta.
 
-**QUINTERO:**  Ace over four, Meyer. Quintero's jack beats Meyer's nine. Meyer's queen tops Quintero's four. Meyer bests Quintero with Ten of Hearts over Seven of Diamonds. Meyer wins again. King over queen.
+**HUERTA:**  Dodson with a Ten of Hearts over Four of Spades. Dodson with a Jack of Spades over Three of Diamonds. Acosta's hand, Ace over four. Acosta with a Nine of Spades over Three of Hearts. Acosta keeps going. Queen over eight. Dodson, King over seven. Acosta's four tops Dodson's three.
 
-**MCLAUGHLIN:** Excellent use of a king by Meyer
+**GARCIA:** Great use of a four by Acosta.
 
-**QUINTERO:**  Another for Meyer with Eight over five.
+**HUERTA:**  Dodson's ace tops Acosta's queen.
 
-**MCLAUGHLIN:** Meyer is looking good.
+**GARCIA:** Smart move.
 
-**QUINTERO:**  Meyer continues streak. Queen over seven.
+**HUERTA:**  Acosta, Five over four.
 
-**MCLAUGHLIN:** Meyer has got some momentum.
+**GARCIA:** Excellent use of a five by Acosta
 
-**QUINTERO:**  Another for Meyer, Six over two.
+**HUERTA:**  Ace over jack, Dodson. Dodson's jack beats Acosta's nine.
 
-**MCLAUGHLIN:** What a streak for Meyer.
+**GARCIA:** I bet Acosta wishes they had something higher than a nine on that play.
 
-**QUINTERO:**  Meyer keeps going. Ace over jack. Meyer leads 34 to 18.
+**HUERTA:**  Acosta with an Eight of Spades over Six of Diamonds. Dodson, Nine over two. Dodson's ten tops Acosta's six. Another for Dodson, Ace over jack. The games tied. Acosta, Ten over two. Acosta's two falls to Dodson's king.
 
-**MCLAUGHLIN:** Quintero is really taking a beating.
+**GARCIA:** That king seems wasted on a two.
 
-**QUINTERO:**  Quintero with an Ace of Hearts over Eight of Hearts.
+**HUERTA:**  Eight over two, Acosta. Acosta's five bests Dodson's three. Acosta this time with the King of Spades. Queen over seven, Acosta. Acosta leads 30 to 22.
 
-**MCLAUGHLIN:** Quintero decided it is time to fight back.
+**GARCIA:** Is Acosta going to take this somewhere?
 
-**QUINTERO:**  Quintero tops Meyer with Six of Hearts over Four of Diamonds.
+**HUERTA:**  Dodson's hand, Eight over six.
 
-**MCLAUGHLIN:** Smart move by Quintero.
+**GARCIA:** Great use of an eight by Dodson.
 
-**QUINTERO:**  Meyer beats Quintero with Six of Clubs over Three of Clubs. Quintero's hand, Ten over three. Meyer's hand, Five over two. Quintero with an Eight of Diamonds over Seven of Spades. Meyer beats Quintero with Five of Spades over Three of Hearts.
+**HUERTA:**  Acosta's king beats Dodson's five. Acosta's hand, Queen over four. Dodson bests Acosta with Ten of Hearts over Seven of Hearts. Dodson with a Jack of Spades over Five of Hearts. Dodson's three loses to Acosta's six. Acosta's nine bests Dodson's seven. Dodson beats Acosta with King of Diamonds over Seven of Diamonds. Aces. It's a war folks! Dodson's jack wins the battle taking 6 cards. Dodson's ace tops Acosta's nine. The games tied.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** We have some real fighters on our hands.
 
-**QUINTERO:**  Ten over four, Meyer. Meyer this time with the King of Hearts. Quintero falls to Meyer again, Nine over six.
+**HUERTA:**  Acosta's queen bests Dodson's nine. Dodson's jack beats Acosta's eight. Acosta, Four over two. Dodson bests Acosta with Nine of Clubs over Three of Spades. Acosta's four loses to Dodson's six. Dodson again, Ten over five. Dodson does it again. Jack over eight.
 
-**MCLAUGHLIN:** Meyer is looking good.
+**GARCIA:** Acosta should nip this run in the bud.
 
-**QUINTERO:**  Meyer keeps going. Jack over seven. Quintero's king beats Meyer's two. Quintero's nine beats Meyer's three. Meyer, Ace over queen. Quintero's hand, Jack over nine.
+**HUERTA:**  Dodson keeps going. Ace over six. Dodson leads 30 to 22. Dodson's two falls to Acosta's ten. Dodson beats Acosta with King of Clubs over Two of Hearts. Dodson with a Six of Clubs over Two of Clubs. Eights all around. War!!! Dodson defeats Acosta with a ten, takes 6 cards. Dodson leads 34 to 18. Acosta beats Dodson with King of Spades over Five of Hearts. Dodson's hand, Jack over ten. King over seven, Dodson. Acosta, Queen over seven. Dodson's queen falls to Acosta's king. Dodson beats Acosta with Ace of Hearts over Five of Clubs.
 
-**MCLAUGHLIN:** I bet Meyer wishes they had something higher than a nine on that play.
+**GARCIA:** They are really going toe to toe in this game.
 
-**QUINTERO:**  Quintero's hand, King over ten. Quintero wins again. Jack over two. Quintero continues streak. Nine over eight.
+**HUERTA:**  Dodson with a Jack of Clubs over Four of Spades. Acosta bests Dodson with Queen of Diamonds over Four of Clubs. Acosta's six bests Dodson's three. Ace over three, Dodson. Nines. War!!! Acosta's queen wins the battle taking 6 cards.
 
-**MCLAUGHLIN:** Is Quintero going to take this somewhere?
+**GARCIA:** Well played.
 
-**QUINTERO:**  Quintero this time with the Ace of Hearts. Meyer, Ace over eight. Fours all around. War!! Meyer's ten wins the battle taking 6 cards. Quintero's ten tops Meyer's seven. King over seven, Meyer. Meyer with a Queen of Diamonds over Eight of Diamonds. Quintero, King over five. Quintero's two falls to Meyer's eight. Meyer's queen beats Quintero's nine. Another for Meyer with Seven over three. Meyer leads 38 to 14. Quintero's jack bests Meyer's two. Quintero with a Nine of Spades over Six of Diamonds. Meyer's hand, Ace over king. Meyer's hand, Jack over ten.
+**HUERTA:**  Dodson's eight loses to Acosta's nine. Dodson leads 30 to 22.
 
-**MCLAUGHLIN:** Excellent use of a jack by Meyer
+**GARCIA:** Nice play by Acosta.
 
-**QUINTERO:**  Meyer's six loses to Quintero's jack. Meyer, Three over two.
+**HUERTA:**  Dodson's three bests Acosta's two. Nine over four, Dodson. Dodson this time with the Four of Hearts. Acosta beats Dodson with Ten of Diamonds over Six of Spades. Fives. War! Acosta's queen wins the battle taking 6 cards. Dodson, Jack over seven. Dodson's ace tops Acosta's king. Queen over six, Acosta. Acosta with a Queen of Diamonds over Two of Hearts. Dodson with a King of Clubs over Four of Clubs. Six over two, Acosta. Dodson, Six over three. Dodson's ten tops Acosta's seven.
 
-**MCLAUGHLIN:** Great use of a three by Meyer.
+**GARCIA:** These two are really slugging it out.
 
-**QUINTERO:**  Quintero with an Eight of Clubs over Five of Hearts. Quintero's hand, Nine over two. Quintero with an Ace of Hearts over Five of Spades. Quintero does it again. Four over three. Meyer leads 34 to 18.
+**HUERTA:**  Acosta's hand, Nine over five. Acosta bests Dodson with Ace of Clubs over Eight of Hearts. Acosta with a Queen of Clubs over Eight of Clubs. Another for Acosta, Nine over three. Dodson falls to Acosta again, Jack over seven. The games tied. Dodson bests Acosta with Ten of Clubs over Eight of Diamonds.
 
-**MCLAUGHLIN:** Excellent move by Quintero. I think Quintero is going somewhere.
+**GARCIA:** Great use of a ten by Dodson.
 
-**QUINTERO:**  Quintero wins again. Ten over four. Meyer tops Quintero with Ten of Clubs over Seven of Diamonds. Quintero's five loses to Meyer's king. Meyer's five loses to Quintero's king. Jack over nine, Quintero.
+**HUERTA:**  Dodson with a Jack of Spades over Nine of Hearts. Another for Dodson, King over ten. Dodson keeps going. Seven over six. Dodson leads 30 to 22.
 
-**MCLAUGHLIN:** I bet Meyer wishes they had something higher than a nine on that play.
+**GARCIA:** Great use of a seven by Dodson.
 
-**QUINTERO:**  Quintero's two loses to Meyer's six. Quintero's six falls to Meyer's seven.
+**HUERTA:**  Another for Dodson with Ace over five. Eight over five, Acosta. Acosta's hand, King over jack. Acosta this time with the Five of Hearts.
 
-**MCLAUGHLIN:** Excellent use of a seven by Meyer
+**GARCIA:** Good job by Acosta.
 
-**QUINTERO:**  Meyer keeps going. Jack over nine.
+**HUERTA:**  Dodson's ace bests Acosta's queen.
 
-**MCLAUGHLIN:** Excellent use of a jack by Meyer
+**GARCIA:** Great use of an ace by Dodson.
 
-**QUINTERO:**  Meyer wins again. Ace over jack.
+**HUERTA:**  Acosta's hand, Ten over three. Dodson's two loses to Acosta's six. Another for Acosta, Queen over three. The games tied.
 
-**MCLAUGHLIN:** Meyer might be making a move.
+**GARCIA:** That queen got the job done, but was it the most strategic play by Acosta?
 
-**QUINTERO:**  Meyer continues streak. Queen over six. Meyer leads 38 to 14.
+**HUERTA:**  Dodson's hand, Nine over two. Acosta beats Dodson with Queen of Diamonds over Four of Diamonds. Acosta, Six over two. Dodson bests Acosta with Four of Hearts over Two of Clubs. Acosta's five falls to Dodson's seven. Another for Dodson with Jack over nine. Another for Dodson, Ace over eight.
 
-**MCLAUGHLIN:** Meyer has got some momentum.
+**GARCIA:** Acosta is stumbling a little.
 
-**QUINTERO:**  Meyer's hand, Ace over five. Two eights. War! Quintero's nine wins the battle taking 6 cards. Quintero beats Meyer with Five of Spades over Three of Diamonds.
+**HUERTA:**  Acosta's ace beats Dodson's king.
 
-**MCLAUGHLIN:** Smart move by Quintero.
+**GARCIA:** Good job by Acosta.
 
-**QUINTERO:**  Another for Quintero with Ace over six. Meyer leads 34 to 18. Four over three, Meyer.
+**HUERTA:**  Dodson, King over eight. Acosta tops Dodson with Queen of Clubs over Four of Clubs. Two threes. We have a war! Dodson loses the battle. Acosta takes 6 cards. Dodson, Ten over seven. Dodson's hand, Ten over five. Two eights. War!!! Acosta's jack wins the battle taking 6 cards.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Nice use of a jack by Acosta.
 
-**QUINTERO:**  Queen over four, Meyer. Ten over seven, Quintero. Meyer's king tops Quintero's four. Meyer's queen falls to Quintero's king.
+**HUERTA:**  Dodson, King over five. Dodson's hand, Ten over four.
 
-**MCLAUGHLIN:** Excellent use of a king by Quintero
+**GARCIA:** They are really going toe to toe in this game.
 
-**QUINTERO:**  Meyer with an Eight of Diamonds over Five of Diamonds. Jack over eight, Quintero. Quintero beats Meyer with Nine of Hearts over Two of Spades. Meyer's queen bests Quintero's eight. Meyer's nine tops Quintero's eight.
+**HUERTA:**  Ten over seven, Acosta. Dodson's six bests Acosta's three. Five over two, Dodson. Dodson continues streak. Ace over six. Dodson this time with the Ace of Diamonds. Another for Dodson, Queen over three. Dodson leads 30 to 22. Acosta's queen beats Dodson's nine. Four over two, Acosta.
 
-**MCLAUGHLIN:** I bet Quintero wishes they had something higher than an eight on that play.
+**GARCIA:** Nice use of a four by Acosta.
 
-**QUINTERO:**  Meyer's three loses to Quintero's four.
+**HUERTA:**  Acosta does it again. Six over two. Dodson's four bests Acosta's two.
 
-**MCLAUGHLIN:** These two are really slugging it out.
+**GARCIA:** Excellent use of a four by Dodson
 
-**QUINTERO:**  Quintero tops Meyer with Nine of Clubs over Seven of Clubs. King over ten, Meyer. Ace over two, Meyer. Jack over three, Meyer. Meyer does it again. Ten over five. Meyer leads 38 to 14.
+**HUERTA:**  Acosta with an Ace of Clubs over Seven of Diamonds. King over five, Acosta. The games tied. Acosta does it again. Queen over nine. Dodson, Jack over four. Dodson with an Eight of Hearts over Seven of Clubs.
 
-**MCLAUGHLIN:** Meyer has got some momentum.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Quintero with an Ace of Hearts over Two of Hearts. Quintero, Six over three. Tens all around. It's a war folks! Two kings. War! Quintero defeats Meyer with a jack, takes 10 cards. Meyer leads 31 to 21.
+**HUERTA:**  Dodson's ace tops Acosta's three.
 
-**MCLAUGHLIN:** What's Quintero going to do with all those cards?
+**GARCIA:** Dodson probably didn't need to use an ace in that play.
 
-**QUINTERO:**  Meyer's six falls to Quintero's eight. Quintero does it again. Nine over six. Meyer with a Seven of Hearts over Two of Spades. Meyer's hand, Jack over four. Quintero falls to Meyer again, Nine over three. Meyer this time with the Jack of Diamonds.
+**HUERTA:**  Dodson again, King over three. Jack over eight, Acosta. Acosta's nine loses to Dodson's ten.
 
-**MCLAUGHLIN:** Meyer just showed us how its done. Quintero should nip this run in the bud.
+**GARCIA:** Nice use of a ten by Dodson.
 
-**QUINTERO:**  Another for Meyer, Ace over seven.
+**HUERTA:**  Dodson's seven bests Acosta's six. Dodson leads 30 to 22.
 
-**MCLAUGHLIN:** Meyer has got some momentum.
+**GARCIA:** Good job by Dodson.
 
-**QUINTERO:**  Meyer keeps going. Queen over two. Meyer leads 35 to 17.
+**HUERTA:**  Acosta's nine tops Dodson's five. Acosta, Jack over ten. Acosta wins again. King over five. Acosta's jack falls to Dodson's king.
 
-**MCLAUGHLIN:** What a streak for Meyer.
+**GARCIA:** I bet Acosta wishes they had something higher than a jack on that play.
 
-**QUINTERO:**  Quintero, Ace over six. Meyer beats Quintero with Ace of Clubs over Six of Hearts. Five over three, Meyer. Quintero, Five over three.
+**HUERTA:**  Ten over eight, Dodson.
 
-**MCLAUGHLIN:** I bet Meyer wishes they had something higher than a three on that play.
+**GARCIA:** Great use of a ten by Dodson.
 
-**QUINTERO:**  Quintero's hand, Seven over four. Another for Quintero, Queen over four. Quintero does it again. King over queen.
+**HUERTA:**  Dodson's four loses to Acosta's eight. Dodson's three falls to Acosta's seven. Acosta again, Ten over six. The games tied. Acosta again, Queen over five.
 
-**MCLAUGHLIN:** Excellent use of a king by Quintero
+**GARCIA:** Dodson is going to be playing catch up if they don't stop this.
 
-**QUINTERO:**  Meyer tops Quintero with King of Spades over Ten of Diamonds. Meyer's hand, Four over two. Quintero with a Ten of Clubs over Five of Diamonds. King over eight, Quintero. Meyer with a Queen of Hearts over Seven of Diamonds. Quintero's hand, Jack over eight. Meyer's hand, Nine over eight.
+**HUERTA:**  Dodson falls to Acosta again, Nine over two.
 
-**MCLAUGHLIN:** I bet Quintero wishes they had something higher than an eight on that play.
+**GARCIA:** Dodson should nip this run in the bud.
 
-**QUINTERO:**  Meyer with an Eight of Clubs over Six of Spades.
+**HUERTA:**  Acosta's four falls to Dodson's six.
 
-**MCLAUGHLIN:** Great use of an eight by Meyer.
+**GARCIA:** Nice use of a six by Dodson.
 
-**QUINTERO:**  Meyer wins again. King over nine. Meyer wins again. Ten over six.
+**HUERTA:**  Ace over two, Dodson.
 
-**MCLAUGHLIN:** I think Meyer is going somewhere.
+**GARCIA:** Dodson probably didn't need to use an ace in that play.
 
-**QUINTERO:**  Quintero, Six over two. Aces. We have a war! Meyer's jack wins the battle taking 6 cards. Meyer, Five over four. Meyer leads 39 to 13.
+**HUERTA:**  Dodson again, Ace over two. Dodson this time with the Queen of Spades.
 
-**MCLAUGHLIN:** Nice use of a five by Meyer.
+**GARCIA:** Dodson is looking good.
 
-**QUINTERO:**  Another for Meyer with Ten over seven. Quintero bests Meyer with Four of Clubs over Two of Spades.
+**HUERTA:**  Acosta, Seven over three. Acosta with an Ace of Clubs over Queen of Hearts. Acosta keeps going. Five over two. Dodson falls to Acosta again, King over four. Dodson's hand, Jack over nine. Queen over four, Acosta. Acosta, Jack over eight. Acosta keeps going. Eight over seven. Acosta leads 30 to 22. Acosta's five loses to Dodson's ace.
 
-**MCLAUGHLIN:** Nice play.
+**GARCIA:** That ace seems wasted on a five.
 
-**QUINTERO:**  Queen over seven, Quintero. Quintero continues streak. King over jack. Quintero continues streak. Queen over four.
+**HUERTA:**  Acosta with a Nine of Hearts over Three of Clubs. Acosta's jack beats Dodson's three. Dodson's hand, King over ten. Dodson with a Nine of Diamonds over Five of Hearts. Acosta's hand, King over ten. Eight over seven, Acosta. Dodson, Six over four.
 
-**MCLAUGHLIN:** Quintero has got some momentum.
+**GARCIA:** Great use of a six by Dodson.
 
-**QUINTERO:**  Quintero this time with the Five of Diamonds. Meyer leads 35 to 17.
+**HUERTA:**  Acosta's three falls to Dodson's jack. Dodson does it again. King over seven. Another for Dodson with Eight over six.
 
-**MCLAUGHLIN:** Nice use of a five by Quintero.
+**GARCIA:** I bet Acosta wishes they had something higher than a six on that play. Acosta should nip this run in the bud.
 
-**QUINTERO:**  Quintero this time with the Ten of Clubs.
+**HUERTA:**  Tens all around. It's a war folks! Dodson loses the battle. Acosta takes 6 cards.
 
-**MCLAUGHLIN:** I bet Meyer wishes they had something higher than a nine on that play. What a streak for Quintero.
+**GARCIA:** Smart move by Acosta.
 
-**QUINTERO:**  Meyer's hand, Nine over eight.
+**HUERTA:**  Dodson's ace bests Acosta's two. Acosta with a Nine of Clubs over Two of Hearts. Acosta's hand, Seven over two. Acosta's three loses to Dodson's ace.
 
-**MCLAUGHLIN:** Great use of a nine by Meyer.
+**GARCIA:** I hope Dodson doesn't need that ace when something bigger comes along.
 
-**QUINTERO:**  Quintero with a King of Hearts over Jack of Diamonds.
+**HUERTA:**  Acosta beats Dodson with Ace of Clubs over Six of Hearts. Queens. War!! Acosta loses the battle. Dodson takes 6 cards. Dodson's hand, Ace over four. Acosta's hand, King over five. Queen over ten, Acosta. Dodson with a King of Clubs over Four of Clubs.
 
-**MCLAUGHLIN:** I bet Meyer wishes they had something higher than a jack on that play.
+**GARCIA:** Dodson over paid for that four.
 
-**QUINTERO:**  Quintero's eight tops Meyer's seven.
+**HUERTA:**  Acosta, Eight over five. Jack over nine, Acosta.
 
-**MCLAUGHLIN:** Nice use of an eight by Quintero.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Meyer's ace bests Quintero's jack. Twos. We have a war! Meyer's ace wins the battle taking 6 cards. Quintero's four loses to Meyer's six. Quintero's queen beats Meyer's three. Quintero, Seven over five.
+**HUERTA:**  Dodson's four falls to Acosta's eight. Acosta again, Seven over six.
 
-**MCLAUGHLIN:** Excellent move by Quintero.
+**GARCIA:** Efficient play by Acosta. I think Acosta is going somewhere.
 
-**QUINTERO:**  Another for Quintero with King over ten. Quintero's jack falls to Meyer's king.
+**HUERTA:**  Two threes. War!! Acosta defeats Dodson with a jack, takes 6 cards. Acosta leads 35 to 17. Dodson bests Acosta with King of Diamonds over Three of Hearts. Acosta with a King of Spades over Eight of Spades. Acosta's ten beats Dodson's six. Dodson, Ace over eight. Acosta tops Dodson with Seven of Hearts over Two of Diamonds. Five over three, Acosta. Dodson's ace beats Acosta's queen. Acosta bests Dodson with Six of Diamonds over Five of Diamonds.
 
-**MCLAUGHLIN:** Great use of a king by Meyer.
+**GARCIA:** Nice use of a six by Acosta.
 
-**QUINTERO:**  Quintero's hand, Queen over two. Fours all around. War!! Quintero loses the battle. Meyer takes 6 cards. Quintero tops Meyer with Nine of Spades over Eight of Spades. Meyer's nine loses to Quintero's ten. Quintero continues streak. King over eight. Quintero this time with the Jack of Diamonds.
+**HUERTA:**  Ten over nine, Acosta.
 
-**MCLAUGHLIN:** Quintero has got some momentum.
+**GARCIA:** Excellent use of a ten by Acosta
 
-**QUINTERO:**  Quintero's seven falls to Meyer's nine.
+**HUERTA:**  Dodson beats Acosta with Queen of Spades over Ten of Diamonds. Dodson's queen beats Acosta's four. Another for Dodson with Jack over nine. Two twos. It's a war folks! Dodson's four wins the battle taking 6 cards. Acosta's ace bests Dodson's king. Acosta's six beats Dodson's four. Dodson, King over five. King over three, Acosta. Acosta's hand, Queen over eight. Acosta's ten falls to Dodson's ace. Dodson's hand, Ace over five.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Dodson over paid for that five.
 
-**QUINTERO:**  King over eight, Meyer. Meyer wins again. Six over three. Quintero bests Meyer with Queen of Diamonds over Ten of Hearts.
+**HUERTA:**  Dodson wins again. Queen over eight. Dodson continues streak. Ten over nine. Acosta leads 31 to 21.
 
-**MCLAUGHLIN:** Great use of a queen by Quintero.
+**GARCIA:** I think Dodson is going somewhere.
 
-**QUINTERO:**  Quintero's hand, Five over three.
+**HUERTA:**  Dodson keeps going. Queen over jack.
 
-**MCLAUGHLIN:** Smart move by Quintero.
+**GARCIA:** Dodson has got some momentum.
 
-**QUINTERO:**  Meyer's hand, Ace over seven. King over three, Quintero. Quintero, Ten over five. Meyer's hand, Ace over two.
+**HUERTA:**  Dodson continues streak. Queen over four.
 
-**MCLAUGHLIN:** Meyer probably didn't need to use an ace in that play.
+**GARCIA:** Acosta is really taking a beating.
 
-**QUINTERO:**  Quintero with a Queen of Clubs over Jack of Clubs.
+**HUERTA:**  Acosta's hand, Eight over four. Dodson, Nine over seven.
 
-**MCLAUGHLIN:** Efficient play by Quintero.
+**GARCIA:** Excellent use of a nine by Dodson
 
-**QUINTERO:**  Nine over four, Quintero. Quintero keeps going. Eight over five. Meyer's hand, Ten over nine.
+**HUERTA:**  Acosta's six falls to Dodson's jack. Acosta with a Nine of Hearts over Four of Hearts. Acosta's hand, Three over two. Another for Acosta, Three over two. Acosta this time with the Jack of Spades. Dodson's hand, Ace over jack. Sevens. War!!! Kings all around. War! Two tens. War! Dodson defeats Acosta with a five, takes 14 cards. Dodson leads 28 to 24.
 
-**MCLAUGHLIN:** Nice play by Meyer.
+**GARCIA:** What a haul for Dodson.
 
-**QUINTERO:**  Ten over seven, Quintero. Eights. War!!! Meyer's ace wins the battle taking 6 cards. Meyer, Jack over six. Quintero, Ten over two. Queen over two, Quintero. Meyer bests Quintero with Six of Clubs over Five of Hearts. Quintero's three loses to Meyer's queen. Meyer keeps going. Ace over three.
+**HUERTA:**  Dodson's hand, Queen over five. Another for Dodson, Eight over three. Dodson keeps going. Nine over six. Another for Dodson with Ten over five. Dodson leads 32 to 20. Dodson's jack bests Acosta's nine.
 
-**MCLAUGHLIN:** That ace seems wasted on a three.
+**GARCIA:** Someone should tell Acosta the match isn't over.
 
-**QUINTERO:**  Quintero bests Meyer with King of Clubs over Two of Clubs.
+**HUERTA:**  Another for Dodson, Queen over ten.
 
-**MCLAUGHLIN:** Quintero probably didn't need to use a king in that play.
+**GARCIA:** Nice use of a queen by Dodson. I think Acosta should try some higher value cards.
 
-**QUINTERO:**  Quintero's ten bests Meyer's four. Quintero's five loses to Meyer's six.
+**HUERTA:**  Dodson's four falls to Acosta's king.
 
-**MCLAUGHLIN:** Efficient play by Meyer.
+**GARCIA:** There's Acosta.
 
-**QUINTERO:**  Two jacks. War!! Meyer's queen wins the battle taking 6 cards. Meyer leads 39 to 13. Fours all around. War!!! Meyer defeats Quintero with a seven, takes 6 cards. Quintero bests Meyer with Seven of Spades over Four of Spades. Quintero, Ten over five. Quintero continues streak. Ten over seven. Quintero's two loses to Meyer's nine. Eight over two, Meyer. Another for Meyer with King over queen.
+**HUERTA:**  Acosta tops Dodson with Ace of Clubs over Queen of Hearts.
 
-**MCLAUGHLIN:** Efficient play.
+**GARCIA:** Great use of an ace by Acosta.
 
-**QUINTERO:**  Meyer continues streak. Three over two. Meyer leads 43 to 9.
+**HUERTA:**  Dodson, Nine over four. Dodson's seven bests Acosta's six.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Excellent use of a seven by Dodson
 
-**QUINTERO:**  Quintero, King over six. Ace over ten, Meyer. Quintero's four falls to Meyer's seven. Meyer's two loses to Quintero's seven. Meyer with an Ace of Diamonds over Four of Spades. Tens. War!!! Quintero loses the battle. Meyer takes 6 cards. Meyer leads 47 to 5. Jack over ten, Meyer. Meyer wins again. Eight over six.
+**HUERTA:**  Another for Dodson with Jack over three. Acosta with a King of Hearts over Six of Clubs. Dodson, Ace over eight. Acosta's hand, Queen over jack. Acosta with an Eight of Clubs over Seven of Diamonds.
 
-**MCLAUGHLIN:** Nice use of an eight by Meyer. It's getting tight. Meyer must be feeling good.
+**GARCIA:** Acosta just showed us how its done.
 
-**QUINTERO:**  Quintero's hand, King over nine. Eight over seven, Meyer.
+**HUERTA:**  Dodson beats Acosta with Ten of Hearts over Four of Diamonds. Dodson, King over nine. Dodson again, Ace over four. Dodson leads 36 to 16. Acosta falls to Dodson again, Five over two.
 
-**MCLAUGHLIN:** In just a few plays we could have a result.
+**GARCIA:** Dodson is looking good.
 
-**QUINTERO:**  Meyer tops Quintero with Ace of Spades over Two of Diamonds. Meyer this time with the Jack of Spades. Meyer leads 51 to 1.
+**HUERTA:**  Acosta's hand, Three over two.
 
-**MCLAUGHLIN:** Game point folks.
+**GARCIA:** I bet Dodson wishes they had something higher than a two on that play.
 
-**QUINTERO:**  Quintero's king beats Meyer's six.
+**HUERTA:**  Dodson's hand, Seven over three. Dodson's hand, Seven over two. Dodson's six loses to Acosta's jack. Dodson's hand, King over two.
 
-**MCLAUGHLIN:** We're almost there.
+**GARCIA:** Dodson probably didn't need to use a king in that play.
 
-**QUINTERO:**  King over six, Quintero. Quintero this time with the Six of Spades. Quintero does it again. Six over three. Meyer leads 47 to 5.
+**HUERTA:**  Dodson with a Ten of Clubs over Four of Spades. Acosta with a King of Clubs over Eight of Spades. Acosta's hand, Ace over five. Dodson with an Ace of Diamonds over Queen of Hearts. Acosta, King over five. Dodson with a Queen of Diamonds over Six of Clubs. Acosta with a Queen of Clubs over Eight of Hearts. Acosta tops Dodson with Jack of Clubs over Three of Spades. Nine over seven, Dodson.
 
-**MCLAUGHLIN:** I think Quintero is going somewhere.
+**GARCIA:** Great use of a nine by Dodson.
 
-**QUINTERO:**  Quintero with a King of Clubs over Queen of Spades.
+**HUERTA:**  Eight over six, Acosta.
 
-**MCLAUGHLIN:** Nice use of a king by Quintero.
+**GARCIA:** Acosta just showed us how its done.
 
-**QUINTERO:**  Another for Quintero, Six over three.
+**HUERTA:**  Dodson, Ten over three. Dodson with a Five of Diamonds over Two of Diamonds. Jacks. War!!! Dodson loses the battle. Acosta takes 6 cards. Acosta's eight falls to Dodson's queen. Acosta, Ace over nine.
 
-**MCLAUGHLIN:** What a streak for Quintero.
+**GARCIA:** What a fight!
 
-**QUINTERO:**  Meyer's ace beats Quintero's five.
+**HUERTA:**  Acosta with a Five of Clubs over Four of Clubs. Dodson, Six over five.
 
-**MCLAUGHLIN:** Meyer probably didn't need to use an ace in that play.
+**GARCIA:** Dodson just showed us how its done.
 
-**QUINTERO:**  Two sixes. War!!! Meyer's king wins the battle taking 6 cards.
+**HUERTA:**  Acosta bests Dodson with King of Hearts over Seven of Clubs. Dodson with a Jack of Diamonds over Eight of Hearts. Acosta's hand, Queen over three.
 
-**MCLAUGHLIN:** I bet Quintero wishes they had something higher than a queen on that play. In just a few plays we could have a result.
+**GARCIA:** I hope Acosta doesn't need that queen when something bigger comes along.
 
-**QUINTERO:**  King over queen, Quintero. Meyer with a Jack of Hearts over Three of Diamonds. Meyer with a Jack of Clubs over Six of Spades.
+**HUERTA:**  Dodson's hand, Ace over jack. Eight over three, Dodson. Dodson wins again. Ten over eight.
 
-**MCLAUGHLIN:** We're almost there.
+**GARCIA:** I bet Acosta wishes they had something higher than an eight on that play.
 
-**QUINTERO:**  Quintero with a Queen of Hearts over Nine of Spades.
+**HUERTA:**  Acosta with a Six of Diamonds over Four of Diamonds.
 
-**MCLAUGHLIN:** In just a few plays we could have a result.
+**GARCIA:** Excellent move by Acosta.
 
-**QUINTERO:**  Quintero with a King of Clubs over Queen of Clubs.
+**HUERTA:**  Dodson's hand, King over six. Dodson's nine falls to Acosta's jack.
 
-**MCLAUGHLIN:** It's getting tight. Meyer must be feeling good.
+**GARCIA:** I bet Dodson wishes they had something higher than a nine on that play.
 
-**QUINTERO:**  Quintero wins again. Nine over four. Another for Quintero with Queen over eight.
+**HUERTA:**  Dodson with an Ace of Hearts over Jack of Hearts. Acosta's hand, Nine over four. Acosta's hand, King over five. Acosta tops Dodson with Ten of Spades over Two of Spades. Dodson's seven loses to Acosta's ace.
 
-**MCLAUGHLIN:** I think Quintero is going somewhere.
+**GARCIA:** Acosta has got some momentum.
 
-**QUINTERO:**  Another for Quintero with Queen over four.
+**HUERTA:**  Another for Acosta, Nine over three. Dodson leads 32 to 20.
 
-**MCLAUGHLIN:** Meyer should nip this run in the bud.
+**GARCIA:** Acosta might be making a move.
 
-**QUINTERO:**  Quintero does it again. King over three.
+**HUERTA:**  Dodson bests Acosta with Seven of Hearts over Four of Clubs. Acosta, Five over two. Seven over two, Acosta. Two kings. We have a war! Dodson loses the battle. Acosta takes 6 cards. Dodson leads 28 to 24. Dodson bests Acosta with Queen of Hearts over Six of Diamonds. Acosta's four falls to Dodson's ace. Another for Dodson, Queen over nine. Acosta's jack bests Dodson's six. Dodson, Seven over four. Nines. War!!! Dodson loses the battle. Acosta takes 6 cards. Acosta beats Dodson with Ten of Spades over Two of Diamonds. Dodson, Five over two. Acosta, Ace over eight. Dodson's hand, Queen over seven. Dodson's five falls to Acosta's nine. Dodson with a Six of Hearts over Three of Clubs. Dodson tops Acosta with Eight of Hearts over Two of Hearts.
 
-**MCLAUGHLIN:** Quintero is on fire.
+**GARCIA:** What a fight!
 
-**QUINTERO:**  Meyer tops Quintero with Five of Spades over Four of Hearts.
+**HUERTA:**  Dodson this time with the Jack of Diamonds. Another for Dodson with Ace over seven. Dodson does it again. Jack over two. Dodson leads 32 to 20.
 
-**MCLAUGHLIN:** Great use of a five by Meyer.
+**GARCIA:** Dodson might be making a move.
 
-**QUINTERO:**  Quintero with a Nine of Spades over Seven of Diamonds.
+**HUERTA:**  Acosta's hand, Four over three.
 
-**MCLAUGHLIN:** Efficient play by Quintero.
+**GARCIA:** Excellent use of a four by Acosta
 
-**QUINTERO:**  Queen over two, Quintero. Meyer leads 43 to 9. Quintero's eight falls to Meyer's nine. Queen over eight, Quintero. Quintero beats Meyer with Four of Diamonds over Two of Hearts.
+**HUERTA:**  King over eight, Acosta. Tens. We have a war! Dodson loses the battle. Acosta takes 6 cards. Dodson leads 27 to 25. Dodson, King over queen. Dodson's hand, Ace over six. Two jacks. War!!! Acosta defeats Dodson with a nine, takes 6 cards. Queen over three, Dodson.
 
-**MCLAUGHLIN:** I bet Meyer wishes they had something higher than a two on that play.
+**GARCIA:** That queen got the job done, but was it the most strategic play by Dodson?
 
-**QUINTERO:**  Meyer's hand, King over three.
+**HUERTA:**  Acosta's hand, King over six. Dodson's four falls to Acosta's nine.
 
-**MCLAUGHLIN:** Meyer probably didn't need to use a king in that play.
+**GARCIA:** Acosta and Dodson are trading punch for punch.
 
-**QUINTERO:**  Quintero's hand, King over queen. Quintero with a Seven of Diamonds over Two of Clubs. Another for Quintero with Nine over three. Ten over two, Meyer. Meyer with an Ace of Hearts over Queen of Hearts. Quintero, Eight over four. Meyer's seven falls to Quintero's queen. Two fours. We have a war! Meyer loses the battle. Quintero takes 6 cards. Meyer leads 37 to 15.
+**HUERTA:**  Dodson's ace bests Acosta's ten. Dodson, Queen over two. Acosta, Ten over nine. Acosta's eight tops Dodson's seven.
 
-**MCLAUGHLIN:** I bet Meyer wishes they had something higher than a ten on that play.
+**GARCIA:** Great use of an eight by Acosta.
 
-**QUINTERO:**  Kings all around. We have a war! Sevens all around. War! Quintero loses the battle. Meyer takes 10 cards. Meyer leads 42 to 10.
+**HUERTA:**  Acosta again, Ace over four.
 
-**MCLAUGHLIN:** Smart move. A lot of cards in that play. I suspect Quintero's kicking themselves over that one.
+**GARCIA:** I hope Acosta doesn't need that ace when something bigger comes along.
 
-**QUINTERO:**  Meyer, Ten over four. Meyer does it again. Jack over eight. Quintero's hand, Queen over six. Meyer's hand, Eight over seven.
+**HUERTA:**  Acosta wins again. Five over two. Acosta leads 29 to 23.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Acosta is looking good.
 
-**QUINTERO:**  Quintero with a Ten of Spades over Seven of Spades. Quintero tops Meyer with Ace of Diamonds over Eight of Diamonds. Quintero does it again. Queen over two. Meyer tops Quintero with Ace of Spades over Four of Spades. Meyer tops Quintero with Jack of Spades over Four of Diamonds. Meyer keeps going. Nine over two. Meyer does it again. Ace over queen.
+**HUERTA:**  Another for Acosta with Nine over five. Dodson's hand, Queen over three. Acosta's four loses to Dodson's seven. Acosta's king tops Dodson's three.
 
-**MCLAUGHLIN:** Quintero is going to be playing catch up if they don't stop this.
+**GARCIA:** That king got the job done, but was it the most strategic play by Acosta?
 
-**QUINTERO:**  Quintero tops Meyer with Six of Diamonds over Five of Hearts. Quintero with a Ten of Spades over Six of Clubs. Quintero's seven falls to Meyer's king. Quintero, Eight over three. Quintero, Ace over six. Quintero does it again. Queen over five. Meyer's hand, Queen over two. Meyer's jack beats Quintero's six. Quintero with a Five of Hearts over Three of Diamonds. Meyer's hand, Jack over six. Meyer's six loses to Quintero's ten. Meyer's five bests Quintero's three.
+**HUERTA:**  Eight over six, Acosta. Acosta does it again. Ten over two. Eight over six, Dodson.
 
-**MCLAUGHLIN:** Excellent use of a five by Meyer
+**GARCIA:** Excellent use of an eight by Dodson
 
-**QUINTERO:**  Eight over four, Quintero. Meyer's eight beats Quintero's six.
+**HUERTA:**  Jack over eight, Dodson. Acosta with a Ten of Hearts over Five of Clubs. Dodson beats Acosta with Ace of Spades over King of Diamonds.
 
-**MCLAUGHLIN:** Excellent use of an eight by Meyer
+**GARCIA:** Nice use of an ace by Dodson.
 
-**QUINTERO:**  Quintero with an Ace of Diamonds over Nine of Hearts. Quintero's hand, Five over three.
+**HUERTA:**  Seven over three, Dodson. Acosta tops Dodson with Nine of Spades over Two of Clubs. Dodson's hand, Jack over four. Acosta's five falls to Dodson's queen. Dodson continues streak. King over jack. Dodson again, Ace over seven. Dodson leads 27 to 25.
 
-**MCLAUGHLIN:** I bet Meyer wishes they had something higher than a three on that play.
+**GARCIA:** Acosta should nip this run in the bud.
 
-**QUINTERO:**  Quintero's queen loses to Meyer's king.
+**HUERTA:**  Acosta, Jack over six. Acosta with a King of Clubs over Three of Diamonds.
 
-**MCLAUGHLIN:** We have some real fighters on our hands.
+**GARCIA:** I hope Acosta doesn't need that king when something bigger comes along.
 
-**QUINTERO:**  Meyer's two falls to Quintero's five. Meyer's hand, Ten over three. Meyer's hand, Queen over six. Meyer this time with the Ace of Hearts. Quintero, Eight over three. Meyer's hand, Nine over four. Quintero with an Ace of Diamonds over Nine of Diamonds. Quintero with a Nine of Hearts over Seven of Diamonds. Meyer, Seven over three. Meyer, Ten over five. Quintero's five tops Meyer's two. Meyer's hand, Five over two. Meyer with a King of Clubs over Eight of Diamonds. Meyer wins again. King over three. Meyer leads 46 to 6. Quintero tops Meyer with Ace of Diamonds over Four of Clubs. Meyer, Ten over nine. Meyer tops Quintero with Eight of Hearts over Seven of Diamonds. Meyer keeps going. Jack over nine.
+**HUERTA:**  Dodson beats Acosta with Queen of Hearts over Six of Diamonds. Ten over nine, Dodson.
 
-**MCLAUGHLIN:** Meyer likes where this is going.
+**GARCIA:** Smart move.
 
-**QUINTERO:**  Meyer's hand, Eight over five.
+**HUERTA:**  Another for Dodson with Ace over four. Acosta with a Nine of Hearts over Two of Diamonds. Dodson's hand, Queen over ten.
 
-**MCLAUGHLIN:** It's getting tight. Meyer must be feeling good.
+**GARCIA:** I bet Acosta wishes they had something higher than a ten on that play.
 
-**QUINTERO:**  Meyer this time with the Seven of Hearts. Meyer leads 50 to 2.
+**HUERTA:**  Acosta, Eight over three. Dodson with a Queen of Spades over Seven of Diamonds. Fours all around. It's a war folks! Dodson defeats Acosta with an eight, takes 6 cards. Dodson leads 31 to 21. Six over five, Dodson. Another for Dodson, Eight over five. Dodson this time with the Jack of Diamonds. Dodson continues streak. King over three. Dodson leads 35 to 17.
 
-**MCLAUGHLIN:** It's getting tight. Meyer must be feeling good.
+**GARCIA:** Dodson is looking good.
 
-**QUINTERO:**  Ace over four, Quintero.
+**HUERTA:**  Dodson's hand, Ace over king.
 
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Quintero?
+**GARCIA:** Is Acosta awake?
 
-**QUINTERO:**  Meyer's ace beats Quintero's four. Meyer, Jack over four.
+**HUERTA:**  Acosta's eight beats Dodson's seven. Six over three, Acosta. Dodson's hand, Jack over ten. Dodson bests Acosta with Four of Clubs over Two of Hearts. Dodson continues streak. Queen over ten.
 
-**MCLAUGHLIN:** It all rests on this play.
+**GARCIA:** Nice use of a queen by Dodson.
 
-**QUINTERO:**  Quintero, Ace over four. Quintero's four loses to Meyer's nine.
+**HUERTA:**  Fives. We have a war! Dodson defeats Acosta with a jack, takes 6 cards. Dodson leads 40 to 12. Dodson's seven tops Acosta's six.
 
-**MCLAUGHLIN:** It all rests on this play.
+**GARCIA:** Nice use of a seven by Dodson.
 
-**QUINTERO:**  Quintero's hand, Ace over two.
+**HUERTA:**  Dodson continues streak. Ace over jack. Acosta with a King of Clubs over Queen of Hearts.
 
-**MCLAUGHLIN:** In just a few plays we could have a result.
+**GARCIA:** Great use of a king by Acosta.
 
-**QUINTERO:**  Meyer, Queen over two.
+**HUERTA:**  Dodson, Six over three. Dodson beats Acosta with Ten of Diamonds over Two of Diamonds. Nines all around. War!!! Acosta loses the battle. Dodson takes 6 cards. Dodson leads 46 to 6. Ten over seven, Dodson. Dodson keeps going. Queen over eight. Dodson does it again. Queen over three. Dodson with a Seven of Diamonds over Six of Hearts. Dodson leads 50 to 2.
 
-**MCLAUGHLIN:** The game could end in this play.
+**GARCIA:** Nice play. I think Dodson is going somewhere.
 
-**QUINTERO:** In 353 hands, Bailey Meyer has won the match.
+**HUERTA:**  Dodson's four loses to Acosta's queen. King over seven, Acosta. Acosta continues streak. Queen over four. Acosta's four falls to Dodson's eight.
 
-**MCLAUGHLIN:** Amir Quintero really couldn't hold on to the lead for very long. 
+**GARCIA:** Dodson likes where this is going.
 
-**QUINTERO:** Bailey Meyer will face Ryder Small in Game 2 of the Semi-Finals. 
+**HUERTA:**  Acosta's hand, Seven over two. Dodson's ace beats Acosta's king.
+
+**GARCIA:** Excellent use of an ace by Dodson It's getting close folks.
+
+**HUERTA:**  Six over four, Dodson.
+
+**GARCIA:** Nice use of a six by Dodson.
+
+**HUERTA:**  Acosta's hand, Queen over five. Seven over five, Acosta.
+
+**GARCIA:** I bet Dodson wishes they had something higher than a five on that play.
+
+**HUERTA:**  Dodson bests Acosta with Eight of Clubs over Two of Spades.
+
+**GARCIA:** Dodson likes where this is going.
+
+**HUERTA:**  Jack over five, Dodson.
+
+**GARCIA:** Dodson likes where this is going.
+
+**HUERTA:**  Acosta, Queen over nine. Dodson beats Acosta with King of Diamonds over Seven of Spades.
+
+**GARCIA:** It's getting tight. Dodson must be feeling good.
+
+**HUERTA:**  Acosta bests Dodson with Five of Diamonds over Three of Clubs.
+
+**GARCIA:** Well played by Acosta.
+
+**HUERTA:**  Dodson's hand, Ace over nine. Dodson, King over queen.
+
+**GARCIA:** Nice use of a king by Dodson. We're almost there.
+
+**HUERTA:**  Dodson does it again. Ten over five.
+
+**GARCIA:** It all rests on this play.
+
+**HUERTA:** Again Katherine Dodson beats Mila Acosta. Dodson wins in 434 hands.
+
+**GARCIA:** That game was a pretty even match. They really went back and forth in that game. Each held the lead multiple times. 
+
+**HUERTA:** Katherine Dodson meets Natalia Benson in Game 2 of the Semi-Finals. 
 
 ## Game 1 of the Semi-Finals
 
-**MCLAUGHLIN:** What a angry day for war.
+**GARCIA:** What a alive day for war.
 
-**QUINTERO:** Hello, I'm Regina Quintero.
+**HUERTA:** Hello, I'm Daryl Huerta.
 
-**MCLAUGHLIN:** And I am Bentley McLaughlin.
+**GARCIA:** And I am Ray Garcia.
 
-**QUINTERO:** Welcome to Game 1 of the Semi-Finals of the War Championship. Our competitors today: Ayden Cuevas and Bailey Meyer. In their last match, Cuevas defeated Meyer. Can we expect the same, Bentley?
+**HUERTA:** This is Game 1 of the Semi-Finals of the War Championship. We are about to watch Benjamin Weiss and Katherine Dodson compete. In their match in the regular season, Weiss beat Dodson. What's next, Ray?
 
-**MCLAUGHLIN:** That game was a shutout. Cuevas maintained the lead the whole game. I'm sure Meyer is looking for a change in results, but as you know Regina, they're both strong players.
+**GARCIA:** That game was a shutout. Weiss maintained the lead the whole game. As you know Daryl, things can change in a single hand.
 
-**QUINTERO:** Cuevas and Meyer are ready to play the first hand. Meyer's ace bests Cuevas's five.
+**HUERTA:** It looks like Weiss and Dodson are about to start. Dodson's hand, Ace over two. Dodson's four loses to Weiss's king.
 
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Meyer?
+**GARCIA:** I hope Weiss doesn't need that king when something bigger comes along.
 
-**QUINTERO:**  Cuevas's two loses to Meyer's king. Cuevas's ace beats Meyer's queen. Two nines. War! Cuevas's seven wins the battle taking 6 cards. Meyer's five loses to Cuevas's eight. Cuevas with an Eight of Hearts over Two of Spades. Cuevas leads 30 to 22. Meyer tops Cuevas with Queen of Clubs over Four of Clubs. Meyer, Queen over ten.
+**HUERTA:**  Weiss's ten falls to Dodson's king. Dodson beats Weiss with Queen of Diamonds over Eight of Spades. Another for Dodson with Ace over six. Dodson keeps going. Ten over four. Dodson leads 30 to 22. Five over four, Weiss.
 
-**MCLAUGHLIN:** Excellent move by Meyer.
+**GARCIA:** Weiss just showed us how its done.
 
-**QUINTERO:**  Another for Meyer with Ten over three. Cuevas bests Meyer with Five of Hearts over Two of Clubs. King over eight, Meyer. Meyer's ace tops Cuevas's eight. The games tied. Sixes all around. War! Cuevas's nine wins the battle taking 6 cards. Cuevas tops Meyer with Six of Diamonds over Five of Diamonds. Cuevas leads 30 to 22.
+**HUERTA:**  Dodson's three loses to Weiss's nine. Six over four, Dodson.
 
-**MCLAUGHLIN:** I bet Meyer wishes they had something higher than a five on that play.
+**GARCIA:** Smart move.
 
-**QUINTERO:**  Cuevas does it again. Seven over six.
+**HUERTA:**  Weiss's queen bests Dodson's two.
 
-**MCLAUGHLIN:** I bet Meyer wishes they had something higher than a six on that play.
+**GARCIA:** That queen got the job done, but was it the most strategic play by Weiss?
 
-**QUINTERO:**  Cuevas's four loses to Meyer's ten. Nine over two, Cuevas. Meyer with a Queen of Diamonds over Seven of Spades. Meyer's ten bests Cuevas's three. Jack over seven, Cuevas. Meyer, King over four. Cuevas with a King of Hearts over Jack of Hearts.
+**HUERTA:**  Dodson, Jack over ten. King over eight, Weiss. Eight over six, Weiss.
 
-**MCLAUGHLIN:** Great use of a king by Cuevas.
+**GARCIA:** Excellent move by Weiss.
 
-**QUINTERO:**  Meyer's five loses to Cuevas's ace.
+**HUERTA:**  Weiss wins again. Ten over five. The games tied. Weiss this time with the Jack of Diamonds. Weiss does it again. Seven over three. Weiss this time with the Nine of Hearts.
 
-**MCLAUGHLIN:** I hope Cuevas doesn't need that ace when something bigger comes along.
+**GARCIA:** I think Weiss has decided they want this more than Dodson.
 
-**QUINTERO:**  Ace over queen, Meyer. Meyer with a King of Spades over Jack of Diamonds.
+**HUERTA:**  Dodson's ace tops Weiss's three. Dodson, Jack over seven. Weiss's hand, King over seven. Six over two, Weiss. Queens. War! Weiss defeats Dodson with a nine, takes 6 cards. Weiss leads 32 to 20. Dodson tops Weiss with Jack of Hearts over Nine of Spades. Dodson's five loses to Weiss's seven.
 
-**MCLAUGHLIN:** Great use of a king by Meyer.
+**GARCIA:** Good job.
 
-**QUINTERO:**  Cuevas's nine beats Meyer's two.
+**HUERTA:**  Weiss, Four over two.
 
-**MCLAUGHLIN:** We have some real fighters on our hands.
+**GARCIA:** Nice use of a four by Weiss.
 
-**QUINTERO:**  Cuevas bests Meyer with Nine of Spades over Four of Clubs. Meyer bests Cuevas with Queen of Clubs over Jack of Clubs.
+**HUERTA:**  Weiss's king loses to Dodson's ace.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Efficient play.
 
-**QUINTERO:**  Meyer's ten bests Cuevas's three. Meyer again, Queen over seven. Meyer keeps going. Ten over eight.
+**HUERTA:**  Ten over five, Dodson.
 
-**MCLAUGHLIN:** Cuevas is stumbling a little.
+**GARCIA:** Dodson and Weiss are trading punch for punch.
 
-**QUINTERO:**  Cuevas's five beats Meyer's three.
+**HUERTA:**  Dodson wins again. King over four.
 
-**MCLAUGHLIN:** Nice use of a five by Cuevas.
+**GARCIA:** Dodson probably didn't need to use a king in that play.
 
-**QUINTERO:**  Meyer's king beats Cuevas's eight. Cuevas's two loses to Meyer's eight. The games tied. Eight over five, Meyer. Meyer again, Ace over two.
+**HUERTA:**  Another for Dodson, Queen over three.
 
-**MCLAUGHLIN:** Meyer has got some momentum.
+**GARCIA:** Weiss is going to be playing catch up if they don't stop this.
 
-**QUINTERO:**  Cuevas beats Meyer with Ace of Diamonds over Four of Hearts. Meyer with a Ten of Hearts over Four of Diamonds. Meyer, Queen over three.
+**HUERTA:**  Weiss, Nine over eight.
 
-**MCLAUGHLIN:** That queen seems wasted on a three.
+**GARCIA:** Great use of a nine by Weiss.
 
-**QUINTERO:**  Another for Meyer, Seven over six. Meyer leads 30 to 22.
+**HUERTA:**  Dodson, Six over two. Ace over queen, Dodson. Weiss leads 28 to 24. Weiss with a King of Diamonds over Four of Diamonds. Weiss's eight falls to Dodson's ten.
 
-**MCLAUGHLIN:** Excellent use of a seven by Meyer
+**GARCIA:** Well played by Dodson.
 
-**QUINTERO:**  Cuevas, Six over three. Meyer's hand, Ten over nine.
+**HUERTA:**  Weiss beats Dodson with Six of Clubs over Four of Clubs. Weiss's hand, Eight over six. Dodson with a Jack of Clubs over Ten of Hearts.
 
-**MCLAUGHLIN:** Great use of a ten by Meyer.
+**GARCIA:** Excellent use of a jack by Dodson
 
-**QUINTERO:**  King over six, Meyer. Cuevas's five bests Meyer's four. Cuevas's seven loses to Meyer's queen. Cuevas's six loses to Meyer's ace. Meyer continues streak. Jack over nine. Meyer's hand, King over two. Meyer leads 34 to 18.
+**HUERTA:**  Dodson's hand, Ten over five. Weiss's jack beats Dodson's three. Dodson's hand, Ace over two. Dodson's jack bests Weiss's three. Sevens. We have a war! Dodson defeats Weiss with a jack, takes 6 cards. Dodson leads 28 to 24. Dodson, Ace over seven. Kings all around. We have a war! Dodson's ten wins the battle taking 6 cards. Dodson leads 32 to 20. Weiss's nine loses to Dodson's king. Weiss, Ace over four.
 
-**MCLAUGHLIN:** Cuevas is going to be playing catch up if they don't stop this.
+**GARCIA:** Weiss over paid for that four.
 
-**QUINTERO:**  Meyer continues streak. Jack over seven. Another for Meyer, Queen over jack.
+**HUERTA:**  Dodson with a Queen of Diamonds over Three of Diamonds. Eight over three, Weiss.
 
-**MCLAUGHLIN:** Is Cuevas awake?
+**GARCIA:** These two are really slugging it out.
 
-**QUINTERO:**  Jack over ten, Cuevas. Cuevas, King over three. Cuevas continues streak. Ace over queen. Meyer's seven beats Cuevas's five.
+**HUERTA:**  Weiss with a Queen of Hearts over Six of Spades. Another for Weiss, Queen over two.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Weiss probably didn't need to use a queen in that play.
 
-**QUINTERO:**  Eight over two, Meyer. Another for Meyer with Ten over nine. Cuevas's four loses to Meyer's eight. Meyer, King over nine. Meyer leads 38 to 14. Meyer does it again. Eight over three.
+**HUERTA:**  Weiss's seven falls to Dodson's queen. Weiss's five loses to Dodson's ace.
 
-**MCLAUGHLIN:** Is Cuevas awake?
+**GARCIA:** That ace seems wasted on a five.
 
-**QUINTERO:**  Cuevas, Five over two. Meyer's eight loses to Cuevas's ace. Meyer with a Five of Hearts over Four of Hearts. Three over two, Cuevas.
+**HUERTA:**  Weiss's four falls to Dodson's eight. Dodson this time with the Ten of Diamonds. Weiss falls to Dodson again, Jack over nine.
 
-**MCLAUGHLIN:** Nice use of a three by Cuevas.
+**GARCIA:** Well played. I think Dodson is going somewhere.
 
-**QUINTERO:**  Meyer with an Ace of Hearts over Six of Clubs. Five over four, Cuevas. Cuevas's four loses to Meyer's ten. Cuevas's jack bests Meyer's three. Meyer, Queen over ten. Cuevas's king tops Meyer's six. Meyer with a Seven of Spades over Three of Hearts.
+**HUERTA:**  Dodson wins again. Ten over eight. Dodson leads 36 to 16.
 
-**MCLAUGHLIN:** These two are really slugging it out.
+**GARCIA:** I bet Weiss wishes they had something higher than an eight on that play. I think Dodson has decided they want this more than Weiss.
 
-**QUINTERO:**  Cuevas with an Ace of Spades over Nine of Diamonds. Cuevas, Queen over ten.
+**HUERTA:**  Weiss falls to Dodson again, Ten over four.
 
-**MCLAUGHLIN:** Excellent use of a queen by Cuevas
+**GARCIA:** Dodson ate their Wheaties today.
 
-**QUINTERO:**  Meyer, Six over two. Meyer tops Cuevas with King of Diamonds over Five of Spades. Cuevas with an Eight of Spades over Seven of Clubs.
+**HUERTA:**  Dodson's five loses to Weiss's king.
 
-**MCLAUGHLIN:** Good job by Cuevas.
+**GARCIA:** Weiss's back in it.
 
-**QUINTERO:**  Meyer's queen falls to Cuevas's ace.
+**HUERTA:**  Weiss's hand, Six over two. Dodson, Ace over four. Weiss's hand, Eight over three. Dodson's jack bests Weiss's six. Weiss's jack beats Dodson's seven. Dodson's seven bests Weiss's three. Dodson's jack beats Weiss's four. Dodson's nine loses to Weiss's ace. Eight over five, Weiss. Dodson's hand, Nine over three. Dodson's ace bests Weiss's six. Weiss's hand, Queen over seven. Weiss's queen loses to Dodson's king. Dodson's king tops Weiss's two.
 
-**MCLAUGHLIN:** Efficient play by Cuevas.
+**GARCIA:** That king seems wasted on a two.
 
-**QUINTERO:**  Meyer tops Cuevas with Ace of Clubs over Three of Clubs. Cuevas's two loses to Meyer's six. Meyer again, Jack over four. Meyer continues streak. Nine over five. Cuevas's three beats Meyer's two.
+**HUERTA:**  Weiss with a King of Diamonds over Five of Clubs. Dodson's hand, Six over five.
 
-**MCLAUGHLIN:** Well played.
+**GARCIA:** Dodson just showed us how its done.
 
-**QUINTERO:**  Meyer, King over jack. Meyer with a Seven of Diamonds over Six of Hearts.
+**HUERTA:**  Weiss, Six over two. Dodson, Ten over two. King over three, Dodson.
 
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a six on that play.
+**GARCIA:** That king got the job done, but was it the most strategic play by Dodson?
 
-**QUINTERO:**  King over jack, Cuevas.
+**HUERTA:**  Another for Dodson with Nine over eight. Dodson leads 40 to 12.
 
-**MCLAUGHLIN:** Smart move.
+**GARCIA:** Great use of a nine by Dodson.
 
-**QUINTERO:**  Jack over nine, Meyer.
+**HUERTA:**  Weiss's hand, Jack over three. Dodson's queen beats Weiss's seven. Weiss's nine falls to Dodson's queen. Weiss's hand, Ace over seven. Weiss's eight tops Dodson's five. Weiss's five loses to Dodson's ace. Queen over eight, Weiss. Weiss, Seven over four. Weiss keeps going. King over two.
 
-**MCLAUGHLIN:** Nice play.
+**GARCIA:** Weiss over paid for that two.
 
-**QUINTERO:**  Cuevas, Ace over queen. Meyer's seven falls to Cuevas's ten. Cuevas does it again. Queen over five. Meyer falls to Cuevas again, Seven over two.
+**HUERTA:**  Dodson, Ten over five. Dodson with a Jack of Clubs over Six of Clubs. Dodson again, Nine over two. Weiss tops Dodson with Jack of Diamonds over Ten of Hearts.
 
-**MCLAUGHLIN:** Cuevas might be making a move.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Eights. War!!! Cuevas defeats Meyer with a queen, takes 6 cards. Meyer leads 34 to 18. Meyer's hand, Eight over three. Meyer, Four over two.
+**HUERTA:**  Dodson bests Weiss with Eight of Spades over Three of Diamonds. Dodson's ten loses to Weiss's ace. Seven over four, Weiss. Another for Weiss with Eight over four. Dodson with an Ace of Hearts over Five of Diamonds. Dodson's hand, Jack over eight. Weiss's queen bests Dodson's six. Two sevens. War!!! Dodson loses the battle. Weiss takes 6 cards. Dodson leads 35 to 17. Weiss's two falls to Dodson's jack.
 
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a two on that play.
+**GARCIA:** Dodson probably didn't need to use a jack in that play.
 
-**QUINTERO:**  Cuevas's hand, Jack over nine.
+**HUERTA:**  Weiss, Jack over three. Ten over nine, Weiss. Weiss tops Dodson with Ten of Spades over Six of Spades. Aces all around. We have a war! Dodson defeats Weiss with a queen, takes 6 cards. Weiss with a Four of Clubs over Two of Diamonds.
 
-**MCLAUGHLIN:** Excellent use of a jack by Cuevas
+**GARCIA:** Great use of a four by Weiss.
 
-**QUINTERO:**  Kings all around. War!! Cuevas's ace wins the battle taking 6 cards. Cuevas with a Seven of Hearts over Five of Hearts.
+**HUERTA:**  King over eight, Dodson. Queen over six, Weiss. Dodson's five loses to Weiss's six. Dodson's hand, Ten over three. Weiss with a Seven of Spades over Two of Clubs. Dodson, King over four.
 
-**MCLAUGHLIN:** Smart move by Cuevas.
+**GARCIA:** I hope Dodson doesn't need that king when something bigger comes along.
 
-**QUINTERO:**  Cuevas again, Ten over four. Meyer leads 30 to 22. Meyer falls to Cuevas again, Queen over six.
+**HUERTA:**  Weiss with a Seven of Diamonds over Three of Hearts. Dodson's nine bests Weiss's four.
 
-**MCLAUGHLIN:** Meyer is going to be playing catch up if they don't stop this.
+**GARCIA:** Dodson and Weiss are trading punch for punch.
 
-**QUINTERO:**  Meyer, Ace over five. Meyer with a Ten of Hearts over Two of Hearts. Cuevas's seven bests Meyer's four. Ace over ten, Cuevas. Cuevas's nine falls to Meyer's queen. Meyer's three loses to Cuevas's eight. Cuevas's queen bests Meyer's seven. Cuevas again, Ten over six. Cuevas tops Meyer with Eight of Diamonds over Two of Spades. The games tied.
+**HUERTA:**  Weiss, King over eight. Queen over three, Dodson.
 
-**MCLAUGHLIN:** Meyer is going to be playing catch up if they don't stop this.
+**GARCIA:** That queen seems wasted on a three.
 
-**QUINTERO:**  Cuevas this time with the Nine of Spades.
+**HUERTA:**  Weiss with a Jack of Diamonds over Seven of Hearts. Dodson tops Weiss with Queen of Clubs over Nine of Spades. Weiss, Ten over nine.
 
-**MCLAUGHLIN:** Cuevas is looking good.
+**GARCIA:** Nice play.
 
-**QUINTERO:**  Cuevas's jack loses to Meyer's king.
+**HUERTA:**  Dodson beats Weiss with Ace of Diamonds over Six of Spades. Dodson's five falls to Weiss's ten. Dodson with a Ten of Diamonds over Four of Clubs. Dodson beats Weiss with Five of Clubs over Two of Diamonds. Two sixes. War!! Weiss's six wins the battle taking 6 cards.
 
-**MCLAUGHLIN:** Excellent move by Meyer.
+**GARCIA:** Weiss and Dodson are trading punch for punch.
 
-**QUINTERO:**  Cuevas's queen bests Meyer's three.
+**HUERTA:**  Dodson's nine tops Weiss's five. Weiss's seven loses to Dodson's eight. Dodson again, Three over two.
 
-**MCLAUGHLIN:** I hope Cuevas doesn't need that queen when something bigger comes along.
+**GARCIA:** Dodson just showed us how its done.
 
-**QUINTERO:**  Meyer bests Cuevas with Ace of Clubs over King of Clubs.
+**HUERTA:**  Seven over five, Weiss. Dodson's hand, Ace over three. Dodson's jack beats Weiss's eight. Weiss bests Dodson with King of Diamonds over Eight of Hearts. Dodson's two falls to Weiss's seven. Two jacks. War!!! Weiss defeats Dodson with a nine, takes 6 cards. Ace over five, Dodson. Ace over ten, Dodson. Weiss's jack loses to Dodson's king. Dodson's seven loses to Weiss's queen. Dodson's eight bests Weiss's six. Dodson's hand, King over two. Weiss bests Dodson with Six of Clubs over Three of Spades. Ten over six, Dodson. Weiss's five beats Dodson's four.
 
-**MCLAUGHLIN:** Nice play by Meyer.
+**GARCIA:** Nice use of a five by Weiss.
 
-**QUINTERO:**  Meyer with a Six of Spades over Three of Diamonds. Cuevas's king tops Meyer's two. Cuevas's hand, Eight over four. Cuevas tops Meyer with Ace of Spades over Jack of Diamonds. Cuevas keeps going. Seven over five.
+**HUERTA:**  Dodson beats Weiss with King of Clubs over Seven of Diamonds. Weiss, Eight over four. Weiss's king tops Dodson's nine. Weiss keeps going. Seven over three. Queen over two, Dodson. Nines. It's a war folks! Weiss loses the battle. Dodson takes 6 cards. Weiss's hand, Ten over six. Dodson's four loses to Weiss's jack. Dodson beats Weiss with Ten of Diamonds over Four of Diamonds. Weiss, Queen over two.
 
-**MCLAUGHLIN:** Meyer is stumbling a little.
+**GARCIA:** Weiss over paid for that two.
 
-**QUINTERO:**  Meyer with a Nine of Hearts over Five of Hearts. Cuevas's ten falls to Meyer's king. Another for Meyer, Jack over four. Cuevas's queen beats Meyer's six. Seven over six, Meyer. Cuevas's seven falls to Meyer's nine.
+**HUERTA:**  Dodson's five loses to Weiss's seven. Weiss's three loses to Dodson's nine. Weiss's hand, Six over five.
 
-**MCLAUGHLIN:** Smart move.
+**GARCIA:** Weiss just showed us how its done.
 
-**QUINTERO:**  Cuevas falls to Meyer again, Jack over four. Ace over eight, Cuevas. Cuevas with a Ten of Diamonds over Three of Spades. Cuevas again, Eight over two. Meyer's hand, Four over three.
+**HUERTA:**  Dodson's eight bests Weiss's five. Weiss's four loses to Dodson's seven. Eight over two, Weiss. Four over three, Weiss.
 
-**MCLAUGHLIN:** Nice use of a four by Meyer.
+**GARCIA:** Smart move.
 
-**QUINTERO:**  Cuevas's hand, Queen over five. Cuevas's seven loses to Meyer's ace. Meyer with a Ten of Hearts over Six of Diamonds. Cuevas bests Meyer with Ten of Clubs over Two of Hearts. Meyer, Queen over two.
+**HUERTA:**  Weiss this time with the Nine of Diamonds. Dodson's ace tops Weiss's king.
 
-**MCLAUGHLIN:** Meyer over paid for that two.
+**GARCIA:** Nice use of an ace by Dodson.
 
-**QUINTERO:**  Meyer beats Cuevas with Nine of Clubs over Eight of Diamonds.
+**HUERTA:**  Weiss's seven loses to Dodson's jack. Dodson keeps going. Eight over three. Weiss, Ten over five. Dodson, Ace over six. Weiss's jack bests Dodson's ten. Dodson's ace tops Weiss's four. Weiss's two falls to Dodson's jack. Dodson wins again. King over queen.
 
-**MCLAUGHLIN:** Great use of a nine by Meyer.
+**GARCIA:** Efficient play.
 
-**QUINTERO:**  Meyer wins again. Jack over nine. Meyer again, King over five. Meyer leads 30 to 22.
+**HUERTA:**  Dodson's six falls to Weiss's seven.
 
-**MCLAUGHLIN:** Cuevas is stumbling a little.
+**GARCIA:** I bet Dodson wishes they had something higher than a six on that play.
 
-**QUINTERO:**  Meyer this time with the Ace of Clubs.
+**HUERTA:**  Dodson, Eight over five. Dodson tops Weiss with King of Hearts over Six of Clubs. Dodson leads 39 to 13. Weiss's five beats Dodson's two. Weiss with an Eight of Hearts over Six of Diamonds.
 
-**MCLAUGHLIN:** Cuevas is stumbling a little.
+**GARCIA:** Great use of an eight by Weiss.
 
-**QUINTERO:**  Meyer continues streak. King over three.
+**HUERTA:**  Dodson's hand, Ten over two. Weiss's four falls to Dodson's seven. Dodson does it again. King over three.
 
-**MCLAUGHLIN:** Meyer ate their Wheaties today.
+**GARCIA:** That king seems wasted on a three.
 
-**QUINTERO:**  Another for Meyer, Six over two.
+**HUERTA:**  Another for Dodson, Queen over three.
 
-**MCLAUGHLIN:** Meyer ate their Wheaties today.
+**GARCIA:** Dodson has got some momentum.
 
-**QUINTERO:**  King over three, Cuevas.
+**HUERTA:**  Weiss's nine tops Dodson's two. Dodson's queen beats Weiss's ten.
 
-**MCLAUGHLIN:** That's a start for Cuevas.
+**GARCIA:** Dodson just showed us how its done.
 
-**QUINTERO:**  Meyer, Nine over four. Cuevas, Eight over five. King over jack, Meyer.
+**HUERTA:**  Dodson's hand, Nine over five. Jacks all around. War! Dodson's queen wins the battle taking 6 cards. Dodson leads 45 to 7. Dodson's nine bests Weiss's seven.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Excellent use of a nine by Dodson
 
-**QUINTERO:**  Ace over ten, Cuevas. Cuevas with a Five of Diamonds over Four of Hearts.
+**HUERTA:**  Five over four, Weiss. Dodson, Ten over two. Weiss with an Eight of Hearts over Three of Spades. Dodson's hand, Nine over six. Dodson beats Weiss with Five of Diamonds over Two of Hearts.
 
-**MCLAUGHLIN:** Excellent use of a five by Cuevas
+**GARCIA:** They are really going toe to toe in this game.
 
-**QUINTERO:**  Meyer with a Jack of Hearts over Seven of Hearts. Meyer's six loses to Cuevas's queen. Meyer bests Cuevas with Seven of Diamonds over Six of Hearts.
+**HUERTA:**  Dodson's eight loses to Weiss's nine.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Efficient play.
 
-**QUINTERO:**  Nine over eight, Meyer.
+**HUERTA:**  Dodson beats Weiss with Seven of Spades over Five of Spades.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Nice play.
 
-**QUINTERO:**  Cuevas's hand, Ace over seven. Jack over three, Meyer. Cuevas, Ten over four. Cuevas with an Eight of Spades over Three of Hearts. Meyer with a Four of Clubs over Two of Diamonds.
+**HUERTA:**  Two fours. War!! Weiss loses the battle. Dodson takes 6 cards. Dodson leads 50 to 2. Weiss's nine beats Dodson's seven.
 
-**MCLAUGHLIN:** Nice play.
+**GARCIA:** Excellent use of a nine by Weiss It's getting tight. Dodson must be feeling good.
 
-**QUINTERO:**  Meyer, Ace over five. Cuevas, Queen over seven. Meyer's hand, Ten over two. Ten over six, Cuevas. Meyer's queen loses to Cuevas's king. Cuevas again, Three over two.
+**HUERTA:**  Dodson, Jack over eight.
 
-**MCLAUGHLIN:** Efficient play.
+**GARCIA:** It's getting close folks.
 
-**QUINTERO:**  Meyer, Nine over five. Two eights. We have a war! Cuevas's ace wins the battle taking 6 cards. Five over four, Meyer.
+**HUERTA:**  Weiss's seven loses to Dodson's eight.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** I bet Weiss wishes they had something higher than a seven on that play.
 
-**QUINTERO:**  Meyer with a King of Diamonds over Five of Diamonds. Meyer with an Ace of Clubs over Queen of Spades.
+**HUERTA:**  Weiss's hand, Nine over three. Ace over three, Dodson.
 
-**MCLAUGHLIN:** Excellent use of an ace by Meyer
+**GARCIA:** This could be it.
 
-**QUINTERO:**  Meyer does it again. Queen over six.
+**HUERTA:**  Nine over six, Weiss.
 
-**MCLAUGHLIN:** Is Meyer going to take this somewhere?
+**GARCIA:** Weiss and Dodson are trading punch for punch. It's getting close folks.
 
-**QUINTERO:**  Cuevas's hand, Ace over three. Meyer, King over seven. Ten over two, Cuevas. Six over four, Meyer. Cuevas's three falls to Meyer's four.
+**HUERTA:**  Weiss's six falls to Dodson's ace.
 
-**MCLAUGHLIN:** Excellent use of a four by Meyer
+**GARCIA:** In just a few plays we could have a result.Dodson almost has it sewed up.
 
-**QUINTERO:**  Cuevas falls to Meyer again, Nine over eight. Meyer leads 34 to 18.
+**HUERTA:**  Weiss, Nine over four.
 
-**MCLAUGHLIN:** Nice play.
+**GARCIA:** Dodson likes where this is going.
 
-**QUINTERO:**  King over seven, Meyer.
+**HUERTA:**  Weiss, Nine over two. Jack over four, Dodson.
 
-**MCLAUGHLIN:** Meyer might be making a move.
+**GARCIA:** We're almost there.
 
-**QUINTERO:**  Cuevas, Queen over jack. Meyer bests Cuevas with Jack of Hearts over Six of Diamonds. Ten over seven, Cuevas. Cuevas beats Meyer with King of Hearts over Six of Hearts. Cuevas does it again. Queen over seven. Meyer with an Eight of Hearts over Three of Diamonds. Meyer, Nine over two. Jacks all around. We have a war! Cuevas defeats Meyer with an eight, takes 6 cards. Cuevas's hand, Ace over four. Meyer leads 30 to 22.
+**HUERTA:**  Dodson's king bests Weiss's two.
 
-**MCLAUGHLIN:** Cuevas over paid for that four.
+**GARCIA:** Dodson probably didn't need to use a king in that play. It's getting tight. Dodson must be feeling good.Game point folks.
 
-**QUINTERO:**  Meyer's ace tops Cuevas's ten. Cuevas, Eight over five. Cuevas's ace tops Meyer's ten. Cuevas wins again. Three over two.
+**HUERTA:** In 212 hands, Katherine Dodson has won the match.
 
-**MCLAUGHLIN:** Cuevas just showed us how its done.
+**GARCIA:** Katherine Dodson kept the lead for most of the match. 
 
-**QUINTERO:**  Meyer's nine bests Cuevas's two. Meyer's five falls to Cuevas's ten. Cuevas's jack beats Meyer's five. Cuevas again, Queen over four. The games tied. Meyer with a King of Diamonds over Ten of Clubs. Cuevas's seven beats Meyer's five.
-
-**MCLAUGHLIN:** Efficient play by Cuevas.
-
-**QUINTERO:**  Meyer, Ace over king. Meyer, Queen over six. Meyer wins again. Queen over seven. Meyer's six falls to Cuevas's queen. Meyer's king bests Cuevas's nine. Meyer with a Seven of Clubs over Two of Diamonds. Meyer leads 30 to 22. Cuevas's jack tops Meyer's six. Cuevas's three falls to Meyer's four.
-
-**MCLAUGHLIN:** Meyer just showed us how its done.
-
-**QUINTERO:**  Jack over three, Cuevas. Cuevas, Eight over four. Cuevas does it again. Ace over nine. Meyer, Eight over four. Meyer's hand, King over eight. Another for Meyer, Seven over five.
-
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a five on that play.
-
-**QUINTERO:**  Cuevas's ten bests Meyer's six. Cuevas's hand, Ace over jack. Threes all around. War!!! Cuevas's ten wins the battle taking 6 cards. Cuevas leads 27 to 25. Cuevas's five falls to Meyer's nine. Jack over ten, Cuevas.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Meyer, Ace over five. Cuevas with a Queen of Hearts over Nine of Clubs. Cuevas, Four over two.
-
-**MCLAUGHLIN:** Efficient play by Cuevas.
-
-**QUINTERO:**  Meyer beats Cuevas with King of Diamonds over Seven of Hearts. Meyer beats Cuevas with Ten of Clubs over Five of Diamonds. Meyer continues streak. Ace over queen.
-
-**MCLAUGHLIN:** Nice use of an ace by Meyer.
-
-**QUINTERO:**  Meyer continues streak. King over six. Jack over six, Cuevas. Meyer's hand, Queen over six. Meyer's hand, Queen over jack. Meyer leads 29 to 23.
-
-**MCLAUGHLIN:** Efficient play by Meyer.
-
-**QUINTERO:**  Meyer this time with the Seven of Diamonds. Cuevas falls to Meyer again, Nine over four. Meyer, King over eight.
-
-**MCLAUGHLIN:** Is Meyer going to take this somewhere?
-
-**QUINTERO:**  Cuevas, Nine over two. Cuevas beats Meyer with Ace of Spades over Seven of Clubs. Meyer falls to Cuevas again, Ten over three. Meyer falls to Cuevas again, Six over four. Cuevas keeps going. Jack over eight. Cuevas keeps going. Ace over four.
-
-**MCLAUGHLIN:** I think Meyer should try some higher value cards.
-
-**QUINTERO:**  Meyer's king beats Cuevas's three. Meyer's hand, Eight over three. Meyer continues streak. Five over two. Meyer keeps going. Seven over two.
-
-**MCLAUGHLIN:** I think Meyer is going somewhere.
-
-**QUINTERO:**  Meyer keeps going. Nine over eight.
-
-**MCLAUGHLIN:** Nice use of a nine by Meyer.
-
-**QUINTERO:**  Cuevas's ten bests Meyer's five. Meyer with an Ace of Hearts over Jack of Diamonds. Cuevas tops Meyer with Ten of Spades over Five of Spades. Meyer tops Cuevas with King of Diamonds over Nine of Clubs. Cuevas with a Queen of Hearts over Seven of Hearts. Meyer's hand, Ten over four. Meyer tops Cuevas with Five of Diamonds over Two of Clubs. Another for Meyer with Ace over jack. Meyer leads 33 to 19. Meyer continues streak. Queen over six.
-
-**MCLAUGHLIN:** Meyer might be making a move.
-
-**QUINTERO:**  Meyer does it again. Six over two. Meyer continues streak. King over nine.
-
-**MCLAUGHLIN:** Someone should tell Cuevas the match isn't over.
-
-**QUINTERO:**  Cuevas's ace beats Meyer's queen. Cuevas with a Seven of Clubs over Six of Spades.
-
-**MCLAUGHLIN:** Well played.
-
-**QUINTERO:**  Queen over ten, Meyer.
-
-**MCLAUGHLIN:** Nice use of a queen by Meyer.
-
-**QUINTERO:**  Meyer beats Cuevas with Jack of Clubs over Three of Spades. Four over three, Cuevas.
-
-**MCLAUGHLIN:** I bet Meyer wishes they had something higher than a three on that play.
-
-**QUINTERO:**  Meyer's hand, Seven over six.
-
-**MCLAUGHLIN:** Meyer just showed us how its done.
-
-**QUINTERO:**  Meyer's nine loses to Cuevas's jack.
-
-**MCLAUGHLIN:** Good job.
-
-**QUINTERO:**  Meyer's four falls to Cuevas's eight. Cuevas's four falls to Meyer's king. Cuevas's ace bests Meyer's eight. Meyer's hand, King over five.
-
-**MCLAUGHLIN:** They are really going toe to toe in this game.
-
-**QUINTERO:**  Cuevas's hand, Ten over three. Eight over five, Meyer. Cuevas, Ten over three. Cuevas's hand, Seven over two. Cuevas this time with the Queen of Hearts. Cuevas again, Ace over two.
-
-**MCLAUGHLIN:** Cuevas is looking good.
-
-**QUINTERO:**  Cuevas this time with the Queen of Spades. Cuevas's six loses to Meyer's eight. Meyer bests Cuevas with Nine of Diamonds over Seven of Clubs. Meyer's hand, Jack over three. Meyer wins again. Ace over four. Meyer this time with the King of Diamonds. Nines. War!!! Two fours. We have a war! Cuevas's eight wins the battle taking 10 cards.
-
-**MCLAUGHLIN:** A lot of cards in that play. I bet Meyer wishes they played that differently.
-
-**QUINTERO:**  Meyer, Ace over ten. Meyer with a Jack of Spades over Three of Diamonds. Cuevas, Ten over six. Meyer's hand, Queen over three. Six over two, Meyer. Cuevas's hand, Seven over two. Nine over five, Meyer. Meyer's king bests Cuevas's queen.
-
-**MCLAUGHLIN:** Smart move.
-
-**QUINTERO:**  Another for Meyer with Ten over two. Cuevas tops Meyer with Ace of Spades over Queen of Clubs.
-
-**MCLAUGHLIN:** Excellent move by Cuevas.
-
-**QUINTERO:**  Cuevas, Queen over three.
-
-**MCLAUGHLIN:** That queen got the job done, but was it the most strategic play by Cuevas?
-
-**QUINTERO:**  Meyer with a Jack of Clubs over Seven of Spades. Cuevas bests Meyer with Nine of Clubs over Six of Diamonds. Eight over seven, Cuevas.
-
-**MCLAUGHLIN:** Smart move by Cuevas.
-
-**QUINTERO:**  Cuevas this time with the Ace of Diamonds. Another for Cuevas, Eight over four.
-
-**MCLAUGHLIN:** Meyer is stumbling a little.
-
-**QUINTERO:**  King over nine, Meyer. Cuevas, Ten over five. Cuevas's four falls to Meyer's five.
-
-**MCLAUGHLIN:** Good job.
-
-**QUINTERO:**  Meyer tops Cuevas with Eight of Diamonds over Two of Clubs. Meyer wins again. Eight over five. Cuevas falls to Meyer again, Six over four.
-
-**MCLAUGHLIN:** Meyer just showed us how its done. Cuevas should nip this run in the bud.
-
-**QUINTERO:**  Meyer does it again. Nine over six. Ten over seven, Cuevas. Meyer with a Jack of Diamonds over Two of Diamonds. Meyer's three loses to Cuevas's seven. Cuevas, Queen over four. Two aces. War!!! Cuevas loses the battle. Meyer takes 6 cards. Meyer with a Ten of Diamonds over Nine of Clubs. Meyer leads 37 to 15.
-
-**MCLAUGHLIN:** Great use of a ten by Meyer.
-
-**QUINTERO:**  Meyer this time with the Ace of Clubs. Cuevas's seven bests Meyer's three. Cuevas's eight loses to Meyer's jack. Cuevas's king beats Meyer's queen.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Ace over three, Cuevas. Cuevas's four loses to Meyer's six.
-
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a four on that play.
-
-**QUINTERO:**  Cuevas's eight tops Meyer's two. Fives all around. War! Cuevas loses the battle. Meyer takes 6 cards. Meyer, King over seven. Cuevas's hand, Three over two.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Ten over seven, Meyer. Meyer with a Seven of Spades over Four of Spades. Meyer leads 41 to 11. Meyer's jack falls to Cuevas's queen. Meyer with a Nine of Spades over Three of Diamonds. Cuevas's seven falls to Meyer's king. Cuevas's queen tops Meyer's five. Cuevas with a King of Clubs over Four of Diamonds. Meyer's hand, Eight over three. Cuevas, Ace over two. Meyer's five tops Cuevas's two. Eights all around. War! Meyer defeats Cuevas with a four, takes 6 cards. Cuevas, Queen over six. Cuevas with a Jack of Clubs over Nine of Diamonds. Cuevas again, Five over two. Another for Cuevas with Queen over jack.
-
-**MCLAUGHLIN:** Meyer is stumbling a little.
-
-**QUINTERO:**  Cuevas does it again. King over jack.
-
-**MCLAUGHLIN:** Cuevas might be making a move.
-
-**QUINTERO:**  Meyer beats Cuevas with Ace of Hearts over Four of Diamonds.
-
-**MCLAUGHLIN:** Meyer probably didn't need to use an ace in that play.
-
-**QUINTERO:**  Meyer's hand, Ace over two.
-
-**MCLAUGHLIN:** I hope Meyer doesn't need that ace when something bigger comes along.
-
-**QUINTERO:**  Ace over queen, Cuevas.
-
-**MCLAUGHLIN:** Nice use of an ace by Cuevas.
-
-**QUINTERO:**  Cuevas's six falls to Meyer's king. Meyer's three falls to Cuevas's queen. Cuevas with a Jack of Clubs over Nine of Clubs.
-
-**MCLAUGHLIN:** Efficient play by Cuevas.
-
-**QUINTERO:**  Meyer's ten tops Cuevas's nine.
-
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a nine on that play.
-
-**QUINTERO:**  Meyer's six tops Cuevas's two. Meyer continues streak. Ace over five. Jacks all around. We have a war! Cuevas's king wins the battle taking 6 cards. Meyer's four falls to Cuevas's jack. Cuevas tops Meyer with Ace of Diamonds over Five of Hearts. Meyer leads 37 to 15. Cuevas continues streak. Queen over nine.
-
-**MCLAUGHLIN:** I think Cuevas is going somewhere.
-
-**QUINTERO:**  Cuevas does it again. Queen over five. Meyer beats Cuevas with Queen of Hearts over Three of Spades.
-
-**MCLAUGHLIN:** Meyer over paid for that three.
-
-**QUINTERO:**  Cuevas with a Jack of Clubs over Ten of Clubs.
-
-**MCLAUGHLIN:** Great use of a jack by Cuevas.
-
-**QUINTERO:**  Meyer's hand, Ten over nine.
-
-**MCLAUGHLIN:** Good job.
-
-**QUINTERO:**  Meyer tops Cuevas with King of Hearts over Jack of Diamonds. Cuevas tops Meyer with Jack of Spades over Seven of Clubs. Cuevas's six loses to Meyer's seven.
-
-**MCLAUGHLIN:** Efficient play by Meyer.
-
-**QUINTERO:**  Cuevas, King over ten. Cuevas's hand, Eight over four. Cuevas wins again. Queen over seven. Cuevas's four falls to Meyer's nine. Jack over three, Cuevas. Meyer's hand, Seven over five.
-
-**MCLAUGHLIN:** Excellent move by Meyer.
-
-**QUINTERO:**  Cuevas's ace beats Meyer's king. Cuevas beats Meyer with Nine of Hearts over Eight of Diamonds. Meyer leads 33 to 19.
-
-**MCLAUGHLIN:** Excellent use of a nine by Cuevas
-
-**QUINTERO:**  Cuevas continues streak. Queen over three. Cuevas keeps going. Queen over two. Fives all around. It's a war folks! Meyer loses the battle. Cuevas takes 6 cards. Meyer leads 28 to 24. Meyer with an Eight of Hearts over Seven of Clubs.
-
-**MCLAUGHLIN:** Meyer just showed us how its done.
-
-**QUINTERO:**  Cuevas with a Jack of Spades over Four of Hearts. Cuevas, Ten over two. Cuevas again, King over three. Meyer's ace beats Cuevas's eight. Fours. It's a war folks! Cuevas loses the battle. Meyer takes 6 cards. Meyer, Six over three. Meyer this time with the King of Diamonds. Meyer leads 32 to 20. Cuevas's ace tops Meyer's ten. King over nine, Cuevas. Cuevas keeps going. Nine over six. Cuevas wins again. Eight over two. Meyer leads 28 to 24. Cuevas keeps going. Queen over five. Meyer's hand, Ace over three.
-
-**MCLAUGHLIN:** I hope Meyer doesn't need that ace when something bigger comes along.
-
-**QUINTERO:**  Two queens. We have a war! Cuevas's ten wins the battle taking 6 cards.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Cuevas's five loses to Meyer's ten. Meyer's king tops Cuevas's jack. Meyer again, Jack over eight. Meyer this time with the Seven of Hearts.
-
-**MCLAUGHLIN:** Nice use of a seven by Meyer.
-
-**QUINTERO:**  Six over five, Meyer.
-
-**MCLAUGHLIN:** Nice play.
-
-**QUINTERO:**  Another for Meyer with Nine over four.
-
-**MCLAUGHLIN:** Cuevas is really taking a beating.
-
-**QUINTERO:**  Meyer's four loses to Cuevas's jack. Cuevas, Ten over seven. Cuevas's two falls to Meyer's five. Cuevas's three loses to Meyer's eight. Cuevas, King over seven. Cuevas beats Meyer with Ten of Diamonds over Eight of Spades.
-
-**MCLAUGHLIN:** Nice use of a ten by Cuevas.
-
-**QUINTERO:**  Aces all around. War! Cuevas's king wins the battle taking 6 cards. Meyer bests Cuevas with Ace of Spades over Nine of Hearts. Cuevas tops Meyer with Six of Diamonds over Four of Spades. Twos all around. War!! Cuevas loses the battle. Meyer takes 6 cards.
-
-**MCLAUGHLIN:** Efficient play.
-
-**QUINTERO:**  Cuevas, Queen over three.
-
-**MCLAUGHLIN:** Cuevas over paid for that three.
-
-**QUINTERO:**  Cuevas's three loses to Meyer's king.
-
-**MCLAUGHLIN:** That king got the job done, but was it the most strategic play by Meyer?
-
-**QUINTERO:**  Cuevas's hand, Queen over jack.
-
-**MCLAUGHLIN:** Excellent move.
-
-**QUINTERO:**  Cuevas's two loses to Meyer's three.
-
-**MCLAUGHLIN:** Efficient play.
-
-**QUINTERO:**  Ace over queen, Meyer.
-
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a queen on that play.
-
-**QUINTERO:**  Meyer this time with the Ten of Spades. Cuevas, Ten over five. Meyer bests Cuevas with King of Hearts over Jack of Spades.
-
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a jack on that play.
-
-**QUINTERO:**  Meyer's hand, Jack over four. Meyer leads 32 to 20. Another for Meyer, Eight over seven.
-
-**MCLAUGHLIN:** Excellent use of an eight by Meyer
-
-**QUINTERO:**  Meyer keeps going. Jack over ten.
-
-**MCLAUGHLIN:** Meyer just showed us how its done.
-
-**QUINTERO:**  Cuevas with a Seven of Clubs over Six of Spades. Meyer's seven loses to Cuevas's king. Cuevas again, Eight over six.
-
-**MCLAUGHLIN:** Nice use of an eight by Cuevas.
-
-**QUINTERO:**  Cuevas keeps going. Ten over five.
-
-**MCLAUGHLIN:** Is Cuevas going to take this somewhere?
-
-**QUINTERO:**  Cuevas does it again. Ace over four. Nine over four, Meyer. Meyer's five loses to Cuevas's ace.
-
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Cuevas?
-
-**QUINTERO:**  Cuevas tops Meyer with King of Spades over Two of Spades. Meyer leads 28 to 24. Cuevas does it again. Queen over eight. Cuevas continues streak. Nine over three. Meyer with an Ace of Spades over Six of Diamonds. Meyer, Nine over four. Cuevas bests Meyer with Queen of Spades over Two of Clubs.
-
-**MCLAUGHLIN:** That queen seems wasted on a two.
-
-**QUINTERO:**  Meyer, Five over three.
-
-**MCLAUGHLIN:** Great use of a five by Meyer.
-
-**QUINTERO:**  Cuevas with a Jack of Hearts over Two of Diamonds. Cuevas's hand, Queen over seven. Cuevas's five loses to Meyer's six.
-
-**MCLAUGHLIN:** Meyer just showed us how its done.
-
-**QUINTERO:**  Cuevas, Ten over eight. Meyer beats Cuevas with King of Diamonds over Seven of Clubs. Cuevas's hand, Six over three. Cuevas tops Meyer with Seven of Hearts over Three of Clubs. Cuevas keeps going. King over two. Cuevas leads 28 to 24.
-
-**MCLAUGHLIN:** That king seems wasted on a two.
-
-**QUINTERO:**  Meyer's hand, Queen over eight. Meyer bests Cuevas with Ace of Clubs over Six of Clubs. Meyer does it again. Nine over five. Tens. War!! Cuevas defeats Meyer with an ace, takes 6 cards. Cuevas's five beats Meyer's four.
-
-**MCLAUGHLIN:** Well played.
-
-**QUINTERO:**  Cuevas keeps going. Ace over jack. Meyer, Eight over two. King over seven, Cuevas. Cuevas's eight falls to Meyer's ten.
-
-**MCLAUGHLIN:** Great use of a ten by Meyer.
-
-**QUINTERO:**  Cuevas, Queen over jack. Cuevas tops Meyer with Nine of Diamonds over Four of Diamonds. Cuevas's three falls to Meyer's nine. Meyer's hand, Ace over two. Cuevas beats Meyer with Queen of Spades over Six of Diamonds. Meyer's nine beats Cuevas's two. Cuevas's jack bests Meyer's four. Cuevas's queen tops Meyer's three.
-
-**MCLAUGHLIN:** Neither player is giving an inch.
-
-**QUINTERO:**  Cuevas wins again. Seven over five. Cuevas leads 32 to 20.
-
-**MCLAUGHLIN:** Great use of a seven by Cuevas.
-
-**QUINTERO:**  Cuevas again, Ten over six.
-
-**MCLAUGHLIN:** Meyer is going to be playing catch up if they don't stop this.
-
-**QUINTERO:**  Meyer falls to Cuevas again, Eight over five. Meyer, Seven over six.
-
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a six on that play.
-
-**QUINTERO:**  Meyer beats Cuevas with King of Diamonds over Three of Spades. Cuevas falls to Meyer again, Eight over three. Another for Meyer with Queen over seven. Cuevas, King over six. Meyer, Ace over two.
-
-**MCLAUGHLIN:** That ace got the job done, but was it the most strategic play by Meyer?
-
-**QUINTERO:**  Nine over four, Meyer. Cuevas tops Meyer with Ace of Hearts over Five of Clubs.
-
-**MCLAUGHLIN:** I hope Cuevas doesn't need that ace when something bigger comes along.
-
-**QUINTERO:**  Cuevas's jack beats Meyer's two. Cuevas again, King over eight. Cuevas does it again. Ten over eight.
-
-**MCLAUGHLIN:** Good job by Cuevas.
-
-**QUINTERO:**  Two tens. War!! Cuevas defeats Meyer with a five, takes 6 cards. Cuevas leads 36 to 16. Cuevas beats Meyer with Jack of Clubs over Two of Clubs.
-
-**MCLAUGHLIN:** I hope Cuevas doesn't need that jack when something bigger comes along.
-
-**QUINTERO:**  Aces. War!!! Cuevas loses the battle. Meyer takes 6 cards.
-
-**MCLAUGHLIN:** Nice use of a nine by Meyer.
-
-**QUINTERO:**  Cuevas with a Queen of Diamonds over Six of Spades. Jack over seven, Cuevas. Cuevas continues streak. Nine over three. Meyer, King over four. Cuevas's six falls to Meyer's eight. Cuevas's hand, Queen over three. Cuevas tops Meyer with Jack of Hearts over Seven of Hearts. Meyer beats Cuevas with Queen of Hearts over Four of Spades. Meyer with an Ace of Clubs over Three of Diamonds.
-
-**MCLAUGHLIN:** That ace seems wasted on a three.
-
-**QUINTERO:**  Cuevas, Queen over two.
-
-**MCLAUGHLIN:** I hope Cuevas doesn't need that queen when something bigger comes along.
-
-**QUINTERO:**  Cuevas, Five over four.
-
-**MCLAUGHLIN:** Great use of a five by Cuevas.
-
-**QUINTERO:**  Nine over seven, Meyer. Meyer with an Ace of Spades over Ten of Clubs. Meyer wins again. Ace over six. Meyer's two loses to Cuevas's eight. Meyer's king beats Cuevas's five. Meyer's hand, Seven over six. King over nine, Cuevas. Cuevas's five loses to Meyer's king. Ace over four, Cuevas. Meyer's hand, Six over two. Cuevas, Jack over eight. Meyer's queen beats Cuevas's eight. Meyer's four falls to Cuevas's king. Cuevas's eight loses to Meyer's ace. Cuevas's ten beats Meyer's three. Meyer's nine bests Cuevas's three. Meyer's seven tops Cuevas's four. Cuevas leads 32 to 20. Meyer wins again. Ace over ten. Another for Meyer with Ten over nine.
-
-**MCLAUGHLIN:** Meyer might be making a move.
-
-**QUINTERO:**  Cuevas, Ten over six. Meyer, Ace over five.
-
-**MCLAUGHLIN:** That ace seems wasted on a five.
-
-**QUINTERO:**  King over jack, Meyer.
-
-**MCLAUGHLIN:** Good job by Meyer.
-
-**QUINTERO:**  Another for Meyer, Five over two. Cuevas leads 28 to 24. Cuevas falls to Meyer again, Seven over six.
-
-**MCLAUGHLIN:** Excellent use of a seven by Meyer Is Meyer going to take this somewhere?
-
-**QUINTERO:**  Cuevas's queen bests Meyer's six. Cuevas with a Jack of Diamonds over Five of Clubs. Meyer with a King of Diamonds over Seven of Clubs. Nine over two, Cuevas. Meyer, Six over three. Two queens. It's a war folks! Meyer defeats Cuevas with an eight, takes 6 cards. Meyer, Ace over jack. Meyer leads 28 to 24. Cuevas, Queen over three. Nine over two, Meyer. Two fours. It's a war folks! Meyer's ace wins the battle taking 6 cards.
-
-**MCLAUGHLIN:** They are really going toe to toe in this game.
-
-**QUINTERO:**  Meyer's hand, Ten over two. Meyer leads 32 to 20. Meyer's ten loses to Cuevas's king. Nines. War!!! Meyer's ace wins the battle taking 6 cards. Jacks all around. We have a war! Cuevas's king wins the battle taking 6 cards. Cuevas, Four over two.
-
-**MCLAUGHLIN:** Nice use of a four by Cuevas.
-
-**QUINTERO:**  Cuevas again, Ten over seven. Meyer with a Six of Spades over Three of Diamonds. Cuevas's ten falls to Meyer's king. Meyer wins again. Seven over six. Two sixes. War! Meyer's queen wins the battle taking 6 cards. Meyer's hand, Eight over five. Meyer leads 36 to 16. Meyer again, Queen over nine. Another for Meyer, Three over two. Cuevas falls to Meyer again, Eight over three.
-
-**MCLAUGHLIN:** I think Meyer is going somewhere.
-
-**QUINTERO:**  Meyer's seven loses to Cuevas's queen. Meyer, Jack over ten. Ace over king, Meyer. Meyer leads 40 to 12. Cuevas, King over nine. Cuevas with a King of Spades over Two of Hearts. Meyer's hand, Ace over five.
-
-**MCLAUGHLIN:** That ace seems wasted on a five.
-
-**QUINTERO:**  Cuevas tops Meyer with Jack of Spades over Eight of Diamonds. Jack over seven, Cuevas. Meyer falls to Cuevas again, Eight over four. Meyer leads 36 to 16. Fours all around. War!! Meyer defeats Cuevas with a ten, takes 6 cards. Cuevas's hand, Ten over two. Meyer tops Cuevas with Ace of Diamonds over Seven of Hearts. Meyer's ace beats Cuevas's queen. Meyer leads 40 to 12.
-
-**MCLAUGHLIN:** I bet Cuevas wishes they had something higher than a queen on that play.
-
-**QUINTERO:**  Two nines. War!! Cuevas loses the battle. Meyer takes 6 cards. Cuevas's king tops Meyer's four. Eight over three, Cuevas. Meyer falls to Cuevas again, Jack over six. King over jack, Meyer. Meyer, Ten over seven. Meyer this time with the Seven of Clubs. Cuevas's hand, Eight over six.
-
-**MCLAUGHLIN:** Nice use of an eight by Cuevas.
-
-**QUINTERO:**  Meyer, Six over two. Meyer's queen beats Cuevas's ten. Meyer leads 44 to 8. Cuevas, King over six. Four over three, Cuevas.
-
-**MCLAUGHLIN:** Nice use of a four by Cuevas.
-
-**QUINTERO:**  Meyer, Queen over eight. Jack over three, Meyer. Cuevas's six beats Meyer's five.
-
-**MCLAUGHLIN:** Cuevas just showed us how its done.
-
-**QUINTERO:**  Cuevas's jack bests Meyer's eight. Meyer's hand, Nine over six. Cuevas's eight loses to Meyer's queen.
-
-**MCLAUGHLIN:** Meyer and Cuevas are trading punch for punch.
-
-**QUINTERO:**  Six over two, Cuevas. Cuevas's king tops Meyer's three. Eight over three, Meyer. Cuevas's four beats Meyer's three. Cuevas's six falls to Meyer's ten. Jack over five, Meyer. Meyer continues streak. Ace over eight. Another for Meyer with King over jack.
-
-**MCLAUGHLIN:** Great use of a king by Meyer.
-
-**QUINTERO:**  Cuevas's hand, Six over five.
-
-**MCLAUGHLIN:** Great use of a six by Cuevas.
-
-**QUINTERO:**  Meyer, Ace over two. Meyer beats Cuevas with Four of Spades over Three of Clubs.
-
-**MCLAUGHLIN:** Great use of a four by Meyer.
-
-**QUINTERO:**  Meyer's four loses to Cuevas's king. Meyer's hand, Five over three. Meyer's seven beats Cuevas's four. Meyer leads 48 to 4.
-
-**MCLAUGHLIN:** Meyer likes where this is going.
-
-**QUINTERO:**  Meyer continues streak. Ten over five. Cuevas's hand, Six over two.
-
-**MCLAUGHLIN:** We're almost there.
-
-**QUINTERO:**  Meyer with an Ace of Diamonds over Four of Hearts.
-
-**MCLAUGHLIN:** I hope Meyer doesn't need that ace when something bigger comes along.
-
-**QUINTERO:**  Cuevas's king bests Meyer's seven.
-
-**MCLAUGHLIN:** We're almost there.
-
-**QUINTERO:**  Meyer's hand, Ace over six.
-
-**MCLAUGHLIN:** Meyer likes where this is going.
-
-**QUINTERO:**  Meyer with a Queen of Clubs over Two of Clubs.
-
-**MCLAUGHLIN:** That queen got the job done, but was it the most strategic play by Meyer?
-
-**QUINTERO:**  Cuevas, Seven over five.
-
-**MCLAUGHLIN:** Nice use of a seven by Cuevas. It's getting tight. Meyer must be feeling good.
-
-**QUINTERO:** Meyer wins in 593 hands.
-
-**MCLAUGHLIN:** Bailey Meyer kept the lead for most of the match. The lead switched between Bailey Meyer and Ayden Cuevas 60 times. 
-
-**QUINTERO:** Bailey Meyer goes on to the Finals where they will face the winner of game 2. 
+**HUERTA:** Katherine Dodson will face the winner of game 2 in the Finals. 
 
 ## Game 2 of the Semi-Finals
 
-**MCLAUGHLIN:** What a cute day for war.
+**GARCIA:** What a courageous day for war.
 
-**QUINTERO:** Hello, I'm Regina Quintero.
+**HUERTA:** Hello, I'm Daryl Huerta.
 
-**MCLAUGHLIN:** And I am Bentley McLaughlin.
+**GARCIA:** And I am Ray Garcia.
 
-**QUINTERO:** This is Game 2 of the Semi-Finals of the War Championship. Our players today: Abd Mendoza and Ryder Small. Mendoza defeated Small in their last meeting. What happens now, Bentley?
+**HUERTA:** This is Game 2 of the Semi-Finals of the War Championship. On one side of the table today, Juan Weber. On the other, Natalia Benson. In the regular season, Weber triumphed over Benson. Who will win today, Ray?
 
-**MCLAUGHLIN:** Small never really made a move in that game. I'm sure Mendoza would love to repeat that game, but it could go either way, Regina.
+**GARCIA:** That game was a shutout. Weber maintained the lead the whole game. Benson is definitely ready for a rematch, but it's hard to tell, Daryl.
 
-**QUINTERO:** It looks like Mendoza and Small are about to start. Mendoza, Ten over five. Mendoza beats Small with Ace of Clubs over Queen of Clubs. Mendoza's four falls to Small's queen. Mendoza's hand, Jack over two.
+**HUERTA:** Weber and Benson are ready. Here we go. Three over two, Weber.
 
-**MCLAUGHLIN:** That jack seems wasted on a two.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Mendoza with a Nine of Spades over Seven of Diamonds.
+**HUERTA:**  Weber's hand, Ace over seven. Weber tops Benson with Jack of Diamonds over Five of Hearts. Benson, Ace over queen.
 
-**MCLAUGHLIN:** Nice use of a nine by Mendoza.
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Small's hand, Eight over five. Mendoza's jack loses to Small's ace. Small's two falls to Mendoza's ten. Mendoza's seven falls to Small's king. Small, Queen over two. Small again, Ace over three. Another for Small, Ten over eight. Small continues streak. Seven over two.
+**HUERTA:**  Weber with a Ten of Spades over Nine of Clubs.
 
-**MCLAUGHLIN:** Is Small going to take this somewhere?
+**GARCIA:** Efficient play.
 
-**QUINTERO:**  Mendoza's three falls to Small's four. Small leads 30 to 22.
+**HUERTA:**  Benson's six falls to Weber's ten. Weber leads 30 to 22. Benson with a King of Clubs over Three of Hearts. Weber, Ten over eight. Weber, Jack over nine.
 
-**MCLAUGHLIN:** Well played. I think Mendoza should try some higher value cards.
+**GARCIA:** Well played.
 
-**QUINTERO:**  Two kings. War! Small defeats Mendoza with a jack, takes 6 cards. Nine over four, Small. Small leads 34 to 18. Mendoza's hand, Eight over three. Jack over six, Small. Mendoza's hand, Ace over seven. Small, Six over four.
+**HUERTA:**  Nine over seven, Weber. Benson with a King of Diamonds over Six of Clubs. Ace over four, Weber.
 
-**MCLAUGHLIN:** Efficient play by Small.
+**GARCIA:** That ace seems wasted on a four.
 
-**QUINTERO:**  Mendoza tops Small with Nine of Hearts over Eight of Spades. King over six, Mendoza. Small with a Queen of Hearts over Ten of Clubs.
+**HUERTA:**  Weber with a King of Spades over Two of Hearts.
 
-**MCLAUGHLIN:** Small just showed us how its done.
+**GARCIA:** Weber over paid for that two.
 
-**QUINTERO:**  Small's hand, Nine over six. Small's four loses to Mendoza's ten. Mendoza's five loses to Small's queen. Mendoza, Queen over eight. Small's five loses to Mendoza's ace.
+**HUERTA:**  Weber continues streak. Jack over three. Weber leads 34 to 18. Benson falls to Weber again, Nine over two. Weber continues streak. Seven over two.
 
-**MCLAUGHLIN:** That ace seems wasted on a five.
+**GARCIA:** Benson is going to be playing catch up if they don't stop this.
 
-**QUINTERO:**  Jacks all around. We have a war! Small's king wins the battle taking 6 cards. Sevens. War!!! Mendoza loses the battle. Small takes 6 cards. Small leads 38 to 14.
+**HUERTA:**  Benson's six tops Weber's five. Benson with a Four of Hearts over Three of Diamonds.
 
-**MCLAUGHLIN:** I bet Mendoza wishes they had something higher than a ten on that play.
+**GARCIA:** Nice use of a four by Benson.
 
-**QUINTERO:**  Small with an Ace of Diamonds over Eight of Diamonds. Two threes. War! Small's eight wins the battle taking 6 cards. Small leads 42 to 10.
+**HUERTA:**  Weber tops Benson with Ace of Hearts over Four of Spades. Benson's hand, Jack over eight. Weber tops Benson with King of Hearts over Queen of Clubs. Weber with an Eight of Diamonds over Five of Spades. Benson with a Queen of Diamonds over Seven of Diamonds. Weber's ten tops Benson's five. Weber's six bests Benson's four. Another for Weber with Queen over eight. Weber leads 38 to 14. Benson's queen beats Weber's three.
 
-**MCLAUGHLIN:** Small and Mendoza are trading punch for punch.
+**GARCIA:** That queen got the job done, but was it the most strategic play by Benson?
 
-**QUINTERO:**  Mendoza, Eight over two. Nine over seven, Mendoza. Mendoza again, Six over three. Mendoza does it again. King over four. Small leads 38 to 14. Mendoza's four tops Small's three.
+**HUERTA:**  Weber's two falls to Benson's ace.
 
-**MCLAUGHLIN:** I bet Small wishes they had something higher than a three on that play.
+**GARCIA:** That ace seems wasted on a two.
 
-**QUINTERO:**  Mendoza's ten falls to Small's king. Small with a King of Diamonds over Queen of Clubs.
+**HUERTA:**  Weber beats Benson with Ace of Diamonds over King of Clubs. Weber with a Seven of Hearts over Three of Hearts. King over five, Benson. Jack over six, Weber. Weber's ten beats Benson's five. Another for Weber, Nine over six. Weber wins again. Six over three.
 
-**MCLAUGHLIN:** Nice use of a king by Small.
+**GARCIA:** Benson should nip this run in the bud.
 
-**QUINTERO:**  Mendoza beats Small with Eight of Hearts over Five of Spades. Fives. War! Mendoza loses the battle. Small takes 6 cards. Mendoza tops Small with Eight of Spades over Four of Spades. Nine over six, Mendoza. Small, Jack over seven. Mendoza's three falls to Small's six. Mendoza with a Six of Clubs over Four of Hearts.
+**HUERTA:**  Weber continues streak. Ten over four. Weber leads 42 to 10.
 
-**MCLAUGHLIN:** I bet Small wishes they had something higher than a four on that play.
+**GARCIA:** Weber might be making a move.
 
-**QUINTERO:**  Mendoza with a King of Hearts over Ten of Clubs. Mendoza's four loses to Small's queen. Small with a Six of Spades over Three of Spades. Small wins again. Nine over four. Small leads 42 to 10. Small again, Queen over five.
+**HUERTA:**  Two eights. War!!! Weber's nine wins the battle taking 6 cards.
 
-**MCLAUGHLIN:** Mendoza is stumbling a little.
+**GARCIA:** Well played.
 
-**QUINTERO:**  Small's five loses to Mendoza's eight. Mendoza, Four over two. Small bests Mendoza with Jack of Clubs over Eight of Spades. Mendoza's nine loses to Small's king. Small bests Mendoza with Ace of Hearts over Six of Diamonds. Small wins again. Jack over six.
+**HUERTA:**  Queen over jack, Benson. Queen over seven, Benson. Weber with a Nine of Hearts over Three of Spades. Aces all around. It's a war folks! Two kings. War! Benson defeats Weber with a jack, takes 10 cards.
 
-**MCLAUGHLIN:** Mendoza is going to be playing catch up if they don't stop this.
+**GARCIA:** That's a big prize for Benson. Weber is probably stinging from that play.
 
-**QUINTERO:**  Small with a Nine of Spades over Four of Hearts. Small leads 46 to 6. Mendoza tops Small with Ten of Clubs over Two of Clubs. Small's ten falls to Mendoza's king. Small, Queen over eight. Mendoza's five falls to Small's seven.
+**HUERTA:**  Queen over jack, Benson. Weber leads 38 to 14.
 
-**MCLAUGHLIN:** Nice play by Small.
+**GARCIA:** Nice play.
 
-**QUINTERO:**  Another for Small with Seven over two. Mendoza with a Four of Spades over Two of Hearts. Small with an Ace of Diamonds over Ten of Clubs. Small with an Eight of Diamonds over Two of Clubs. Tens all around. War! Small defeats Mendoza with a seven, takes 6 cards. Small leads 51 to 1.
+**HUERTA:**  Weber, Nine over seven.
 
-**MCLAUGHLIN:** Small almost has it sewed up.
+**GARCIA:** Nice use of a nine by Weber.
 
-**QUINTERO:** Again Ryder Small beats Abd Mendoza. Small wins in just 74 hands.
+**HUERTA:**  Benson, Queen over two.
 
-**MCLAUGHLIN:** just 74 is quite an accomplishment by Small. Ryder Small dominated that match. 
+**GARCIA:** Neither player is giving an inch.
 
-**QUINTERO:** Ryder Small meets Bailey Meyer in the Finals. 
+**HUERTA:**  Weber with a Seven of Clubs over Five of Hearts.
+
+**GARCIA:** Great use of a seven by Weber.
+
+**HUERTA:**  Benson bests Weber with Ace of Clubs over Two of Clubs. Benson's four falls to Weber's ace.
+
+**GARCIA:** Weber over paid for that four.
+
+**HUERTA:**  Four over two, Weber. Weber continues streak. Queen over three.
+
+**GARCIA:** That queen got the job done, but was it the most strategic play by Weber?
+
+**HUERTA:**  Weber continues streak. King over jack. Weber leads 42 to 10.
+
+**GARCIA:** Weber just showed us how its done. Is Weber going to take this somewhere?
+
+**HUERTA:**  Weber again, Five over two. Benson with a King of Diamonds over Eight of Diamonds. Weber's ten falls to Benson's ace. Benson again, King over five. Benson continues streak. Jack over six.
+
+**GARCIA:** Weber is going to be playing catch up if they don't stop this.
+
+**HUERTA:**  Another for Benson, Queen over four. Weber leads 38 to 14.
+
+**GARCIA:** I think Benson is going somewhere.
+
+**HUERTA:**  Weber's queen bests Benson's two. Benson tops Weber with Queen of Hearts over Eight of Spades. Two aces. War! Benson's eight wins the battle taking 6 cards. King over three, Benson. Weber leads 34 to 18. Weber's jack beats Benson's ten. Ace over six, Benson. Weber's ten tops Benson's five. Weber's five loses to Benson's king. Benson's hand, Jack over six. Weber, Nine over six.
+
+**GARCIA:** They are really going toe to toe in this game.
+
+**HUERTA:**  Weber's three falls to Benson's four. Weber's six falls to Benson's queen. Benson, Queen over four. Ten over eight, Weber. Benson's two falls to Weber's eight. Weber's hand, Jack over eight. Ace over eight, Benson. Two sevens. It's a war folks! Weber loses the battle. Benson takes 6 cards. Weber leads 30 to 22. Benson with a King of Diamonds over Nine of Hearts. Threes all around. War! Benson loses the battle. Weber takes 6 cards.
+
+**GARCIA:** Great use of a seven by Weber.
+
+**HUERTA:**  Benson's hand, King over five. Weber's seven bests Benson's five.
+
+**GARCIA:** Weber just showed us how its done.
+
+**HUERTA:**  Benson with a Jack of Hearts over Four of Diamonds. Weber's ace tops Benson's six. Two fours. War!!! Weber defeats Benson with a queen, takes 6 cards. Weber leads 35 to 17.
+
+**GARCIA:** These two are really slugging it out.
+
+**HUERTA:**  Benson's queen tops Weber's three.
+
+**GARCIA:** That queen got the job done, but was it the most strategic play by Benson?
+
+**HUERTA:**  Benson's queen bests Weber's jack. Weber tops Benson with King of Hearts over Four of Hearts. Weber's five falls to Benson's eight. Benson, Ace over two. Weber with a Queen of Spades over Ten of Clubs. Weber's two loses to Benson's king.
+
+**GARCIA:** Benson over paid for that two.
+
+**HUERTA:**  Weber tops Benson with Ten of Hearts over Seven of Diamonds. Weber's jack bests Benson's nine.
+
+**GARCIA:** Excellent move by Weber.
+
+**HUERTA:**  Weber does it again. Ten over seven. Weber's five falls to Benson's ace.
+
+**GARCIA:** Benson over paid for that five.
+
+**HUERTA:**  Benson with a King of Diamonds over Six of Hearts. Nines. War! Weber loses the battle. Benson takes 6 cards. Weber leads 30 to 22. Weber with an Eight of Hearts over Four of Diamonds. Weber's two loses to Benson's jack.
+
+**GARCIA:** Benson over paid for that two.
+
+**HUERTA:**  Weber's jack tops Benson's three. Benson with a Queen of Diamonds over Eight of Diamonds. Benson with a Queen of Hearts over Seven of Spades. Benson wins again. Jack over nine.
+
+**GARCIA:** Benson just showed us how its done.
+
+**HUERTA:**  Benson continues streak. Eight over three.
+
+**GARCIA:** Weber should nip this run in the bud.
+
+**HUERTA:**  Benson wins again. Five over three. The games tied.
+
+**GARCIA:** I bet Weber wishes they had something higher than a three on that play.
+
+**HUERTA:**  Weber's hand, Six over two. Aces all around. War!!! Benson defeats Weber with a king, takes 6 cards. Weber's hand, Six over five.
+
+**GARCIA:** Nice use of a six by Weber.
+
+**HUERTA:**  Two aces. War! Benson's six wins the battle taking 6 cards. Benson leads 30 to 22. Benson, Nine over six. Another for Benson, Five over four.
+
+**GARCIA:** Benson just showed us how its done.
+
+**HUERTA:**  Weber falls to Benson again, Ten over two. Weber's hand, Queen over nine. King over eight, Weber. Benson with a King of Spades over Four of Hearts.
+
+**GARCIA:** That king seems wasted on a four.
+
+**HUERTA:**  Queen over jack, Weber.
+
+**GARCIA:** I bet Benson wishes they had something higher than a jack on that play.
+
+**HUERTA:**  Weber with a Ten of Clubs over Two of Clubs. Benson's hand, Queen over seven. Weber bests Benson with Ten of Hearts over Eight of Diamonds.
+
+**GARCIA:** Nice use of a ten by Weber.
+
+**HUERTA:**  Weber's hand, Jack over seven. Benson, Queen over nine. Benson beats Weber with Nine of Diamonds over Seven of Hearts.
+
+**GARCIA:** Well played by Benson.
+
+**HUERTA:**  Weber falls to Benson again, Jack over ten.
+
+**GARCIA:** Nice use of a jack by Benson.
+
+**HUERTA:**  Weber's four beats Benson's three. Eights all around. It's a war folks! Benson defeats Weber with a five, takes 6 cards. Benson leads 34 to 18.
+
+**GARCIA:** Excellent use of a five by Benson
+
+**HUERTA:**  Weber's six tops Benson's two. Five over two, Benson. Benson's ace beats Weber's six. Benson does it again. Seven over five.
+
+**GARCIA:** Great use of a seven by Benson.
+
+**HUERTA:**  Benson keeps going. Ace over nine. Benson this time with the King of Clubs. Benson leads 38 to 14.
+
+**GARCIA:** Great use of a king by Benson. Weber should nip this run in the bud.
+
+**HUERTA:**  Weber, Eight over three. Weber with a King of Hearts over Four of Spades. King over jack, Benson.
+
+**GARCIA:** Efficient play.
+
+**HUERTA:**  Weber's queen bests Benson's six. Benson beats Weber with Ace of Hearts over Two of Clubs.
+
+**GARCIA:** Benson over paid for that two.
+
+**HUERTA:**  Benson tops Weber with Ace of Clubs over Ten of Clubs. Weber's ten tops Benson's nine.
+
+**GARCIA:** Nice use of a ten by Weber.
+
+**HUERTA:**  Eight over six, Weber.
+
+**GARCIA:** Nice use of an eight by Weber.
+
+**HUERTA:**  Weber bests Benson with Seven of Spades over Five of Hearts. Weber continues streak. Jack over four. Benson leads 34 to 18. Weber continues streak. Four over two.
+
+**GARCIA:** Excellent use of a four by Weber Benson is stumbling a little.
+
+**HUERTA:**  Benson beats Weber with Ten of Diamonds over Three of Spades. Benson beats Weber with King of Spades over Six of Clubs. Benson again, Four over two. Weber with an Eight of Spades over Seven of Diamonds. Benson, Queen over three. Benson's queen beats Weber's four. Weber beats Benson with King of Hearts over Nine of Spades. Weber's six falls to Benson's seven.
+
+**GARCIA:** Well played by Benson.
+
+**HUERTA:**  Weber beats Benson with Queen of Spades over Nine of Diamonds. Benson's hand, Jack over ten.
+
+**GARCIA:** I bet Weber wishes they had something higher than a ten on that play.
+
+**HUERTA:**  Benson with a Ten of Spades over Nine of Clubs. Benson leads 38 to 14. Weber falls to Benson again, Eight over six.
+
+**GARCIA:** I bet Weber wishes they had something higher than a six on that play.
+
+**HUERTA:**  Weber bests Benson with Eight of Diamonds over Three of Hearts. Benson, Jack over five. Weber's hand, Seven over three. Weber bests Benson with Jack of Diamonds over Five of Spades. Benson's hand, Eight over four. Twos all around. War! Weber loses the battle. Benson takes 6 cards. Weber beats Benson with Eight of Spades over Six of Spades. Weber with a Nine of Spades over Five of Diamonds. Another for Weber, King over seven. Benson's ace beats Weber's nine. Queen over nine, Weber. Benson's hand, Queen over eight. King over three, Benson. Benson does it again. Jack over three. Benson this time with the King of Diamonds. Benson leads 42 to 10.
+
+**GARCIA:** Is Benson going to take this somewhere?
+
+**HUERTA:**  Weber's hand, Jack over two.
+
+**GARCIA:** That jack seems wasted on a two.
+
+**HUERTA:**  Ace over five, Benson. Benson, Ten over eight.
+
+**GARCIA:** Benson just showed us how its done.
+
+**HUERTA:**  Weber falls to Benson again, Ace over six. Weber bests Benson with Nine of Spades over Three of Spades. Benson's hand, Ten over five. King over seven, Benson. Weber's hand, King over six. Benson's two falls to Weber's nine. Weber wins again. Queen over four. Queen over two, Benson. Weber beats Benson with Jack of Diamonds over Three of Diamonds. Weber's nine loses to Benson's queen. Benson with a Four of Spades over Three of Spades.
+
+**GARCIA:** Benson just showed us how its done.
+
+**HUERTA:**  Benson keeps going. Seven over six.
+
+**GARCIA:** Excellent move by Benson.
+
+**HUERTA:**  Weber with a King of Hearts over Six of Hearts. Benson, Ten over two. Benson, Jack over nine. Benson leads 46 to 6.
+
+**GARCIA:** Benson just showed us how its done.
+
+**HUERTA:**  Benson with a Nine of Clubs over Four of Hearts. Weber, Queen over ten. Benson, Eight over three. Weber beats Benson with Jack of Diamonds over Six of Diamonds. Weber's hand, Six over five. Weber this time with the King of Hearts. Weber does it again. Ten over four.
+
+**GARCIA:** Weber is looking good.
+
+**HUERTA:**  Weber continues streak. Queen over eight. Benson leads 42 to 10.
+
+**GARCIA:** Is Weber going to take this somewhere?
+
+**HUERTA:**  Weber wins again. Jack over two.
+
+**GARCIA:** Weber is on fire.
+
+**HUERTA:**  Weber's six loses to Benson's ace. Two fives. War!!! Weber defeats Benson with a king, takes 6 cards. Weber's jack tops Benson's two. Benson leads 38 to 14.
+
+**GARCIA:** Weber probably didn't need to use a jack in that play.
+
+**HUERTA:**  Benson, Ace over four.
+
+**GARCIA:** I hope Benson doesn't need that ace when something bigger comes along.
+
+**HUERTA:**  Ten over nine, Weber. Eights. War!! Benson loses the battle. Weber takes 6 cards. King over two, Benson. Weber's king bests Benson's jack. Weber's hand, Six over three. Benson leads 34 to 18.
+
+**GARCIA:** Neither player is giving an inch.
+
+**HUERTA:**  Benson's hand, King over five. Benson's seven bests Weber's five.
+
+**GARCIA:** I bet Weber wishes they had something higher than a five on that play.
+
+**HUERTA:**  Benson again, Ace over seven. Benson again, Five over four. Benson leads 38 to 14.
+
+**GARCIA:** Benson just showed us how its done.
+
+**HUERTA:**  Jack over ten, Weber. Benson with an Eight of Spades over Two of Hearts. Benson's six loses to Weber's ten. Benson bests Weber with Ace of Clubs over Nine of Diamonds. Weber with a Queen of Clubs over Five of Diamonds. Ten over three, Benson. Benson bests Weber with King of Spades over Eight of Diamonds. Weber with an Eight of Clubs over Seven of Clubs.
+
+**GARCIA:** Great use of an eight by Weber.
+
+**HUERTA:**  Two queens. We have a war! Weber's king wins the battle taking 6 cards.
+
+**GARCIA:** I bet Benson wishes they had something higher than a queen on that play.
+
+**HUERTA:**  Weber beats Benson with Jack of Hearts over Nine of Spades. Benson leads 34 to 18. Threes. War!!! Weber defeats Benson with a jack, takes 6 cards. Weber's ten beats Benson's six. Benson leads 30 to 22. Two tens. It's a war folks! Weber's queen wins the battle taking 6 cards. Jack over five, Benson. Weber's seven falls to Benson's nine.
+
+**GARCIA:** Nice use of a nine by Benson.
+
+**HUERTA:**  Weber's eight tops Benson's four. Weber with a Queen of Diamonds over Three of Diamonds.
+
+**GARCIA:** That queen got the job done, but was it the most strategic play by Weber?
+
+**HUERTA:**  Weber this time with the Queen of Spades. The games tied. Benson, Ace over jack. Weber's two loses to Benson's six. Weber's hand, King over four. Benson's hand, Ace over queen.
+
+**GARCIA:** I bet Weber wishes they had something higher than a queen on that play.
+
+**HUERTA:**  Nine over two, Weber. Benson's hand, King over jack. Benson, King over jack. Benson continues streak. Five over three. Benson leads 30 to 22. Benson this time with the Five of Clubs.
+
+**GARCIA:** Weber is going to be playing catch up if they don't stop this.
+
+**HUERTA:**  Two sevens. War! Benson defeats Weber with an ace, takes 6 cards. Benson leads 34 to 18. Weber with a Ten of Clubs over Five of Spades. Benson's four loses to Weber's six.
+
+**GARCIA:** Excellent use of a six by Weber
+
+**HUERTA:**  Benson's eight bests Weber's two. Weber's hand, Six over two. Ace over ten, Benson. Benson's nine loses to Weber's queen. Benson tops Weber with Ten of Diamonds over Nine of Hearts.
+
+**GARCIA:** I bet Weber wishes they had something higher than a nine on that play.
+
+**HUERTA:**  Ten over three, Weber. Eight over four, Benson. Weber's eight falls to Benson's king. Benson does it again. Jack over three. Weber tops Benson with Queen of Diamonds over Five of Diamonds. Benson's seven falls to Weber's queen. Benson's hand, Nine over eight.
+
+**GARCIA:** Nice play by Benson.
+
+**HUERTA:**  Benson's hand, Ace over four.
+
+**GARCIA:** I hope Benson doesn't need that ace when something bigger comes along.
+
+**HUERTA:**  King over jack, Weber.
+
+**GARCIA:** Great use of a king by Weber.
+
+**HUERTA:**  Weber's nine tops Benson's six. Two twos. It's a war folks! Weber loses the battle. Benson takes 6 cards. Benson, King over four. Benson continues streak. Jack over six. Benson leads 38 to 14. Another for Benson, King over six.
+
+**GARCIA:** Benson might be making a move.
+
+**HUERTA:**  Benson this time with the Jack of Spades. Weber with a Nine of Diamonds over Three of Spades. Weber with a Queen of Clubs over Five of Hearts. Another for Weber with Ten over four. Benson with a Five of Clubs over Three of Hearts. Weber's queen falls to Benson's ace. Seven over five, Benson.
+
+**GARCIA:** Well played.
+
+**HUERTA:**  Benson's three falls to Weber's seven. Weber with a Queen of Spades over Seven of Hearts. Weber again, King over seven. Another for Weber, Jack over six. Weber's six loses to Benson's eight. Weber with a Nine of Spades over Two of Diamonds. Benson, Ten over three. Benson with an Ace of Clubs over Nine of Diamonds. Weber's hand, Queen over ten.
+
+**GARCIA:** Weber just showed us how its done.
+
+**HUERTA:**  Weber's five falls to Benson's nine. Two fours. War! Benson defeats Weber with an eight, takes 6 cards.
+
+**GARCIA:** Excellent use of an eight by Benson
+
+**HUERTA:**  Benson's king tops Weber's three. Benson leads 42 to 10. Benson, Jack over seven. Weber's queen tops Benson's three. Weber's king tops Benson's nine. Benson, Eight over seven. Weber's six falls to Benson's ace. Jack over four, Weber. Weber's nine tops Benson's five. Queen over two, Benson. Benson's two falls to Weber's queen. Benson tops Weber with Ace of Diamonds over Ten of Diamonds. Weber's three tops Benson's two. Queen over ten, Weber. Benson, King over nine. Weber bests Benson with King of Hearts over Four of Diamonds.
+
+**GARCIA:** That king got the job done, but was it the most strategic play by Weber?
+
+**HUERTA:**  Weber's hand, Jack over six. Benson with a Jack of Hearts over Four of Clubs. Benson's hand, King over five. Weber's nine beats Benson's six. Weber's two loses to Benson's jack.
+
+**GARCIA:** I hope Benson doesn't need that jack when something bigger comes along.
+
+**HUERTA:**  Weber's hand, Queen over two. Threes all around. War! Benson defeats Weber with a queen, takes 6 cards.
+
+**GARCIA:** Excellent use of a queen by Benson Benson and Weber are trading punch for punch.
+
+**HUERTA:**  Benson's hand, Ace over queen. Benson continues streak. Seven over four. Weber, King over five. Benson's hand, Eight over six. Benson's six loses to Weber's jack. Weber's six loses to Benson's ten. Weber, Nine over three. Weber's hand, Queen over nine. Benson's hand, Ace over two.
+
+**GARCIA:** That ace got the job done, but was it the most strategic play by Benson?
+
+**HUERTA:**  Fives all around. It's a war folks! Benson defeats Weber with an eight, takes 6 cards. Benson leads 47 to 5. Weber with a Jack of Diamonds over Seven of Clubs. Benson beats Weber with Eight of Diamonds over Three of Spades. Nine over four, Weber. Benson's four falls to Weber's nine. Another for Weber, Queen over ten.
+
+**GARCIA:** Weber just showed us how its done.
+
+**HUERTA:**  Weber's seven falls to Benson's king. Weber's hand, Jack over three. Weber with a Nine of Spades over Seven of Hearts. Benson leads 43 to 9.
+
+**GARCIA:** Excellent use of a nine by Weber
+
+**HUERTA:**  Weber's four loses to Benson's jack. Weber's hand, Nine over eight.
+
+**GARCIA:** Weber just showed us how its done.
+
+**HUERTA:**  Benson's seven tops Weber's four. Benson, Ace over ten. Weber with a Queen of Clubs over Six of Hearts. Benson's queen tops Weber's jack.
+
+**GARCIA:** Excellent use of a queen by Benson
+
+**HUERTA:**  Three over two, Weber.
+
+**GARCIA:** Nice use of a three by Weber.
+
+**HUERTA:**  Benson's ten tops Weber's seven.
+
+**GARCIA:** Benson and Weber are trading punch for punch.
+
+**HUERTA:**  Benson with an Ace of Diamonds over Nine of Spades. Nines all around. War! Weber's queen wins the battle taking 6 cards. Benson with a Jack of Hearts over Six of Hearts. Weber's three loses to Benson's king. Benson this time with the Five of Spades. Benson's two falls to Weber's nine. Benson's hand, Jack over eight. Weber with a Four of Clubs over Three of Diamonds. Weber with a King of Clubs over Five of Clubs. Benson's two loses to Weber's queen. Ten over nine, Benson.
+
+**GARCIA:** Smart move by Benson.
+
+**HUERTA:**  Benson's queen tops Weber's nine. Benson keeps going. Three over two.
+
+**GARCIA:** Well played.
+
+**HUERTA:**  Benson wins again. Ace over four. Benson leads 47 to 5. Queen over three, Benson.
+
+**GARCIA:** Benson might be making a move.
+
+**HUERTA:**  Weber bests Benson with King of Clubs over Four of Diamonds. Seven over five, Benson. Weber tops Benson with Queen of Clubs over Six of Clubs. Benson, Eight over two.
+
+**GARCIA:** It's getting close folks.
+
+**HUERTA:**  Benson, Ten over four. Weber with a King of Clubs over Six of Spades. Weber with a Six of Clubs over Two of Hearts. Benson, Ace over queen.
+
+**GARCIA:** Benson just showed us how its done. In just a few plays we could have a result.
+
+**HUERTA:**  Weber, King over five. Benson tops Weber with King of Hearts over Six of Spades. Benson's five beats Weber's two.
+
+**GARCIA:** Neither player is giving an inch. It's getting tight. Benson must be feeling good.
+
+**HUERTA:**  Benson does it again. Eight over six.
+
+**GARCIA:** Nice use of an eight by Benson. It's getting tight. Benson must be feeling good.
+
+**HUERTA:**  Benson this time with the Six of Diamonds. Benson leads 51 to 1.
+
+**GARCIA:** Excellent use of a six by Benson  Benson could end it here.
+
+**HUERTA:**  Weber with a King of Clubs over Nine of Hearts. Weber's hand, King over eight.
+
+**GARCIA:** It's getting close folks.
+
+**HUERTA:**  Weber again, Nine over three. Kings. We have a war! Benson defeats Weber with a jack, takes 6 cards.
+
+**GARCIA:** This could be it folks.
+
+**HUERTA:**  Weber bests Benson with Nine of Hearts over Four of Spades.
+
+**GARCIA:** It's getting tight. Benson must be feeling good.
+
+**HUERTA:**  Weber's hand, Nine over seven.
+
+**GARCIA:** Excellent use of a nine by Weber It's getting tight. Benson must be feeling good.
+
+**HUERTA:** In 381 hands, Natalia Benson has won the match.
+
+**GARCIA:** Natalia Benson kept the lead for most of the match. 
+
+**HUERTA:** Natalia Benson goes on to the Finals where they will face Katherine Dodson. 
 
 ## The Finals
 
-**MCLAUGHLIN:** What a agreeable day for war.
+**GARCIA:** What a blushing day for war.
 
-**QUINTERO:** Hello, I'm Regina Quintero.
+**HUERTA:** Hello, I'm Daryl Huerta.
 
-**MCLAUGHLIN:** And I am Bentley McLaughlin.
+**GARCIA:** And I am Ray Garcia.
 
-**QUINTERO:** We are here today for the Finals of the War Championship. This game will pit Bailey Meyer against Ryder Small. Meyer beat Small in their last match. What's next, Bentley?
+**HUERTA:** We are here today for the Finals of the War Championship. This game will pit Katherine Dodson against Natalia Benson. Dodson beat Benson in their last match. What's next, Ray?
 
-**MCLAUGHLIN:** Small really dominated in that game, but couldn't turn it into a win. Small is definitely ready for a rematch, but it's hard to tell, Regina.
+**GARCIA:** That game was a shutout. Dodson maintained the lead the whole game. I'm sure Dodson would love to repeat that game, but as you know Daryl, there is no way to know.
 
-**QUINTERO:** The dealer has signaled the start of the match. Small, Queen over jack. Small's ace beats Meyer's three. Another for Small with Eight over six. Another for Small, King over six. Small leads 30 to 22.
+**HUERTA:** the players are ready to play the first hand. Dodson's six bests Benson's four. Benson's eight loses to Dodson's jack. Benson with an Eight of Diamonds over Three of Spades. Ten over three, Dodson. Dodson beats Benson with King of Hearts over Four of Spades. Dodson this time with the Ace of Clubs. Dodson leads 30 to 22.
 
-**MCLAUGHLIN:** Small is looking good.
+**GARCIA:** Nice use of an ace by Dodson.
 
-**QUINTERO:**  Meyer with a Jack of Clubs over Ten of Spades. Small's hand, King over seven. King over four, Small.
+**HUERTA:**  Benson's jack tops Dodson's seven. Benson with a Queen of Spades over Five of Clubs. Benson's ten tops Dodson's eight.
 
-**MCLAUGHLIN:** That king seems wasted on a four.
+**GARCIA:** Efficient play.
 
-**QUINTERO:**  Small does it again. Nine over two. Meyer tops Small with Nine of Spades over Eight of Spades. Nine over five, Meyer. Small beats Meyer with Ten of Clubs over Five of Hearts. Small's three loses to Meyer's ace.
+**HUERTA:**  Dodson falls to Benson again, King over two. The games tied. Dodson's hand, Queen over jack.
 
-**MCLAUGHLIN:** I hope Meyer doesn't need that ace when something bigger comes along.
+**GARCIA:** Nice use of a queen by Dodson.
 
-**QUINTERO:**  Meyer beats Small with Ten of Diamonds over Six of Clubs. King over ten, Small. Small with an Eight of Clubs over Five of Clubs. Queen over two, Meyer. Small's seven beats Meyer's four. Four over three, Small.
+**HUERTA:**  Benson's seven beats Dodson's five.
 
-**MCLAUGHLIN:** Small just showed us how its done.
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Queen over six, Meyer.
+**HUERTA:**  Sevens all around. War! Benson's eight wins the battle taking 6 cards. Jack over six, Dodson. Fours. We have a war! Dodson's five wins the battle taking 6 cards. Benson's hand, King over nine. Dodson beats Benson with Five of Diamonds over Three of Diamonds.
 
-**MCLAUGHLIN:** They are really going toe to toe in this game.
+**GARCIA:** Great use of a five by Dodson.
 
-**QUINTERO:**  Meyer's hand, Five over two. Meyer does it again. Jack over four. Another for Meyer, Ace over seven.
+**HUERTA:**  Benson's six falls to Dodson's queen. Benson tops Dodson with Ten of Diamonds over Nine of Diamonds.
 
-**MCLAUGHLIN:** I think Meyer is going somewhere.
+**GARCIA:** They are really going toe to toe in this game.
 
-**QUINTERO:**  Meyer keeps going. Ace over eight.
+**HUERTA:**  Benson tops Dodson with Nine of Hearts over Two of Diamonds. Another for Benson with Ace over nine. Benson this time with the Ace of Spades.
 
-**MCLAUGHLIN:** Meyer might be making a move.
+**GARCIA:** Benson might be making a move.
 
-**QUINTERO:**  Small's hand, Nine over three. Meyer's two loses to Small's queen. Small wins again. Jack over seven. Another for Small with Queen over jack.
+**HUERTA:**  Another for Benson, Eight over six.
 
-**MCLAUGHLIN:** Excellent move by Small.
+**GARCIA:** Dodson is going to be playing catch up if they don't stop this.
 
-**QUINTERO:**  Meyer falls to Small again, Jack over ten.
+**HUERTA:**  Four over three, Dodson.
 
-**MCLAUGHLIN:** Small has got some momentum.
+**GARCIA:** Efficient play.
 
-**QUINTERO:**  Small this time with the Ace of Clubs.
+**HUERTA:**  Benson tops Dodson with Jack of Diamonds over Eight of Spades. Dodson with a Jack of Hearts over Seven of Diamonds. Benson with a Five of Clubs over Three of Hearts. Benson, Queen over ten. Benson leads 30 to 22. Dodson's hand, King over eight. Benson's ten tops Dodson's four. Dodson bests Benson with Ace of Clubs over King of Diamonds.
 
-**MCLAUGHLIN:** Small ate their Wheaties today.
+**GARCIA:** Well played.
 
-**QUINTERO:**  Meyer's hand, Eight over three. Nine over eight, Meyer.
+**HUERTA:**  Dodson's hand, King over two. Dodson's queen tops Benson's seven. Dodson again, Jack over five. The games tied.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Benson should nip this run in the bud.
 
-**QUINTERO:**  Small's hand, Six over five. Small with a King of Diamonds over Three of Clubs. Small's six loses to Meyer's ace. Meyer, Ten over seven. Meyer's six loses to Small's king. Meyer beats Small with Queen of Clubs over Four of Diamonds. Small's king bests Meyer's two.
+**HUERTA:**  Benson beats Dodson with Ace of Diamonds over Six of Diamonds. Dodson's hand, Jack over seven. Benson tops Dodson with Seven of Hearts over Three of Clubs. Dodson, Five over two. Benson tops Dodson with Eight of Hearts over Six of Spades. Benson with a Queen of Clubs over Four of Clubs. Nine over four, Benson. Another for Benson, King over ten. Benson leads 30 to 22.
 
-**MCLAUGHLIN:** I hope Small doesn't need that king when something bigger comes along.
+**GARCIA:** Benson has got some momentum.
 
-**QUINTERO:**  Small's hand, Nine over six. Small's two falls to Meyer's queen.
+**HUERTA:**  Benson keeps going. Ten over five.
 
-**MCLAUGHLIN:** Meyer and Small are trading punch for punch.
+**GARCIA:** Dodson is stumbling a little.
 
-**QUINTERO:**  Small's ten bests Meyer's two. Two fives. We have a war! Meyer loses the battle. Small takes 6 cards. Small leads 36 to 16. Meyer's hand, Seven over five.
+**HUERTA:**  Benson this time with the Nine of Diamonds.
 
-**MCLAUGHLIN:** Well played by Meyer.
+**GARCIA:** Is Dodson awake?
 
-**QUINTERO:**  Small's eight loses to Meyer's ace. Meyer wins again. Eight over four. Meyer continues streak. Ace over seven. Small leads 32 to 20.
+**HUERTA:**  Dodson with a Queen of Diamonds over Two of Diamonds. Benson's nine beats Dodson's six. Ace over four, Benson. Benson's hand, Nine over three. Benson leads 34 to 18. Dodson with a Seven of Diamonds over Two of Clubs. Benson bests Dodson with Ace of Spades over Jack of Hearts. Eights. We have a war! Dodson's ace wins the battle taking 6 cards. Dodson bests Benson with King of Diamonds over Jack of Diamonds. Benson leads 30 to 22.
 
-**MCLAUGHLIN:** Meyer might be making a move.
+**GARCIA:** Well played.
 
-**QUINTERO:**  Meyer's three falls to Small's four.
+**HUERTA:**  Another for Dodson, King over three. Benson with a Five of Clubs over Two of Hearts. Benson with a Queen of Spades over Seven of Clubs. Dodson's queen tops Benson's ten.
 
-**MCLAUGHLIN:** I bet Meyer wishes they had something higher than a three on that play.
+**GARCIA:** Excellent move by Dodson.
 
-**QUINTERO:**  Meyer, Eight over three. Nines all around. War! Meyer's ace wins the battle taking 6 cards. Meyer, Six over two. Small leads 28 to 24. Small tops Meyer with Jack of Diamonds over Ten of Diamonds.
+**HUERTA:**  Benson's ten loses to Dodson's jack. Another for Dodson with Five over four.
 
-**MCLAUGHLIN:** Nice use of a jack by Small.
+**GARCIA:** I bet Benson wishes they had something higher than a four on that play.
 
-**QUINTERO:**  Two sevens. War! Meyer defeats Small with a queen, takes 6 cards. Meyer, Queen over ten.
+**HUERTA:**  Ace over jack, Benson. Dodson, Seven over six. Benson's three tops Dodson's two.
 
-**MCLAUGHLIN:** Well played.
+**GARCIA:** Smart move by Benson.
 
-**QUINTERO:**  Meyer's two falls to Small's jack. Small's hand, Ace over seven.
+**HUERTA:**  Benson beats Dodson with Seven of Hearts over Five of Hearts. Dodson's hand, Queen over eight. Benson bests Dodson with Six of Spades over Two of Diamonds. Benson with a Queen of Clubs over Two of Clubs. Dodson's seven bests Benson's four. Dodson's hand, Eight over four. Benson's hand, Nine over six. Two kings. War! Dodson defeats Benson with an eight, takes 6 cards.
 
-**MCLAUGHLIN:** They are really going toe to toe in this game.
+**GARCIA:** We have some real fighters on our hands.
 
-**QUINTERO:**  Small this time with the Nine of Spades. Meyer's ace tops Small's five. Meyer's hand, Eight over six. Small tops Meyer with King of Diamonds over Four of Hearts. Eight over three, Meyer. Meyer beats Small with Seven of Diamonds over Six of Clubs.
+**HUERTA:**  Benson's hand, Ten over eight.
 
-**MCLAUGHLIN:** Excellent use of a seven by Meyer
+**GARCIA:** I bet Dodson wishes they had something higher than an eight on that play.
 
-**QUINTERO:**  Meyer continues streak. Ace over king. Meyer leads 28 to 24. Meyer's eight loses to Small's king. Meyer, Three over two.
+**HUERTA:**  Dodson's king beats Benson's three.
 
-**MCLAUGHLIN:** Excellent move.
+**GARCIA:** I hope Dodson doesn't need that king when something bigger comes along.
 
-**QUINTERO:**  Meyer's queen bests Small's six. Meyer does it again. Ace over nine. Small beats Meyer with Ten of Clubs over Nine of Clubs. Small's two loses to Meyer's three.
+**HUERTA:**  Dodson, Jack over nine. The games tied.
 
-**MCLAUGHLIN:** Smart move by Meyer.
+**GARCIA:** Great use of a jack by Dodson.
 
-**QUINTERO:**  Small's five falls to Meyer's nine. Small's king beats Meyer's eight. Meyer's hand, Six over four. Small with a Jack of Spades over Two of Hearts. Small's ten loses to Meyer's jack.
+**HUERTA:**  Benson's six bests Dodson's three. Dodson's king beats Benson's nine. Dodson's hand, Ten over four. Benson, Ace over queen.
 
-**MCLAUGHLIN:** Nice play by Meyer.
+**GARCIA:** Smart move.
 
-**QUINTERO:**  Meyer bests Small with Queen of Clubs over Five of Hearts. Meyer leads 32 to 20. Meyer with a Seven of Clubs over Four of Clubs. Meyer continues streak. Queen over three.
+**HUERTA:**  Dodson with a Ten of Spades over Three of Spades. Dodson's hand, Jack over nine.
 
-**MCLAUGHLIN:** Small is going to be playing catch up if they don't stop this.
+**GARCIA:** Dodson just showed us how its done.
 
-**QUINTERO:**  Small tops Meyer with Ten of Diamonds over Four of Diamonds. Small with a Jack of Diamonds over Seven of Hearts. Small's two loses to Meyer's ten. Meyer's hand, Queen over jack.
+**HUERTA:**  Benson's hand, Jack over five. Benson, Ace over four. Benson's five loses to Dodson's six. Benson's two loses to Dodson's seven. Dodson this time with the Queen of Diamonds. Dodson's eight loses to Benson's queen. Benson with a Jack of Clubs over Four of Clubs. Benson does it again. Ace over seven. Benson's two loses to Dodson's four. Dodson with an Eight of Clubs over Three of Clubs. Dodson wins again. King over seven. Another for Dodson with Ten over five. Dodson leads 30 to 22.
 
-**MCLAUGHLIN:** Excellent use of a queen by Meyer
+**GARCIA:** I think Dodson is going somewhere.
 
-**QUINTERO:**  Meyer again, Ace over seven. Small, Ace over five. Meyer with a Six of Diamonds over Five of Clubs. Meyer's eight loses to Small's nine.
+**HUERTA:**  Benson's six bests Dodson's five. Dodson bests Benson with Eight of Spades over Two of Diamonds. Dodson's hand, Ace over two. Dodson keeps going. King over queen.
 
-**MCLAUGHLIN:** Small just showed us how its done.
+**GARCIA:** Efficient play by Dodson.
 
-**QUINTERO:**  Small's four beats Meyer's three. Meyer falls to Small again, King over eight. Small does it again. Eight over six.
+**HUERTA:**  Nine over three, Benson. Dodson with a King of Diamonds over Six of Hearts. Dodson, Jack over eight. Dodson's nine falls to Benson's ten.
 
-**MCLAUGHLIN:** Nice use of an eight by Small.
+**GARCIA:** Excellent use of a ten by Benson
 
-**QUINTERO:**  Meyer falls to Small again, King over seven.
+**HUERTA:**  Dodson, Nine over three. Dodson with a King of Clubs over Six of Clubs. Dodson leads 34 to 18. Ace over ten, Benson. Dodson's four falls to Benson's queen. Dodson, Ten over five. Benson with a Jack of Hearts over Three of Spades. Benson beats Dodson with Ace of Spades over Jack of Spades. Nine over four, Dodson. Benson, Queen over six. Benson's hand, Eight over five. Dodson leads 30 to 22. Dodson tops Benson with Seven of Spades over Four of Clubs. Dodson's two falls to Benson's jack.
 
-**MCLAUGHLIN:** Small is looking good.
+**GARCIA:** Benson over paid for that two.
 
-**QUINTERO:**  Meyer, Ace over nine. Meyer with a King of Hearts over Ten of Clubs. King over two, Small.
+**HUERTA:**  Two sevens. War! Dodson loses the battle. Benson takes 6 cards. Five over two, Benson. The games tied. Dodson's eight tops Benson's three. Benson's hand, Nine over three.
 
-**MCLAUGHLIN:** Small over paid for that two.
+**GARCIA:** These two are really slugging it out.
 
-**QUINTERO:**  Small's eight tops Meyer's three. Meyer with a Queen of Diamonds over Two of Hearts. Meyer's six loses to Small's jack. Meyer, Ace over ten. Small's four loses to Meyer's nine. Small, Seven over three. Small's jack bests Meyer's two.
+**HUERTA:**  Dodson with a King of Spades over Ten of Diamonds. Benson beats Dodson with Nine of Diamonds over Seven of Hearts. Benson, Ace over ten. Benson wins again. Ten over five. Benson this time with the Four of Hearts.
 
-**MCLAUGHLIN:** Small probably didn't need to use a jack in that play.
+**GARCIA:** I bet Dodson wishes they had something higher than a two on that play. Dodson should nip this run in the bud.
 
-**QUINTERO:**  Meyer's nine tops Small's five.
+**HUERTA:**  Benson wins again. Queen over eight. Benson leads 30 to 22.
 
-**MCLAUGHLIN:** Neither player is giving an inch.
+**GARCIA:** Benson has got some momentum.
 
-**QUINTERO:**  Small's hand, Ace over five. Meyer's six falls to Small's eight.
+**HUERTA:**  Dodson falls to Benson again, Jack over two.
 
-**MCLAUGHLIN:** Efficient play.
+**GARCIA:** I think Dodson should try some higher value cards.
 
-**QUINTERO:**  Another for Small with Nine over four. Meyer leads 28 to 24. Meyer with a Jack of Clubs over Four of Hearts. Meyer with a Ten of Hearts over Three of Clubs. Meyer tops Small with Queen of Clubs over Eight of Hearts. Meyer's five loses to Small's king. Meyer beats Small with Seven of Clubs over Six of Clubs. Small, Eight over four. Small's king tops Meyer's three. Queen over seven, Meyer. Small's king beats Meyer's ten. Twos all around. War! Meyer's jack wins the battle taking 6 cards. Meyer leads 32 to 20. Meyer, Ace over six. Meyer's seven loses to Small's jack. Meyer's five loses to Small's seven. Meyer's six bests Small's three. Meyer with a Nine of Clubs over Two of Clubs. Another for Meyer with Ace over jack. Another for Meyer with King over five. Small's hand, Ace over ten. Small's eight tops Meyer's two. Meyer, Queen over six. Meyer's ten tops Small's four. Meyer continues streak. Ace over nine. Meyer leads 36 to 16. Small's king tops Meyer's four. Meyer, Nine over five. Meyer tops Small with Five of Spades over Four of Clubs.
+**HUERTA:**  Dodson with an Ace of Clubs over Three of Spades. Dodson bests Benson with King of Hearts over Jack of Spades.
 
-**MCLAUGHLIN:** Efficient play.
+**GARCIA:** Excellent move by Dodson.
 
-**QUINTERO:**  Meyer with a Nine of Hearts over Eight of Spades. Small, King over jack.
+**HUERTA:**  Benson with an Ace of Spades over Queen of Clubs. Benson's queen beats Dodson's six. Dodson's hand, King over six. Jack over five, Dodson. Eights. War!!! Benson's jack wins the battle taking 6 cards.
 
-**MCLAUGHLIN:** Nice play.
+**GARCIA:** Nice use of a jack by Benson.
 
-**QUINTERO:**  Four over three, Meyer. Small's ten tops Meyer's three. Small's hand, King over ten. Small keeps going. Jack over eight. Meyer, Queen over seven. Two sevens. War! Small defeats Meyer with an ace, takes 6 cards.
+**HUERTA:**  Benson bests Dodson with Seven of Diamonds over Six of Clubs. Dodson, King over six. Benson's seven beats Dodson's five. Benson bests Dodson with Queen of Diamonds over Ten of Spades. Benson leads 34 to 18.
 
-**MCLAUGHLIN:** Small just showed us how its done.
+**GARCIA:** Nice use of a queen by Benson.
 
-**QUINTERO:**  Small, Ten over seven. Meyer leads 32 to 20. Eights all around. We have a war! Meyer's jack wins the battle taking 6 cards. Meyer's two falls to Small's king. Small, Jack over three. Small continues streak. King over queen. Small's hand, Ten over six.
+**HUERTA:**  Dodson's nine tops Benson's four. Benson, Ace over four. Dodson's hand, Seven over two. Five over four, Benson. Dodson, Eight over three. Benson's nine tops Dodson's three. Dodson with a King of Spades over Seven of Hearts. Dodson tops Benson with Ten of Diamonds over Nine of Diamonds.
 
-**MCLAUGHLIN:** Small has got some momentum.
+**GARCIA:** Great use of a ten by Dodson.
 
-**QUINTERO:**  Small's three falls to Meyer's ace.
+**HUERTA:**  Aces all around. War! Dodson's jack wins the battle taking 6 cards. Benson leads 29 to 23.
 
-**MCLAUGHLIN:** That ace seems wasted on a three.
+**GARCIA:** Dodson and Benson are trading punch for punch.
 
-**QUINTERO:**  Small beats Meyer with Ten of Hearts over Six of Diamonds. Small bests Meyer with King of Clubs over Three of Hearts. Meyer's nine tops Small's eight.
+**HUERTA:**  Dodson, King over ten. Dodson does it again. Six over two. Dodson continues streak. King over four.
 
-**MCLAUGHLIN:** Efficient play.
+**GARCIA:** Is Dodson going to take this somewhere?
 
-**QUINTERO:**  Small's jack bests Meyer's two. Meyer with a Jack of Diamonds over Six of Clubs. Small's seven loses to Meyer's ace. Small, Queen over five. Meyer with a King of Hearts over Five of Clubs. Seven over six, Small.
+**HUERTA:**  Eight over five, Benson. Benson's queen bests Dodson's jack.
 
-**MCLAUGHLIN:** Excellent move by Small.
+**GARCIA:** Great use of a queen by Benson.
 
-**QUINTERO:**  Small's ace beats Meyer's queen. Small wins again. Ten over four. Ten over seven, Meyer. Ace over king, Meyer. Small's two loses to Meyer's nine. Meyer, Nine over three. Small's hand, Jack over five. Small's queen bests Meyer's five. Another for Small, King over four. Meyer with a Nine of Hearts over Six of Spades. Ten over eight, Small. Meyer's three loses to Small's six. Small, Ten over four. Meyer leads 28 to 24. Meyer bests Small with Seven of Spades over Three of Hearts. Small's hand, King over queen.
+**HUERTA:**  Dodson's hand, King over jack.
 
-**MCLAUGHLIN:** Excellent move by Small.
+**GARCIA:** I bet Benson wishes they had something higher than a jack on that play.
 
-**QUINTERO:**  Small's two loses to Meyer's eight. Small with a Jack of Spades over Eight of Clubs. Five over four, Small. Small keeps going. Queen over two. Small wins again. Seven over two. Meyer, Jack over six. Meyer's three falls to Small's queen.
+**HUERTA:**  Dodson, Six over two. Benson, Ace over nine. Benson, Queen over four. Another for Benson with Queen over seven. Benson this time with the Six of Hearts. Benson does it again. Eight over three.
 
-**MCLAUGHLIN:** I hope Small doesn't need that queen when something bigger comes along.
+**GARCIA:** I think Benson is going somewhere.
 
-**QUINTERO:**  Aces all around. War!! Small's ten wins the battle taking 6 cards. Small leads 30 to 22.
+**HUERTA:**  Benson wins again. Jack over eight.
 
-**MCLAUGHLIN:** Nice use of a ten by Small.
+**GARCIA:** Someone should tell Dodson the match isn't over.
 
-**QUINTERO:**  Meyer, Jack over five. Small with a Jack of Clubs over Six of Clubs. Meyer with an Ace of Hearts over Queen of Hearts.
+**HUERTA:**  Dodson, Seven over three. Dodson with a King of Spades over Two of Hearts. Dodson does it again. Ten over nine. Dodson keeps going. Nine over eight.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Good job.
 
-**QUINTERO:**  Meyer's hand, Seven over five.
+**HUERTA:**  Dodson wins again. Ace over seven.
 
-**MCLAUGHLIN:** Great use of a seven by Meyer.
+**GARCIA:** Dodson has got some momentum.
 
-**QUINTERO:**  Meyer again, Five over four.
+**HUERTA:**  Benson with a Six of Clubs over Five of Hearts. Dodson, Ten over seven. Benson's five falls to Dodson's ace.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** I hope Dodson doesn't need that ace when something bigger comes along.
 
-**QUINTERO:**  Kings all around. War! Meyer defeats Small with a ten, takes 6 cards. Meyer leads 28 to 24.
+**HUERTA:**  Benson with a Queen of Diamonds over Jack of Spades.
 
-**MCLAUGHLIN:** Excellent use of a ten by Meyer
+**GARCIA:** Nice play by Benson.
 
-**QUINTERO:**  Meyer's ace bests Small's six. Meyer continues streak. King over three.
+**HUERTA:**  Benson's ten tops Dodson's three. Dodson falls to Benson again, Ace over king.
 
-**MCLAUGHLIN:** That king seems wasted on a three.
+**GARCIA:** Excellent use of an ace by Benson
 
-**QUINTERO:**  Meyer continues streak. Nine over four.
+**HUERTA:**  Dodson beats Benson with Ten of Clubs over Four of Spades. Four over two, Benson. Dodson beats Benson with Six of Diamonds over Five of Diamonds. Dodson's king bests Benson's nine. Dodson does it again. Four over three. Dodson continues streak. King over five. Dodson leads 27 to 25.
 
-**MCLAUGHLIN:** Small is stumbling a little.
+**GARCIA:** Dodson has got some momentum.
 
-**QUINTERO:**  Small tops Meyer with Ten of Hearts over Two of Diamonds. Small's queen beats Meyer's three. Meyer falls to Small again, King over nine. Small keeps going. Jack over six.
+**HUERTA:**  Dodson this time with the Jack of Hearts. Benson with a Queen of Hearts over Six of Spades. Benson's hand, Jack over two. Benson again, Ace over seven. Another for Benson with Nine over three. Dodson's king bests Benson's queen.
 
-**MCLAUGHLIN:** Small has got some momentum.
+**GARCIA:** Excellent use of a king by Dodson
 
-**QUINTERO:**  Small's eight falls to Meyer's nine. Five over three, Small. Small's four loses to Meyer's seven. Meyer's hand, Eight over two. Meyer's two falls to Small's queen.
+**HUERTA:**  Benson's hand, Four over two.
 
-**MCLAUGHLIN:** Small over paid for that two.
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Meyer's six falls to Small's seven.
+**HUERTA:**  Dodson, Nine over seven.
 
-**MCLAUGHLIN:** I bet Meyer wishes they had something higher than a six on that play.
+**GARCIA:** Great use of a nine by Dodson.
 
-**QUINTERO:**  Meyer's jack bests Small's two. Small's hand, Queen over jack.
+**HUERTA:**  Benson's queen bests Dodson's ten.
 
-**MCLAUGHLIN:** Good job.
+**GARCIA:** Great use of a queen by Benson.
 
-**QUINTERO:**  Meyer with a Five of Hearts over Three of Clubs. Meyer with a Queen of Hearts over Ten of Clubs. Meyer wins again. Ace over eight. Meyer's seven falls to Small's nine.
+**HUERTA:**  Nine over six, Dodson. Dodson beats Benson with Eight of Diamonds over Two of Spades. Dodson does it again. Seven over three. Dodson keeps going. Ace over eight.
 
-**MCLAUGHLIN:** Nice use of a nine by Small.
+**GARCIA:** Benson should nip this run in the bud.
 
-**QUINTERO:**  Five over four, Meyer.
+**HUERTA:**  Benson with a Jack of Clubs over Seven of Clubs. Dodson's hand, Ten over eight.
 
-**MCLAUGHLIN:** Smart move by Meyer.
+**GARCIA:** Well played by Dodson.
 
-**QUINTERO:**  Ace over five, Small.
+**HUERTA:**  Dodson's ace tops Benson's five. Benson's hand, Six over five. Benson with a Jack of Spades over Ten of Clubs. Benson with a Queen of Diamonds over Four of Spades. Benson keeps going. Ten over five.
 
-**MCLAUGHLIN:** Small probably didn't need to use an ace in that play.
+**GARCIA:** Benson has got some momentum.
 
-**QUINTERO:**  Small's ace tops Meyer's four. Meyer's hand, King over jack.
+**HUERTA:**  Dodson tops Benson with Six of Diamonds over Three of Spades. Benson with an Ace of Diamonds over King of Diamonds. Benson's king beats Dodson's nine. Benson's two falls to Dodson's four.
 
-**MCLAUGHLIN:** Nice use of a king by Meyer.
+**GARCIA:** Dodson just showed us how its done.
 
-**QUINTERO:**  Meyer bests Small with King of Hearts over Six of Clubs. Meyer keeps going. Ten over two. Two tens. War!! Meyer defeats Small with a seven, takes 6 cards. Meyer leads 34 to 18. Small, Nine over six. Meyer tops Small with Ace of Diamonds over King of Clubs.
+**HUERTA:**  Four over three, Benson.
 
-**MCLAUGHLIN:** Great use of an ace by Meyer.
+**GARCIA:** Smart move.
 
-**QUINTERO:**  Meyer, King over six. Small, Jack over three. Meyer, Nine over five. Meyer, Four over three.
+**HUERTA:**  Dodson's hand, King over queen.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Excellent move by Dodson.
 
-**QUINTERO:**  Small tops Meyer with Queen of Spades over Nine of Hearts. Small's two falls to Meyer's eight. Meyer's seven tops Small's six.
+**HUERTA:**  Benson bests Dodson with Six of Spades over Five of Clubs. Jacks. It's a war folks! Benson loses the battle. Dodson takes 6 cards. Ace over king, Benson. Nines all around. We have a war! Dodson's nine wins the battle taking 6 cards.
 
-**MCLAUGHLIN:** Excellent use of a seven by Meyer
+**GARCIA:** These two are really slugging it out.
 
-**QUINTERO:**  Small, Seven over four. Jack over eight, Small. Meyer falls to Small again, Queen over two.
+**HUERTA:**  Six over four, Dodson.
 
-**MCLAUGHLIN:** I hope Small doesn't need that queen when something bigger comes along.
+**GARCIA:** Smart move by Dodson.
 
-**QUINTERO:**  Meyer's jack bests Small's seven. Small with a Nine of Clubs over Two of Hearts. Small's hand, Ace over three.
+**HUERTA:**  Benson's hand, Queen over two. Ten over eight, Benson. Sevens. War! Benson loses the battle. Dodson takes 6 cards. Dodson leads 31 to 21. Dodson's eight tops Benson's five. Tens all around. War! Dodson defeats Benson with an ace, takes 6 cards. Dodson leads 35 to 17. Dodson's five bests Benson's four. Benson bests Dodson with Ten of Spades over Six of Diamonds. Five over three, Benson. Benson does it again. Ace over two. Benson continues streak. King over four.
 
-**MCLAUGHLIN:** That ace seems wasted on a three.
+**GARCIA:** Is Benson going to take this somewhere?
 
-**QUINTERO:**  Two fives. It's a war folks! Meyer defeats Small with a ten, takes 6 cards. Meyer, Eight over six.
+**HUERTA:**  Dodson falls to Benson again, King over queen. Dodson leads 31 to 21. Dodson's king beats Benson's nine. Dodson tops Benson with Seven of Hearts over Three of Diamonds. Four over two, Benson.
 
-**MCLAUGHLIN:** Nice play.
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Another for Meyer, Ace over nine. Meyer leads 38 to 14. Meyer again, Four over three.
+**HUERTA:**  Dodson's hand, Eight over five. Dodson tops Benson with Jack of Hearts over Six of Spades. Benson's king bests Dodson's jack.
 
-**MCLAUGHLIN:** Excellent use of a four by Meyer Meyer has got some momentum.
+**GARCIA:** Well played.
 
-**QUINTERO:**  Small with a Jack of Spades over Five of Spades. Small's hand, Queen over jack.
+**HUERTA:**  Dodson's queen falls to Benson's ace. Dodson with a Three of Hearts over Two of Spades.
 
-**MCLAUGHLIN:** Smart move by Small.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Small's nine loses to Meyer's king. Meyer bests Small with Six of Clubs over Four of Diamonds.
+**HUERTA:**  Benson tops Dodson with Queen of Spades over Nine of Spades. Ten over two, Benson. Another for Benson, Eight over seven.
 
-**MCLAUGHLIN:** I bet Small wishes they had something higher than a four on that play.
+**GARCIA:** Nice use of an eight by Benson.
 
-**QUINTERO:**  Meyer continues streak. King over seven. Small bests Meyer with Jack of Diamonds over Ten of Diamonds. Small with an Eight of Diamonds over Two of Diamonds. Meyer, Queen over two. Small's queen tops Meyer's three. Meyer's hand, Ten over nine.
+**HUERTA:**  Dodson's hand, Nine over six. Benson with a Ten of Spades over Nine of Hearts.
 
-**MCLAUGHLIN:** Efficient play.
+**GARCIA:** Excellent use of a ten by Benson
 
-**QUINTERO:**  Seven over two, Meyer. Ace over ten, Small. Meyer's hand, Eight over three. Meyer, Ace over five. Meyer keeps going. King over jack. Meyer leads 42 to 10.
+**HUERTA:**  Dodson's six bests Benson's five. Dodson's hand, Four over three.
 
-**MCLAUGHLIN:** Nice use of a king by Meyer.
+**GARCIA:** Dodson just showed us how its done.
 
-**QUINTERO:**  Meyer this time with the King of Diamonds.
+**HUERTA:**  Another for Dodson with Three over two.
 
-**MCLAUGHLIN:** Great use of a king by Meyer. Meyer might be making a move.
+**GARCIA:** Great use of a three by Dodson.
 
-**QUINTERO:**  Small with a Jack of Clubs over Six of Spades. Jack over five, Small. Small wins again. Ten over nine. Small this time with the Eight of Diamonds.
+**HUERTA:**  Benson with an Ace of Diamonds over Jack of Clubs. Benson with a King of Diamonds over Seven of Diamonds. Dodson's seven tops Benson's four. Dodson with an Ace of Clubs over Queen of Hearts. Benson's hand, King over six. Dodson, Five over two. Eight over four, Dodson. Benson with a King of Spades over Ten of Hearts. Dodson's ace tops Benson's jack. Dodson's eight loses to Benson's queen. Benson's hand, Ace over queen. Dodson falls to Benson again, Queen over ten.
 
-**MCLAUGHLIN:** Small is looking good.
+**GARCIA:** Great use of a queen by Benson.
 
-**QUINTERO:**  Three over two, Meyer.
+**HUERTA:**  Dodson's hand, Jack over nine. Dodson's four loses to Benson's ten. Five over two, Dodson. Dodson with a Nine of Clubs over Seven of Spades. Another for Dodson, King over eight. Benson's ten bests Dodson's three. Benson tops Dodson with Nine of Hearts over Seven of Hearts.
 
-**MCLAUGHLIN:** Great use of a three by Meyer.
+**GARCIA:** Good job.
 
-**QUINTERO:**  Small's hand, Three over two. Meyer's eight loses to Small's queen. Meyer leads 38 to 14. Meyer falls to Small again, Ace over six. Small keeps going. Ten over seven. Jacks. War!! Small loses the battle. Meyer takes 6 cards. Two fives. It's a war folks! Small defeats Meyer with a ten, takes 6 cards. Small's four falls to Meyer's ten. Meyer's queen beats Small's eight. Small falls to Meyer again, Six over two. Meyer keeps going. Eight over three.
+**HUERTA:**  Benson continues streak. Ace over eight. Another for Benson, Jack over five.
 
-**MCLAUGHLIN:** Meyer might be making a move.
+**GARCIA:** Is Benson going to take this somewhere?
 
-**QUINTERO:**  Meyer this time with the Nine of Diamonds.
+**HUERTA:**  Benson's king bests Dodson's six.
 
-**MCLAUGHLIN:** Is Meyer going to take this somewhere?
+**GARCIA:** Benson might be making a move.
 
-**QUINTERO:**  Another for Meyer with Ace over queen. Meyer leads 42 to 10.
+**HUERTA:**  Dodson with a Jack of Hearts over Seven of Diamonds. Benson's six beats Dodson's three. Benson's hand, King over two. Benson keeps going. King over nine. Dodson leads 27 to 25. Benson wins again. Ten over six. Benson this time with the Queen of Clubs.
 
-**MCLAUGHLIN:** Small is really taking a beating.
+**GARCIA:** Benson has got some momentum.
 
-**QUINTERO:**  Small's six tops Meyer's four. Small with an Ace of Spades over Three of Diamonds. Small's seven loses to Meyer's nine. Small's ten loses to Meyer's king. Fours. War! Small loses the battle. Meyer takes 6 cards. Meyer bests Small with Seven of Hearts over Five of Clubs. Meyer leads 46 to 6.
+**HUERTA:**  Benson does it again. Eight over five.
 
-**MCLAUGHLIN:** Nice use of a seven by Meyer.
+**GARCIA:** What a streak for Benson.
 
-**QUINTERO:**  Five over two, Small. Meyer, Queen over nine. Meyer's hand, Nine over six.
+**HUERTA:**  Queen over four, Benson. Benson leads 29 to 23.
 
-**MCLAUGHLIN:** Meyer likes where this is going.
+**GARCIA:** Benson is on fire.
 
-**QUINTERO:**  Meyer continues streak. Ten over four.
+**HUERTA:**  Benson this time with the Ace of Spades.
 
-**MCLAUGHLIN:** We're almost there.
+**GARCIA:** Someone should tell Dodson the match isn't over.
 
-**QUINTERO:**  Meyer this time with the Seven of Diamonds.
+**HUERTA:**  Dodson falls to Benson again, Ten over two. Benson this time with the Queen of Spades.
 
-**MCLAUGHLIN:** I think Meyer is going somewhere. It's getting close folks.
+**GARCIA:** Benson ate their Wheaties today.
 
-**QUINTERO:**  Small bests Meyer with Ace of Spades over Two of Hearts. Small's two falls to Meyer's three.
+**HUERTA:**  Benson does it again. Ten over seven. Benson leads 33 to 19.
 
-**MCLAUGHLIN:** Excellent move. Meyer likes where this is going.
+**GARCIA:** Dodson is really taking a beating.
 
-**QUINTERO:**  Eight over five, Meyer. Meyer leads 50 to 2.
+**HUERTA:**  Fours. We have a war! Benson loses the battle. Dodson takes 6 cards. Benson with a Seven of Hearts over Two of Clubs. Dodson's five falls to Benson's nine. Dodson falls to Benson again, Ace over eight. Dodson falls to Benson again, Eight over four. Dodson's hand, Jack over five. Dodson with an Ace of Hearts over Jack of Clubs. Benson falls to Dodson again, Nine over six. Benson's hand, King over jack. Six over five, Benson.
 
-**MCLAUGHLIN:** In just a few plays we could have a result.It all rests on this play.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  Ace over five, Small.
+**HUERTA:**  Dodson's two falls to Benson's three.
 
-**MCLAUGHLIN:** That ace seems wasted on a five. Meyer likes where this is going.
+**GARCIA:** Great use of a three by Benson.
 
-**QUINTERO:**  Meyer beats Small with Ace of Diamonds over Two of Hearts.
+**HUERTA:**  Dodson's nine falls to Benson's king. Dodson bests Benson with Seven of Spades over Two of Spades. Dodson with a King of Clubs over Nine of Diamonds. Benson's king bests Dodson's eight. Benson's ten falls to Dodson's jack.
 
-**MCLAUGHLIN:** Meyer over paid for that two. We're almost there.It all rests on this play.
+**GARCIA:** Great use of a jack by Dodson.
 
-**QUINTERO:**  Meyer, King over five.
+**HUERTA:**  Benson's six falls to Dodson's seven.
 
-**MCLAUGHLIN:** In just a few plays we could have a result.This could be it.
+**GARCIA:** Dodson just showed us how its done.
 
-**QUINTERO:**  Small's hand, Ace over jack.
+**HUERTA:**  Dodson's ten falls to Benson's queen.
 
-**MCLAUGHLIN:** It's getting tight. Meyer must be feeling good.
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Small with an Ace of Spades over King of Diamonds.
+**HUERTA:**  Dodson's four loses to Benson's six. Another for Benson, Eight over three. Dodson, Queen over five. Fours all around. We have a war! Benson loses the battle. Dodson takes 6 cards.
 
-**MCLAUGHLIN:** We're almost there.
+**GARCIA:** Nice use of a five by Dodson.
 
-**QUINTERO:**  Meyer's queen tops Small's jack.
+**HUERTA:**  Benson, Ace over jack. Ace over two, Dodson. Dodson tops Benson with Jack of Clubs over Ten of Clubs.
 
-**MCLAUGHLIN:** Excellent use of a queen by Meyer It's getting tight. Meyer must be feeling good.It all rests on this play.
+**GARCIA:** Efficient play.
 
-**QUINTERO:**  Small, Ace over two.
+**HUERTA:**  Benson's queen bests Dodson's six. Dodson with a Nine of Spades over Three of Clubs. Ten over seven, Benson. Benson's hand, Seven over two. Dodson's king bests Benson's two. Dodson, Nine over seven. Dodson continues streak. Ten over nine. Benson leads 29 to 23.
 
-**MCLAUGHLIN:** In just a few plays we could have a result.
+**GARCIA:** Excellent move.
 
-**QUINTERO:**  King over three, Small.
+**HUERTA:**  Another for Dodson, Jack over five.
 
-**MCLAUGHLIN:** We have some real fighters on our hands.
+**GARCIA:** I think Dodson is going somewhere.
 
-**QUINTERO:**  Small bests Meyer with Ace of Spades over Jack of Clubs.
+**HUERTA:**  Benson tops Dodson with Eight of Hearts over Six of Diamonds.
 
-**MCLAUGHLIN:** It's getting tight. Meyer must be feeling good.
+**GARCIA:** Smart move.
 
-**QUINTERO:**  Meyer's ace tops Small's two.
+**HUERTA:**  Benson with an Ace of Diamonds over Seven of Diamonds. Dodson with a Queen of Hearts over Four of Clubs. Benson's eight bests Dodson's five. Benson bests Dodson with Jack of Spades over Five of Clubs. Benson wins again. King over three.
 
-**MCLAUGHLIN:** That ace seems wasted on a two. It's getting tight. Meyer must be feeling good.
+**GARCIA:** That king seems wasted on a three.
 
-**QUINTERO:**  Small's king beats Meyer's jack.
+**HUERTA:**  Dodson with a Queen of Diamonds over Five of Hearts. Dodson, Ace over six. Another for Dodson with Four over three. Dodson again, Four over two.
 
-**MCLAUGHLIN:** It's getting tight. Meyer must be feeling good.
+**GARCIA:** I think Dodson is going somewhere.
 
-**QUINTERO:**  Meyer tops Small with Jack of Hearts over Three of Hearts. Small tops Meyer with Ace of Spades over Six of Spades. Small's hand, Jack over seven. Meyer leads 46 to 6. Small wins again. King over four.
+**HUERTA:**  Dodson continues streak. Ace over nine.
 
-**MCLAUGHLIN:** Small probably didn't need to use a king in that play.
+**GARCIA:** Dodson might be making a move.
 
-**QUINTERO:**  Another for Small, Jack over ten.
+**HUERTA:**  Benson's hand, King over two.
 
-**MCLAUGHLIN:** Excellent use of a jack by Small Meyer is going to be playing catch up if they don't stop this.
+**GARCIA:** That king got the job done, but was it the most strategic play by Benson?
 
-**QUINTERO:**  Small's six falls to Meyer's eight.
+**HUERTA:**  Dodson tops Benson with Ten of Clubs over Eight of Diamonds.
 
-**MCLAUGHLIN:** Nice use of an eight by Meyer.
+**GARCIA:** Nice use of a ten by Dodson.
 
-**QUINTERO:**  Meyer's queen falls to Small's ace. Small tops Meyer with Jack of Clubs over Two of Clubs. Another for Small with Seven over six. Meyer leads 42 to 10.
+**HUERTA:**  Benson's hand, King over jack.
 
-**MCLAUGHLIN:** Excellent use of a seven by Small
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Small again, King over eight. Small this time with the Four of Hearts.
+**HUERTA:**  Benson tops Dodson with Ten of Spades over Three of Clubs. Another for Benson with Queen over nine. Dodson's hand, King over six. Dodson's two falls to Benson's four.
 
-**MCLAUGHLIN:** Excellent move by Small.
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Another for Small with Ten over eight.
+**HUERTA:**  Dodson bests Benson with Seven of Hearts over Three of Diamonds. Dodson's nine beats Benson's eight. Benson's jack tops Dodson's ten.
 
-**MCLAUGHLIN:** Small ate their Wheaties today.
+**GARCIA:** Nice use of a jack by Benson.
 
-**QUINTERO:**  Another for Small, Jack over nine. Meyer leads 38 to 14.
+**HUERTA:**  Benson's ace bests Dodson's nine. Dodson falls to Benson again, Queen over five. Jack over six, Dodson. Dodson's hand, Queen over seven. Benson tops Dodson with Ten of Diamonds over Four of Clubs. Dodson's hand, Queen over seven. Dodson's hand, Five over two. Dodson's six falls to Benson's eight. Dodson's ace beats Benson's six. Benson with an Ace of Diamonds over Four of Diamonds. Benson beats Dodson with Seven of Diamonds over Three of Hearts. Benson wins again. Five over four.
 
-**MCLAUGHLIN:** Excellent move. What a streak for Small.
+**GARCIA:** Great use of a five by Benson.
 
-**QUINTERO:**  Two aces. War! Meyer defeats Small with a seven, takes 6 cards. Small's jack tops Meyer's nine. Meyer with a King of Spades over Six of Diamonds. Meyer, Ten over seven. Meyer leads 42 to 10. Small with a King of Diamonds over Four of Diamonds. Small beats Meyer with Eight of Hearts over Six of Clubs. Meyer's four beats Small's three. Meyer with a Five of Diamonds over Four of Hearts. Tens. War! Small defeats Meyer with a nine, takes 6 cards.
+**HUERTA:**  Benson continues streak. Eight over two. Benson this time with the Jack of Spades. Benson leads 33 to 19.
 
-**MCLAUGHLIN:** Smart move by Small. They are really going toe to toe in this game.
+**GARCIA:** I bet Dodson wishes they had something higher than a nine on that play.
 
-**QUINTERO:**  Small's hand, Jack over five. Meyer leads 38 to 14. Meyer tops Small with Queen of Clubs over Nine of Hearts. Small tops Meyer with Jack of Clubs over Nine of Spades.
+**HUERTA:**  Dodson with an Ace of Hearts over Five of Clubs. Dodson's hand, Ten over three. Benson bests Dodson with King of Diamonds over Eight of Diamonds. Dodson bests Benson with Six of Hearts over Two of Diamonds. Kings all around. War! Dodson loses the battle. Benson takes 6 cards. Ten over nine, Benson.
 
-**MCLAUGHLIN:** I bet Meyer wishes they had something higher than a nine on that play.
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Meyer with a Nine of Clubs over Four of Diamonds. Small tops Meyer with King of Diamonds over Six of Hearts. Small's eight falls to Meyer's ten. Small, Six over four. Small with a Nine of Diamonds over Three of Diamonds. Sevens. War!! Small's ten wins the battle taking 6 cards. Meyer leads 34 to 18.
+**HUERTA:**  Eight over three, Dodson. Benson tops Dodson with Queen of Clubs over Six of Spades. Jack over nine, Dodson. Dodson, Seven over four. Dodson wins again. Queen over two.
 
-**MCLAUGHLIN:** What a fight!
+**GARCIA:** I hope Dodson doesn't need that queen when something bigger comes along.
 
-**QUINTERO:**  Small's king bests Meyer's eight. Another for Small with Eight over five. Small continues streak. Five over two.
+**HUERTA:**  Ten over seven, Benson. Queen over jack, Dodson.
 
-**MCLAUGHLIN:** Is Small going to take this somewhere?
+**GARCIA:** Nice use of a queen by Dodson.
 
-**QUINTERO:**  Ace over jack, Meyer. Jack over five, Small. Meyer with a King of Clubs over Nine of Spades. Meyer, Jack over six. Small, King over queen. Small's four tops Meyer's two. Meyer's ace tops Small's six. Two threes. War! Small's ten wins the battle taking 6 cards. Meyer leads 29 to 23. Small's three falls to Meyer's eight. Meyer, Queen over ten.
+**HUERTA:**  Benson with an Ace of Spades over Two of Spades.
 
-**MCLAUGHLIN:** Great use of a queen by Meyer. What a fight!
+**GARCIA:** I hope Benson doesn't need that ace when something bigger comes along.
 
-**QUINTERO:**  Two sevens. We have a war! Small loses the battle. Meyer takes 6 cards. Meyer leads 34 to 18. Ace over eight, Meyer. Meyer this time with the Ace of Hearts.
+**HUERTA:**  Nine over five, Benson. Six over five, Dodson. Dodson's ace tops Benson's queen.
 
-**MCLAUGHLIN:** I bet Small wishes they had something higher than a king on that play.
+**GARCIA:** I bet Benson wishes they had something higher than a queen on that play.
 
-**QUINTERO:**  Another for Meyer with Six over five.
+**HUERTA:**  Dodson this time with the Five of Clubs.
 
-**MCLAUGHLIN:** Meyer just showed us how its done. Meyer is looking good.
+**GARCIA:** Nice use of a five by Dodson.
 
-**QUINTERO:**  Another for Meyer, King over eight. Meyer leads 38 to 14. Meyer, Seven over two.
+**HUERTA:**  Dodson continues streak. Ace over ten.
 
-**MCLAUGHLIN:** What a streak for Meyer.
+**GARCIA:** I think Dodson is going somewhere.
 
-**QUINTERO:**  Meyer wins again. Ten over five.
+**HUERTA:**  Dodson's three falls to Benson's six. Benson's eight falls to Dodson's ten.
 
-**MCLAUGHLIN:** Meyer ate their Wheaties today.
+**GARCIA:** I bet Benson wishes they had something higher than an eight on that play.
 
-**QUINTERO:**  Small's hand, Jack over three.
+**HUERTA:**  Six over four, Dodson. Benson leads 29 to 23.
 
-**MCLAUGHLIN:** Small decided it is time to fight back.
+**GARCIA:** Excellent use of a six by Dodson
 
-**QUINTERO:**  Small with a Five of Spades over Four of Clubs.
+**HUERTA:**  Ace over two, Benson.
 
-**MCLAUGHLIN:** Good job by Small.
+**GARCIA:** Benson probably didn't need to use an ace in that play.
 
-**QUINTERO:**  Small keeps going. Queen over five. Small keeps going. King over four.
+**HUERTA:**  Dodson, Eight over seven.
 
-**MCLAUGHLIN:** Is Small going to take this somewhere?
+**GARCIA:** Dodson just showed us how its done.
 
-**QUINTERO:**  Meyer with a Nine of Hearts over Two of Diamonds. Queen over four, Meyer. Small with a Ten of Clubs over Four of Diamonds. Nines. War! Small's jack wins the battle taking 6 cards. Meyer leads 34 to 18. Meyer with a Jack of Diamonds over Three of Diamonds. Meyer, Ace over six. Small's hand, Jack over nine.
+**HUERTA:**  Two threes. War! Dodson's nine wins the battle taking 6 cards. Benson's hand, Eight over seven. Dodson, Four over two.
 
-**MCLAUGHLIN:** Nice use of a jack by Small.
+**GARCIA:** Nice use of a four by Dodson.
 
-**QUINTERO:**  Small's three falls to Meyer's king.
+**HUERTA:**  Dodson's queen bests Benson's jack. Dodson leads 27 to 25.
 
-**MCLAUGHLIN:** Meyer over paid for that three.
+**GARCIA:** Excellent use of a queen by Dodson
 
-**QUINTERO:**  Meyer with a Jack of Spades over Four of Clubs. Meyer does it again. Six over five. Meyer leads 38 to 14. Another for Meyer with Ace over queen.
+**HUERTA:**  Benson's nine tops Dodson's two.
 
-**MCLAUGHLIN:** Is Meyer going to take this somewhere?
+**GARCIA:** Benson and Dodson are trading punch for punch.
 
-**QUINTERO:**  Meyer this time with the Six of Clubs.
+**HUERTA:**  Jack over eight, Dodson. King over queen, Benson.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Nice use of a king by Benson.
 
-**QUINTERO:**  Small beats Meyer with King of Diamonds over Three of Clubs. Meyer tops Small with Eight of Diamonds over Four of Hearts. Meyer with a Ten of Diamonds over Four of Diamonds. Meyer continues streak. Queen over ten. Meyer leads 42 to 10.
+**HUERTA:**  Dodson's five falls to Benson's jack. Benson does it again. Seven over six.
 
-**MCLAUGHLIN:** Well played by Meyer.
+**GARCIA:** Efficient play by Benson.
 
-**QUINTERO:**  Small falls to Meyer again, Seven over three.
+**HUERTA:**  Dodson's hand, Ace over king.
 
-**MCLAUGHLIN:** Small is going to be playing catch up if they don't stop this.
+**GARCIA:** Great use of an ace by Dodson.
 
-**QUINTERO:**  Meyer keeps going. Queen over nine.
+**HUERTA:**  Benson beats Dodson with King of Spades over Queen of Spades. Dodson beats Benson with Five of Clubs over Three of Diamonds.
 
-**MCLAUGHLIN:** Meyer might be making a move.
+**GARCIA:** I bet Benson wishes they had something higher than a three on that play.
 
-**QUINTERO:**  Jack over seven, Small. Eight over two, Small. Small again, Ten over two. Small this time with the Nine of Clubs. Small does it again. Nine over eight.
+**HUERTA:**  Benson with a King of Clubs over Four of Clubs. Tens all around. War! Dodson defeats Benson with an eight, takes 6 cards.
 
-**MCLAUGHLIN:** Excellent use of a nine by Small
+**GARCIA:** I bet Benson wishes they had something higher than a six on that play.
 
-**QUINTERO:**  Small's jack loses to Meyer's ace. Meyer tops Small with King of Hearts over Three of Clubs. Meyer beats Small with Ace of Hearts over King of Diamonds.
+**HUERTA:**  Benson's hand, Queen over ten.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.
+**GARCIA:** Nice play.
 
-**QUINTERO:**  Jack over six, Small. Small's seven tops Meyer's five.
+**HUERTA:**  Benson's hand, Ten over four. Benson again, Seven over six.
 
-**MCLAUGHLIN:** Excellent use of a seven by Small
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:**  Meyer bests Small with King of Spades over Eight of Hearts. Meyer with an Eight of Clubs over Two of Clubs. Meyer continues streak. Seven over two. Small, Ten over two. Nine over five, Small. Small's seven falls to Meyer's ten. Small, Nine over two. Meyer, Nine over eight. Small's hand, Six over four.
+**HUERTA:**  Benson this time with the Ace of Spades. Benson leads 29 to 23.
 
-**MCLAUGHLIN:** Excellent use of a six by Small
+**GARCIA:** I think Benson is going somewhere.
 
-**QUINTERO:**  Meyer with a Queen of Clubs over Jack of Hearts. Meyer with a Jack of Diamonds over Five of Hearts. Seven over three, Small. Meyer's hand, Ace over ten. Meyer's six tops Small's two.
+**HUERTA:**  Dodson, Seven over two. Benson, Five over three.
 
-**MCLAUGHLIN:** We have some real fighters on our hands.
+**GARCIA:** I bet Dodson wishes they had something higher than a three on that play.
 
-**QUINTERO:**  Small's hand, Five over three.
+**HUERTA:**  Benson with a Nine of Hearts over Five of Diamonds. Another for Benson with Six over three. Dodson with a Jack of Hearts over Three of Spades. Benson's hand, Ace over nine. Dodson's hand, Four over two.
 
-**MCLAUGHLIN:** Nice use of a five by Small.
+**GARCIA:** Dodson just showed us how its done.
 
-**QUINTERO:**  King over nine, Meyer. Meyer with a Jack of Spades over Two of Diamonds. Small's hand, Nine over four. Meyer's five falls to Small's six. Meyer's hand, Six over four. Ace over three, Meyer. Meyer again, Queen over seven. Meyer leads 46 to 6. Small falls to Meyer again, Six over five.
+**HUERTA:**  Benson with a Seven of Spades over Two of Hearts. Benson's hand, Eight over four. Dodson's hand, Queen over two.
 
-**MCLAUGHLIN:** Nice use of a six by Meyer. Meyer has got some momentum. We're almost there.
+**GARCIA:** I hope Dodson doesn't need that queen when something bigger comes along.
 
-**QUINTERO:**  Meyer with a Five of Diamonds over Three of Spades.
+**HUERTA:**  Jack over nine, Dodson. Queen over jack, Benson. Dodson's eight loses to Benson's king. Dodson's ace tops Benson's five. Dodson, King over jack.
 
-**MCLAUGHLIN:** Meyer just showed us how its done.  It's getting tight. Meyer must be feeling good.
+**GARCIA:** Nice use of a king by Dodson.
 
-**QUINTERO:**  Small's hand, Nine over four.
+**HUERTA:**  Benson's hand, Six over three. Benson's seven beats Dodson's five.
 
-**MCLAUGHLIN:** In just a few plays we could have a result.
+**GARCIA:** Great use of a seven by Benson.
 
-**QUINTERO:**  Meyer, Eight over four. Small with a Six of Diamonds over Four of Diamonds.
+**HUERTA:**  Benson this time with the Queen of Spades. Benson leads 33 to 19. Benson wins again. King over ten.
 
-**MCLAUGHLIN:** We're almost there.
+**GARCIA:** Benson has got some momentum.
 
-**QUINTERO:**  Small's five falls to Meyer's ten. Meyer with a Queen of Hearts over Four of Hearts.
+**HUERTA:**  Dodson, Six over four.
 
-**MCLAUGHLIN:** It's getting close folks.
+**GARCIA:** Great use of a six by Dodson.
 
-**QUINTERO:**  Meyer wins again. Ten over nine. Meyer leads 50 to 2.
+**HUERTA:**  Benson, King over ten. Dodson's nine loses to Benson's ten.
 
-**MCLAUGHLIN:** It's getting tight. Meyer must be feeling good.This could be it.
+**GARCIA:** Good job.
 
-**QUINTERO:**  Small with a Six of Diamonds over Three of Hearts. Meyer tops Small with Seven of Hearts over Four of Diamonds.
+**HUERTA:**  Dodson, Ace over queen.
 
-**MCLAUGHLIN:** This could be it folks.
+**GARCIA:** Nice play.
 
-**QUINTERO:** In 419 hands, Bailey Meyer has won the match.
+**HUERTA:**  Dodson's seven falls to Benson's ten. Benson's hand, Four over two.
 
-**MCLAUGHLIN:** Bailey Meyer held the lead for most of the game. 
+**GARCIA:** Benson just showed us how its done.
 
-**QUINTERO:** The fat lady has sung. Our season is over. Bailey Meyer is our champion. 
+**HUERTA:**  Dodson with a Jack of Hearts over Seven of Clubs. Benson, Six over three. Benson's ace beats Dodson's four. Benson leads 37 to 15.
+
+**GARCIA:** That ace seems wasted on a four.
+
+**HUERTA:**  Dodson falls to Benson again, Eight over two. Benson's three falls to Dodson's queen. Benson, Five over two. Dodson's hand, Jack over five. Nines. It's a war folks! Dodson's five wins the battle taking 6 cards. Benson, Ace over jack. Dodson, King over nine. Dodson, Four over two. Benson leads 33 to 19.
+
+**GARCIA:** Efficient play.
+
+**HUERTA:**  Benson with a Seven of Spades over Six of Spades. Dodson's hand, Queen over four. Dodson's hand, Ace over eight.
+
+**GARCIA:** Dodson and Benson are trading punch for punch.
+
+**HUERTA:**  Benson, Jack over seven. Dodson's jack loses to Benson's queen. Benson again, Eight over three. Benson this time with the King of Diamonds.
+
+**GARCIA:** Great use of a king by Benson. I think Benson is going somewhere.
+
+**HUERTA:**  Benson again, Six over five. Benson leads 37 to 15.
+
+**GARCIA:** Benson has got some momentum.
+
+**HUERTA:**  Dodson, Jack over three. Dodson's hand, Ace over seven. Another for Dodson, Nine over five. Dodson's hand, Nine over eight. Benson leads 33 to 19.
+
+**GARCIA:** Is Dodson going to take this somewhere?
+
+**HUERTA:**  Dodson's three falls to Benson's queen. Benson's king tops Dodson's six. Benson this time with the Ten of Spades. Another for Benson with Ten over nine. Benson leads 37 to 15.
+
+**GARCIA:** Benson just showed us how its done. Dodson should nip this run in the bud.
+
+**HUERTA:**  Kings. War!!! Dodson loses the battle. Benson takes 6 cards. Queen over seven, Dodson. Benson's ten bests Dodson's four. Ace over two, Dodson. Dodson tops Benson with Eight of Spades over Four of Diamonds. Six over three, Benson. Dodson's hand, Jack over three. Aces. War!! Dodson loses the battle. Benson takes 6 cards. Benson leads 41 to 11. Dodson tops Benson with Nine of Hearts over Two of Diamonds.
+
+**GARCIA:** What a fight!
+
+**HUERTA:**  Dodson with a Nine of Clubs over Five of Hearts. Dodson wins again. Eight over two. Benson falls to Dodson again, Queen over jack. Benson leads 37 to 15. Benson, Ace over seven. Dodson, Ace over seven. Benson with a Six of Spades over Two of Spades. Benson, Seven over four. Benson wins again. Jack over eight. Benson again, Queen over three. Benson leads 41 to 11. Two jacks. War! Benson's eight wins the battle taking 6 cards. Benson's king bests Dodson's nine. Benson leads 45 to 7. Benson wins again. Queen over five. Dodson with an Eight of Hearts over Six of Diamonds. Benson's five beats Dodson's two. Dodson bests Benson with Jack of Clubs over Three of Hearts. Two queens. War!! Dodson loses the battle. Benson takes 6 cards. Benson bests Dodson with Ten of Spades over Eight of Hearts. Benson leads 49 to 3.
+
+**GARCIA:** It's getting tight. Benson must be feeling good.
+
+**HUERTA:**  Dodson's six tops Benson's five.
+
+**GARCIA:** I bet Benson wishes they had something higher than a five on that play. It's getting close folks.
+
+**HUERTA:**  Benson's nine falls to Dodson's jack. Benson, Ten over three. Benson's hand, Nine over five.
+
+**GARCIA:** It's getting close folks.
+
+**HUERTA:**  Another for Benson with King over six. Dodson's nine beats Benson's four.
+
+**GARCIA:** We're almost there.
+
+**HUERTA:**  Benson's two loses to Dodson's jack.
+
+**GARCIA:** It's getting tight. Benson must be feeling good.
+
+**HUERTA:**  Benson's hand, King over four.
+
+**GARCIA:** Benson probably didn't need to use a king in that play. In just a few plays we could have a result.
+
+**HUERTA:**  Benson bests Dodson with Ten of Clubs over Nine of Spades.
+
+**GARCIA:** It's getting close folks.
+
+**HUERTA:**  Benson wins again. Four over two.
+
+**GARCIA:** Nice use of a four by Benson. Game point folks.
+
+**HUERTA:**  Dodson tops Benson with Jack of Clubs over Ten of Hearts.
+
+**GARCIA:** Smart move by Dodson. In just a few plays we could have a result.
+
+**HUERTA:**  Dodson's hand, Jack over six.
+
+**GARCIA:** We're almost there.
+
+**HUERTA:**  Another for Dodson, Ten over three.
+
+**GARCIA:** We're almost there.
+
+**HUERTA:**  Benson with an Ace of Spades over Jack of Clubs. Dodson, Six over five. Four over three, Benson.
+
+**GARCIA:** Benson just showed us how its done. In just a few plays we could have a result.
+
+**HUERTA:**  Ten over seven, Dodson. Eight over six, Benson.
+
+**GARCIA:** I bet Dodson wishes they had something higher than a six on that play. We're almost there.
+
+**HUERTA:**  Benson's ace beats Dodson's five.
+
+**GARCIA:** Benson probably didn't need to use an ace in that play.
+
+**HUERTA:**  Dodson's ten tops Benson's seven.
+
+**GARCIA:** In just a few plays we could have a result.
+
+**HUERTA:**  Benson bests Dodson with Ace of Diamonds over Seven of Hearts.
+
+**GARCIA:** It's getting tight. Benson must be feeling good.
+
+**HUERTA:**  Dodson's hand, Seven over two.
+
+**GARCIA:** It's getting tight. Benson must be feeling good.
+
+**HUERTA:**  Ten over six, Dodson. Benson bests Dodson with Four of Diamonds over Two of Spades.
+
+**GARCIA:** I bet Dodson wishes they had something higher than a two on that play.  It's getting tight. Benson must be feeling good.
+
+**HUERTA:** Benson has gotten their revenge. Benson wins in 498 hands.
+
+**GARCIA:** Natalia Benson held the lead for most of the game. It was a real tug of war with 64 turn overs. 
+
+**HUERTA:** Natalia Benson has achieved a major milestone. That's it folks. 
 

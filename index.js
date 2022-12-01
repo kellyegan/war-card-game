@@ -41,6 +41,8 @@ let words = 0;
 const writer = fs.createWriteStream("./output/commentary.md");
 let previousGames = [];
 
+writer.write("# Transcript of the Tournament of War, the card game.\n\n");
+
 tournament.games.forEach( (game, index) => {
 	const gameDirector = new GameDirector(game, hosts, previousGames);
 	const commentary = gameDirector.getCommentary();
