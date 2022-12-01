@@ -180,9 +180,29 @@ class GameDirector {
         "Neither players would concede that match, trading the leader multiple times.",
         "They really went back and forth in that game. Each held the lead multiple times.",
         "The lead switched between #winner# and #loser# #turnOvers# times.",
+      ],
+      nextGame: [
+        "#nextOpponent#"
+      ],
+      tournamentEnds: [
+        "#theEnd# #proudWinner#",
+        "#proudWinner# #theEnd#"
+      ],
+      theEnd: [
+        "What a tournament folks!",
+        "That's it folks.",
+        "That wraps up this season.",
+        "That ends the game and the season.",
+        "The fat lady has sung. Our season is over.",
+        "It's over folks."
+      ],
+      proudWinner: [
+        "#winner# has to be proud.",
+        "#winner# is going to sleep well tonight.",
+        "#winner# has won a well deserved rest after an amazing tournament.",
+        "#winner# has achieved a major milestone.",
+        "#winner# is our champion."
       ]
-
-      
     };
     const grammar = tracery.createGrammar(rules);
     grammar.addModifiers(tracery.baseEngModifiers);
@@ -270,17 +290,17 @@ class GameDirector {
     let currentPlayByPlay = this.grammar.flatten("#playersReady#");
 
     // The game
-    for( let comment of this.pbp.getCall()) {
-      currentPlayByPlay += ` ${comment}`;
+    // for( let comment of this.pbp.getCall()) {
+    //   currentPlayByPlay += ` ${comment}`;
 
-      let colorComment = colorComments.next().value;
+    //   let colorComment = colorComments.next().value;
 
-      if(colorComment !== "") {
-        this.addComment(this.hosts.main, currentPlayByPlay);
-        currentPlayByPlay = "";
-        this.addComment(this.hosts.color, colorComment);
-      }  
-    }
+    //   if(colorComment !== "") {
+    //     this.addComment(this.hosts.main, currentPlayByPlay);
+    //     currentPlayByPlay = "";
+    //     this.addComment(this.hosts.color, colorComment);
+    //   }  
+    // }
 
     // Game conclusion
     let turnOvers = Stats.getLeaderTransistions(this.game.hands)
@@ -341,12 +361,47 @@ class GameDirector {
     }
 
     if( averageTurnOver < 10 ) {
-      this.grammar.pushRules("turnOvers", `${turnOvers.leaderChanges.length}`)
-      // this.grammar.pushRules("turnOvers", turnOvers.leaderChanges.length)
+      this.grammar.pushRules("turnOvers", `${turnOvers.leaderChanges.length}`);
       colorConclusion += this.grammar.flatten(`#tugOfWar# `);
     }
 
     this.addComment(this.hosts.color, colorConclusion);
+
+    //Next game
+
+    const nextRound = this.game.round < 4 ? this.game.round + 1 : null;
+    const nextMatch = Math.ceil(this.game.match / 2);
+    let nextOpponent = this.game.match % 2 == 0 ? "Opponent is known" : `the winner of game ${this.game.match + 1}`
+    
+    this.grammar.pushRules("nextOpponent", nextOpponent);
+    
+    if( 1 % 2 == 0 ) {
+      //Opponent is known
+
+    } else {
+      //Opponent is unknown
+    }
+    
+    if( this.game.round < 3) {
+      this.grammar.pushRules("gameName", `Game ${this.game.match} of the ${this.ordinal(this.game.round)} round`);
+    } else if( this.game.round < 4) {
+      this.grammar.pushRules("gameName", `Game ${this.game.match} of the Semi-Finals`);
+    } else {
+      this.grammar.pushRules("gameName", "the Finals");
+    }
+
+    let nextGame = "";
+    if( this.game.round < 2 ) {
+      nextGame += this.grammar.flatten(`#nextGame# `);
+    } else if( this.game.round < 3) {
+      nextGame += this.grammar.flatten(`#semiFinalsNext# `);
+    } else if( this.game.round < 4){
+      nextGame += this.grammar.flatten(`#finalsNext# `);
+    } else {
+      nextGame += this.grammar.flatten(`#tournamentEnds# `);
+    }
+
+    this.addComment(this.hosts.main, nextGame);
     
     return this.text;
   }
